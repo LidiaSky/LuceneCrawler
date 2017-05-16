@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Class-Path: codec.jar commons-logging-1.1.jar http-client.jar ws-commo
+ ns-util-1.0.2.jar xmlrpc-client-3.1.3.jar xmlrpc-common-3.1.3.jar xml
+ rpc-server-3.1.3.jar activation.jar antlr-runtime-3.0.jar bsh-2.0b4.j
+ ar commons-codec-1.3.jar commons-httpclient-3.1.jar commons-lang-2.3.
+ jar commons-logging-1.1.1.jar drools-compiler-4.0.4.jar drools-core-4
+ .0.4.jar f2jutil.jar janino-2.5.10.jar jaxb-api.jar jaxb-impl.jar jfr
+ eechart.jar jgraph.jar jigg-0.1.jar jsr173_1.0_api.jar junit-4.1.jar 
+ lucene-analyzers-2.3.0.jar lucene-core-2.3.0.jar lucene-demos-2.3.0.j
+ ar lucene-memory-2.3.0.jar mvel14-1.2.21.jar nekohtml.jar poi-3.0.2-F
+ INAL-20080204.jar resolver.jar rooster.jar secondstring-20070327.jar 
+ serializer.jar servlet-api.jar SuperCSV-1.16.jar tm-extractors-1.0.ja
+ r xercesImpl.jar xml-apis.jar jaxb-xjc.jar
+Main-Class: Server
+

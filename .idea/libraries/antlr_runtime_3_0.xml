@@ -1,0 +1,44 @@
+<component name="libraryTable">
+  <library name="antlr-runtime-3.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/antlr-runtime-3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/bsh-2.0b4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-codec-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-httpclient-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-lang-2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/drools-compiler-4.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/drools-core-4.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/f2jutil.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/janino-2.5.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jaxb-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jaxb-impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jfreechart.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jgraph.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jigg-0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jsr173_1.0_api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/junit-4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lucene-analyzers-2.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lucene-core-2.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lucene-demos-2.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lucene-memory-2.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mvel14-1.2.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/nekohtml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/poi-3.0.2-FINAL-20080204.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/resolver.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/rooster.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/secondstring-20070327.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/serializer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/servlet-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/SuperCSV-1.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tm-extractors-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xercesImpl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xml-apis.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jaxb-xjc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/jaxb-xjc.jar!/1.0" />
+    </SOURCES>
+  </library>
+</component>

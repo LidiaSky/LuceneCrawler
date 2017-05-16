@@ -1,0 +1,992 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<!--
+<script>
+  var JDM=new Object;
+JDM.dac=new Object;
+JDM.pm=new Object;
+JDM.ep=new Object;
+JDM.pf = new Object;
+JDM.pf.dc = new Object;
+
+JDM.pf.dc.respObj = '';
+JDM.pf.dc.retry = 5;
+JDM.pf.dc.retryDelay = 300;
+JDM.pf.dc.retryFactor = 1.0;
+JDM.pf.crawler = false;
+
+JDM.pm.cid = '';
+JDM.pm.issn = '1044579X';
+JDM.pm.allowVIA = '';
+JDM.pm.contentType = '';
+JDM.pm.newStructure = false;
+
+JDM.ep.urlPrefix = "http://www.sciencedirect.com/science";
+
+</script> -->
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<script language="javascript">
+
+var exportAvail=true;
+
+ 
+var exportBook=false;
+
+
+var prodImagePath = "sci_dir";
+
+
+gigyaLib="//cdn.gigya.com/JS/socialize.js?apiKey=3__Bt7bHrGM8mjKPwBuOVjWyMi678aF6-PewcnoHJJ6UR1fS5t9NG9RBbKHjE0oA6J";
+
+blk_all_social_logins="Y";
+BROWSER_SPECIFIC_USR_MSG=true;
+var buildTitleFilter=false;
+
+SD_System_Msg=false;
+</script>
+
+<script>(function() {var scriptTag = document.createElement('script'); 
+scriptTag.type = 'text/javascript';scriptTag.async = true;
+scriptTag.src = '//cdn.optimizely.com/js/204774041.js';
+var head = document.getElementsByTagName('head')[0];
+head.parentNode.insertBefore(scriptTag, head);
+})();function optimizelyTimeout() {
+window.optimizely = window.optimizely|| []; 
+if(!window.optimizely.data) {
+window.optimizely.push("timeout"); } }
+setTimeout(optimizelyTimeout, 1000); </script>
+
+<!-- Start: GPT Async -->
+<script type='text/javascript'>
+	
+var gptadslots=[];
+	
+var googletag = googletag || {};
+	
+googletag.cmd = googletag.cmd || [];
+	
+(function(){ var gads = document.createElement('script');
+		
+gads.async = true; gads.type = 'text/javascript';
+		
+var useSSL = 'https:' == document.location.protocol;
+		
+gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+		
+var node = document.getElementsByTagName('script')[0];
+		
+node.parentNode.insertBefore(gads, node);
+	})();
+
+</script>
+<!-- TRANSKEY: 05/16/2017 14:27:54 EDT#2846_002#98902#95.30.38.0 -->
+<meta name="robots" content="NOARCHIVE">
+<meta name="robots" content="noodp" />
+<meta name="robots" content="noydir" />
+<link rel="shortcut icon" href="http://cdn.els-cdn.com/sd/favSD.ico" type="image/x-icon">
+<link rel="stylesheet" Title="Default Styles" href="//sdfestaticassets-us-east-1.sciencedirectassets.com/prod/ce6a74e3c87c96230cf658ad64ddc24394585c0c/style.css" type="text/css">
+
+
+   <style type="text/css">
+.nojs { display: none;}
+</style>
+
+<script type="text/javascript">
+
+if (/MSIE (\d+\.\d+);/.test(navigator.userAgent)){
+document.styleSheets[document.styleSheets.length-1].rules[0].style["display"] = "";
+} else{
+document.styleSheets[document.styleSheets.length-1].cssRules[0].style["display"] = "";
+}
+
+</script>
+
+
+
+
+<link rel="stylesheet" Title="Default Styles" href="http://cdn.els-cdn.com/sd/css/css_gen_v01_1704R5.css" type="text/css">
+<!--[if  IE 7]>
+<link rel="stylesheet" Title="Default Styles" href="http://cdn.els-cdn.com/sd/css/css_gen_ie7_v01_1704R5.css" type="text/css">
+<![endif]-->
+<!--[if lte IE 6]>
+<link rel="stylesheet" Title="Default Styles" href="http://cdn.els-cdn.com/sd/css/css_gen_ie6_v01_1704R5.css" type="text/css">
+<![endif]-->
+<link rel="stylesheet" href="http://cdn.els-cdn.com/sd/css/jquery-ui_1704R5.css" type="text/css">
+<link rel="stylesheet" href="http://cdn.els-cdn.com/sd/css/commonSprite_1704R5.css" type="text/css">
+
+<!--[if lt IE 9]>
+<link rel="stylesheet" Title="Default Styles" href="http://cdn.els-cdn.com/sd/css/css_gen_ielt9_1704R5.css" type="text/css">
+<![endif]-->
+
+
+<!--[if lt IE 7]>
+<script src="http://ie7-js.googlecode.com/svn/version/2.0(beta3)/IE7.js" 
+ type="text/javascript">
+</script>
+<script src="http://ie7-js.googlecode.com/svn/version/2.0(beta3)/IE7-squish.js" 
+ type="text/javascript">
+</script>
+<![endif]-->
+<script> 
+var SDM=new Object;
+SDM.ep = new Object;
+SDM.ep.mendeleyJS = "https://www.mendeley.com/minified/bookmarklet.js";
+</script>
+<script>
+  var JDM=new Object;
+JDM.dac=new Object;
+JDM.pm=new Object;
+JDM.ep=new Object;
+JDM.pf = new Object;
+JDM.pf.dc = new Object;
+
+JDM.pf.dc.respObj = '';
+JDM.pf.dc.retry = 5;
+JDM.pf.dc.retryDelay = 300;
+JDM.pf.dc.retryFactor = 1.0;
+JDM.pf.crawler = false;
+
+JDM.pm.cid = '';
+JDM.pm.issn = '1044579X';
+JDM.pm.allowVIA = '';
+JDM.pm.contentType = '';
+JDM.pm.newStructure = false;
+
+JDM.ep.urlPrefix = "http://www.sciencedirect.com/science";
+
+</script>
+<script>var SD_URL_QUALIFIER = "science";</script>
+
+ 
+  
+
+<script src="http://cdn.els-cdn.com/sd/js/sdX_1704R5.js"></script>
+
+
+
+
+<script src="http://cdn.els-cdn.com/sd/js/sdO_1704R5.js"></script>
+
+<script src="http://cdn.els-cdn.com/sd/js/importer-api_1704R5.js.min"></script>
+<script src="http://cdn.els-cdn.com/sd/js/pa_1704R5.js"></script>
+
+
+
+
+ 
+
+<script>
+var prs = new Object();prs.rt=function(label,ts){this[label]=(ts||ts==0?ts:new Date().getTime());};
+</script>
+
+
+
+
+     <!-- if not logged in -->
+	   
+		
+
+
+
+<script>
+(function() {
+  if (window.BOOMR && window.BOOMR.version) { return; }
+  var dom,doc,where,iframe = document.createElement('iframe'),win = window;
+
+  function boomerangSaveLoadTime(e) {
+    win.BOOMR_onload=(e && e.timeStamp) || new Date().getTime();
+  }
+  if (win.addEventListener) {
+    win.addEventListener("load", boomerangSaveLoadTime, false);
+  } else if (win.attachEvent) {
+    win.attachEvent("onload", boomerangSaveLoadTime);
+  }
+
+  iframe.src = "javascript:false";
+  iframe.title = ""; iframe.role="presentation";
+  (iframe.frameElement || iframe).style.cssText = "width:0;height:0;border:0;display:none;";
+  where = document.getElementsByTagName('script')[0];
+  where.parentNode.insertBefore(iframe, where);
+
+  try {
+    doc = iframe.contentWindow.document;
+  } catch(e) {
+    dom = document.domain;
+    iframe.src="javascript:var d=document.open();d.domain='"+dom+"';void(0);";
+    doc = iframe.contentWindow.document;
+  }
+  doc.open()._l = function() {
+    var js = this.createElement("script");
+    if(dom) this.domain = dom;
+    js.id = "boomr-if-as";
+    js.src = '//c.go-mpulse.net/boomerang/' +
+    '2FBN2-NKMGU-EJKY8-ZANKZ-SUJZF';
+    BOOMR_lstart=new Date().getTime();
+    this.body.appendChild(js);
+  };
+  doc.write('<body onload="document._l();">');
+  doc.close();
+})();
+</script>
+
+
+
+
+<script>
+var USERACTIONSURL="http://www.sciencedirect.com/science/UserActions";
+</script>
+
+<link rel="alternate"
+      type="application/rss+xml"
+      title="Set up an article RSS feed"
+      href="http://rss.sciencedirect.com/publication/science/272365">
+
+
+<meta name="description"  content="The online version of Seminars in Cancer Biology at ScienceDirect.com, the world's leading platform for high quality peer-reviewed full-text journals.">
+
+
+<link rel="canonical" href="http://www.sciencedirect.com/science/journal/1044579X"/>
+<!-- static const char journaltmpl_sccsId[] = "@(#)journal.tmpl	3.1.2.1  11/18/99 17:52:55 - Retrieved: 12/15/99 12:27:24"; -->
+
+    
+      
+          
+            <title>Seminars in Cancer Biology | Vol 43, Pgs 1-180, (April 2017) | ScienceDirect.com</title>
+          
+       
+    
+
+
+<link rel="stylesheet" Title="Default Styles" href="http://cdn.els-cdn.com/sd/css/css_results_page_sprite_v01_1704R5.css" type="text/css">
+<link rel="stylesheet" Title="Default Styles" href="http://cdn.els-cdn.com/sd/css/css_table_v01_1704R5.css" type="text/css">
+<link rel="stylesheet" Title="Default Styles" href="http://cdn.els-cdn.com/sd/css/css_pub_v01_1704R5.css" type="text/css">
+<link rel="stylesheet" Title="Default Styles" href="http://cdn.els-cdn.com/sd/css/commonSprite_1704R5.css" type="text/css">
+
+</head>
+
+<body>
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MSJL85"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MSJL85');</script>
+<!-- End Google Tag Manager -->
+
+
+<script language="javascript" type="text/javascript">
+<!--
+function submitTocList(prevNext){
+  var sv = document.getElementById('vectorNext').value;
+  document.Tag.nextVector.value= sv;
+  var pv = document.getElementById('vectorPrev').value;
+  document.Tag.prevVector.value= pv;
+  document.Tag.go.value= prevNext;
+  document.Tag.target="";
+  document.Tag.submit();
+}
+//-->
+</script>
+
+
+<script language="javascript" type="text/javascript">
+<!--
+    var pgPubReload=false;
+    $('body').on('click','a,li',function(e){
+        pgPubReload=true;
+        setTimeout(function(){pgPubReload=false;},1500);
+    });
+    $(document).ready(function(){
+	$('body').on('mouseover','.browseMain tbody tr', function(){
+		var imgObj=$(this).find('td img');
+		if(!pgPubReload && imgObj[0]){
+			imgObj.attr('data-src',imgObj.attr('src'));
+			imgObj.attr('src',$(this).attr('data-hoverimg'));
+		}
+	});
+	$('body').on('mouseout','.browseMain tbody tr', function(){
+		var imgObj=$(this).find('td img');
+		if(!pgPubReload  && imgObj[0])imgObj.attr('src',imgObj.attr('data-src'));
+	});
+	}); 
+//-->
+</script>
+
+<div id="pubPg">
+
+<div class="skipnav">
+    <a id="skipNavigation" title="Skip to Main content" href="#main_content">Skip to Main content</a>
+</div>
+
+
+
+<!-- ************* For A/B testing FAST and SOLR Proxy ***************** -->
+
+<!-- *************End for A/B testing FAST and SOLR Proxy *****************-->
+
+
+
+<div id="ieWarningMsg">
+    <span class="infoIcon_ie spErrorIcon">
+        Please note that Internet Explorer version 8.x will not be supported as of January 1, 2016. Please refer to <a href="http://blog.sciencedirect.com/posts/have-you-heard-spread-the-word-about-upgrading-your-browser"> this blog post</a> for more information.
+    </span>
+    <a class="closeBt" title="Close Internet Explorer 7 warning">Close</a>
+</div>
+
+
+
+  
+    <div class="adBlock" style="width:100%; padding:0.1em 0;text-align:center;" id="leaderboard" aria-label="advertisement" role="region">
+        
+    </div>
+  
+
+<div id="header">
+
+<div class="ccs-component">
+    <div class="header" role="banner"><div class="els-header"><noscript></noscript><div class="els-header-sub-nav-container"><div class="els-header-leftside"><div class="els-header-wordmark"><a href="/"><span aria-label="ScienceDirect" class="ccs-icon svg-wordmark-sciencedirect-orange els-main-title"><span class="svg-text">ScienceDirect</span></span></a></div></div><div class="els-header-sub-nav"><ul class="JournalsAndBooks els-header-navigation" role="navigation"><li class="els-header-navigation-section"><a id="ccs-journalsLink" class="link-inherit els-header-navigation-item els-selected-header-navigation-item" href="/science/journals">Journals</a></li><li class="els-header-navigation-section"><a id="ccs-journalsLink" class="link-inherit els-header-navigation-item " href="/science/bookbshsrw">Books</a></li><li class="els-header-navigation-section"><a class="link-inherit els-header-navigation-item " href="https://www.sciencedirect.com/user/register?returnURL=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Fjournal%2F1044579X%2F43">Register</a></li></ul><ul class="els-header-icons"><li class="els-header-icons-item els-header-user"><a aria-controls="ccs-profilePopup" aria-expanded="false" id="ccs-profilePopupLink" title="" href="https://www.sciencedirect.com/user/login?returnURL=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Fjournal%2F1044579X%2F43" class="link-inherit els-header-user-link"><span class="signIn_User"><span id="els-header-user-sign-in" class="els-header-user-sign-in">Sign in</span><span id="els-header-user-sign-in-icon" class="ccs-icon svg-sdfe-arrow-down els-header-user-icon-signin"></span></span></a><div class="SignInOut"><div class="ccs-signin-popup" role="dialog" id="ccs-profilePopup" aria-label="Sign in"><div class="ccs-signin-popup-body-border"><div class="ccs-signin-body ccs-signin-popup-body"><form id="ccs-header-sign-in-form" class="SignInForm ccs-signin-local" action="https://www.sciencedirect.com/science/MiamiLoginURL" method="POST"><input type="hidden" value="login" name="login"/><input type="hidden" value="MiamiLogonURL" name="_ob"/><input type="hidden" value="http://www.sciencedirect.com/science/journal/1044579X/43" name="returnURL"/><input type="hidden" value="http://www.sciencedirect.com/science/journal/1044579X/43" name="targetURL"/><input type="hidden" value="https://www.sciencedirect.com/science/MiamiLoginURL" name="invalidLoginURL"/><input type="hidden" value="pubhome_j" name="pageType"/><div><h3>Sign in using your ScienceDirect credentials</h3><div class="ccs-signin-form"><div><label class="ccs-signin-form-left">Username</label><span class="ccs-signin-form-right"><input class="ccs-signin-username" name="userid" id="ccs-signin-username-input" title="Please enter your username here" type="text"/></span></div><div><label class="ccs-signin-form-left">Password</label><span class="ccs-signin-form-right"><input class="ccs-signin-password" name="password" title="Please enter your password here" type="password"/></span></div><div><label class="ccs-signin-form-left"></label><span class="ccs-signin-form-right"><input class="" name="rememberid" value="Y" title="Checking this option will log you in automatically next time you visit ScienceDirect" type="checkbox" checked=""/><label>Remember me</label></span></div><div><label class="ccs-signin-form-left"></label><span class="ccs-signin-form-right"><input class="ccs-signin-submit" value="Sign in" title="Sign in to ScienceDirect" type="submit"/></span></div><div><label class="ccs-signin-form-left"></label><span class="ccs-signin-form-right"><a class="link-inherit" rel="nofollow" href="/science?_ob=ReminderURL&amp;_method=display&amp;md5=4a97631c25ac81c09ad2f961106e9da2" target="passwd" title="Click here for help in recovering your ScienceDirect access">Forgotten username or password?</a></span></div></div></div></form><div class="InstitutionalLogin ccs-signin-remote"><h3>Sign in via your institution</h3><ul class="ccs-signin-institution"><li class="ccs-signin-open-athens"><a class="link-inherit" rel="nofollow" href="https://auth.elsevier.com/ShibAuth/institutionLogin?entityID=https%3A%2F%2Fidp.eduserv.org.uk%2Fopenathens&amp;appReturnURL=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Fjournal%2F1044579X%2F43" title="Log in using OpenAthens">OpenAthens</a></li><li class="ccs-signin-external"><a class="link-inherit" rel="nofollow" href="/science/externallogin" title="Other institution login">Other institution</a></li></ul></div></div></div></div></div></li><li class="Help els-header-icons-item"><a id="ccs-help-link" class="link-inherit els-header-help" href="/science?_ob=HelpURL&amp;_file=jnl_bk_homepage.htm&amp;_btn=Y" title="Help" target="_blank"><span aria-label="Help" class="ccs-icon svg-help"><span class="svg-text">Help</span></span></a></li></ul><div id="mobile-menu-parent"><div class="HamburgerButton" id="hamburger-button"><button id="ccs-mobileHamburgerButton" aria-controls="" aria-expanded="false" aria-label="Menu" class="link"><span class="svg-hamburger-closed"></span></button></div><div aria-label="Mobile menu" class="MobileMenu" id="mobile-menu"><div class="mobile-menu-container" id="mobile-menu-container"><div class="mobilemenu-content"><div><div class="primary-mobile-menu"><ul class="JournalsAndBooks els-header-navigation" role="navigation"><li class="els-header-navigation-section"><a id="mobileccs-journalsLink" class="link-inherit els-header-navigation-item els-selected-header-navigation-item" href="/science/journals">Journals</a></li><li class="els-header-navigation-section"><a id="mobileccs-journalsLink" class="link-inherit els-header-navigation-item " href="/science/bookbshsrw">Books</a></li><li class="els-header-navigation-section"><a class="link-inherit els-header-navigation-item " href="https://www.sciencedirect.com/user/register?returnURL=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Fjournal%2F1044579X%2F43">Register</a></li></ul></div><div class="secondary-mobile-menu"><li class="els-header-icons-item els-header-user"><a href="https://www.sciencedirect.com/user/login?returnURL=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Fjournal%2F1044579X%2F43" aria-controls="mobileccs-profilePopup" aria-expanded="false" id="mobileccs-ProfilePopupLink" class="link-inherit els-header-user-link"><span class="signIn_User"><span id="els-header-user-sign-in" class="els-header-user-sign-in">Sign in</span><span id="els-header-user-sign-in-icon" class="ccs-icon svg-sdfe-arrow-down els-header-user-icon-signin"></span></span></a></li><li class="Help els-header-icons-item"><a id="mobileccs-help-link" class="link-inherit els-header-help" href="/science?_ob=HelpURL&amp;_file=jnl_bk_homepage.htm&amp;_btn=Y" title="Help" target="_blank"><span aria-label="Help" class="ccs-icon svg-help"><span class="svg-text">Help</span></span></a></li></div></div></div></div></div></div><div class="SignInOut"><div class="ccs-signin-popup ccs-mobile-signin-popup" role="dialog" id="mobileccs-profilePopup" aria-label="Sign in"><div class="ccs-signin-popup-body-border"><div class="ccs-signin-body ccs-signin-popup-body"><form id="ccs-header-sign-in-form" class="SignInForm ccs-signin-local" action="https://www.sciencedirect.com/science/MiamiLoginURL" method="POST"><div class="ccs-sign-in-close"><a href="#" class="ccs-icon svg-delete link-inherit" id="ccs-closeSignInPopup" aria-label="Close sign in popup" aria-controls="mobileccs-profilePopup" role="button" title="Close"><span class="svg-text">close</span></a></div><input type="hidden" value="login" name="login"/><input type="hidden" value="MiamiLogonURL" name="_ob"/><input type="hidden" value="http://www.sciencedirect.com/science/journal/1044579X/43" name="returnURL"/><input type="hidden" value="http://www.sciencedirect.com/science/journal/1044579X/43" name="targetURL"/><input type="hidden" value="https://www.sciencedirect.com/science/MiamiLoginURL" name="invalidLoginURL"/><input type="hidden" value="pubhome_j" name="pageType"/><div><h3>Sign in using your ScienceDirect credentials</h3><div class="ccs-signin-form"><div><label class="ccs-signin-form-left">Username</label><span class="ccs-signin-form-right"><input class="ccs-signin-username" name="userid" id="mobileccs-signin-username-input" title="Please enter your username here" type="text"/></span></div><div><label class="ccs-signin-form-left">Password</label><span class="ccs-signin-form-right"><input class="ccs-signin-password" name="password" title="Please enter your password here" type="password"/></span></div><div><label class="ccs-signin-form-left"></label><span class="ccs-signin-form-right"><input class="" name="rememberid" value="Y" title="Checking this option will log you in automatically next time you visit ScienceDirect" type="checkbox" checked=""/><label>Remember me</label></span></div><div><label class="ccs-signin-form-left"></label><span class="ccs-signin-form-right"><input class="ccs-signin-submit" value="Sign in" title="Sign in to ScienceDirect" type="submit"/></span></div><div><label class="ccs-signin-form-left"></label><span class="ccs-signin-form-right"><a class="link-inherit" rel="nofollow" href="/science?_ob=ReminderURL&amp;_method=display&amp;md5=4a97631c25ac81c09ad2f961106e9da2" target="passwd" title="Click here for help in recovering your ScienceDirect access">Forgotten username or password?</a></span></div></div></div></form><div class="InstitutionalLogin ccs-signin-remote"><h3>Sign in via your institution</h3><ul class="ccs-signin-institution"><li class="ccs-signin-open-athens"><a class="link-inherit" rel="nofollow" href="https://auth.elsevier.com/ShibAuth/institutionLogin?entityID=https%3A%2F%2Fidp.eduserv.org.uk%2Fopenathens&amp;appReturnURL=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Fjournal%2F1044579X%2F43" title="Log in using OpenAthens">OpenAthens</a></li><li class="ccs-signin-external"><a class="link-inherit" rel="nofollow" href="/science/externallogin" title="Other institution login">Other institution</a></li></ul></div></div></div></div></div></div></div></div></div> 
+    <iframe style="display:none;" src="//acw.sciencedirect.com/SSOCore/update?acw=c866-6b710821c51c70c68726a7e8addca4f6d93-sI%7C%24%7C92192F1EE6FFA872205D1EB2D151A72FC3228A00B2A087FEFF4C764184F9DC08911E8D7D816B68C2035A074614BB2E90D9C8B2B3716DE9F817C6A47EBB7F11BFEE69033CACAAA8365EBE5C1FFB5CFEE2D034FFA79B47AC3CEC5EFC36DCFBBEADF0B571C956AE28B344CD43A4661B80CDEBC3B74E49399052006941A682EAB58A4270F208D34AB803A29485A3F9208D15&utt=b866-6b710821c51c70c68726a7e8addca4f6d93-AO"></iframe><iframe style="display:none;" src="//acw.scopus.com/SSOCore/update?acw=c866-6b710821c51c70c68726a7e8addca4f6d93-sI%7C%24%7C92192F1EE6FFA872205D1EB2D151A72FC3228A00B2A087FEFF4C764184F9DC08911E8D7D816B68C2035A074614BB2E90D9C8B2B3716DE9F817C6A47EBB7F11BFEE69033CACAAA8365EBE5C1FFB5CFEE2D034FFA79B47AC3CEC5EFC36DCFBBEADF0B571C956AE28B344CD43A4661B80CDEBC3B74E49399052006941A682EAB58A4270F208D34AB803A29485A3F9208D15&utt=b866-6b710821c51c70c68726a7e8addca4f6d93-AO"></iframe><iframe style="display:none;" src="//acw.sciverse.com/SSOCore/update?acw=c866-6b710821c51c70c68726a7e8addca4f6d93-sI%7C%24%7C92192F1EE6FFA872205D1EB2D151A72FC3228A00B2A087FEFF4C764184F9DC08911E8D7D816B68C2035A074614BB2E90D9C8B2B3716DE9F817C6A47EBB7F11BFEE69033CACAAA8365EBE5C1FFB5CFEE2D034FFA79B47AC3CEC5EFC36DCFBBEADF0B571C956AE28B344CD43A4661B80CDEBC3B74E49399052006941A682EAB58A4270F208D34AB803A29485A3F9208D15&utt=b866-6b710821c51c70c68726a7e8addca4f6d93-AO"></iframe><iframe style="display:none;" src="//acw.mendeley.com/SSOCore/update?acw=c866-6b710821c51c70c68726a7e8addca4f6d93-sI%7C%24%7C92192F1EE6FFA872205D1EB2D151A72FC3228A00B2A087FEFF4C764184F9DC08911E8D7D816B68C2035A074614BB2E90D9C8B2B3716DE9F817C6A47EBB7F11BFEE69033CACAAA8365EBE5C1FFB5CFEE2D034FFA79B47AC3CEC5EFC36DCFBBEADF0B571C956AE28B344CD43A4661B80CDEBC3B74E49399052006941A682EAB58A4270F208D34AB803A29485A3F9208D15&utt=b866-6b710821c51c70c68726a7e8addca4f6d93-AO"></iframe><iframe style="display:none;" src="//acw.elsevier.com/SSOCore/update?acw=c866-6b710821c51c70c68726a7e8addca4f6d93-sI%7C%24%7C92192F1EE6FFA872205D1EB2D151A72FC3228A00B2A087FEFF4C764184F9DC08911E8D7D816B68C2035A074614BB2E90D9C8B2B3716DE9F817C6A47EBB7F11BFEE69033CACAAA8365EBE5C1FFB5CFEE2D034FFA79B47AC3CEC5EFC36DCFBBEADF0B571C956AE28B344CD43A4661B80CDEBC3B74E49399052006941A682EAB58A4270F208D34AB803A29485A3F9208D15&utt=b866-6b710821c51c70c68726a7e8addca4f6d93-AO"></iframe>
+</div> 
+
+
+  
+    <div class="quicksearch">
+        <a name="Skip Buttons"></a><div class="extSearch" aria-label="Quick Search" role="search" >
+
+<form id="quickSearch" name="qkSrch" method="get" target="_top" action="/science">
+    <div>
+        <input type="hidden" name="_ob" value="QuickSearchURL">
+        <input type="hidden" name="_method" value="submitForm">
+        <input type="hidden" name="_acct" value="C000228598">
+        <input type="hidden" name="searchtype" value="a">
+        <input type="hidden" name="_origin" value="journal">
+        <input type="hidden" name="_zone" value="qSearch">
+        <input type="hidden" name="md5" value="8a07ed6851dd3690819a55769f7f2e65">
+        <input type="hidden" name="qs_cid" value="272365">
+        <input class="all" placeholder="Search all fields" aria-label="Search all fields" type="text" name="qs_all" id="qs_all" value="" size="34" maxlength="450" title="Search all fields">
+        <input class="author" placeholder="Author name" aria-label="Author name" type="text" name="qs_author" id="qs_author" value="" size="13" maxlength="450" title="e.g. J S Smith or John Smith or Smith JS" style="_width:100%">
+        <input class="srctitle" placeholder="Journal or book title" aria-label="Journal or book title"  type="text" id="qs_title" name="qs_title" value="--This Journal/Book--" size="13" maxlength="450" title="For example: journal of molecular biology">
+        <input class="volumelist" placeholder="Volume" aria-label="Volume"  type="text" name="qs_vol" id="qs_vol" value="" size="2" maxlength="10">
+        <input class="issuelist" placeholder="Issue" aria-label="Issue" type="text" name="qs_issue" id="qs_issue" value="" size="2" maxlength="10">
+        <input class="pages" placeholder="Page" aria-label="Page" type="text" name="qs_pages" id="qs_pages" value="" size="2" maxlength="10" title="For example: 14-27">
+        <input class="button" id="submit_search" type="Submit" alt="Submit Quick Search" value="" title="Submit Quick Search" name="sdSearch">
+        
+        <a class="advanced" href="http://www.sciencedirect.com/science/search" >Advanced search</a>
+    </div>
+</form>
+
+</div>
+
+
+
+<script>autoCompleteInit('/'+'science'+ '/jfind/auto');</script>
+
+
+    </div>
+  
+
+</div><!--header-->
+
+
+ 
+
+     
+     
+
+<a tabindex="-1" name="main_content" id="main_content"></a>
+
+<div id="sdHeader" class="outerWrapper">
+  <div class="sdContent">
+    
+    
+    
+
+
+
+
+
+
+
+    <div id="spriteFlag" data-sprite="true">&nbsp;</div>
+    <div class="pubFontBox" aria-label="Science Direct" role="Main">
+
+        
+        
+
+        
+        <!-- Common to journal and refwork title and related information -->
+
+<div id="main_content" class="publication_head">
+    <div class="publication serialPublication">
+        
+        <div class="coverImageDiv"><img src="http://ars.els-cdn.com/content/image/1-s2.0-S1044579X17X00035-cov150h.gif" border="1" class="cover" alt="Cover image Seminars in Cancer Biology"></div>
+        
+        
+        
+        
+        <div class="info">
+            
+            
+            <span class="pubTitle" style="margin:0px;">
+                <h1>Seminars in Cancer Biology</h1>
+                
+            </span>
+            
+            
+            <ul class="about navigation" role="navigation">
+                
+                
+                
+                
+                    <li><span title="This publication supports Open Access"><span>Supports </span><span class="txtOrange">Open Access</span></span></li>
+                
+                
+                    <li><a class="cExLink" href="http://www.elsevier.com/locate/issn/1044579X" data-url = "science/RedirectURL?_method=gejLink&_linkType=general&_cdi=272365&_issn=1044579X&_targetURL=http://www.elsevier.com/locate/issn/1044579X" target="pubWindow" title="About this Journal, e.g. Description; Editorial Board; Ordering Information; Dispatch Dates -where applicable- (Opens new window)" >About this Journal</a></li>
+                
+                
+                  
+                    <li><a href="http://www.sciencedirect.com/science/journal/1044579X/42" title="Sample Issue Online">Sample Issue Online</a></li>
+                  
+                
+                
+                    <li><a class ="cExLink" href="http://ees.elsevier.com/issn/1044579X" data-url="/science/RedirectURL?_method=authServLink&_cdi=272365&_issn=1044579X&_targetURL=http://ees.elsevier.com/issn/1044579X" target="pubWindow" title="Submit your Article (Opens new window)" >Submit your Article</a></li>
+                
+                
+                
+                
+            </ul>
+            
+             
+            
+            
+              
+            
+            <ul class="feeds" aria-label="Rss and alert" role="navigation">
+                
+
+
+    
+    <li width="140px" align="left" valign="top" id="newFeedPub">
+        <a class="rssCiteIconPubHome" title="Seminars in Cancer Biology RSS article feed" href="/science?_ob=RSSURL&_method=setup&_cid=272365&md5=ff62438c8dfc604d04eb21aadc04c37b" target="_blank" onClick="openNS('/science?_ob=RSSURL&_method=setup&_cid=272365&md5=ff62438c8dfc604d04eb21aadc04c37b', 700, 500); return false;"  > <span class="rssCiteTextPubHome">Get new article feed</span></a>
+    </li>
+    
+    
+    <li width="140px" align="left" valign="top" id="newFeedPub">
+		<a class="rssCiteIconPubHome" title="Seminars in Cancer Biology Open Access article feed" href="/science?_ob=RSSURL&_method=setup&oa=1&_cid=272365&md5=ff62438c8dfc604d04eb21aadc04c37b" target="_blank" onClick="openNS('/science?_ob=RSSURL&_method=setup&oa=1&_cid=272365&md5=ff62438c8dfc604d04eb21aadc04c37b', 700, 500); return false;" > <span class="rssCiteTextPubHome">Get new <span class="txtOrange">Open Access </span>article feed</span></a>
+    </li>
+     
+
+
+
+  <li>
+    <div id="alertLink" style="display:none;">
+      <a class="citeAlertIconPubHome_sci_dir" href>
+        <span class="citeAlertTextPubHome"></span>
+      </a>
+    </div>
+  </li>
+
+
+<li id="rsltInd" style="display:none;margin-bottom:15px;">
+  <div class="imgIcon"><h3><img src="http://cdn.els-cdn.com/sd/errorIcon.gif" alt="Failure" title="Failure"></h3></div>
+  <div class="confirmMsgText">Your selection(s) could not be saved due to an internal error. Please try again.</div>
+</li>
+
+
+  
+
+
+
+  
+    
+      <li>
+        <div id="favoriteOn" style="display:none;">
+          
+            <span class="favIcon_sci_dir" title="Added to Favorites">
+              <span class="favText">Added to Favorites [</span><a class="favText" href="/science?_ob=PublicationURL&addFavorite=2&_cid=272365&_pubType=J&_auth=y&md5=11ba02e68b40dbbf06f69c9cf424f1b9" >remove</a><span class="favText">]</span>
+            </span>
+          
+        </div>
+        <div id="favoriteOff" style="display:inline;">
+          <a class="favIcon_sci_dir" href="/science?_ob=PublicationURL&addFavorite=2&_cid=272365&_pubType=J&_auth=y&md5=11ba02e68b40dbbf06f69c9cf424f1b9" 
+             >
+            
+              <span class="favText">
+                
+                
+                Add to Favorites 
+              </span>
+            
+          </a>
+        </div>
+      </li>
+    
+  
+
+  
+
+
+
+            </ul>
+            
+                <p class="copyright">Copyright © 2017 Elsevier Ltd. All rights reserved</p>
+            
+        </div>
+        
+    </div>
+</div>
+
+
+        
+        
+
+        
+        <noscript>
+        	<div class="msgBox" style="margin:10px 0 0 227px;width:595px;">
+        	<span class="errMsg" style="color:#000;">
+        	<img  class='warningIcon' title="Warning Icon" alt="Warning Icon" src="http://cdn.els-cdn.com/sd/img/sprite_parts/warning_a.gif" style="float:left;margin-right:5px;"/>
+            <div>JavaScript is disabled on your browser.  Please enable JavaScript to use all the features on this page.</div>
+        	</span>
+            </div>
+        </noscript>
+
+        <div id="bodyAllResults" class="cbodyAllResults">
+            <div id="issueDisplayData">
+                
+                
+                
+                
+                
+            </div>
+            <div id="bodyResults" class="mainResults journal">
+                
+                <div class="volumeHeader skyScraper">
+                    
+                   
+                    <h2 >Seminars in Cancer Biology<br>Volume 43, Pages 1-180 (April 2017)</h2>
+                    
+                    <br><b>The new pH-centric Anticancer Paradigm in Oncology and Medicine</b><div style="width:400px">Edited by Salvador Harguindey and Stephan J. Reshkin</div>
+                </div>
+                
+
+                
+                    <div class="adBlock" id="skyscraper" style="float:right;width:160px;" aria-label="advertisement" role="region"></div>
+                
+                
+                                <div id="volumeIssueData" aria-label="Volume Issue" role="Navigation">
+                    
+                      <ul class="navigation">
+                      
+                        <li>
+                        
+                            <a title="Previous volume/issue" class="ActionButton" href="/science/journal/1044579X/42">&lt; Previous vol/iss</a>
+                        
+                        </li>
+                        <li>
+                        
+                            <a title="Next volume/issue" class="ActionButton" href="/science/journal/aip/1044579X">Next vol/iss &gt;</a>
+                        
+                        </li>
+                      
+                      </ul>
+                    
+                    <ol>
+                        <li><a href="/science/journal/aip/1044579X"><span class="txtBold">Articles in Press</span></a></li><li><a class = "cLink" querystr="?_zone=volIssueHeader&_origin=browse" href="/science/journal/1044579X/open-access"><span class="txtBold">  Open Access articles</span></a></li><li><A name="43"></A><A HREF="/science/journal/1044579X/43" class="cLink volLink" queryStr="?_cHubEid=1-s2.0-S1044579X17X00035" alt="Collapse Volume 43 2017" title="Collapse Volume 43 2017" aria-expanded="true" ><span class="srcPartOpened" title="Close">&nbsp;</span><span class="offscreen">Close</span>Volumes 42 - 43 (2017)</A><ol><li class="selected"><div class="txt currentVolumes"><span aria-selected="true" style="color: #0156aa; font-weight: bold">Volume 43</span><span class="txtHidden"> - selected</span><br>pp. 1-180 (April 2017)<br><small>The new pH-centric Anticancer Paradigm in Oncology and Medicine</small></div><div class="accessIconBlk"><span class="dunsub_openaccess_sci_dir " title="Issue contains Open Access articles" alt="Issue contains Open Access articles">&nbsp;<span class="offscreen">Issue contains Open Access articles</span></span></div></li><li><div class="txt currentVolumes"><A HREF="/science/journal/1044579X/42">Volume 42</A><br>pp. 1-88 (February 2017)<br><small>Genome Medicine in Lung Cancer</small></div><div class="accessIconBlk"><span class="dsub_openaccess_sci_dir " title="Issue contains Open Access articles" alt="Issue contains Open Access articles">&nbsp;<span class="offscreen">Issue contains Open Access articles</span></span></div></li></ol></li><li><A HREF="/science/journal/1044579X/40" alt="Expand Volume 40 2015" title="Expand Volume 40 2015" aria-expanded="false" class="volLink"><span class="srcPartClosed" title="Open">&nbsp;</span><span class="offscreen">Open</span>Volumes 31 - 40 (2015 - 2016)</A></li><li><A HREF="/science/journal/1044579X/30" alt="Expand Volume 30 2011" title="Expand Volume 30 2011" aria-expanded="false" class="volLink"><span class="srcPartClosed" title="Open">&nbsp;</span><span class="offscreen">Open</span>Volumes 21 - 30 (2011 - 2015)</A></li><li><A HREF="/science/journal/1044579X/20" alt="Expand Volume 20 2001" title="Expand Volume 20 2001" aria-expanded="false" class="volLink"><span class="srcPartClosed" title="Open">&nbsp;</span><span class="offscreen">Open</span>Volumes 11 - 20 (2001 - 2010)</A></li><li><A HREF="/science/journal/1044579X/10" alt="Expand Volume 10 1995" title="Expand Volume 10 1995" aria-expanded="false" class="volLink"><span class="srcPartClosed" title="Open">&nbsp;</span><span class="offscreen">Open</span>Volumes 6 - 10 (1995 - 2000)</A></li>
+                    </ol>
+                    <script>prs.rt("pcr_nav");</script>
+                
+                </div> <!-- volumeIssueData -->
+                 
+
+  
+                
+                    
+                    
+                    <div id="issueList" class="skyScraper">
+                      <div class="resultList">
+                        
+    <form  method="get" name="Tag" action="/science" target="">
+      <input type="hidden" name="_ob" value="PublicationURL">
+      <input type="hidden" name="_method" value="list">
+      <input type="hidden" name="_hubEid" value="1-s2.0-S1044579X17X00035">
+      <input type="hidden" name="_auth" value="y">
+      <input type="hidden" name="_version" value="1">
+      <input type="hidden" name="refSource" value="toc">
+      <input type="hidden" name="_pubType" value="J">
+      
+      
+        <input type="hidden" name="PDF_DDM_MAX" value="25">
+      
+      
+        <input type="hidden" name="_cid" value="272365">
+      
+      
+      
+      <input type="hidden" name="md5" value="b7dd581a1151e0bea6ab0de50dcd1119">
+
+      
+        <input type="hidden" name="chunk" value="0">
+      
+      
+        <input type="hidden" name="view" value="c">
+      
+       
+      
+      
+      
+            
+      
+      
+      <input type="hidden" name="go" value="">
+      <input type="hidden" name="nextVector" value="">
+      <input type="hidden" name="prevVector" value="">
+      
+      
+          <input type="hidden" name="chunkSize" value="100">
+      
+      
+          <input type="hidden" name="hitCount" value="18">
+       
+    
+        <input type="hidden" name="count" value="18"><div id="issueListHeader" class="pubBody"><div class="arrowBlock"><span class="arrowIcon" title="Download or Export 0 selected results." alt="Download or Export 0 selected results."><span class="offscreen">Download and Export 0 checked results</span>&nbsp;</span></div><ul aria-label="Download or Export 0 selected results" role="region"><img src="http://cdn.els-cdn.com/sd/clear.gif" alt="" height="1"><li><input id="purchaseBtnSprite" value="Purchase" name="purchase" class="listAction" type="submit" onclick="return ensureChkBoxSelected(this.form);"/></li><li><input type="hidden" name="hubEID" value=""><div class="pulldown"> <div class= "exportDivision" title="Export citations" alt="Export citations"><input id="exportIcon_sci_dir" value="Export" name="export" class="listAction export export_general initialImage" type="button" title="Export citations"> <a role="button" href="javascript:;" title="Export citations" alt="Export citations" class="dropdownArrow" aria-expanded="false" aria-controls="export_popup"><span class=" exportArrow down_sci_dir">Export citations</span></a> <input class='zone' name='zone' type='hidden' value='exportDropDown'/> </div><div class="menu hidden export_popup" id="export_popup"><img class='warningIcon' title="Warning Icon" alt="Warning Icon" src="http://cdn.els-cdn.com/sd/img/sprite_parts/warning_a.gif"/><div class='exportInfo'><div class='chkboxCount'></div><div class='exportHelp'><a target='sdhelp' title='Help (Opens new window)' href='/science?_ob=HelpURL&_file=art_export.htm&_btn=Y&_zone=TopNavBar&_origin=journal' onclick='var helpWin;helpWin=window.open('/science?_ob=HelpURL&_file=art_export.htm&_btn=Y&_zone=TopNavBar&_origin=journal', 'sdhelp', 'scrollbars=yes,resizable=yes,directories=no,toolbar=no,menubar=no,status=no,width=984,height=738'); helpWin.focus(); return false;' title='Help (Opens new window)'>Help</a></td></div></div><div class="expContainer"><ul class="Export_Popup"><li class='subHeading'><h3>Direct export </h3></li><li class='direct_export'><div class="downBtn export_downBtn"><div><div class='btn_export directExport'><div class='icon_Mendeley' title='Save to Mendeley'>&nbsp;</div><input id="directExport" type="button" value="Save to Mendeley" name="Save to Mendeley" alt="Save to Mendeley" class="mendeleyBT button"/></div></div><div class='btnLine'><div class='btn_export refworks'><div class='icon_Refworks' title='Save to Refworks'>&nbsp;</div><input id='REFWX' type='button' value='Save to RefWorks' name='Save to RefWorks' alt='Save to RefWorks' class='mendeleyBT button refworks'/></div></div><div class='clear'></div></div></li><li class="subHeading big"><h3>Export file</h3></li><li class="export_radio"><input type="radio" id="RIS" name="citation-type" checked value="RIS" {if var=RIS}checked{/if} class="artRadio expRadio RIS">&nbsp;<label for="RIS">RIS (for EndNote, Reference Manager, ProCite)</label></li><li class="export_radio"><input type="radio" id="BIBTEX" name="citation-type" value="BIBTEX" {if var=BIBTEX}checked{/if} class="artRadio expRadio BIBTEX">&nbsp;<label for="BIBTEX">BibTeX</label></li><li class="export_radio"><input type="radio" id="ASCII" name="citation-type" value="ASCII" {if var=ASCII}checked{/if} class="artRadio expRadio ASCII">&nbsp;<label for="ASCII">Text</label></li><li class='export_radio hidden'><input type='radio' id='REFWX' name='citation-type' value='REFWX' {if var=REFWX}checked{/if} class='artRadio expRadio REFWX'>&nbsp;<label for='REFWX'>RefWorks Direct Export</label></li><li class="subHeading big"><h3>Content</h3></li><li class='expCitab export_radio'><input type='radio' id='cite' name='format' value='cite' {if var=cite}checked{/if} class='artRadio expRadio'>&nbsp;<label class='cit' for='cite'>Citations Only</label></li><li class='expCitab export_radio'><input type='radio' id='cite-abs' name='format' value='cite-abs'checked class='artRadio expRadio'>&nbsp;<label class ='cab' for='cite-abs'>Citations and Abstracts</label></li><li class="export_submit"><div class="downBtn export_downBtn" style=""><input type="submit" value="Export" name="export" alt="Export" id = "export_button" class="button export_button"/></div></li></ul></div></div><br></li></ul><div aria-label="Filter by access" role="region" class="sortFilterContainer"><div class="pulldown right"><a aria-controls="content_type_menu" aria-expanded="false" aria-haspopup="true" class="button" href="#" role="button"><span class="icon filter_a"> </span> <span id="selectedOption">&nbsp; All access types &nbsp;</span><span class="icon arrow-down"> </span></a><div aria-activedescendant="access_JL" aria-label="Filter by content type" class="menu hidden filterMenu" id="content_type_menu" role="menu"><ul><li class="filterEnabled " aria-disabled=" "><a class="menuitem itemSelected" href="/science/journal/1044579X/43" aria-expanded="false"> All access types </a></li><li class="filterEnabled" aria-disabled=" "><a class="menuitem cLink" queryStr="?_cHubEid=1-s2.0-S1044579X17X00035" href="/science/journal/1044579X/43/open-access" aria-expanded="false"> Open Access articles</a></li><li class="filterDisabled" aria-disabled="">Open Archive articles</li></ul></div></div></div></div><div class="pubBody"><div aria-label="Articles" role="region"><div id="bodyMainResults" class='bookResultsExp ' role='region' aria-label='Search Results' ><ol class="articleList results"><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S1044579X1730069X" aria-labelledby="title_S1044579X1730069X" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S1044579X1730069X" href="http://www.sciencedirect.com/science/article/pii/S1044579X1730069X" class="cLink artTitle S_C_artTitle prelim " data-docsubtype="edb" queryStr="?_rdoc=1&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1044579X17X00035)&_docanchor=&_ct=18&md5=a44ab0a4fb074d7e5c707983cd18ff58">Editorial Board &amp; Publication Information</a></h4></li><li class="source "><i>Page IFC</i></li><li class="authors "></li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a class="cLink" rel="nofollow" aria-describedby="title_S1044579X1730069X" href="/science/article/pii/S1044579X1730069X/pdfft?md5=8ff1f7f1a729a34e4f0151ce0fb5b714&pid=1-s2.0-S1044579X1730069X-main.pdf" queryStr="?_origin=PublicationURL&_zone=rslt_list_item" target="_blank"><span class="pdfIconSmall">&nbsp;</span>PDF (200 K)</a></li>
+</ul><div  id="abs_S1044579X1730069X" class="previewBox abstract hidden"></div><div  id="rabs_S1044579X1730069X" class="previewBox rabstract hidden"></div><div  id="gabs_S1044579X1730069X" class="previewBox gabstract hidden"></div></div></li><li class="accessBlock colLast"><span class="dsub_article_sci_dir sci_dir" title="Entitled to full text" alt="Entitled to full text">&nbsp;<span class="offscreen">Entitled to full text</span></span></li></ul></li><div id="resultsView_1" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S1044579X17300810" aria-labelledby="title_S1044579X17300810" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S1044579X17300810" href="http://www.sciencedirect.com/science/article/pii/S1044579X17300810" class="cLink artTitle S_C_artTitle " data-docsubtype="prp" queryStr="?_rdoc=2&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1044579X17X00035)&_docanchor=&_ct=18&md5=b9aed2c7e2213207ea00eed18bb69380">Obituaries &amp; Dedications</a></h4></li><li class="source "><i>Page iv</i></li><li class="authors "></li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a class="cLink" rel="nofollow" aria-describedby="title_S1044579X17300810" href="/science/article/pii/S1044579X17300810/pdfft?md5=d396285e6d4f7d9abb662f2dfcf56b07&pid=1-s2.0-S1044579X17300810-main.pdf" queryStr="?_origin=PublicationURL&_zone=rslt_list_item" target="_blank"><span class="pdfIconSmall">&nbsp;</span>PDF (44 K)</a></li>
+</ul><div  id="abs_S1044579X17300810" class="previewBox abstract hidden"></div><div  id="rabs_S1044579X17300810" class="previewBox rabstract hidden"></div><div  id="gabs_S1044579X17300810" class="previewBox gabstract hidden"></div></div></li><li class="accessBlock colLast"><span class="dsub_article_sci_dir sci_dir" title="Entitled to full text" alt="Entitled to full text">&nbsp;<span class="offscreen">Entitled to full text</span></span></li></ul></li><div id="resultsView_2" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S1044579X17300275" aria-labelledby="title_S1044579X17300275" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S1044579X17300275" href="http://www.sciencedirect.com/science/article/pii/S1044579X17300275" class="cLink artTitle S_C_artTitle " data-docsubtype="edi" queryStr="?_rdoc=3&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1044579X17X00035)&_docanchor=&_ct=18&md5=25673fd5f5cc76cfffa9a59a65147341"><span style='font-weight: bold'>“</span>The new pH-centric anticancer paradigm in Oncology and Medicine<span style='font-weight: bold'>”</span>; SCB, 2017</a></h4></li><li class="source "><i>Pages 1-4</i></li><li class="authors ">Salvador Harguindey, Stephan J. Reshkin</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a aria-describedby="title_S1044579X17300275"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S1044579X17300275&_ts=1494959286&md5=cc1248fc4bc9fd578b6582138a2238dd"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $41.95</a></li>
+</ul><div  id="abs_S1044579X17300275" class="previewBox abstract hidden"></div><div  id="rabs_S1044579X17300275" class="previewBox rabstract hidden"></div><div  id="gabs_S1044579X17300275" class="previewBox gabstract hidden"></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_3" class="resultsView"></div><div class="subHeadsBlock heading1" ><h2 class="sectionH1">Basic and different cancer types/pH regulatory systems</h2></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S1044579X16300797" aria-labelledby="title_S1044579X16300797" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S1044579X16300797" href="http://www.sciencedirect.com/science/article/pii/S1044579X16300797" class="cLink artTitle S_C_artTitle " data-docsubtype="rev" queryStr="?_rdoc=4&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1044579X17X00035)&_docanchor=&_ct=18&md5=fe346ad1f7c837c6eb3780e13fd87d50">Roles of pH and the Na<sup>+</sup>/H<sup>+</sup> exchanger NHE1 in cancer: From cell biology and animal models to an emerging translational perspective?</a></h4><span class="articleTypeLabel">Review Article</span></li><li class="source "><i>Pages 5-16</i></li><li class="authors ">Christian Stock, Stine Falsig Pedersen</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=4&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1044579X17X00035)&_ct=18&_zone=rslt_list_item&_fmt=full&_pii=S1044579X16300797&_issn=1044579X&_tab=afr&absLinks=y&md5=0073e2c1b56c9a99bdbafd4ffd1c27b7" aria-describedby="title_S1044579X16300797" aria-controls="abs_S1044579X16300797" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a aria-describedby="title_S1044579X16300797"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S1044579X16300797&_ts=1494959286&md5=bc7d1d31be5f256f34f019a8a488a17d"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $41.95</a></li>
+</ul><div  id="abs_S1044579X16300797" class="previewBox abstract hidden"></div><div  id="rabs_S1044579X16300797" class="previewBox rabstract hidden"></div><div  id="gabs_S1044579X16300797" class="previewBox gabstract hidden"></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_4" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S1044579X16300815" aria-labelledby="title_S1044579X16300815" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S1044579X16300815" href="http://www.sciencedirect.com/science/article/pii/S1044579X16300815" class="cLink artTitle S_C_artTitle " data-docsubtype="rev" queryStr="?_rdoc=5&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1044579X17X00035)&_docanchor=&_ct=18&md5=baaec7073ee2bb1550bce9621060b246">Value of pH regulators in the diagnosis, prognosis and treatment of cancer</a></h4><span class="articleTypeLabel">Review Article</span></li><li class="source "><i>Pages 17-34</i></li><li class="authors ">Sara Granja, Diana Tavares-Valente, Odília Queirós, Fátima Baltazar</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=5&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1044579X17X00035)&_ct=18&_zone=rslt_list_item&_fmt=full&_pii=S1044579X16300815&_issn=1044579X&_tab=afr&absLinks=y&md5=1b94288449e5fb4e0a2e512e187491d7" aria-describedby="title_S1044579X16300815" aria-controls="abs_S1044579X16300815" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a aria-describedby="title_S1044579X16300815"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S1044579X16300815&_ts=1494959286&md5=7b9774f6ea5a17cd2abb1e0d2c54a435"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $41.95</a></li>
+</ul><div  id="abs_S1044579X16300815" class="previewBox abstract hidden"></div><div  id="rabs_S1044579X16300815" class="previewBox rabstract hidden"></div><div  id="gabs_S1044579X16300815" class="previewBox gabstract hidden"></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_5" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S1044579X17300044" aria-labelledby="title_S1044579X17300044" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S1044579X17300044" href="http://www.sciencedirect.com/science/article/pii/S1044579X17300044" class="cLink artTitle S_C_artTitle " data-docsubtype="rev" queryStr="?_rdoc=6&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1044579X17X00035)&_docanchor=&_ct=18&md5=cef4f122995683d566adf3b3b7e10e8c">Na<sup>+</sup>/H<sup>+</sup> exchanger-mediated hydrogen ion extrusion as a carcinogenic signal in triple-negative breast cancer etiopathogenesis and prospects for its inhibition in therapeutics</a></h4><span class="articleTypeLabel">Review Article</span></li><li class="source "><i>Pages 35-41</i></li><li class="authors ">Schammim Ray Amith, Larry Fliegel</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=6&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1044579X17X00035)&_ct=18&_zone=rslt_list_item&_fmt=full&_pii=S1044579X17300044&_issn=1044579X&_tab=afr&absLinks=y&md5=5c55b7f024f024a72fa3d6e169470be0" aria-describedby="title_S1044579X17300044" aria-controls="abs_S1044579X17300044" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a aria-describedby="title_S1044579X17300044"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S1044579X17300044&_ts=1494959286&md5=4a657ec200c47bb1b0f271729396dd01"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $41.95</a></li>
+</ul><div  id="abs_S1044579X17300044" class="previewBox abstract hidden"></div><div  id="rabs_S1044579X17300044" class="previewBox rabstract hidden"></div><div  id="gabs_S1044579X17300044" class="previewBox gabstract hidden"></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_6" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S1044579X17300020" aria-labelledby="title_S1044579X17300020" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S1044579X17300020" href="http://www.sciencedirect.com/science/article/pii/S1044579X17300020" class="cLink artTitle S_C_artTitle " data-docsubtype="rev" queryStr="?_rdoc=7&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1044579X17X00035)&_docanchor=&_ct=18&md5=a9b484358fb484bec225968d89cfa8ed">Physical and biological characteristics of multi drug resistance (MDR): An integral approach considering pH and drug resistance in cancer</a></h4><span class="articleTypeLabel">Review Article</span></li><li class="source "><i>Pages 42-48</i></li><li class="authors ">Ziad Omran, Paula Scaife, Simon Stewart, Cyril Rauch</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=7&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1044579X17X00035)&_ct=18&_zone=rslt_list_item&_fmt=full&_pii=S1044579X17300020&_issn=1044579X&_tab=afr&absLinks=y&md5=603a32d5e5401bc5a5dec63860bf2be1" aria-describedby="title_S1044579X17300020" aria-controls="abs_S1044579X17300020" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a aria-describedby="title_S1044579X17300020"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S1044579X17300020&_ts=1494959286&md5=b7e05188f13f5beafa7aaba45fbb77ff"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $41.95</a></li>
+</ul><div  id="abs_S1044579X17300020" class="previewBox abstract hidden"></div><div  id="rabs_S1044579X17300020" class="previewBox rabstract hidden"></div><div  id="gabs_S1044579X17300020" class="previewBox gabstract hidden"></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_7" class="resultsView"></div><div class="subHeadsBlock heading1" ><h2 class="sectionH1">Special conditions</h2></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S1044579X17300019" aria-labelledby="title_S1044579X17300019" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S1044579X17300019" href="http://www.sciencedirect.com/science/article/pii/S1044579X17300019" class="cLink artTitle S_C_artTitle " data-docsubtype="rev" queryStr="?_rdoc=8&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1044579X17X00035)&_docanchor=&_ct=18&md5=fb9bb462d60be846ecfa8f70b7e2850c">Environmental carcinogenesis and pH homeostasis: Not only a matter of dysregulated metabolism</a></h4><span class="articleTypeLabel">Review Article</span></li><li class="source "><i>Pages 49-65</i></li><li class="authors ">Kévin Hardonnière, Laurence Huc, Odile Sergent, Jørn A. Holme, Dominique Lagadic-Gossmann</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=8&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1044579X17X00035)&_ct=18&_zone=rslt_list_item&_fmt=full&_pii=S1044579X17300019&_issn=1044579X&_tab=afr&absLinks=y&md5=aba774bf38ca49e74ccf8c2ae7e273f0" aria-describedby="title_S1044579X17300019" aria-controls="abs_S1044579X17300019" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a aria-describedby="title_S1044579X17300019"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S1044579X17300019&_ts=1494959286&md5=4397a0a384ba93c7ecca43d8c4303405"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $41.95</a></li>
+</ul><div  id="abs_S1044579X17300019" class="previewBox abstract hidden"></div><div  id="rabs_S1044579X17300019" class="previewBox rabstract hidden"></div><div  id="gabs_S1044579X17300019" class="previewBox gabstract hidden"></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_8" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S1044579X1730007X" aria-labelledby="title_S1044579X1730007X" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S1044579X1730007X" href="http://www.sciencedirect.com/science/article/pii/S1044579X1730007X" class="cLink artTitle S_C_artTitle " data-docsubtype="rev" queryStr="?_rdoc=9&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1044579X17X00035)&_docanchor=&_ct=18&md5=f70531ada60f119b961fc3918cf6f874">Targeting pH regulating proteins for cancer therapy–Progress and limitations</a></h4><span class="articleTypeLabel">Review Article</span></li><li class="source "><i>Pages 66-73</i></li><li class="authors ">Scott K. Parks, Jacques Pouysségur</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=9&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1044579X17X00035)&_ct=18&_zone=rslt_list_item&_fmt=full&_pii=S1044579X1730007X&_issn=1044579X&_tab=afr&absLinks=y&md5=bf7b2795ccb2fd0681d41bbc4cad7024" aria-describedby="title_S1044579X1730007X" aria-controls="abs_S1044579X1730007X" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a aria-describedby="title_S1044579X1730007X"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S1044579X1730007X&_ts=1494959286&md5=ba3c54a9bce624a0948565f899716761"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $41.95</a></li>
+</ul><div  id="abs_S1044579X1730007X" class="previewBox abstract hidden"></div><div  id="rabs_S1044579X1730007X" class="previewBox rabstract hidden"></div><div  id="gabs_S1044579X1730007X" class="previewBox gabstract hidden"></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_9" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S1044579X17300366" aria-labelledby="title_S1044579X17300366" style="padding-left:6px;"></li><li class="title oaBlock"><h4><a id ="title_S1044579X17300366" href="http://www.sciencedirect.com/science/article/pii/S1044579X17300366" class="cLink artTitle S_C_artTitle " data-docsubtype="rev" queryStr="?_rdoc=10&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1044579X17X00035)&_docanchor=&_ct=18&md5=ffa631fd80f528565c6914364a009bc6">Cancer acidity: An ultimate frontier of tumor immune escape and a novel target of immunomodulation</a></h4><span class="articleTypeLabel">Review Article</span></li><li class="source oaBlock"><i>Pages 74-89</i></li><li class="authors oaBlock">Veronica Huber, Chiara Camisaschi, Angela Berzi, Simona Ferro, Luana Lugini, Tiziana Triulzi, Alessandra Tuccitto, Elda Tagliabue, Chiara Castelli, Licia Rivoltini</li><li class="external "><div class="txt external oaBlock"><ul class="extLinkBlock extLinkBlockJrnl"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=10&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1044579X17X00035)&_ct=18&_zone=rslt_list_item&_fmt=full&_pii=S1044579X17300366&_issn=1044579X&_tab=afr&absLinks=y&md5=cac6269bdf6c1fbecf263cbd807990d9" aria-describedby="title_S1044579X17300366" aria-controls="abs_S1044579X17300366" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a class="cLink" rel="nofollow" aria-describedby="title_S1044579X17300366" href="/science/article/pii/S1044579X17300366/pdfft?md5=8ff044adc637b3a4c537ea1d1de73fcd&pid=1-s2.0-S1044579X17300366-main.pdf" queryStr="?_origin=PublicationURL&_zone=rslt_list_item" target="_blank"><span class="pdfIconSmall">&nbsp;</span>PDF (2595 K)</a></li>
+<li><a id ="title_S1044579X17300366" href="http://www.sciencedirect.com/science/article/pii/S1044579X17300366#MMCvFirst" class="mmcLinkSprite" cLink S_C_artTitle " data-docsubtype="rev" queryStr="?_rdoc=10&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1044579X17X00035)&_docanchor=&_ct=18&md5=ffa631fd80f528565c6914364a009bc6"><span class="mmcTxt">Supplementary content</span></a></li></ul><div  id="abs_S1044579X17300366" class="previewBox abstract hidden"></div><div  id="rabs_S1044579X17300366" class="previewBox rabstract hidden"></div><div  id="gabs_S1044579X17300366" class="previewBox gabstract hidden"></div></div></li><li class="accessBlock colLast"><span class="iconPosition" title="Open Access Article" alt="Open Access Article">Open Access&nbsp;<span class="offscreen">Open Access Article</span><span class="dsprite_oaIcon">&nbsp;</span></span></li></ul></li><div id="resultsView_10" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S1044579X17300500" aria-labelledby="title_S1044579X17300500" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S1044579X17300500" href="http://www.sciencedirect.com/science/article/pii/S1044579X17300500" class="cLink artTitle S_C_artTitle " data-docsubtype="rev" queryStr="?_rdoc=11&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1044579X17X00035)&_docanchor=&_ct=18&md5=7a93baa197748716a3f467694d7b4491">Metabolic reprogramming in cancer cells, consequences on pH and tumour progression: Integrated therapeutic perspectives with dietary lipids as adjuvant to anticancer treatment</a></h4><span class="articleTypeLabel">Review Article</span></li><li class="source "><i>Pages 90-110</i></li><li class="authors ">Jean-François Dumas, Lucie Brisson, Stéphan Chevalier, Karine Mahéo, Gaëlle Fromont, Driffa Moussata, Pierre Besson, Sébastien Roger</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=11&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1044579X17X00035)&_ct=18&_zone=rslt_list_item&_fmt=full&_pii=S1044579X17300500&_issn=1044579X&_tab=afr&absLinks=y&md5=9be78b38945277bc5647f4d901fdfd10" aria-describedby="title_S1044579X17300500" aria-controls="abs_S1044579X17300500" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a aria-describedby="title_S1044579X17300500"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S1044579X17300500&_ts=1494959286&md5=ba8e5c0f946aaa93b4c93e16658af5aa"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $41.95</a></li>
+</ul><div  id="abs_S1044579X17300500" class="previewBox abstract hidden"></div><div  id="rabs_S1044579X17300500" class="previewBox rabstract hidden"></div><div  id="gabs_S1044579X17300500" class="previewBox gabstract hidden"></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_11" class="resultsView"></div><div class="subHeadsBlock heading1" ><h2 class="sectionH1">Novel approaches to therapy</h2></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S1044579X17300032" aria-labelledby="title_S1044579X17300032" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S1044579X17300032" href="http://www.sciencedirect.com/science/article/pii/S1044579X17300032" class="cLink artTitle S_C_artTitle " data-docsubtype="rev" queryStr="?_rdoc=12&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1044579X17X00035)&_docanchor=&_ct=18&md5=e03b0fdb87e105a685a6c37af9d17afc">Proton pump inhibition and cancer therapeutics: A specific tumor targeting or it is a phenomenon secondary to a systemic buffering?</a></h4><span class="articleTypeLabel">Review Article</span></li><li class="source "><i>Pages 111-118</i></li><li class="authors ">Enrico Spugnini, Stefano Fais</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=12&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1044579X17X00035)&_ct=18&_zone=rslt_list_item&_fmt=full&_pii=S1044579X17300032&_issn=1044579X&_tab=afr&absLinks=y&md5=ed4d5766e56bb76862f9367cb5619531" aria-describedby="title_S1044579X17300032" aria-controls="abs_S1044579X17300032" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a aria-describedby="title_S1044579X17300032"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S1044579X17300032&_ts=1494959286&md5=bfc6110e9dea9b920ce739e5c34a64f4"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $41.95</a></li>
+</ul><div  id="abs_S1044579X17300032" class="previewBox abstract hidden"></div><div  id="rabs_S1044579X17300032" class="previewBox rabstract hidden"></div><div  id="gabs_S1044579X17300032" class="previewBox gabstract hidden"></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_12" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S1044579X17300160" aria-labelledby="title_S1044579X17300160" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S1044579X17300160" href="http://www.sciencedirect.com/science/article/pii/S1044579X17300160" class="cLink artTitle S_C_artTitle " data-docsubtype="rev" queryStr="?_rdoc=13&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1044579X17X00035)&_docanchor=&_ct=18&md5=77d06495df09d97e888aeacda7b3bd5e">Therapeutic implications of tumor interstitial acidification</a></h4><span class="articleTypeLabel">Review Article</span></li><li class="source "><i>Pages 119-133</i></li><li class="authors ">Iryna Kolosenko, Sofia Avnet, Nicola Baldini, Jenny Viklund, Angelo De Milito</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=13&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1044579X17X00035)&_ct=18&_zone=rslt_list_item&_fmt=full&_pii=S1044579X17300160&_issn=1044579X&_tab=afr&absLinks=y&md5=5c98b579956fd4cc4aa1555e04ea4474" aria-describedby="title_S1044579X17300160" aria-controls="abs_S1044579X17300160" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a aria-describedby="title_S1044579X17300160"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S1044579X17300160&_ts=1494959286&md5=a92e8635c4d17f7143841f4ab908a3c5"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $41.95</a></li>
+</ul><div  id="abs_S1044579X17300160" class="previewBox abstract hidden"></div><div  id="rabs_S1044579X17300160" class="previewBox rabstract hidden"></div><div  id="gabs_S1044579X17300160" class="previewBox gabstract hidden"></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_13" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S1044579X17300056" aria-labelledby="title_S1044579X17300056" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S1044579X17300056" href="http://www.sciencedirect.com/science/article/pii/S1044579X17300056" class="cLink artTitle S_C_artTitle " data-docsubtype="rev" queryStr="?_rdoc=14&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1044579X17X00035)&_docanchor=&_ct=18&md5=33f454d79c4d3e486c4f2f7739e2b56e">Out of Warburg effect: An effective cancer treatment targeting the tumor specific metabolism and dysregulated pH</a></h4><span class="articleTypeLabel">Review Article</span></li><li class="source "><i>Pages 134-138</i></li><li class="authors ">Laurent Schwartz, Thomas Seyfried, Khalid O. Alfarouk, Jorgelindo Da Veiga Moreira, Stefano Fais</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=14&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1044579X17X00035)&_ct=18&_zone=rslt_list_item&_fmt=full&_pii=S1044579X17300056&_issn=1044579X&_tab=afr&absLinks=y&md5=e40f969128d19121dd87b69c07cec293" aria-describedby="title_S1044579X17300056" aria-controls="abs_S1044579X17300056" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a aria-describedby="title_S1044579X17300056"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S1044579X17300056&_ts=1494959286&md5=01a09c4653494ac222f60ea9889d63c1"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $41.95</a></li>
+</ul><div  id="abs_S1044579X17300056" class="previewBox abstract hidden"></div><div  id="rabs_S1044579X17300056" class="previewBox rabstract hidden"></div><div  id="gabs_S1044579X17300056" class="previewBox gabstract hidden"></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_14" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S1044579X17300068" aria-labelledby="title_S1044579X17300068" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S1044579X17300068" href="http://www.sciencedirect.com/science/article/pii/S1044579X17300068" class="cLink artTitle S_C_artTitle " data-docsubtype="rev" queryStr="?_rdoc=15&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1044579X17X00035)&_docanchor=&_ct=18&md5=fb5f97873d41ee94559aea5c8feab1b2">Triple-edged therapy targeting intracellular alkalosis and extracellular acidosis in cancer</a></h4><span class="articleTypeLabel">Review Article</span></li><li class="source "><i>Pages 139-146</i></li><li class="authors ">Tomas Koltai</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=15&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1044579X17X00035)&_ct=18&_zone=rslt_list_item&_fmt=full&_pii=S1044579X17300068&_issn=1044579X&_tab=afr&absLinks=y&md5=731e2c98c307e957b3c7c4b5529aaad5" aria-describedby="title_S1044579X17300068" aria-controls="abs_S1044579X17300068" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a aria-describedby="title_S1044579X17300068"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S1044579X17300068&_ts=1494959286&md5=f55ad4e840658d62859c7d183aa23ac3"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $41.95</a></li>
+</ul><div  id="abs_S1044579X17300068" class="previewBox abstract hidden"></div><div  id="rabs_S1044579X17300068" class="previewBox rabstract hidden"></div><div  id="gabs_S1044579X17300068" class="previewBox gabstract hidden"></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_15" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S1044579X17300238" aria-labelledby="title_S1044579X17300238" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S1044579X17300238" href="http://www.sciencedirect.com/science/article/pii/S1044579X17300238" class="cLink artTitle S_C_artTitle " data-docsubtype="rev" queryStr="?_rdoc=16&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1044579X17X00035)&_docanchor=&_ct=18&md5=a67bd5fef6bf04bda035ea11eeed7d14">Focal photodynamic intracellular acidification as a cancer therapeutic</a></h4><span class="articleTypeLabel">Review Article</span></li><li class="source "><i>Pages 147-156</i></li><li class="authors ">Matthew J. Gdovin, Nuha Kadri, Lourdes Rios, Steven Holliday, Zachary Jordan</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=16&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1044579X17X00035)&_ct=18&_zone=rslt_list_item&_fmt=full&_pii=S1044579X17300238&_issn=1044579X&_tab=afr&absLinks=y&md5=874682ce934d3d822918c9789fc5eea7" aria-describedby="title_S1044579X17300238" aria-controls="abs_S1044579X17300238" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a aria-describedby="title_S1044579X17300238"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S1044579X17300238&_ts=1494959286&md5=861b50b0e2e6e32bd6064ea7a9274eef"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $41.95</a></li>
+</ul><div  id="abs_S1044579X17300238" class="previewBox abstract hidden"></div><div  id="rabs_S1044579X17300238" class="previewBox rabstract hidden"></div><div  id="gabs_S1044579X17300238" class="previewBox gabstract hidden"></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_16" class="resultsView"></div><div class="subHeadsBlock heading1" ><h2 class="sectionH1">Wrap-up Review</h2></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S1044579X17300196" aria-labelledby="title_S1044579X17300196" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S1044579X17300196" href="http://www.sciencedirect.com/science/article/pii/S1044579X17300196" class="cLink artTitle S_C_artTitle " data-docsubtype="rev" queryStr="?_rdoc=17&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1044579X17X00035)&_docanchor=&_ct=18&md5=6e4df660fbdaa99cadc1d6a865119ab9">Cellular acidification as a new approach to cancer treatment and to the understanding and therapeutics of neurodegenerative diseases</a></h4><span class="articleTypeLabel">Review Article</span></li><li class="source "><i>Pages 157-179</i></li><li class="authors ">Salvador Harguindey, Daniel Stanciu, Jesús Devesa, Khalid Alfarouk, Rosa Angela Cardone, Julian David Polo Orozco, Pablo Devesa, Cyril Rauch, Gorka Orive, Eduardo Anitua, Sébastien Roger, Stephan J. Reshkin</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=17&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1044579X17X00035)&_ct=18&_zone=rslt_list_item&_fmt=full&_pii=S1044579X17300196&_issn=1044579X&_tab=afr&absLinks=y&md5=3df52c1e43cbc68fa92a44129e05d0bf" aria-describedby="title_S1044579X17300196" aria-controls="abs_S1044579X17300196" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a aria-describedby="title_S1044579X17300196"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S1044579X17300196&_ts=1494959286&md5=34f4cb032ee237b452b7d3289417179c"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $41.95</a></li>
+</ul><div  id="abs_S1044579X17300196" class="previewBox abstract hidden"></div><div  id="rabs_S1044579X17300196" class="previewBox rabstract hidden"></div><div  id="gabs_S1044579X17300196" class="previewBox gabstract hidden"></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_17" class="resultsView"></div><div class="subHeadsBlock heading1" ><h2 class="sectionH1">Erratum</h2></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S1044579X17300184" aria-labelledby="title_S1044579X17300184" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S1044579X17300184" href="http://www.sciencedirect.com/science/article/pii/S1044579X17300184" class="cLink artTitle S_C_artTitle " data-docsubtype="err" queryStr="?_rdoc=18&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1044579X17X00035)&_docanchor=&_ct=18&md5=6e50152f7754c515a9347f363ca5f9cf">Erratum to ‘Exploring and exploiting the systemic effects of deregulated replication licensing’ [Seminars in Cancer Biology 37–38C, (2016) 3–15]</a></h4></li><li class="source "><i>Page 180</i></li><li class="authors ">Theodoros G. Petrakis, Eirini-Stavroula Komseli, Marilena Papaioannou, Kostas Vougas, Alexandros Polyzos, Vassilios Myrianthopoulos, Emmanuel Mikros, Ioannis P. Trougakos, Dimitris Thanos, Dana Branzei, Paul Townsend, Vassilis G. Gorgoulis</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a class="cLink" rel="nofollow" aria-describedby="title_S1044579X17300184" href="/science/article/pii/S1044579X17300184/pdfft?md5=53540f08298c9a9d94bd06caa1855e71&pid=1-s2.0-S1044579X17300184-main.pdf" queryStr="?_origin=PublicationURL&_zone=rslt_list_item" target="_blank"><span class="pdfIconSmall">&nbsp;</span>PDF (155 K)</a></li>
+</ul><div  id="abs_S1044579X17300184" class="previewBox abstract hidden"></div><div  id="rabs_S1044579X17300184" class="previewBox rabstract hidden"></div><div  id="gabs_S1044579X17300184" class="previewBox gabstract hidden"></div></div></li><li class="accessBlock colLast"><span class="dsub_article_sci_dir sci_dir" title="Entitled to full text" alt="Entitled to full text">&nbsp;<span class="offscreen">Entitled to full text</span></span></li></ul></li><div id="resultsView_18" class="resultsView"></div></ol></div></div>
+    
+
+
+    <input type="hidden" name="count" value="18">
+
+
+
+
+</div>
+</form>
+
+<script>prs.rt("pcr");</script>
+
+
+                      
+                        <div class="navigation top" aria-label="Pagination" role="navigation">
+                          <!-- Page Navigation -->
+<input type="hidden" name="bottomPaginationBoxChanged" value=""/>
+<input type="hidden" id="vectorNext" name="vectorNext" value=""/>
+<input type="hidden" id="vectorPrev" name="vectorPrev" value=""/>
+<div class="paginationBar">
+  
+  
+    Articles <b>1 - 18</b>
+  
+  </div>
+
+                        </div> 
+                        <div class="navigation" aria-label="Pagination" role="navigation">
+                          <!-- Page Navigation -->
+<input type="hidden" name="bottomPaginationBoxChanged" value=""/>
+<input type="hidden" id="vectorNext" name="vectorNext" value=""/>
+<input type="hidden" id="vectorPrev" name="vectorPrev" value=""/>
+<div class="paginationBar">
+  
+  
+    Articles <b>1 - 18</b>
+  
+  </div>
+
+                        </div>
+                      
+                      </div>
+                    </div> <!-- end of issueList -->
+                
+                    
+                <ul class="volumePage navigation">
+                
+                    
+                    <li>
+                    
+                    <a title="Previous volume/issue" class="ActionButton" href="/science/journal/1044579X/42">&lt; Previous vol/iss</a>
+                    
+                    </li>
+                    <li>
+                    
+                      <a title="Next volume/issue" class="ActionButton" href="/science/journal/aip/1044579X">Next vol/iss &gt;</a>
+                    
+                    </li>
+                    
+                
+                </ul>
+                <div style="clear:both"></div>
+            </div>
+            <!-- ECRED  -->
+
+<!-- ECRED -->
+
+
+ 
+            
+    
+
+ </div><!-- width100% -->
+</div><!-- sdHeader -->
+
+<!-- <div id="sdpa"></div> -->
+
+    
+       <div class="ccs-component">
+    
+        <div class="Footer" role="contentinfo"><div class="els-footer"><div class="els-footer-body"><a class="els-footer-elsevier" href="http://www.elsevier.com/" rel="nofollow" target="_blank"><span class="ccs-icon svg-wordmark-elsevier" aria-label="Elsevier"><span class="svg-text">Elsevier</span></span></a><div class="els-footer-content"><div class="els-footer-links"><a class="link-inherit" href="http://www.elsevier.com/solutions/sciencedirect" rel="nofollow" target="_blank">About ScienceDirect</a><wbr/><a class="link-inherit" href="/science/activateaccess" rel="nofollow" target="_blank">Remote access</a><wbr/><a class="link-inherit" href="/science?_ob=ShoppingCartURL&amp;_method=display&amp;_zone=TopNavBar&amp;_origin=publicationurl&amp;md5=f795ebb7043da9fdff66dbc72a1c68c8" rel="nofollow" target="_blank">Shopping cart</a><wbr/><a class="link-inherit" href="https://service.elsevier.com/app/contact/supporthub/sciencedirect/" rel="nofollow" target="_blank">Contact and support</a><wbr/><a class="link-inherit" href="https://www.elsevier.com/legal/elsevier-website-terms-and-conditions" rel="nofollow" target="_blank">Terms and conditions</a><wbr/><a class="link-inherit" href="http://www.elsevier.com/legal/privacy-policy" rel="nofollow" target="_blank">Privacy policy</a></div><div class="els-footer-cookie">Cookies are used by this site. For more information, visit the <a class="link-blue" href="https://www.elsevier.com/solutions/sciencedirect/support/cookies" rel="nofollow" target="_blank">cookies page</a>.</div><div class="els-footer-copyright">Copyright © <span class="copyright-year">2017</span> Elsevier B.V. or its licensors or contributors. ScienceDirect ® is a registered trademark of Elsevier B.V.</div></div></div><div class="els-footer-relx-group"><a class="els-footer-relx" href="http://www.relx.com/" rel="nofollow" target="_blank"><span class="ccs-icon svg-wordmark-relx-group" aria-label="RELX Group"><span class="svg-text">RELX Group</span></span></a></div></div></div> 
+       </div>
+
+
+<div style="display:none" id="leaderboard2"><script type="text/javascript">
+	
+googletag.cmd.push(function() {
+
+	
+	
+//Adslot 1 declaration
+		
+gptadslots[1]= googletag.defineSlot('/6053/els.sdguest/ISSN1044579X', [[728,90]],'leaderboard2').addService(googletag.pubads());
+
+		
+//Adslot 2 declaration
+		
+gptadslots[2]= googletag.defineSlot('/6053/els.sdguest/ISSN1044579X', [[160,600]],'skyscraper2').addService(googletag.pubads());
+
+		
+googletag.pubads().collapseEmptyDivs();
+		
+googletag.pubads().enableAsyncRendering();
+		
+googletag.enableServices();
+	
+});
+
+</script>
+
+<!-- End: GPT -->
+
+<!-- Beginning Async AdSlot 1 for Ad unit els.sdgust/ISSN1044579X  ### size: [[728,90]] -->
+
+<!-- Adslot's refresh function: googletag.pubads().refresh([gptadslots[1]]) -->
+
+<script type='text/javascript'>
+
+  var lbZone = document.getElementById('leaderboard');
+  var lbContent = document.getElementById('leaderboard2');
+  if(lbZone && lbContent) {
+    lbZone.appendChild(lbContent);
+  }
+		
+googletag.cmd.push(function() { googletag.display('leaderboard2'); });
+	
+</script>
+
+<!-- End AdSlot 1 --></div>
+<div style="display:none" id="skyscraper2"><!-- Beginning Async AdSlot 2 for Ad unit els.sdgust/ISSN1044579X  ### size: [[160,600]] -->
+
+<!-- Adslot's refresh function: googletag.pubads().refresh([gptadslots[2]]) -->
+
+<script type='text/javascript'>
+  var skyZone = document.getElementById('skyscraper');
+  var skyContent = document.getElementById('skyscraper2');
+  if(skyZone && skyContent) {
+    skyZone.appendChild(skyContent);
+  }
+		
+googletag.cmd.push(function() { googletag.display('skyscraper2'); });
+	
+</script>
+
+
+<!-- End AdSlot 2 --></div>
+
+<script>
+var SDM = new Object;
+SDM.si = new Object;
+SDM.si.sds = "f7c4e5aac70b2cb0ca34e76e663a7b489ead045f0d1dc8c311927e05dd8e6f7b59962b3b46534211ae49a72b6cfa65c6";
+
+SDM.tid = "6052518c-3a65-11e7-a758-00000aacb35e";
+SDM.ep = new Object();
+SDM.ep.urlPrefix = "http://www.sciencedirect.com/science";
+SDM.ep.enableUsabillaMsg = "Y";
+SDM.ep.urlQualifier = "science";
+SDM.ieVersion="8";
+SDM.pageTransKey = "05/16/2017 14:27:54 EDT#2846_002#98902#95.30.38.0";
+SDM.pageType = "pubhome_j";
+SDM.ud = "12975512||C000228598|291352|GUEST";
+
+SDM.pf = new Object();
+SDM.pf.ddm = new Object();
+SDM.pf.ddm.endpoint = "";
+
+
+
+ 
+     SDM.isHome = false;
+ 
+ SDM.isSDTechHeader = true;
+
+
+
+
+SDPA.init();
+
+
+Ads.init();
+
+</script>
+
+<script type="text/javascript">/*{literal}<![CDATA[*/window.lightningjs||function(c){function g(b,d){d&&(d+=(/\?/.test(d)?"&":"?")+"lv=1");c[b]||function(){var i=window,h=document,j=b,g=h.location.protocol,l="load",k=0;(function(){function b(){a.P(l);a.w=1;c[j]("_load")}c[j]=function(){function m(){m.id=e;return c[j].apply(m,arguments)}var b,e=++k;b=this&&this!=i?this.id||0:0;(a.s=a.s||[]).push([e,b,arguments]);m.then=function(b,c,h){var d=a.fh[e]=a.fh[e]||[],j=a.eh[e]=a.eh[e]||[],f=a.ph[e]=a.ph[e]||[];b&&d.push(b);c&&j.push(c);h&&f.push(h);return m};return m};var a=c[j]._={};a.fh={};a.eh={};a.ph={};a.l=d?d.replace(/^\/\//,(g=="https:"?g:"http:")+"//"):d;a.p={0:+new Date};a.P=function(b){a.p[b]=new Date-a.p[0]};a.w&&b();i.addEventListener?i.addEventListener(l,b,!1):i.attachEvent("on"+l,b);var q=function(){function b(){return["<head></head><",c,' onload="var d=',n,";d.getElementsByTagName('head')[0].",d,"(d.",g,"('script')).",i,"='",a.l,"'\"></",c,">"].join("")}var c="body",e=h[c];if(!e)return setTimeout(q,100);a.P(1);var d="appendChild",g="createElement",i="src",k=h[g]("div"),l=k[d](h[g]("div")),f=h[g]("iframe"),n="document",p;k.style.display="none";e.insertBefore(k,e.firstChild).id=o+"-"+j;f.frameBorder="0";f.id=o+"-frame-"+j;/MSIE[ ]+6/.test(navigator.userAgent)&&(f[i]="javascript:false");f.allowTransparency="true";l[d](f);try{f.contentWindow[n].open()}catch(s){a.domain=h.domain,p="javascript:var d="+n+".open();d.domain='"+h.domain+"';",f[i]=p+"void(0);"}try{var r=f.contentWindow[n];r.write(b());r.close()}catch(t){f[i]=p+'d.write("'+b().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};a.l&&setTimeout(q,0)})()}();c[b].lv="1";return c[b]}var o="lightningjs",k=window[o]=g(o);k.require=g;k.modules=c}({});
+window.usabilla_live = lightningjs.require("usabilla_live", "//w.usabilla.com/11e800d34be0.js");
+/*]]>{/literal}*/
+if(typeof SDM != "undefined") {
+  if(SDM.ud) { usabilla_live("data", {"custom": {"ud":SDM.ud} }); }
+  if(SDM.pf&&SDM.pf.oa) {
+    if(SDM.pf.oa.item) { usabilla_live("data", {"custom": {"open_access":SDM.pf.oa.item} });}
+    if(SDM.pf.oa.archive) { usabilla_live("data", {"custom": {"open_archive":SDM.pf.oa.archive} });}
+  }
+  if(SDM.pm&&SDM.pm.mod_cid) {
+    usabilla_live("data", {"custom": {"refmod_article":true} });
+  }
+  else {usabilla_live("data", {"custom": {"refmod_article":false} });}
+}
+</script>
+<script>
+function tmp_removeCite() {
+    if ($('#cited_by_articles').length) {
+    if (SDM.pm != undefined) {
+        if (SDM.pm.issnisbn == '23528478') {
+            $('#cited_by_articles').hide();
+            } 
+        } 
+    }
+}
+
+function tmp_removeCiteCounter(c) {
+    if ($('#cited_by_articles').length) {
+        tmp_removeCite();
+    }
+    else if (c>30) {
+        return;
+    }
+    else {
+        c++;
+        setTimeout(function() {tmp_removeCiteCounter(c);}, 200);
+    }
+}
+tmp_removeCiteCounter(1);  
+</script>
+
+
+<script src="//assets.adobedtm.com/376c5346e33126fdb6b2dbac81e307cbacfd7935/satelliteLib-b7cfe8df39a4e5eec5536bba80e13f4b6fa0dd7c.js"></script>
+<script>
+
+
+var pageData=new Object;
+
+var page=new Object;
+page["businessUnit"]="ELS:RP:ST";
+page["isProduction"]="true";
+page["language"]="en";
+page["name"]="browse:journal";
+page["productName"]="SD";
+page["environment"]="prod";
+page["noTracking"]="false";
+page["loadTime"]="";
+page["loadTimestamp"]=Date.now().toString();
+page["type"]="pubhome_j";
+pageData["page"]=page;
+
+var visitor=new Object;
+visitor["accessType"]="ae:ANON-GUEST";
+visitor["accountId"]="ae:228598";
+visitor["accountName"]="ae:ScienceDirect Guests";
+
+visitor["industry"]="";
+visitor["ipAddress"]="95.30.38.0";
+visitor["loginStatus"]="";
+visitor["sisId"]="";
+
+visitor["userId"]="ae:12975512";
+pageData["visitor"]=visitor;
+
+
+
+function getPageLoadTime()
+{ 
+    returnValue = '';
+    if (typeof(performance) !== 'undefined' && typeof(performance.timing) == 'object')
+    {
+        timing = performance.timing;
+        startTime = timing.redirectStart || timing.fetchStart || timing.requestStart;
+        endTime = timing.domContentLoadedEventEnd || timing.domInteractive || timing.domComplete || timing.loadEventComplete;
+        if (startTime && endTime && startTime < endTime) returnValue = endTime - startTime;
+    }
+    return returnValue.toString();
+}
+
+$(document).ready(function()
+{
+    if( typeof(pageData) != 'undefined' && typeof(pageData["page"]) != 'undefined' && typeof(pageData["page"]["loadTime"]) != 'undefined' )
+    {
+        pageData["page"]["loadTime"]=getPageLoadTime();
+    }
+}
+);
+
+
+try { pageDataTracker.trackPageLoad(); }
+catch(e) { console.warn("There was an error loading or running Adobe DTM:\r\n ", e); }
+</script>
+
+
+
+<script src="//sdfestaticassets-us-east-1.sciencedirectassets.com/prod/ce6a74e3c87c96230cf658ad64ddc24394585c0c/client.js"></script>
+
+
+        </div>
+        
+    </div> 
+
+    <div style="clear:both"></div>
+    
+</div>
+<div id="appBackground"></div>
+<div id="appDialog" class="files">
+    <div id="header">
+     <div class="pdfSearchHeading"> Download PDFs
+    <span class="close" id="closeBtn" href = "#" title = "Close Search Results " alt="Close Search Results"><img src="http://cdn.els-cdn.com/sd/sci_dir/closeButton.png"></span>
+    </div></div>
+    <div id="contentBlk" class="view">
+        <div class="help_button" id="ddmMainHelp"><a class="ddmHelp" target="sdhelp" href="/science?_ob=HelpURL&_file=DM_main.htm&_btn=Y&_zone=TopNavBar&_origin=journal" title="Help (Opens new window)" onClick="var helpWin; helpWin=window.open('/science?_ob=HelpURL&_file=DM_main.htm&_btn=Y&_zone=TopNavBar&_origin=journal','sdhelp','scrollbars=yes,resizable=yes,directories=no,toolbar=no,menubar=no,status=no,width=984,height=738'); helpWin.focus(); return false">Help</a></div>
+        <div class="help_button" id="ddmNewformatHelp"><a class="ddmHelp" target="sdhelp" href="/science?_ob=HelpURL&_file=DM_newformat.htm&_btn=Y&_zone=TopNavBar&_origin=journal" title="Help (Opens new window)" onClick="var helpWin; helpWin=window.open('/science?_ob=HelpURL&_file=DM_newformat.htm&_btn=Y&_zone=TopNavBar&_origin=journal','sdhelp','scrollbars=yes,resizable=yes,directories=no,toolbar=no,menubar=no,status=no,width=984,height=738'); helpWin.focus(); return false">Help</a></div>
+        <div id="filesTemplate"></div>
+        <div id="namingTemplate"></div> 
+    </div>
+    <div class="footer"></div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,969 @@
+
+
+
+
+
+
+<!doctype html>
+<html>
+<head>
+<link rel="stylesheet" Title="Default Styles" href="//sdfestaticassets-us-east-1.sciencedirectassets.com/prod/ce6a74e3c87c96230cf658ad64ddc24394585c0c/style.css" type="text/css">
+
+<meta charset="utf-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+<meta name="robots" content="NOARCHIVE">
+<meta name="robots" content="noodp" />
+<meta name="robots" content="noydir" />
+ 
+    <meta name="citation_fulltext_world_readable" content="">  
+
+<link rel="canonical" href="http://www.sciencedirect.com/science/article/pii/S1818087615000112">
+
+
+<link rel="shortcut icon" href="http://cdn.els-cdn.com/sd/favSD.ico" type="image/x-icon">
+<title>
+ A developed HPLC method for the determination of Alogliptin Benzoate and its potential impurities in bulk drug and tablets
+ </title> 
+
+<link type="text/css" rel="StyleSheet" href="http://www.sciencedirect.com/gadgetservices/gadgets/v9/css/gadgets_ext,gadgets,toolbar,SDArticleGadgetOverRide,jquery-ui-1.8.4.custom.css">
+
+
+<link rel="stylesheet" href="http://cdn.els-cdn.com/sd/css/article_1704R5.css" type="text/css">
+<link rel="stylesheet" href="http://cdn.els-cdn.com/sd/css/articleSprite_1704R5.css" type="text/css">
+<link rel="stylesheet" href="http://cdn.els-cdn.com/sd/css/jquery-ui_1704R5.css" type="text/css">
+
+
+
+
+<!--[if lt IE 9]>
+<link rel="stylesheet" Title="Default Styles" href="http://cdn.els-cdn.com/sd/css/css_gen_ielt9_1704R5.css" type="text/css">
+<![endif]-->
+
+<script>
+var ab=new Object();
+ab.entitled = true;
+</script>
+<script>(function() {var scriptTag = document.createElement('script'); 
+scriptTag.type = 'text/javascript';scriptTag.async = true;
+scriptTag.src = '//cdn.optimizely.com/js/204774041.js';
+var head = document.getElementsByTagName('head')[0];
+head.parentNode.insertBefore(scriptTag, head);
+})();function optimizelyTimeout() {
+window.optimizely = window.optimizely|| []; 
+if(!window.optimizely.data) {
+window.optimizely.push("timeout"); } }
+setTimeout(optimizelyTimeout, 1000); </script>
+
+<!-- Start: GPT Async -->
+<script type='text/javascript'>
+	
+var gptadslots=[];
+	
+var googletag = googletag || {};
+	
+googletag.cmd = googletag.cmd || [];
+	
+(function(){ var gads = document.createElement('script');
+		
+gads.async = true; gads.type = 'text/javascript';
+		
+var useSSL = 'https:' == document.location.protocol;
+		
+gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+		
+var node = document.getElementsByTagName('script')[0];
+		
+node.parentNode.insertBefore(gads, node);
+	})();
+
+</script>
+
+<script>
+var prs = new Object();prs.rt=function(label,ts){this[label]=(ts||ts==0?ts:new Date().getTime());};
+</script>
+
+
+
+<!--[if lte IE 7]>
+<script src="http://cdn.els-cdn.com/sd/ut/js/json2_1704R5.js.min"></script>
+<![endif]-->
+</head>
+
+
+<script>
+(function() {
+  if (window.BOOMR && window.BOOMR.version) { return; }
+  var dom,doc,where,iframe = document.createElement('iframe'),win = window;
+
+  function boomerangSaveLoadTime(e) {
+    win.BOOMR_onload=(e && e.timeStamp) || new Date().getTime();
+  }
+  if (win.addEventListener) {
+    win.addEventListener("load", boomerangSaveLoadTime, false);
+  } else if (win.attachEvent) {
+    win.attachEvent("onload", boomerangSaveLoadTime);
+  }
+
+  iframe.src = "javascript:false";
+  iframe.title = ""; iframe.role="presentation";
+  (iframe.frameElement || iframe).style.cssText = "width:0;height:0;border:0;display:none;";
+  where = document.getElementsByTagName('script')[0];
+  where.parentNode.insertBefore(iframe, where);
+
+  try {
+    doc = iframe.contentWindow.document;
+  } catch(e) {
+    dom = document.domain;
+    iframe.src="javascript:var d=document.open();d.domain='"+dom+"';void(0);";
+    doc = iframe.contentWindow.document;
+  }
+  doc.open()._l = function() {
+    var js = this.createElement("script");
+    if(dom) this.domain = dom;
+    js.id = "boomr-if-as";
+    js.src = '//c.go-mpulse.net/boomerang/' +
+    '2FBN2-NKMGU-EJKY8-ZANKZ-SUJZF';
+    BOOMR_lstart=new Date().getTime();
+    this.body.appendChild(js);
+  };
+  doc.write('<body onload="document._l();">');
+  doc.close();
+})();
+</script>
+
+
+
+
+<body>
+
+<div class="ua_btn" role="region" aria-label="screen reader compatability"><a role="button" rel="nofollow" href="http://www.sciencedirect.com/science/article/pii/S1818087615000112?np=y">Screen reader users, click here to load entire article</a>This page uses JavaScript to progressively load the article content as a user scrolls.  Screen reader users, click the load entire article button to bypass dynamically loaded article content.</div>
+
+
+
+<script>
+var refLinkURL = "http://www.sciencedirect.com/science/relLink/ajaxReq?_eid=1-s2.0-S1818087615000112";
+var updatedCitedBy = "http://www.sciencedirect.com/science/referenceResolution/ajaxRefResol?_updateCitedBy=";
+var refResolvePath = "http://www.sciencedirect.com/science/referenceResolution/ajaxRefResol?_pii=S1818087615000112&_refCnt=11&_docType=article";
+
+// these variables handle the reference resolution. Please ignore the naming.
+// the first variable myMap will hold an associative array of links by bibID
+// the second variable myXabsCounts holds the scopus counts.
+var myMap = []; // html of links for references.
+var myXabsCounts = []; // scopus counts
+</script>
+<div id="header-area">
+  
+
+
+<!-- ************* For A/B testing FAST and SOLR Proxy ***************** -->
+
+<!-- *************End for A/B testing FAST and SOLR Proxy *****************-->
+
+
+
+<div id="ieWarningMsg">
+    <span class="infoIcon_ie spErrorIcon">
+        Please note that Internet Explorer version 8.x will not be supported as of January 1, 2016. Please refer to <a href="http://blog.sciencedirect.com/posts/have-you-heard-spread-the-word-about-upgrading-your-browser"> this blog post</a> for more information.
+    </span>
+    <a class="closeBt" title="Close Internet Explorer 7 warning">Close</a>
+</div>
+
+
+
+<div id="header">
+
+<div class="ccs-component">
+    <div class="header" role="banner"><div class="els-header"><noscript></noscript><div class="els-header-sub-nav-container"><div class="els-header-leftside"><div class="els-header-wordmark"><a href="/"><span aria-label="ScienceDirect" class="ccs-icon svg-wordmark-sciencedirect-orange els-main-title"><span class="svg-text">ScienceDirect</span></span></a></div></div><div class="els-header-sub-nav"><ul class="JournalsAndBooks els-header-navigation" role="navigation"><li class="els-header-navigation-section"><a id="ccs-journalsLink" class="link-inherit els-header-navigation-item " href="/science/journals">Journals</a></li><li class="els-header-navigation-section"><a id="ccs-journalsLink" class="link-inherit els-header-navigation-item " href="/science/bookbshsrw">Books</a></li><li class="els-header-navigation-section"><a class="link-inherit els-header-navigation-item " href="https://www.sciencedirect.com/user/register?returnURL=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS1818087615000112">Register</a></li></ul><ul class="els-header-icons"><li class="els-header-icons-item els-header-user"><a aria-controls="ccs-profilePopup" aria-expanded="false" id="ccs-profilePopupLink" title="" href="https://www.sciencedirect.com/user/login?returnURL=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS1818087615000112" class="link-inherit els-header-user-link"><span class="signIn_User"><span id="els-header-user-sign-in" class="els-header-user-sign-in">Sign in</span><span id="els-header-user-sign-in-icon" class="ccs-icon svg-sdfe-arrow-down els-header-user-icon-signin"></span></span></a><div class="SignInOut"><div class="ccs-signin-popup" role="dialog" id="ccs-profilePopup" aria-label="Sign in"><div class="ccs-signin-popup-body-border"><div class="ccs-signin-body ccs-signin-popup-body"><form id="ccs-header-sign-in-form" class="SignInForm ccs-signin-local" action="https://www.sciencedirect.com/science/MiamiLoginURL" method="POST"><input type="hidden" value="login" name="login"/><input type="hidden" value="MiamiLogonURL" name="_ob"/><input type="hidden" value="http://www.sciencedirect.com/science/article/pii/S1818087615000112" name="returnURL"/><input type="hidden" value="http://www.sciencedirect.com/science/article/pii/S1818087615000112" name="targetURL"/><input type="hidden" value="https://www.sciencedirect.com/science/MiamiLoginURL" name="invalidLoginURL"/><input type="hidden" value="article" name="pageType"/><div><h3>Sign in using your ScienceDirect credentials</h3><div class="ccs-signin-form"><div><label class="ccs-signin-form-left">Username</label><span class="ccs-signin-form-right"><input class="ccs-signin-username" name="userid" id="ccs-signin-username-input" title="Please enter your username here" type="text"/></span></div><div><label class="ccs-signin-form-left">Password</label><span class="ccs-signin-form-right"><input class="ccs-signin-password" name="password" title="Please enter your password here" type="password"/></span></div><div><label class="ccs-signin-form-left"></label><span class="ccs-signin-form-right"><input class="" name="rememberid" value="Y" title="Checking this option will log you in automatically next time you visit ScienceDirect" type="checkbox" checked=""/><label>Remember me</label></span></div><div><label class="ccs-signin-form-left"></label><span class="ccs-signin-form-right"><input class="ccs-signin-submit" value="Sign in" title="Sign in to ScienceDirect" type="submit"/></span></div><div><label class="ccs-signin-form-left"></label><span class="ccs-signin-form-right"><a class="link-inherit" rel="nofollow" href="/science?_ob=ReminderURL&amp;_method=display&amp;md5=4a97631c25ac81c09ad2f961106e9da2" target="passwd" title="Click here for help in recovering your ScienceDirect access">Forgotten username or password?</a></span></div></div></div></form><div class="InstitutionalLogin ccs-signin-remote"><h3>Sign in via your institution</h3><ul class="ccs-signin-institution"><li class="ccs-signin-open-athens"><a class="link-inherit" rel="nofollow" href="https://auth.elsevier.com/ShibAuth/institutionLogin?entityID=https%3A%2F%2Fidp.eduserv.org.uk%2Fopenathens&amp;appReturnURL=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS1818087615000112" title="Log in using OpenAthens">OpenAthens</a></li><li class="ccs-signin-external"><a class="link-inherit" rel="nofollow" href="/science/externallogin" title="Other institution login">Other institution</a></li></ul></div></div></div></div></div></li><li class="Help els-header-icons-item"><a id="ccs-help-link" class="link-inherit els-header-help" href="/science?_ob=HelpURL&amp;_file=browse_open_doc.htm&amp;_btn=Y" title="Help" target="_blank"><span aria-label="Help" class="ccs-icon svg-help"><span class="svg-text">Help</span></span></a></li></ul><div id="mobile-menu-parent"><div class="HamburgerButton" id="hamburger-button"><button id="ccs-mobileHamburgerButton" aria-controls="" aria-expanded="false" aria-label="Menu" class="link"><span class="svg-hamburger-closed"></span></button></div><div aria-label="Mobile menu" class="MobileMenu" id="mobile-menu"><div class="mobile-menu-container" id="mobile-menu-container"><div class="mobilemenu-content"><div><div class="primary-mobile-menu"><ul class="JournalsAndBooks els-header-navigation" role="navigation"><li class="els-header-navigation-section"><a id="mobileccs-journalsLink" class="link-inherit els-header-navigation-item " href="/science/journals">Journals</a></li><li class="els-header-navigation-section"><a id="mobileccs-journalsLink" class="link-inherit els-header-navigation-item " href="/science/bookbshsrw">Books</a></li><li class="els-header-navigation-section"><a class="link-inherit els-header-navigation-item " href="https://www.sciencedirect.com/user/register?returnURL=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS1818087615000112">Register</a></li></ul></div><div class="secondary-mobile-menu"><li class="els-header-icons-item els-header-user"><a href="https://www.sciencedirect.com/user/login?returnURL=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS1818087615000112" aria-controls="mobileccs-profilePopup" aria-expanded="false" id="mobileccs-ProfilePopupLink" class="link-inherit els-header-user-link"><span class="signIn_User"><span id="els-header-user-sign-in" class="els-header-user-sign-in">Sign in</span><span id="els-header-user-sign-in-icon" class="ccs-icon svg-sdfe-arrow-down els-header-user-icon-signin"></span></span></a></li><li class="Help els-header-icons-item"><a id="mobileccs-help-link" class="link-inherit els-header-help" href="/science?_ob=HelpURL&amp;_file=browse_open_doc.htm&amp;_btn=Y" title="Help" target="_blank"><span aria-label="Help" class="ccs-icon svg-help"><span class="svg-text">Help</span></span></a></li></div></div></div></div></div></div><div class="SignInOut"><div class="ccs-signin-popup ccs-mobile-signin-popup" role="dialog" id="mobileccs-profilePopup" aria-label="Sign in"><div class="ccs-signin-popup-body-border"><div class="ccs-signin-body ccs-signin-popup-body"><form id="ccs-header-sign-in-form" class="SignInForm ccs-signin-local" action="https://www.sciencedirect.com/science/MiamiLoginURL" method="POST"><div class="ccs-sign-in-close"><a href="#" class="ccs-icon svg-delete link-inherit" id="ccs-closeSignInPopup" aria-label="Close sign in popup" aria-controls="mobileccs-profilePopup" role="button" title="Close"><span class="svg-text">close</span></a></div><input type="hidden" value="login" name="login"/><input type="hidden" value="MiamiLogonURL" name="_ob"/><input type="hidden" value="http://www.sciencedirect.com/science/article/pii/S1818087615000112" name="returnURL"/><input type="hidden" value="http://www.sciencedirect.com/science/article/pii/S1818087615000112" name="targetURL"/><input type="hidden" value="https://www.sciencedirect.com/science/MiamiLoginURL" name="invalidLoginURL"/><input type="hidden" value="article" name="pageType"/><div><h3>Sign in using your ScienceDirect credentials</h3><div class="ccs-signin-form"><div><label class="ccs-signin-form-left">Username</label><span class="ccs-signin-form-right"><input class="ccs-signin-username" name="userid" id="mobileccs-signin-username-input" title="Please enter your username here" type="text"/></span></div><div><label class="ccs-signin-form-left">Password</label><span class="ccs-signin-form-right"><input class="ccs-signin-password" name="password" title="Please enter your password here" type="password"/></span></div><div><label class="ccs-signin-form-left"></label><span class="ccs-signin-form-right"><input class="" name="rememberid" value="Y" title="Checking this option will log you in automatically next time you visit ScienceDirect" type="checkbox" checked=""/><label>Remember me</label></span></div><div><label class="ccs-signin-form-left"></label><span class="ccs-signin-form-right"><input class="ccs-signin-submit" value="Sign in" title="Sign in to ScienceDirect" type="submit"/></span></div><div><label class="ccs-signin-form-left"></label><span class="ccs-signin-form-right"><a class="link-inherit" rel="nofollow" href="/science?_ob=ReminderURL&amp;_method=display&amp;md5=4a97631c25ac81c09ad2f961106e9da2" target="passwd" title="Click here for help in recovering your ScienceDirect access">Forgotten username or password?</a></span></div></div></div></form><div class="InstitutionalLogin ccs-signin-remote"><h3>Sign in via your institution</h3><ul class="ccs-signin-institution"><li class="ccs-signin-open-athens"><a class="link-inherit" rel="nofollow" href="https://auth.elsevier.com/ShibAuth/institutionLogin?entityID=https%3A%2F%2Fidp.eduserv.org.uk%2Fopenathens&amp;appReturnURL=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS1818087615000112" title="Log in using OpenAthens">OpenAthens</a></li><li class="ccs-signin-external"><a class="link-inherit" rel="nofollow" href="/science/externallogin" title="Other institution login">Other institution</a></li></ul></div></div></div></div></div></div></div></div></div> 
+    
+</div> 
+
+
+</div><!--header-->
+
+
+
+
+
+
+
+
+
+</div><!--header-area-->
+        <!-- PDFKING/PDFCITE -->
+        <div id="pdfModalWindow" class="pdfModalWindow" style="display:none;" onClick="pdfCite.closePopup();"></div>
+        <div id="suggestedPdfList" style="display:none;">
+        
+        </div>
+        <!-- PDFKING/PDFCITE End -->
+<div id="page-area">
+    
+     
+     
+    <div id="articleToolbar" class="clearfix quicksearch prd_sci_dir">
+        <div id="articleNav">
+  <ul aria-label="Article options" role="navigation" class="clearfix">
+    <!-- return to gateway -->
+     
+
+
+
+
+
+
+<li>
+  <div class="icon_pdf toolbar">
+    <div class="largeIcon"></div>
+    <a id="pdfLink" rel="nofollow"   href="http://www.sciencedirect.com/science/article/pii/S1818087615000112/pdfft?md5=c6c4eef637b5dd2b6cd357c8eb3ef680&pid=1-s2.0-S1818087615000112-main.pdf" queryStr="?_origin=article&_zone=toolbar" target="newPdfWin"   pdfurl="http://www.sciencedirect.com/science/article/pii/S1818087615000112/pdfft?md5=c6c4eef637b5dd2b6cd357c8eb3ef680&pid=1-s2.0-S1818087615000112-main.pdf" queryStr="?_origin=article&_zone=toolbar"  class="S_C_pdfLink big pdf ext_sdlink cLink" style="cursor:pointer" title="Download PDF" >Download PDF
+    <span id="pdfExplanation" class="offscreen">Opens in a new window.  Article suggestions will be shown in a dialog on return to ScienceDirect.</span>
+    </a>
+  </div>
+</li>
+ 
+ 
+
+
+
+
+
+
+
+<li class="exportPopupListitem">
+<div class="pulldown">
+    <div class="exportDivision" title="Export citations">
+    <div class="exportIconText">
+    <div class="icon_exportarticlesci_dir initialImage export_icon" tabindex="0"> &nbsp; </div>
+    <input id="icon_exportarticle" value="Export" name="export" class="listAction export export_general" tabindex="-1" type="button">
+     <span class="downSM_sci_dir exportArrow"></span>
+    </div>
+    <input class='zone' name='zone' type='hidden' value='exportDropDown'/>
+    </div>
+    <div class="menu export_popup hidden" id="export_popup">
+    <div  class='warningIcon' title="Warning Icon" alt="Warning Icon"></div>
+    <form name="exportCite" method=post action=/science?_ob=DownloadURL&_method=finish&_eidkey=1-s2.0-S1818087615000112&count=1&_docType=FLA&md5=d21489ab9f47d086a4ca1dc538a7aac1 target="">
+    <input class='zone' name='zone' type='hidden' value='exportDropDown'/>
+            <script language="javascript" type="text/javascript">
+<!--
+
+function checkExportFormat(limit) {
+
+    var msg = "";
+
+    for (i=0;i<document.exportCite.elements.length;i++) {
+        if (document.exportCite.elements[i].value == "REFWX") {
+            if (document.exportCite.elements[i].checked) {
+                document.exportCite.setAttribute('target',"RefWorksMain");
+                if (checkLimit()) {
+                    if (limit) {
+                        msg = "It is possible that some users may experience problems when downloading large numbers of citations. If this happens please contact RefWorks support at your regionally hosted site or e-mail support@refworks.com to assist you further.\n\n";
+                    }
+                    msg += "Exporting to RefWorks may take some time, please wait....";
+                    alert(msg);
+                }
+            }
+            else {
+                document.exportCite.setAttribute('target',"");
+            }
+            break;
+        }
+    }
+    return true;
+}
+
+function determineCount(numStr) {
+    var count=1;
+
+    if(numStr.indexOf("-")) {
+        var rangeStr = numStr.split("-");
+
+        if(rangeStr.length == 2) {
+            var highNum = parseInt(rangeStr[1]);
+            var lowNum = parseInt(rangeStr[0]);
+
+            if(highNum >= lowNum) { count = (highNum - lowNum) + 1; }
+        }
+    }
+    return count;
+}
+
+function checkLimit(){
+
+    var selectNum = "";
+    var useSelected = false;
+    var allNum = 0;
+    var count = 0;
+    var rdoc = 0;
+
+    for (i=0;i<document.exportCite.elements.length;i++) {
+        if (document.exportCite.elements[i].name == "count") {
+            allNum = document.exportCite.elements[i].value;
+        }
+        if (document.exportCite.elements[i].name == "NUMBER_LIST") {
+            selectNum = document.exportCite.elements[i].value;
+        }
+        if (document.exportCite.elements[i].name == "_rdoc") {
+            rdoc = document.exportCite.elements[i].value;
+        }
+        if (document.exportCite.elements[i].value == "selected") {
+            if (document.exportCite.elements[i].checked) {
+                useSelected = true;
+            }
+        }
+    }
+
+    if (useSelected) {
+        selectNum = selectNum.replace(/ /g,"");
+        if(selectNum.indexOf(",")) {
+            var commaList = selectNum.split(",");
+            for(i=0; i < commaList.length; i++) {
+                count += determineCount(commaList[i]);
+            }
+        }
+        else {
+            count += determineCount(selectNum);
+        }
+    }
+    else { 
+        if (rdoc > 0) {
+            count = 1;
+        }
+        else {
+            count = allNum;
+        }
+    }
+
+    if(count > 50) { return true; }
+  
+    return false;
+}
+
+//-->
+</script>
+
+    <div class="exportInfo">
+        <div class="chkboxCount"></div>
+        <div class="exportHelp">
+            <a target="sdhelp" href="/science?_ob=HelpURL&_file=art_export.htm&_btn=Y&_zone=TopNavBar&_origin=article" title="Help (Opens new window)" onClick="var helpWin; helpWin=window.open('/science?_ob=HelpURL&_file=art_export.htm&_btn=Y&_zone=TopNavBar&_origin=article','sdhelp','scrollbars=yes,resizable=yes,directories=no,toolbar=no,menubar=no,status=no,width=984,height=738'); helpWin.focus(); return false">Help</a>
+        </div>
+    </div>
+
+    <div class="expContainer">
+      <ul class="Export_Popup" width="100%">
+        <li class="subHeading"><h3> Direct export </h3></li>
+        <li class="direct_export">
+         
+            <div>
+              <div class="btn_export directExport">
+                <div class="icon_Mendeley" title="Save to Mendeley">&nbsp;</div>
+                <input id="directExport" type="button" value="Save to Mendeley" name="Save to Mendeley" alt="Save to Mendeley" class="mendeleyBT button"/>
+              </div>
+            </div>
+        
+        
+            <div class="btnLine">
+              <div class="btn_export refworks">
+                <div class="icon_Refworks" title="Save to RefWorks">&nbsp;</div>
+                <input id="REFWX" type="button" value="Save to RefWorks" name="Save to RefWorks" alt="Save to RefWorks" class="button refworks"/>
+              </div> 
+            </div>
+            <div class="clear"> </div>
+        
+        </li>
+        <li class="subHeading big"> <h3>Export file</h3></li>
+        <li class="export_radio RIS"><input type="radio" id="RIS" checked name="citation-type" value="RIS"  class="artRadio expRadio RIS">&nbsp;<label for="RIS">RIS&nbsp;(for EndNote, Reference Manager, ProCite)</label>
+        </li>
+        <li class="export_radio"><input type="radio" id="BIBTEX" name="citation-type" value="BIBTEX"  class="artRadio expRadio BIBTEX">&nbsp;<label for="BIBTEX">BibTeX</label>
+        </li>
+        <li class="export_radio"><input type="radio" id="ASCII" name="citation-type" value="ASCII"  class="artRadio expRadio ASCII">&nbsp;<label for="ASCII">Text</label>
+        </li>
+        <li class="export_radio hidden"><input type="radio" id="REFWX" name="citation-type" value="REFWX"  class="artRadio expRadio REFWX">&nbsp;<label for="REFWX">RefWorks Direct Export</label>
+        </li>
+        <li class="subHeading big"><h3>Content</h3></li>
+        <li class="expCitab export_radio"><input type="radio" id="cite" class="cite artRadio expRadio" name="format" value="cite" >&nbsp;<label class="cit" for="cite"> Citation Only </label>
+        </li>
+        <li class="expCitab export_radio citab"><input type="radio" id="cite-abs" class="cite-abs artRadio expRadio" name="format" value="cite-abs" checked>&nbsp;<label class="cab" for="cite-abs"> Citation and Abstract </label>
+        </li>
+        <li class="export_submit">
+            <div class="downBtn export_downBtn">
+               <input type="submit" value="Export" name="export" alt="Export" class="button export_button" id="export_button"/>
+            </div> 
+        </li>
+      </ul>
+
+    </div>
+
+
+        
+        
+            
+         
+
+    </form>
+    </div> 
+</div>    
+</li>
+  
+
+
+
+</ul>
+</div>
+
+<div class="sdSearch" aria-label="Quick search" role="search">
+    <fieldset>
+        <div class="left">
+            <form id="quickSearch" name="qkSrch" method="get" target="_top" action="/science">
+            <input type="hidden" name="_ob" value="QuickSearchURL">
+            <input type="hidden" name="_method" value="submitForm">
+            <input type="hidden" name="_acct" value="C000228598">
+            <input type="hidden" name="searchtype" value="a">
+            <input type="hidden" name="_origin" value="article">
+            <input type="hidden" name="_zone" value="qSearch">
+            <input type="hidden" name="md5" value="89d09e911d3872e16ae140ceae8c0b3b">
+            
+            <input  id="quickSearch" type="text" name="qs_all" placeholder="Search ScienceDirect" value="" size="30" maxlength="450" title="Perform a quick search on ScienceDirect"><input type="submit" class="submit" value="" title="Submit quick search"/>
+            
+            <a class="advanced S_C_advanced" href="http://www.sciencedirect.com/science/search" >Advanced search</a>
+            </form>
+        </div>
+    </fieldset>
+</div>
+<div class="clear"></div>
+<div id="erToolbar"></div>
+
+
+<div style="color : #FF0000; font-weight : bold;border:0px solid red;">
+  
+  
+  
+  
+</div>
+
+
+
+
+
+    </div>
+    <div id="articleToolbarDummy"></div>
+  <div style="clear:both;"></div>
+  
+  <div id="leftPane" class="column" aria-label="table of contents" role="navigation">
+    <div id="leftPaneInner">
+        <div>
+        <div id="leftButton">
+            <ul>
+                <li class="tocbutton">
+                    <a class="outline-toggle" title="Open to view article outline"  alt="Open to view article outline" href="#" aria-expanded="false">
+                        <span class="icon outline_big"></span>
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <div id="outlineContainer">
+            <a class="closeBt" title="Close">&nbsp;</a>
+            <div id="outline" class="outline">
+              <script type="text/javascript">
+              document.write("<div class='outlineMsg'>Article outline is loading...</div>");
+              </script>
+              <noscript>
+              <div class="infoMsg">
+              <div style="float: left; width: 20px; "><img border="0" src="http://cdn.els-cdn.com/sd/alertIcon.gif" valign="top" alt="Alert message"></div>
+              <div style="padding-left:25px;">JavaScript is disabled on your browser. <br><div style="padding-top:10px;">
+              Please enable JavaScript to use all the features on this page.</div></div>
+              </div>
+              </noscript>
+            </div>
+        </div>
+        </div>
+    </div>
+  </div>
+  <div id="centerPane" class="column">
+    <div class="topBorder"></div>
+    <div id="centerContent" class="centerContent">
+    <div id="centerInner" class="centerInner svBigBox" aria-label="Article" role="main">
+        
+      
+      <noscript>
+      <div class="msgBox" style="margin-top:10px;">
+          <span class="errMsg">
+            <div>JavaScript is disabled on your browser.  Please enable JavaScript to use all the features on this page. This page uses JavaScript to progressively load the article content as a user scrolls. Click the View full text link to bypass dynamically loaded article content. <a rel="nofollow" href="http://www.sciencedirect.com/science/article/pii/S1818087615000112?np=y">View full text</a></div>
+         </span>
+      </div><br/>
+      </noscript>
+      <div class="head headTemplate page_fragment_ind">
+
+  
+<div class="publisherLogo">
+  <img src="http://ars.els-cdn.com/content/image/D18180876.gif"/>
+</div>
+
+
+  
+    <?xml version="1.0" encoding="UTF-8"?><div xmlns:bk="http://www.elsevier.com/xml/bk/dtd" class="publicationHead"><div class="title"><a title="Go to Asian Journal of Pharmaceutical Sciences on ScienceDirect" href="/science/journal/18180876" queryStr="?zone=centerPane" class="cLink"><span>Asian Journal of Pharmaceutical Sciences</span></a></div><p class="volIssue"><a class="S_C_volIss" title="Go to table of contents for this volume/issue" href="/science/journal/18180876/10/2">Volume 10, Issue 2</a>, April 2015, Pages 152–158</p></div>
+  
+    <div class="publicationCover cover2">
+    
+      
+    <a queryStr="?zone=publicationLogo" class="cLink" href="/science/journal/18180876/10/2">
+      
+    
+    <img alt="Cover image" src="http://ars.els-cdn.com/content/image/1-s2.0-S1818087615X00031-cov150h.gif" class="toprightlogo" />
+    <noscript><img alt="Cover image" src="http://ars.els-cdn.com/content/image/1-s2.0-S1818087615X00031-cov150h.gif" class="toprightlogo" /></noscript>
+    </a>
+    
+    <div class="publicationOAstatus">Open Access</div>
+    
+  </div>
+
+
+</div>
+
+      <div id="frag_1" class="page_fragment auth_frag" data-first="true" data-fid="1"><div id="dhead0010" class="publicationType"><span id="">Short Communication</span></div><div class="module_topic_paths"></div><h1 class="svTitle" id="title0010">A developed HPLC method for the determination of&nbsp;Alogliptin Benzoate and its potential impurities in bulk drug and tablets <sup><a href="#item1" id="bitem1" class="intra_ref"></a></sup></h1><ul class="authorGroup noCollab svAuthor"><li><a href="#" class="authorName svAuthor" data-orcid="" id="authname_N7e57bd00N7e533ef8" data-t="a" data-fn="Kun" data-ln="Zhang" data-pos="1" data-tb="">Kun Zhang</a><a title="Affiliation: a" href="#aff1" class="intra_ref auth_aff" id="baff1"><sup>a</sup></a>, </li><li><a href="#" class="authorName svAuthor" data-orcid="" id="authname_N7e57bd00N7e533fac" data-t="a" data-fn="Panqin" data-ln="Ma" data-pos="2" data-tb="">Panqin Ma</a><a title="Affiliation: b" href="#aff2" class="intra_ref auth_aff" id="baff2"><sup>b</sup></a>, </li><li><a href="#" class="authorName svAuthor" data-orcid="" id="authname_N7e57bd00N7e534060" data-t="a" data-fn="Wenna" data-ln="Jing" data-pos="3" data-tb="">Wenna Jing</a><a title="Affiliation: c" href="#aff3" class="intra_ref auth_aff" id="baff3"><sup>c</sup></a>, </li><li><a href="#" class="authorName svAuthor" data-orcid="" id="authname_N7e57bd00N7e534114" data-t="a" data-fn="Xiangrong" data-ln="Zhang" data-pos="4" data-tb="">Xiangrong Zhang</a><a title="Affiliation: a" href="#aff1" class="intra_ref auth_aff" id="baff1"><sup>a</sup></a><sup>, </sup><a title="Corresponding author contact information" href="#cor1" id="bcor1" class="intra_ref auth_corr"></a><sup>, </sup><a href="mailto:zhangxr@vip.sina.com" class="auth_mail" title="E-mail author"></a></li></ul><!--VALIDHTML--><ul class="affiliation authAffil"><li id="aff1"><sup>a</sup> <span id="">School of Pharmacy, Shenyang Pharmaceutical University, No.103, Wenhua Road, Shenyang, 110016, China</span></li><li id="aff2"><sup>b</sup> <span id="">Kangya of Ningxia Pharmaceuticals CO. LTD, No.57, Fuan West Lane, Yinchuan, 750003, China</span></li><li id="aff3"><sup>c</sup> <span id="">School of Medical Devices, Shenyang Pharmaceutical University, No.103, Wenhua Road, Shenyang, 110016, China</span></li></ul><!--VALIDHTML--><!--VALIDHTML--><dl class="articleDates"><dd>Received 22 April 2014, Revised 10 July 2014, Accepted 15 January 2015, Available online 16 February 2015</dd></dl><!--VALIDHTML--><div class="moreInformation"></div><div id="showMoreButtons"></div><div id="ppvPlaceHolder" class="hidden"></div><!--VALIDHTML--><dl class="extLinks"><dd class="doiLink"></dd><dd class="rightsLink"></dd></dl><div class="articleOAlabelForced"></div><div id="refersToAndreferredToBy"><dl id="referredToBy" class="documentThread"><!--Referred To By--></dl></div><!--FRAGMENTEND--><div class="page_fragment_ind auth_frag" data-id="frag_2"></div></div><div id="frag_2" class="page_fragment" data-fid="2"><script>prs.rt("abs_1st_beg");</script><!--VALIDHTML--><hr id="abs_authorabs00101" class="artHeader"><div class="abstract svAbstract " data-etype="ab"><h2 class="secHeading" id="authorabs00101">Abstract</h2><p id="abspara0010">Alogliptin (AGLT), active ingredient of Alogliptin Benzoate (AGLT-BZ), is a new dipeptidyl peptidase-4 (DPP-4) inhibitor for the treatment of type 2 diabetes. This study aimed to build a suitable method to determine the potential related substances in AGLT-BZ bulk drug and tablets. Seven related substances in Alogliptin Benzoate substances were synthetized and identified by <sup>1</sup>H-NMR and ESI-MS. In addition, the impurities were detected by a gradient reverse-phase high performance liquid chromatography (RP-HPLC) with UV detection. The chromatographic system consisted of an Angilent Zobax SB-CN column (250&nbsp;&times;&nbsp;4.6&nbsp;mm; 5&nbsp;μm). The mobile phase consisted of water/acetonitrile/trifluoroacetic acid 1900:100:1 v/v/v (solution A) and acetonitrile/water/trifluoroacetic acid 1900:100:1 v/v/v (solution B) using a gradient program at a flow rate of 1.0&nbsp;ml/min with 278&nbsp;nm detection and an injection volume of 20&nbsp;μl. Additionally, selectivity, the limit of quantitation (LOQ) and limit of detection (LOD), linearity, accuracy, precision and robustness were determined. Linearity was good over the concentration range 50&ndash;1000&nbsp;ng/ml and the coefficient of determination (<em>R</em><sup>2</sup>) were 0.9991&ndash;0.9998. RSD% of the determination of precision were &lt;2% (<em>n</em>&nbsp;=&nbsp;6). The method of RP-HPLC for the determination of impurities in AGLT-BZ was proved to be precise, accurate, robust and reliable. Three batches of self-made bulk drug and three dosages of commercial tablets were detected with this method.</p></div><!--VALIDHTML--><h2 id="kwd_1" class="svKeywords">Keywords</h2><ul class="keyword" id="kwrds0010"><li id="kwrd0010" class="svKeywords"><span id="">Alogliptin benzoate</span>; </li><li id="kwrd0015" class="svKeywords"><span id="">Impurity</span>; </li><li id="kwrd0020" class="svKeywords"><span id="">HPLC</span>; </li><li id="kwrd0025" class="svKeywords"><span id="">Bulk drug</span>; </li><li id="kwrd0030" class="svKeywords"><span id="">Commercial tablets</span></li></ul><!--VALIDHTML--><div id="embeddedPDF" style="display:none"></div><script>prs.rt("abs_end");</script><div id="SD_BA1P" class="sgfNoTitleBar sgfNoGadgetBorder svDoNotLink"></div><!--VALIDHTML--><hr class="artHeader"><h2 class="svArticle" id="sec1">1. Introduction</h2><p class="svArticle section clear" id="p0010">Recent years, diabetes has been a serious disease affecting the patients around the world. According to International Diabetes Federation (IDF), there are totally 382 million diabetes patients in 2013. And this number will rise to 592 million by 2035 <span id="bbib1"><a href="#bib1" id="ancbbib1" class="intra_ref">[1]</a></span>. Type 2 diabetes is a chronic disease and progressive disease usually characterized by resistance of insulin and defunction of β-cell <a href="#bib2" id="bbib2" class="intra_ref">[2]</a>; <a href="#bib3" id="bbib3" class="intra_ref">[3]</a>&#xA0;; &#xA0;<a href="#bib4" id="bbib4" class="intra_ref">[4]</a>. Dipeptidyl peptidase-4 (DPP-4) is an enzyme, which is widely distributed in living organisms and blood circulation and could inactivate endogenous glucagon-like peptide-1 (GLP-1), an insulin tropic hormones playing an important role in promoting insulin secretion, inhibiting glucagon secretion, delaying gastric emptying, enhancing satiety and moderating food intake <a href="#bib5" id="bbib5" class="intra_ref">[5]</a>; <a href="#bib6" id="bbib6" class="intra_ref">[6]</a>; <a href="#bib7" id="bbib7" class="intra_ref">[7]</a>; <a href="#bib8" id="bbib8" class="intra_ref">[8]</a>&#xA0;; &#xA0;<a href="#bib9" id="bbib9" class="intra_ref">[9]</a>.</p><!--VALIDHTML--><p class="svArticle section clear" id="p0015">Alogliptin, active ingredient of 2-[6-[3(R)-Aminopiperidin-1-yl]-3-methyl-2,4-dioxo-1,2,3,4-tetrahydropyrimidin-1-ylmethyl] benzonitrile Benzoate, is a novel, potent and highly selective DPP-4 inhibitor <span id="bbib10"><a href="#bib10" id="ancbbib10" class="intra_ref">[10]</a></span>. It has been developed into a commodity firstly by Takeda Pharmaceutical Company Limited and on list in Japan and America in 2010 and 2013, respectively.</p><!--VALIDHTML--><p class="svArticle section clear" id="p0020">Strict control of impurities is necessary for the manufacturing of drug products. These impurities may be present in the materials, formed as by-products during the process of production or appear as degradation products during storage. Both actual and potential impurities should be studied and detected by a reliable and convenient method. Though a method was referred to in a patent of Takeda, the practicability of this method has not been verified <span id="bbib11"><a href="#bib11" id="ancbbib11" class="intra_ref">[11]</a></span>. Few studies about the related substances of AGLT-BZ have been reported. It is necessary not only to find the potential impurities according to the drug characteristic and synthesis route shown in <span id="bfig1"><a href="#fig1" id="ancbfig1" class="intra_ref">Fig.&nbsp;1</a></span>, but to find a convenient, accuracy and sensitive method to detect them. The impurities of AGLT-BZ studied in this paper were named as compounds A, B, C, D, E, F and G shown in <span id="btbl1"><a href="#tbl1" id="ancbtbl1" class="intra_ref">Table 1</a></span>, respectively.</p><!--VALIDHTML--><div class="figTblUpiOuter svArticle" id="figure_fig1"><div><dl class="figure" id="fig1" data-t="f"><dt class="autoScroll" data-style="height:531px;width:578px;"><a class="figureLink" href="#gr1" title="The synthesis route of AGLT-BZ."><img class="imgLazyJSB figure large nrmImg" border="0" alt="The synthesis route of AGLT-BZ." src="/sd/grey_pxl.gif" data-thumbEID="1-s2.0-S1818087615000112-gr1.sml" data-fullEID="1-s2.0-S1818087615000112-gr1.jpg" data-imgEIDs="1-s2.0-S1818087615000112-gr1.jpg" height="531" width="578" data-thumbheight="163" data-thumbwidth="178" data-fullheight="531" data-fullwidth="578"><noscript class="figure large" border="0" alt="Full-size image" data-thumbEID="1-s2.0-S1818087615000112-gr1.sml" data-fullEID="1-s2.0-S1818087615000112-gr1.jpg"><img class="figure large" border="0" alt="The synthesis route of AGLT-BZ." src="http://origin-ars.els-cdn.com/content/image/1-s2.0-S1818087615000112-gr1.jpg" data-thumbEID="1-s2.0-S1818087615000112-gr1.sml" data-imgEIDs="1-s2.0-S1818087615000112-gr1.jpg" data-fullEID="1-s2.0-S1818087615000112-gr1.jpg"></noscript></a></dt><dd id="labelCaptionfig1"><div class="caption">Fig.&nbsp;1.&#xA0;<p id="fspara0010">The synthesis route of AGLT-BZ.</p><!--caption--></div></dd><dd class="menuButtonLinks"><div class="btnHolder"><a class="menuTitle" href="#">Figure options</a><div class="down_Btn"></div></div><ul class="menuButton"><li><a class="S_C_full_size" data-src="/science?_ob=MiamiCaptionURL&amp;_method=retrieve&amp;_eid=1-s2.0-S1818087615000112&amp;_image=1-s2.0-S1818087615000112-gr1.jpg&amp;_cid=287981&amp;_explode=defaultEXP_LIST&amp;_idxType=defaultREF_WORK_INDEX_TYPE&amp;_alpha=defaultALPHA&amp;_ba=&amp;_rdoc=1&amp;_fmt=FULL&amp;_issn=18180876&amp;_pii=S1818087615000112&amp;md5=abe44f6982c6001ec3f58a2662508357" data-label="labelCaptionfig1" data-ref="" data-format="S1818087615000112" href="#gr1" title="View full-size image - Opens in new window">Download full-size image</a></li><li><a class="ppt S_C_ppt" title="Download as PowerPoint slide" href="http://services.elsevier.com/SDWebExport/export/figure/S1818087615000112/1-s2.0-S1818087615000112-gr1.jpg/ppt">Download as PowerPoint slide</a></li></ul></dd></dl></div></div><!--VALIDHTML--><div class="page_fragment_ind" data-id="frag_3"></div><script>prs.rt("abs_1st_end");</script></div>
+
+               
+
+       
+   
+        
+    </div>
+    <div id="footer-area-dummy"></div>
+	
+        <div class="ccs-component">
+            <div class="Footer" role="contentinfo"><div class="els-footer"><div class="els-footer-body"><a class="els-footer-elsevier" href="http://www.elsevier.com/" rel="nofollow" target="_blank"><span class="ccs-icon svg-wordmark-elsevier" aria-label="Elsevier"><span class="svg-text">Elsevier</span></span></a><div class="els-footer-content"><div class="els-footer-links"><a class="link-inherit" href="http://www.elsevier.com/solutions/sciencedirect" rel="nofollow" target="_blank">About ScienceDirect</a><wbr/><a class="link-inherit" href="/science/activateaccess" rel="nofollow" target="_blank">Remote access</a><wbr/><a class="link-inherit" href="/science?_ob=ShoppingCartURL&amp;_method=display&amp;_zone=TopNavBar&amp;_origin=article&amp;md5=98a3e89aa38c5044516e5e4ca8b64e74" rel="nofollow" target="_blank">Shopping cart</a><wbr/><a class="link-inherit" href="https://service.elsevier.com/app/contact/supporthub/sciencedirect/" rel="nofollow" target="_blank">Contact and support</a><wbr/><a class="link-inherit" href="https://www.elsevier.com/legal/elsevier-website-terms-and-conditions" rel="nofollow" target="_blank">Terms and conditions</a><wbr/><a class="link-inherit" href="http://www.elsevier.com/legal/privacy-policy" rel="nofollow" target="_blank">Privacy policy</a></div><div class="els-footer-cookie">Cookies are used by this site. For more information, visit the <a class="link-blue" href="https://www.elsevier.com/solutions/sciencedirect/support/cookies" rel="nofollow" target="_blank">cookies page</a>.</div><div class="els-footer-copyright">Copyright © <span class="copyright-year">2017</span> Elsevier B.V. or its licensors or contributors. ScienceDirect ® is a registered trademark of Elsevier B.V.</div></div></div><div class="els-footer-relx-group"><a class="els-footer-relx" href="http://www.relx.com/" rel="nofollow" target="_blank"><span class="ccs-icon svg-wordmark-relx-group" aria-label="RELX Group"><span class="svg-text">RELX Group</span></span></a></div></div></div>
+        </div>
+    
+    </div>
+ </div>
+ <div id="rightPane" class="column" aria-label="Related content" role="complementary">
+  <div id="rightOuter" class="rightOuter">
+    <div id="rightInner" class="rightInner">
+       <div class="innerPadding">
+
+    <div id="SD_BIB" class="hidden entry separator appBox sgfNoTitleBar sgfNoGadgetBorder"></div>
+ 
+
+    
+    
+        <div id="recommend_related_articles" class="entry separator related closed">
+            
+                <h2><a href="#articles" class="toggle" aria-controls="relArtList" aria-expanded="false"><span class="iconArrow">&nbsp;</span>Recommended articles</a></h2>
+             
+             <ol id="relArtList"><li class="note"><p>No articles found.</p></li></ol>
+        </div>
+    
+    
+    
+        <div id="cited_by_articles" class="entry separator related closed">
+            <h2><a href="#articles" class="toggle" aria-controls="relArtList" aria-expanded="false"><span class="iconArrow">&nbsp;</span>Citing articles (<span id="hitcount">0</span>)</a></h2>
+            <ol id="citedByList"><li class="note"><p>This article has not been cited.</p></li></ol> 
+        </div>
+    
+    
+    
+        <div id="SD_CRA" class="hidden entry separator appBox sgfNoTitleBar sgfNoGadgetBorder"></div>  
+    
+    
+        
+            <div id="related_book_content" class="entry separator related closed">
+                <h2><a href="#articles" class="toggle" aria-controls="relArtList" aria-expanded="false"><span class="iconArrow">&nbsp;</span>Related book content</a></h2>
+                <ol id="relBkList"><li class="note" style="margin-left:15px;"><p>No articles found.</p></li></ol>
+            </div>
+        
+     
+     
+
+
+
+    
+        <div class="appContainerDummy"></div>
+        <div class="appContainer js_application_content">
+            <ul class="hidden" id="dataRepHolder"></ul>
+            
+                <div id="SD_AT1P" class="boxLink sgfNoTitleBar sgfNoGadgetBorder"></div>
+            
+
+            
+                <div id="SD_FTA1" class="boxLink sgfHorToolbar sgfShowMyApps sgfShowMoreLessApps"></div>
+            
+        </div>
+    
+
+
+</div>
+
+<div class="js_workspace_content popup" aria-live="polite" role="region" aria-label="Overlay" aria-describedby="skuip-3">
+    <a aria-label="close overlay" title="close overlay" alt="close overlay" href="#" id="buttonClose" role="button" class="closeBt">&nbsp;</a>
+    <div class="scrollArea"><div id="workSpaceView"></div></div>
+</div>
+
+    </div><!--rightInner-->
+  </div><!--rightOuter-->
+ </div><!--rightPane-->
+</div><!--page-area-->
+
+
+
+<div style="clear:both;"></div>
+
+<form name="citationInfo" id ="citationInfo" method="POST" action="">
+    <input type="hidden" name="art_citation" value=""/>
+</form>
+
+
+<script src="http://cdn.els-cdn.com/sd/js/sdX_1704R5.js"></script>
+
+
+
+
+<script src="http://cdn.els-cdn.com/sd/js/sd_1704R5.js"></script>
+
+
+
+<script src="http://cdn.els-cdn.com/sd/js/pa_1704R5.js"></script>
+
+
+<script>
+var sciverse="empty";
+var SDM=new Object;
+SDM.tm=new Object;
+SDM.tm.ahm='h'
+
+
+
+SDM.ep=new Object;
+SDM.ep.downloadCsvURL = "http://services.elsevier.com/SDWebExport/export/table/csv";
+SDM.ep.downloadActionURL = "http://www.sciencedirect.com/science/downloadActions/keyEvent/S1818087615000112/18180876";
+SDM.ep.gigyaLib="//cdn.gigya.com/JS/socialize.js?apiKey=3__Bt7bHrGM8mjKPwBuOVjWyMi678aF6-PewcnoHJJ6UR1fS5t9NG9RBbKHjE0oA6J";
+SDM.ep.imgUrlPrefix = "http://ars.els-cdn.com/content/image/";
+SDM.ep.thumbimgUrlPrefix = "http://ars.els-cdn.com/content/thumbimage/";
+SDM.ep.mendeleyJS = "https://www.mendeley.com/minified/bookmarklet.js";
+SDM.ep.enableUsabillaMsg = "Y";
+SDM.ep.ref2ref2by = "http://www.sciencedirect.com/science/relLink/ajaxReq?_eid=1-s2.0-S1818087615000112";
+SDM.ep.staticImgUrlPrefix = "http://cdn.els-cdn.com/sd";
+SDM.ep.urlPrefix = "http://www.sciencedirect.com/science";
+SDM.ep.urlQualifier = "science";
+SDM.ep.urlScheme = "http://www.sciencedirect.com";
+SDM.ep.userActionURL = "http://www.sciencedirect.com/science/UserActions";
+ SDM.helpUrlDomain = "#";
+
+
+
+
+SDM.pm=new Object;
+SDM.pm.cid = '287981';
+SDM.pm.contentFamily = "serial";
+SDM.pm.contentType = "JL";
+SDM.pm.coverDate = '30-Apr-2015';
+
+SDM.pm.doi = '10.1016/j.ajps.2015.01.001';
+
+SDM.doi = '10.1016/j.ajps.2015.01.001';
+SDM.pm.eid = '1-s2.0-S1818087615000112';
+SDM.pm.entitled = true;
+ SDM.pm.hubEid = '1-s2.0-S1818087615X00031'; 
+SDM.pm.indexType = '';
+SDM.pm.issnisbn = "18180876";
+
+SDM.pm.itemWeight = 'FULL-TEXT';
+SDM.pm.mod_cid="";
+SDM.pm.mod_srcTitle="";
+SDM.pm.mod_ISBN = "";
+SDM.pm.pdfEid = '1-s2.0-S1818087615000112-main.pdf';
+SDM.pm.pdfSize = '902560';
+SDM.pm.pii = 'S1818087615000112';
+SDM.pm.prodColor="sci_dir";if(SDM.pm.prodColor=="sci_dir")SDM.pm.prodColor="";
+ SDM.pm.rev = '20150515T071247347574'; 
+ SDM.pm.hrev = 'vH.13'; 
+ SDM.pm.pptURL = 'http://services.elsevier.com/SDWebExport/export/figure/'; 
+
+
+
+
+
+
+
+SDM.pf = new Object;
+SDM.pf.pdfAvail = true;
+SDM.pf.reqAllFrags = true;
+ SDM.pf.maxElemsAllFrags = 12000
+SDM.pf.relatedBkAvail=true;
+SDM.pf.mlktAvail = true;
+SDM.pf.hpccAvail = true;
+SDM.pf.blkSocialLogins=true;
+
+
+SDM.browserUserMsg=true;
+
+
+SDM.pf.citedByScAvail = true;
+SDM.pf.aetEnabled = false;
+
+ SDM.pf.pdfMenuAvail=false; 
+ SDM.pf.npKey="fd71705c98686b670bba91a8c030bd24ef920da8c0653bf6e6acd5c391e89e86";
+
+
+SDM.pf.ads = new Object;
+SDM.pf.ads.leftUrl="/science/advertisement/left/num/235337/mainCat/general/cat/general/acct/ddd49027ac058c4db14dac8cc0563abc/isn/18180876/doi/10.1016_j.ajps.2015.01.001/page/article/artOAstatus/Y";
+
+
+
+
+SDM.pf.dc = new Object;
+SDM.pf.dc.retry = 10;
+SDM.pf.dc.retryDelay = 300;
+SDM.pf.dc.retryFactor = 1.0;
+SDM.pf.dc.respObj = '';
+
+
+SDM.pf.er = new Object();
+
+
+
+
+
+
+SDM.pf.frag = new Object();
+SDM.pf.frag.fat = '58c4cdf107d40babc9e34c251d7059bc6ddd3323fe42536945124e2151ce494b8f92b497d163e329b4637254100560dd5ef100c1eca789c78c4ea926aecbb5a17b5497ececf2c23f1f7aab34717ed641c7bf7c9b24b99cdb8eb76cf4a472ead08bf8cc6ddc67c45a5c4a5542efe33726f45b1229e935f9d1f96fa4f7b2cd5dbb26ba3fde2ec258bd66a2e1c8330a0c80fc6728b8f13bf9cc';
+SDM.pf.frag.mapRetry = 20;
+SDM.pf.frag.mapRetryDelay = 2000;
+SDM.pf.frag.mapRetryFactor = 1.1;
+SDM.pf.frag.retry = 5;
+SDM.pf.frag.retryDelay = 2000;
+SDM.pf.frag.foldFactor = 1.5;
+SDM.pf.frag.hashWait = 5000;
+
+
+
+SDM.pf.crossMark = new Object();
+SDM.pf.crossMark.url = "http://www.sciencedirect.com/science/crossMark";
+
+SDM.pf.crossMark.lib = "http://cdn.els-cdn.com/sd/js/crossmark_1704R5.js.min";
+
+
+
+
+
+SDM.pf.gadget = new Object();
+SDM.pf.gadget.displayGadgets=true;
+SDM.pf.gadget.sciverseUrlPfx="http://www.sciencedirect.com";
+SDM.pf.gadget.sciverseJsonObject='';
+SDM.pf.gadget.sciverseGadgetDetailsID = "";
+SDM.pf.gadget.svShindigLib="http://sciverse-shindig.elsevier.com/gadgets/js/shindig-container:pubsub-2.js?c=1";
+SDM.pf.gadget.svSciverseLib="http://www.sciencedirect.com/gadgetservices/gadgets/v9/js/SciverseShindigService,GadgetToolBar,jquery-outside,jquery.ba-bbq.min,SciverseShindigContainer,ScienceDirectShindigServices.js";
+
+
+
+SDM.pf.mrwmod = new Object();
+SDM.pf.mrwmod.breadCrumbPathURL = "http://www.sciencedirect.com/science/module/breadCrumbPaths/isbn//pii/S1818087615000112";
+
+SDM.pf.mrwmod.ldrAvail = true;
+
+
+ 
+
+
+SDM.pf.oa = new Object();
+
+
+SDM.pf.oa.source=true;
+SDM.pf.oa.sponsor = 'Shenyang Pharmaceutical University';
+SDM.pf.oa.sponsorLabel = 'Open Access funded by ';
+SDM.pf.oa.userLicense='http%3A%2F%2Fcreativecommons.org%2Flicenses%2Fby-nc-nd%2F4.0%2F';
+
+
+SDM.pf.ref = new Object();
+SDM.pf.ref.bs = 20;
+SDM.pf.ref.citedByURL = "http://www.sciencedirect.com/science/referenceResolution/ajaxRefResol?_updateCitedBy=";
+SDM.pf.ref.fd = 300;
+
+SDM.pf.ref.resolveURL = "http://www.sciencedirect.com/science/referenceResolution/ajaxRefResol?_pii=S1818087615000112&_refCnt=11&_docType=article";
+
+
+
+
+
+SDM.pf.toc=new Object;
+SDM.pf.toc.retry = 20;
+SDM.pf.toc.retryDelay = 1000;
+SDM.pf.toc.retryFactor = 1.09;
+SDM.pf.toc.outlineGraphics = false;
+SDM.pf.toc.outlineTab = "";
+
+SDM.pf.toc.urlTOCLink="http://www.sciencedirect.com/science/article/pii/S1818087615000112";
+SDM.pf.toc.urlTOCLinkQueryStr="?_rdoc=1&_fmt=full&_origin=&md5=22543fb95e34d36391c44b9d9cd72533";
+
+SDM.pf.ddm = new Object();
+SDM.pf.ddm.endpoint = "http://services.elsevier.com/SDWebExport/export/pdfdownload/pdf";
+
+
+
+
+
+
+SDM.si = new Object();
+SDM.si.webUserId = "12975512";
+SDM.si.sds = "e78c4602c2abfe58ed69a204413b7f810c38dbe9d41bcf309847a731733478d8596eb512200400689e0eff8ae13e21ff";
+SDM.si.euidCookieObject='5b052ddfe652fa507b882c24d9cfe91191ba0b21517c871e12dfd55a9c037fbf42c8909d6bdff92e';
+
+SDM.pageTransKey = "05/16/2017 14:30:16 EDT#2850_007#57907#95.30.38.0";
+SDM.pageType = "article_full";
+SDM.tid = "b530ec2c-3a65-11e7-ae05-00000aacb362";
+SDM.ud = "12975512||C000228598|291352|GUEST";
+SDM.ieVersion="8";
+
+SDM.dac = new Object;
+SDM.svapi = SVApi;
+
+</script>
+
+
+<script src="http://cdn.els-cdn.com/sd/js/importer-api_1704R5.js.min"></script>
+
+
+<script>
+
+initializeArticlePage();
+</script>
+
+
+
+
+<script type="text/javascript">/*{literal}<![CDATA[*/window.lightningjs||function(c){function g(b,d){d&&(d+=(/\?/.test(d)?"&":"?")+"lv=1");c[b]||function(){var i=window,h=document,j=b,g=h.location.protocol,l="load",k=0;(function(){function b(){a.P(l);a.w=1;c[j]("_load")}c[j]=function(){function m(){m.id=e;return c[j].apply(m,arguments)}var b,e=++k;b=this&&this!=i?this.id||0:0;(a.s=a.s||[]).push([e,b,arguments]);m.then=function(b,c,h){var d=a.fh[e]=a.fh[e]||[],j=a.eh[e]=a.eh[e]||[],f=a.ph[e]=a.ph[e]||[];b&&d.push(b);c&&j.push(c);h&&f.push(h);return m};return m};var a=c[j]._={};a.fh={};a.eh={};a.ph={};a.l=d?d.replace(/^\/\//,(g=="https:"?g:"http:")+"//"):d;a.p={0:+new Date};a.P=function(b){a.p[b]=new Date-a.p[0]};a.w&&b();i.addEventListener?i.addEventListener(l,b,!1):i.attachEvent("on"+l,b);var q=function(){function b(){return["<head></head><",c,' onload="var d=',n,";d.getElementsByTagName('head')[0].",d,"(d.",g,"('script')).",i,"='",a.l,"'\"></",c,">"].join("")}var c="body",e=h[c];if(!e)return setTimeout(q,100);a.P(1);var d="appendChild",g="createElement",i="src",k=h[g]("div"),l=k[d](h[g]("div")),f=h[g]("iframe"),n="document",p;k.style.display="none";e.insertBefore(k,e.firstChild).id=o+"-"+j;f.frameBorder="0";f.id=o+"-frame-"+j;/MSIE[ ]+6/.test(navigator.userAgent)&&(f[i]="javascript:false");f.allowTransparency="true";l[d](f);try{f.contentWindow[n].open()}catch(s){a.domain=h.domain,p="javascript:var d="+n+".open();d.domain='"+h.domain+"';",f[i]=p+"void(0);"}try{var r=f.contentWindow[n];r.write(b());r.close()}catch(t){f[i]=p+'d.write("'+b().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};a.l&&setTimeout(q,0)})()}();c[b].lv="1";return c[b]}var o="lightningjs",k=window[o]=g(o);k.require=g;k.modules=c}({});
+window.usabilla_live = lightningjs.require("usabilla_live", "//w.usabilla.com/11e800d34be0.js");
+/*]]>{/literal}*/
+if(typeof SDM != "undefined") {
+  if(SDM.ud) { usabilla_live("data", {"custom": {"ud":SDM.ud} }); }
+  if(SDM.pf&&SDM.pf.oa) {
+    if(SDM.pf.oa.item) { usabilla_live("data", {"custom": {"open_access":SDM.pf.oa.item} });}
+    if(SDM.pf.oa.archive) { usabilla_live("data", {"custom": {"open_archive":SDM.pf.oa.archive} });}
+  }
+  if(SDM.pm&&SDM.pm.mod_cid) {
+    usabilla_live("data", {"custom": {"refmod_article":true} });
+  }
+  else {usabilla_live("data", {"custom": {"refmod_article":false} });}
+}
+</script>
+<script>
+function tmp_removeCite() {
+    if ($('#cited_by_articles').length) {
+    if (SDM.pm != undefined) {
+        if (SDM.pm.issnisbn == '23528478') {
+            $('#cited_by_articles').hide();
+            } 
+        } 
+    }
+}
+
+function tmp_removeCiteCounter(c) {
+    if ($('#cited_by_articles').length) {
+        tmp_removeCite();
+    }
+    else if (c>30) {
+        return;
+    }
+    else {
+        c++;
+        setTimeout(function() {tmp_removeCiteCounter(c);}, 200);
+    }
+}
+tmp_removeCiteCounter(1);  
+</script>
+
+
+<div id="sdpa"></div>
+<script>SDPA.init();</script>
+<div id="appBackground"></div>
+<div id="appDialog" class="files">
+    <div id="header">
+     <div class="pdfSearchHeading"> Download PDFs
+    <span class="close" id="closeBtn" href = "#" title = "Close Search Results " alt="Close Search Results"><img src="http://cdn.els-cdn.com/sd/sci_dir/closeButton.png"></span>
+    </div></div>
+    <div id="contentBlk" class="view">
+        <div class="help_button" id="ddmMainHelp"><a class="ddmHelp" target="sdhelp" href="/science?_ob=HelpURL&_file=DM_main.htm&_btn=Y&_zone=TopNavBar&_origin=article" title="Help (Opens new window)" onClick="var helpWin; helpWin=window.open('/science?_ob=HelpURL&_file=DM_main.htm&_btn=Y&_zone=TopNavBar&_origin=article','sdhelp','scrollbars=yes,resizable=yes,directories=no,toolbar=no,menubar=no,status=no,width=984,height=738'); helpWin.focus(); return false">Help</a></div>
+        <div class="help_button" id="ddmNewformatHelp"><a class="ddmHelp" target="sdhelp" href="/science?_ob=HelpURL&_file=DM_newformat.htm&_btn=Y&_zone=TopNavBar&_origin=article" title="Help (Opens new window)" onClick="var helpWin; helpWin=window.open('/science?_ob=HelpURL&_file=DM_newformat.htm&_btn=Y&_zone=TopNavBar&_origin=article','sdhelp','scrollbars=yes,resizable=yes,directories=no,toolbar=no,menubar=no,status=no,width=984,height=738'); helpWin.focus(); return false">Help</a></div>
+        <div id="filesTemplate"></div>
+        <div id="namingTemplate"></div> 
+    </div>
+    <div class="footer"></div>
+</div>
+
+
+
+
+
+<script src="//assets.adobedtm.com/376c5346e33126fdb6b2dbac81e307cbacfd7935/satelliteLib-b7cfe8df39a4e5eec5536bba80e13f4b6fa0dd7c.js"></script>
+<script>
+
+
+var pageData=new Object;
+
+var page=new Object;
+page["businessUnit"]="ELS:RP:ST";
+page["isProduction"]="true";
+page["language"]="en";
+page["name"]="product:journal:article";
+page["productName"]="SD";
+page["environment"]="prod";
+page["noTracking"]="false";
+page["loadTime"]="";
+page["loadTimestamp"]=Date.now().toString();
+page["type"]="article";
+pageData["page"]=page;
+
+var visitor=new Object;
+visitor["accessType"]="ae:ANON-GUEST";
+visitor["accountId"]="ae:228598";
+visitor["accountName"]="ae:ScienceDirect Guests";
+
+visitor["industry"]="";
+visitor["ipAddress"]="95.30.38.0";
+visitor["loginStatus"]="";
+visitor["sisId"]="";
+
+visitor["userId"]="ae:12975512";
+pageData["visitor"]=visitor;
+
+
+var pageContent=new Object;
+pageContent["entitlementType"]="openaccess";
+pageContent["format"]="MIME-XHTML";
+pageContent["id"]="sd:article:pii:S1818087615000112";
+pageContent["type"]="SD:ARTICLE:SCOPE-FULL";
+pageContent["detail"]="SD:ARTICLE:subtype:sco";
+pageData["content"]=[pageContent];
+
+
+function getPageLoadTime()
+{ 
+    returnValue = '';
+    if (typeof(performance) !== 'undefined' && typeof(performance.timing) == 'object')
+    {
+        timing = performance.timing;
+        startTime = timing.redirectStart || timing.fetchStart || timing.requestStart;
+        endTime = timing.domContentLoadedEventEnd || timing.domInteractive || timing.domComplete || timing.loadEventComplete;
+        if (startTime && endTime && startTime < endTime) returnValue = endTime - startTime;
+    }
+    return returnValue.toString();
+}
+
+$(document).ready(function()
+{
+    if( typeof(pageData) != 'undefined' && typeof(pageData["page"]) != 'undefined' && typeof(pageData["page"]["loadTime"]) != 'undefined' )
+    {
+        pageData["page"]["loadTime"]=getPageLoadTime();
+    }
+}
+);
+
+
+try { pageDataTracker.trackPageLoad(); }
+catch(e) { console.warn("There was an error loading or running Adobe DTM:\r\n ", e); }
+</script>
+
+
+
+<script src="//sdfestaticassets-us-east-1.sciencedirectassets.com/prod/ce6a74e3c87c96230cf658ad64ddc24394585c0c/client.js"></script>
+
+
+</body></html>
+

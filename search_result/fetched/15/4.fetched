@@ -1,0 +1,734 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<script language="javascript">
+
+var exportAvail=true;
+
+ 
+var exportBook=false;
+
+
+var prodImagePath = "sci_dir";
+
+
+gigyaLib="//cdn.gigya.com/JS/socialize.js?apiKey=3__Bt7bHrGM8mjKPwBuOVjWyMi678aF6-PewcnoHJJ6UR1fS5t9NG9RBbKHjE0oA6J";
+
+blk_all_social_logins="Y";
+BROWSER_SPECIFIC_USR_MSG=true;
+var buildTitleFilter=false;
+
+SD_System_Msg=false;
+</script>
+
+<script>(function() {var scriptTag = document.createElement('script'); 
+scriptTag.type = 'text/javascript';scriptTag.async = true;
+scriptTag.src = '//cdn.optimizely.com/js/204774041.js';
+var head = document.getElementsByTagName('head')[0];
+head.parentNode.insertBefore(scriptTag, head);
+})();function optimizelyTimeout() {
+window.optimizely = window.optimizely|| []; 
+if(!window.optimizely.data) {
+window.optimizely.push("timeout"); } }
+setTimeout(optimizelyTimeout, 1000); </script>
+
+<!-- Start: GPT Async -->
+<script type='text/javascript'>
+	
+var gptadslots=[];
+	
+var googletag = googletag || {};
+	
+googletag.cmd = googletag.cmd || [];
+	
+(function(){ var gads = document.createElement('script');
+		
+gads.async = true; gads.type = 'text/javascript';
+		
+var useSSL = 'https:' == document.location.protocol;
+		
+gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+		
+var node = document.getElementsByTagName('script')[0];
+		
+node.parentNode.insertBefore(gads, node);
+	})();
+
+</script>
+<!-- TRANSKEY: 05/16/2017 14:28:34 EDT#1848_008#32261#95.30.38.0 -->
+<meta name="robots" content="NOARCHIVE,FOLLOW">
+<meta name="robots" content="noodp" />
+<meta name="robots" content="noydir" />
+<link rel="shortcut icon" href="http://cdn.els-cdn.com/sd/favSD.ico" type="image/x-icon">
+<link rel="stylesheet" Title="Default Styles" href="//sdfestaticassets-us-east-1.sciencedirectassets.com/prod/ce6a74e3c87c96230cf658ad64ddc24394585c0c/style.css" type="text/css">
+
+
+   <style type="text/css">
+.nojs { display: none;}
+</style>
+
+<script type="text/javascript">
+
+if (/MSIE (\d+\.\d+);/.test(navigator.userAgent)){
+document.styleSheets[document.styleSheets.length-1].rules[0].style["display"] = "";
+} else{
+document.styleSheets[document.styleSheets.length-1].cssRules[0].style["display"] = "";
+}
+
+</script>
+
+
+
+
+<link rel="stylesheet" Title="Default Styles" href="http://cdn.els-cdn.com/sd/css/css_gen_v01_1704R5.css" type="text/css">
+<!--[if  IE 7]>
+<link rel="stylesheet" Title="Default Styles" href="http://cdn.els-cdn.com/sd/css/css_gen_ie7_v01_1704R5.css" type="text/css">
+<![endif]-->
+<!--[if lte IE 6]>
+<link rel="stylesheet" Title="Default Styles" href="http://cdn.els-cdn.com/sd/css/css_gen_ie6_v01_1704R5.css" type="text/css">
+<![endif]-->
+<link rel="stylesheet" href="http://cdn.els-cdn.com/sd/css/jquery-ui_1704R5.css" type="text/css">
+<link rel="stylesheet" href="http://cdn.els-cdn.com/sd/css/commonSprite_1704R5.css" type="text/css">
+
+<!--[if lt IE 9]>
+<link rel="stylesheet" Title="Default Styles" href="http://cdn.els-cdn.com/sd/css/css_gen_ielt9_1704R5.css" type="text/css">
+<![endif]-->
+
+
+<!--[if lt IE 7]>
+<script src="http://ie7-js.googlecode.com/svn/version/2.0(beta3)/IE7.js" 
+ type="text/javascript">
+</script>
+<script src="http://ie7-js.googlecode.com/svn/version/2.0(beta3)/IE7-squish.js" 
+ type="text/javascript">
+</script>
+<![endif]-->
+<script> 
+var SDM=new Object;
+SDM.ep = new Object;
+SDM.ep.mendeleyJS = "https://www.mendeley.com/minified/bookmarklet.js";
+</script>
+<script>
+  var JDM=new Object;
+JDM.dac=new Object;
+JDM.pm=new Object;
+JDM.ep=new Object;
+JDM.pf = new Object;
+JDM.pf.dc = new Object;
+
+JDM.pf.dc.respObj = '';
+JDM.pf.dc.retry = 5;
+JDM.pf.dc.retryDelay = 300;
+JDM.pf.dc.retryFactor = 1.0;
+JDM.pf.crawler = false;
+
+JDM.pm.cid = '';
+JDM.pm.issn = '';
+JDM.pm.allowVIA = '';
+JDM.pm.contentType = '';
+JDM.pm.newStructure = false;
+
+JDM.ep.urlPrefix = "http://www.sciencedirect.com/science";
+
+</script>
+<script>var SD_URL_QUALIFIER = "science";</script>
+
+ 
+  
+
+<script src="http://cdn.els-cdn.com/sd/js/sdX_1704R5.js"></script>
+
+
+
+
+<script src="http://cdn.els-cdn.com/sd/js/sdO_1704R5.js"></script>
+
+<script src="http://cdn.els-cdn.com/sd/js/importer-api_1704R5.js.min"></script>
+<script src="http://cdn.els-cdn.com/sd/js/pa_1704R5.js"></script>
+
+
+
+
+ 
+
+<script>
+var prs = new Object();prs.rt=function(label,ts){this[label]=(ts||ts==0?ts:new Date().getTime());};
+</script>
+
+
+
+
+     <!-- if not logged in -->
+	   
+		
+
+
+
+<script>
+(function() {
+  if (window.BOOMR && window.BOOMR.version) { return; }
+  var dom,doc,where,iframe = document.createElement('iframe'),win = window;
+
+  function boomerangSaveLoadTime(e) {
+    win.BOOMR_onload=(e && e.timeStamp) || new Date().getTime();
+  }
+  if (win.addEventListener) {
+    win.addEventListener("load", boomerangSaveLoadTime, false);
+  } else if (win.attachEvent) {
+    win.attachEvent("onload", boomerangSaveLoadTime);
+  }
+
+  iframe.src = "javascript:false";
+  iframe.title = ""; iframe.role="presentation";
+  (iframe.frameElement || iframe).style.cssText = "width:0;height:0;border:0;display:none;";
+  where = document.getElementsByTagName('script')[0];
+  where.parentNode.insertBefore(iframe, where);
+
+  try {
+    doc = iframe.contentWindow.document;
+  } catch(e) {
+    dom = document.domain;
+    iframe.src="javascript:var d=document.open();d.domain='"+dom+"';void(0);";
+    doc = iframe.contentWindow.document;
+  }
+  doc.open()._l = function() {
+    var js = this.createElement("script");
+    if(dom) this.domain = dom;
+    js.id = "boomr-if-as";
+    js.src = '//c.go-mpulse.net/boomerang/' +
+    '2FBN2-NKMGU-EJKY8-ZANKZ-SUJZF';
+    BOOMR_lstart=new Date().getTime();
+    this.body.appendChild(js);
+  };
+  doc.write('<body onload="document._l();">');
+  doc.close();
+})();
+</script>
+
+
+
+
+<meta name="description" content="The online version of Reference Module in Biomedical Sciences by  on ScienceDirect.com, the world's leading platform for high quality peer-reviewed full-text books.">
+<!-- static const char mrwHome_tmpl_sccsId[] = "@(#)module_topic.tmpl -->
+<title>Reference Module in Biomedical Sciences  - 9780128012383|Epidemiology and Public Health|ScienceDirect.com </title>
+<base target="_top">
+
+<link rel="stylesheet" Title="Default Styles" href="http://cdn.els-cdn.com/sd/css/css_pub_v01_1704R5.css" type="text/css">
+<link rel="stylesheet" Title="Default Styles" href="http://cdn.els-cdn.com/sd/css/css_results_page_sprite_v01_1704R5.css" type="text/css">
+
+<script>
+var USERACTIONSURL="http://www.sciencedirect.com/science/UserActions";
+</script>
+</head>
+<body>
+<div id="pubPg">
+
+<div class="skipnav">
+    <a id="skipNavigation" title="Skip to Main content" href="#main_content">Skip to Main content</a>
+</div>
+
+
+
+<!-- ************* For A/B testing FAST and SOLR Proxy ***************** -->
+
+<!-- *************End for A/B testing FAST and SOLR Proxy *****************-->
+
+
+
+<div id="ieWarningMsg">
+    <span class="infoIcon_ie spErrorIcon">
+        Please note that Internet Explorer version 8.x will not be supported as of January 1, 2016. Please refer to <a href="http://blog.sciencedirect.com/posts/have-you-heard-spread-the-word-about-upgrading-your-browser"> this blog post</a> for more information.
+    </span>
+    <a class="closeBt" title="Close Internet Explorer 7 warning">Close</a>
+</div>
+
+
+
+<div id="header">
+
+<div class="ccs-component">
+    <div class="header" role="banner"><div class="els-header"><noscript></noscript><div class="els-header-sub-nav-container"><div class="els-header-leftside"><div class="els-header-wordmark"><a href="/"><span aria-label="ScienceDirect" class="ccs-icon svg-wordmark-sciencedirect-orange els-main-title"><span class="svg-text">ScienceDirect</span></span></a></div></div><div class="els-header-sub-nav"><ul class="JournalsAndBooks els-header-navigation" role="navigation"><li class="els-header-navigation-section"><a id="ccs-journalsLink" class="link-inherit els-header-navigation-item " href="/science/journals">Journals</a></li><li class="els-header-navigation-section"><a id="ccs-journalsLink" class="link-inherit els-header-navigation-item " href="/science/bookbshsrw">Books</a></li><li class="els-header-navigation-section"><a class="link-inherit els-header-navigation-item " href="https://www.sciencedirect.com/user/register?returnURL=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Fmodule%2Ftopic%2F9780128012383%2FConcept-000393">Register</a></li></ul><ul class="els-header-icons"><li class="els-header-icons-item els-header-user"><a aria-controls="ccs-profilePopup" aria-expanded="false" id="ccs-profilePopupLink" title="" href="https://www.sciencedirect.com/user/login?returnURL=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Fmodule%2Ftopic%2F9780128012383%2FConcept-000393" class="link-inherit els-header-user-link"><span class="signIn_User"><span id="els-header-user-sign-in" class="els-header-user-sign-in">Sign in</span><span id="els-header-user-sign-in-icon" class="ccs-icon svg-sdfe-arrow-down els-header-user-icon-signin"></span></span></a><div class="SignInOut"><div class="ccs-signin-popup" role="dialog" id="ccs-profilePopup" aria-label="Sign in"><div class="ccs-signin-popup-body-border"><div class="ccs-signin-body ccs-signin-popup-body"><form id="ccs-header-sign-in-form" class="SignInForm ccs-signin-local" action="https://www.sciencedirect.com/science/MiamiLoginURL" method="POST"><input type="hidden" value="login" name="login"/><input type="hidden" value="MiamiLogonURL" name="_ob"/><input type="hidden" value="http://www.sciencedirect.com/science/module/topic/9780128012383/Concept-000393" name="returnURL"/><input type="hidden" value="http://www.sciencedirect.com/science/module/topic/9780128012383/Concept-000393" name="targetURL"/><input type="hidden" value="https://www.sciencedirect.com/science/MiamiLoginURL" name="invalidLoginURL"/><div><h3>Sign in using your ScienceDirect credentials</h3><div class="ccs-signin-form"><div><label class="ccs-signin-form-left">Username</label><span class="ccs-signin-form-right"><input class="ccs-signin-username" name="userid" id="ccs-signin-username-input" title="Please enter your username here" type="text"/></span></div><div><label class="ccs-signin-form-left">Password</label><span class="ccs-signin-form-right"><input class="ccs-signin-password" name="password" title="Please enter your password here" type="password"/></span></div><div><label class="ccs-signin-form-left"></label><span class="ccs-signin-form-right"><input class="" name="rememberid" value="Y" title="Checking this option will log you in automatically next time you visit ScienceDirect" type="checkbox" checked=""/><label>Remember me</label></span></div><div><label class="ccs-signin-form-left"></label><span class="ccs-signin-form-right"><input class="ccs-signin-submit" value="Sign in" title="Sign in to ScienceDirect" type="submit"/></span></div><div><label class="ccs-signin-form-left"></label><span class="ccs-signin-form-right"><a class="link-inherit" rel="nofollow" href="/science?_ob=ReminderURL&amp;_method=display&amp;md5=4a97631c25ac81c09ad2f961106e9da2" target="passwd" title="Click here for help in recovering your ScienceDirect access">Forgotten username or password?</a></span></div></div></div></form><div class="InstitutionalLogin ccs-signin-remote"><h3>Sign in via your institution</h3><ul class="ccs-signin-institution"><li class="ccs-signin-open-athens"><a class="link-inherit" rel="nofollow" href="https://auth.elsevier.com/ShibAuth/institutionLogin?entityID=https%3A%2F%2Fidp.eduserv.org.uk%2Fopenathens&amp;appReturnURL=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Fmodule%2Ftopic%2F9780128012383%2FConcept-000393" title="Log in using OpenAthens">OpenAthens</a></li><li class="ccs-signin-external"><a class="link-inherit" rel="nofollow" href="/science/externallogin" title="Other institution login">Other institution</a></li></ul></div></div></div></div></div></li><li class="Help els-header-icons-item"><a id="ccs-help-link" class="link-inherit els-header-help" href="/science?_ob=HelpURL&amp;_file=home.htm&amp;_btn=Y" title="Help" target="_blank"><span aria-label="Help" class="ccs-icon svg-help"><span class="svg-text">Help</span></span></a></li></ul><div id="mobile-menu-parent"><div class="HamburgerButton" id="hamburger-button"><button id="ccs-mobileHamburgerButton" aria-controls="" aria-expanded="false" aria-label="Menu" class="link"><span class="svg-hamburger-closed"></span></button></div><div aria-label="Mobile menu" class="MobileMenu" id="mobile-menu"><div class="mobile-menu-container" id="mobile-menu-container"><div class="mobilemenu-content"><div><div class="primary-mobile-menu"><ul class="JournalsAndBooks els-header-navigation" role="navigation"><li class="els-header-navigation-section"><a id="mobileccs-journalsLink" class="link-inherit els-header-navigation-item " href="/science/journals">Journals</a></li><li class="els-header-navigation-section"><a id="mobileccs-journalsLink" class="link-inherit els-header-navigation-item " href="/science/bookbshsrw">Books</a></li><li class="els-header-navigation-section"><a class="link-inherit els-header-navigation-item " href="https://www.sciencedirect.com/user/register?returnURL=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Fmodule%2Ftopic%2F9780128012383%2FConcept-000393">Register</a></li></ul></div><div class="secondary-mobile-menu"><li class="els-header-icons-item els-header-user"><a href="https://www.sciencedirect.com/user/login?returnURL=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Fmodule%2Ftopic%2F9780128012383%2FConcept-000393" aria-controls="mobileccs-profilePopup" aria-expanded="false" id="mobileccs-ProfilePopupLink" class="link-inherit els-header-user-link"><span class="signIn_User"><span id="els-header-user-sign-in" class="els-header-user-sign-in">Sign in</span><span id="els-header-user-sign-in-icon" class="ccs-icon svg-sdfe-arrow-down els-header-user-icon-signin"></span></span></a></li><li class="Help els-header-icons-item"><a id="mobileccs-help-link" class="link-inherit els-header-help" href="/science?_ob=HelpURL&amp;_file=home.htm&amp;_btn=Y" title="Help" target="_blank"><span aria-label="Help" class="ccs-icon svg-help"><span class="svg-text">Help</span></span></a></li></div></div></div></div></div></div><div class="SignInOut"><div class="ccs-signin-popup ccs-mobile-signin-popup" role="dialog" id="mobileccs-profilePopup" aria-label="Sign in"><div class="ccs-signin-popup-body-border"><div class="ccs-signin-body ccs-signin-popup-body"><form id="ccs-header-sign-in-form" class="SignInForm ccs-signin-local" action="https://www.sciencedirect.com/science/MiamiLoginURL" method="POST"><div class="ccs-sign-in-close"><a href="#" class="ccs-icon svg-delete link-inherit" id="ccs-closeSignInPopup" aria-label="Close sign in popup" aria-controls="mobileccs-profilePopup" role="button" title="Close"><span class="svg-text">close</span></a></div><input type="hidden" value="login" name="login"/><input type="hidden" value="MiamiLogonURL" name="_ob"/><input type="hidden" value="http://www.sciencedirect.com/science/module/topic/9780128012383/Concept-000393" name="returnURL"/><input type="hidden" value="http://www.sciencedirect.com/science/module/topic/9780128012383/Concept-000393" name="targetURL"/><input type="hidden" value="https://www.sciencedirect.com/science/MiamiLoginURL" name="invalidLoginURL"/><div><h3>Sign in using your ScienceDirect credentials</h3><div class="ccs-signin-form"><div><label class="ccs-signin-form-left">Username</label><span class="ccs-signin-form-right"><input class="ccs-signin-username" name="userid" id="mobileccs-signin-username-input" title="Please enter your username here" type="text"/></span></div><div><label class="ccs-signin-form-left">Password</label><span class="ccs-signin-form-right"><input class="ccs-signin-password" name="password" title="Please enter your password here" type="password"/></span></div><div><label class="ccs-signin-form-left"></label><span class="ccs-signin-form-right"><input class="" name="rememberid" value="Y" title="Checking this option will log you in automatically next time you visit ScienceDirect" type="checkbox" checked=""/><label>Remember me</label></span></div><div><label class="ccs-signin-form-left"></label><span class="ccs-signin-form-right"><input class="ccs-signin-submit" value="Sign in" title="Sign in to ScienceDirect" type="submit"/></span></div><div><label class="ccs-signin-form-left"></label><span class="ccs-signin-form-right"><a class="link-inherit" rel="nofollow" href="/science?_ob=ReminderURL&amp;_method=display&amp;md5=4a97631c25ac81c09ad2f961106e9da2" target="passwd" title="Click here for help in recovering your ScienceDirect access">Forgotten username or password?</a></span></div></div></div></form><div class="InstitutionalLogin ccs-signin-remote"><h3>Sign in via your institution</h3><ul class="ccs-signin-institution"><li class="ccs-signin-open-athens"><a class="link-inherit" rel="nofollow" href="https://auth.elsevier.com/ShibAuth/institutionLogin?entityID=https%3A%2F%2Fidp.eduserv.org.uk%2Fopenathens&amp;appReturnURL=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Fmodule%2Ftopic%2F9780128012383%2FConcept-000393" title="Log in using OpenAthens">OpenAthens</a></li><li class="ccs-signin-external"><a class="link-inherit" rel="nofollow" href="/science/externallogin" title="Other institution login">Other institution</a></li></ul></div></div></div></div></div></div></div></div></div> 
+    
+</div> 
+
+
+  
+    <div class="quicksearch">
+        <a name="Skip Buttons"></a><div class="extSearch" aria-label="Quick Search" role="search" >
+
+<form id="quickSearch" name="qkSrch" method="get" target="_top" action="/science">
+    <div>
+        <input type="hidden" name="_ob" value="QuickSearchURL">
+        <input type="hidden" name="_method" value="submitForm">
+        <input type="hidden" name="_acct" value="C000228598">
+        <input type="hidden" name="searchtype" value="a">
+        
+        
+        <input type="hidden" name="md5" value="08221dc6f180a3b71cec3dbb791591bf">
+        
+        <input class="all" placeholder="Search all fields" aria-label="Search all fields" type="text" name="qs_all" id="qs_all" value="" size="34" maxlength="450" title="Search all fields">
+        <input class="author" placeholder="Author name" aria-label="Author name" type="text" name="qs_author" id="qs_author" value="" size="13" maxlength="450" title="e.g. J S Smith or John Smith or Smith JS" style="_width:100%">
+        <input class="srctitle" placeholder="Journal or book title" aria-label="Journal or book title"  type="text" id="qs_title" name="qs_title" value="" size="13" maxlength="450" title="For example: journal of molecular biology">
+        <input class="volumelist" placeholder="Volume" aria-label="Volume"  type="text" name="qs_vol" id="qs_vol" value="" size="2" maxlength="10">
+        <input class="issuelist" placeholder="Issue" aria-label="Issue" type="text" name="qs_issue" id="qs_issue" value="" size="2" maxlength="10">
+        <input class="pages" placeholder="Page" aria-label="Page" type="text" name="qs_pages" id="qs_pages" value="" size="2" maxlength="10" title="For example: 14-27">
+        <input class="button" id="submit_search" type="Submit" alt="Submit Quick Search" value="" title="Submit Quick Search" name="sdSearch">
+        
+        <a class="advanced" href="http://www.sciencedirect.com/science/search" >Advanced search</a>
+    </div>
+</form>
+
+</div>
+
+
+
+<script>autoCompleteInit('/'+'science'+ '/jfind/auto');</script>
+
+
+    </div>
+  
+
+</div><!--header-->
+
+
+ 
+
+     
+     
+
+<a tabindex="-1" name="main_content" id="main_content"></a>
+
+<div id="sdHeader" class="outerWrapper">
+  <div class="sdContent">
+    
+    
+    
+
+
+
+
+
+
+
+<div id="mrwLayout">
+    <div id="moduleMeta" class="publication_head">
+        <div class="publication">
+        <a class="mrwPubHead-Cover"  href="http://www.sciencedirect.com/science/referenceworks/9780128012383">
+    <img border="0" src="http://ars.els-cdn.com/content/image/S9780128012383.gif" class="logo">
+</a>
+
+<div class="inform">
+    
+        <div class="title">Reference Module in Biomedical Sciences</div>
+    
+    
+	
+    <p>  
+        
+        
+            <div>ISBN: 978-0-12-801238-3</div>
+        
+        
+    </p>
+    
+    <ul>
+        
+        
+        
+        
+        <li id="favoriteOn" style="display:none;">
+            <span class="iconBg favIcon_sci_dir" title="Added to Favorites">
+                <span class="favText">Added to Favorites [</span><a class="favText" href="/science?_ob=ModuleTopicPageURL&_isbn=9780128012383&topic=Concept-000393&_si=1&_auth=y&_orig=topic&addFavorite=2&md5=6fc7c9f366a8b19d4c995baa80e7ac9e" >remove</a><span class="favText">]</span>
+            </span>
+        </li>
+        <li id="favoriteOff" style="display:inline;">
+            <a class="iconBg favIcon_sci_dir" href="/science?_ob=ModuleTopicPageURL&_isbn=9780128012383&topic=Concept-000393&_si=1&_auth=y&_orig=topic&addFavorite=2&md5=6fc7c9f366a8b19d4c995baa80e7ac9e" 
+             >
+                Add to Favorites
+                <span id="rsltInd" style="display:inline;">&nbsp;</span>
+            </a>
+        </li>
+        
+        
+    </ul>
+	<p class="copyright"><span style="margin:0px;">Copyright © 2014 Elsevier Inc. All rights reserved.</span></p>
+</div>
+ 
+
+        <div style="clear:left"></div>
+        </div>
+    </div>
+    <div  id="moduleData" class="clearfix cbodyAllResults ">
+        <div class="mainResults">
+            <div id="subjectHierarchy">
+              
+                <div id ="taxonomy">
+                    <h2><a href="http://www.sciencedirect.com/science/referenceworks/9780128012383" class="cLink" queryStr="?_origin=topic&_zone=subjectBrowse&md5=1a4536f62789e677ff818b802aadc921">Biomedical Sciences</a></h2><ul class="taxonomy"><li class="hasChildren" data-childUrl="http://www.sciencedirect.com/science/module/openTopic/9780128012383/Concept-000152"><a href="http://www.sciencedirect.com/science/module/topic/9780128012383/Concept-000152?_si=1&_ct=25" title="Biochemistry" class="cLink" queryStr="?_origin=topic&_zone=subjectBrowse&md5=1a4536f62789e677ff818b802aadc921">Biochemistry</a><li class="hasChildren" data-childUrl="http://www.sciencedirect.com/science/module/openTopic/9780128012383/Concept-000473"><a href="http://www.sciencedirect.com/science/module/topic/9780128012383/Concept-000473?_si=1&_ct=25" title="Biomedical Technology" class="cLink" queryStr="?_origin=topic&_zone=subjectBrowse&md5=1a4536f62789e677ff818b802aadc921">Biomedical Technology</a><li class="hasChildren" data-childUrl="http://www.sciencedirect.com/science/module/openTopic/9780128012383/Concept-000002"><a href="http://www.sciencedirect.com/science/module/topic/9780128012383/Concept-000002?_si=1&_ct=25" title="Cell Biology" class="cLink" queryStr="?_origin=topic&_zone=subjectBrowse&md5=1a4536f62789e677ff818b802aadc921">Cell Biology</a><li class="hasChildren" data-childUrl="http://www.sciencedirect.com/science/module/openTopic/9780128012383/Concept-000041"><a href="http://www.sciencedirect.com/science/module/topic/9780128012383/Concept-000041?_si=1&_ct=25" title="Developmental Biology and Human Embryology" class="cLink" queryStr="?_origin=topic&_zone=subjectBrowse&md5=1a4536f62789e677ff818b802aadc921">Developmental Biology and Human Embryology</a><li class="hasChildren" data-childUrl="http://www.sciencedirect.com/science/module/openTopic/9780128012383/Concept-000393"><a href="http://www.sciencedirect.com/science/module/topic/9780128012383/Concept-000393?_si=1&_ct=25" class='selected' title="Epidemiology and Public Health" class="cLink" queryStr="?_origin=topic&_zone=subjectBrowse&md5=1a4536f62789e677ff818b802aadc921">Epidemiology and Public Health</a><ul><li class="hasChildren" data-childUrl="http://www.sciencedirect.com/science/module/openTopic/9780128012383/Concept-000422"><a href="http://www.sciencedirect.com/science/module/topic/9780128012383/Concept-000422?_si=1&_ct=25" title="Behavioral Factors and Public Health" class="cLink" queryStr="?_origin=topic&_zone=subjectBrowse&md5=1a4536f62789e677ff818b802aadc921">Behavioral Factors and Public Health</a><li><a href="http://www.sciencedirect.com/science/module/topic/9780128012383/Concept-000397?_si=1&_ct=25" title="Clinical Epidemiology" class="cLink" queryStr="?_origin=topic&_zone=subjectBrowse&md5=1a4536f62789e677ff818b802aadc921">Clinical Epidemiology</a></li><li><a href="http://www.sciencedirect.com/science/module/topic/9780128012383/Concept-000411?_si=1&_ct=25" title="Demography, Epidemiology and Public Health" class="cLink" queryStr="?_origin=topic&_zone=subjectBrowse&md5=1a4536f62789e677ff818b802aadc921">Demography, Epidemiology and Public Health</a></li><li class="hasChildren" data-childUrl="http://www.sciencedirect.com/science/module/openTopic/9780128012383/Concept-000414"><a href="http://www.sciencedirect.com/science/module/topic/9780128012383/Concept-000414?_si=1&_ct=25" title="Environmental and Occupational Epidemiology" class="cLink" queryStr="?_origin=topic&_zone=subjectBrowse&md5=1a4536f62789e677ff818b802aadc921">Environmental and Occupational Epidemiology</a><li><a href="http://www.sciencedirect.com/science/module/topic/9780128012383/Concept-000434?_si=1&_ct=25" title="Epidemiology and Public Policy" class="cLink" queryStr="?_origin=topic&_zone=subjectBrowse&md5=1a4536f62789e677ff818b802aadc921">Epidemiology and Public Policy</a></li><li class="hasChildren" data-childUrl="http://www.sciencedirect.com/science/module/openTopic/9780128012383/Concept-000399"><a href="http://www.sciencedirect.com/science/module/topic/9780128012383/Concept-000399?_si=1&_ct=25" title="Epidemiology of Diseases" class="cLink" queryStr="?_origin=topic&_zone=subjectBrowse&md5=1a4536f62789e677ff818b802aadc921">Epidemiology of Diseases</a><li><a href="http://www.sciencedirect.com/science/module/topic/9780128012383/Concept-000435?_si=1&_ct=25" title="Ethical and Professional Issues in Epidemiology" class="cLink" queryStr="?_origin=topic&_zone=subjectBrowse&md5=1a4536f62789e677ff818b802aadc921">Ethical and Professional Issues in Epidemiology</a></li><li><a href="http://www.sciencedirect.com/science/module/topic/9780128012383/Concept-000431?_si=1&_ct=25" title="Health Services" class="cLink" queryStr="?_origin=topic&_zone=subjectBrowse&md5=1a4536f62789e677ff818b802aadc921">Health Services</a></li><li><a href="http://www.sciencedirect.com/science/module/topic/9780128012383/Concept-000432?_si=1&_ct=25" title="Health Systems" class="cLink" queryStr="?_origin=topic&_zone=subjectBrowse&md5=1a4536f62789e677ff818b802aadc921">Health Systems</a></li><li class="hasChildren" data-childUrl="http://www.sciencedirect.com/science/module/openTopic/9780128012383/Concept-000394"><a href="http://www.sciencedirect.com/science/module/topic/9780128012383/Concept-000394?_si=1&_ct=25" title="History of Epidemiology and Public Health" class="cLink" queryStr="?_origin=topic&_zone=subjectBrowse&md5=1a4536f62789e677ff818b802aadc921">History of Epidemiology and Public Health</a><li><a href="http://www.sciencedirect.com/science/module/topic/9780128012383/Concept-000433?_si=1&_ct=25" title="Methods and Measurement in Epidemiology" class="cLink" queryStr="?_origin=topic&_zone=subjectBrowse&md5=1a4536f62789e677ff818b802aadc921">Methods and Measurement in Epidemiology</a></li><li class="hasChildren" data-childUrl="http://www.sciencedirect.com/science/module/openTopic/9780128012383/Concept-000417"><a href="http://www.sciencedirect.com/science/module/topic/9780128012383/Concept-000417?_si=1&_ct=25" title="Public Health of Population Sub-Groups" class="cLink" queryStr="?_origin=topic&_zone=subjectBrowse&md5=1a4536f62789e677ff818b802aadc921">Public Health of Population Sub-Groups</a><li><a href="http://www.sciencedirect.com/science/module/topic/9780128012383/Concept-000413?_si=1&_ct=25" title="Sexual and Reproductive Public Health" class="cLink" queryStr="?_origin=topic&_zone=subjectBrowse&md5=1a4536f62789e677ff818b802aadc921">Sexual and Reproductive Public Health</a></li></ul><li class="hasChildren" data-childUrl="http://www.sciencedirect.com/science/module/openTopic/9780128012383/Concept-000125"><a href="http://www.sciencedirect.com/science/module/topic/9780128012383/Concept-000125?_si=1&_ct=25" title="Genetics" class="cLink" queryStr="?_origin=topic&_zone=subjectBrowse&md5=1a4536f62789e677ff818b802aadc921">Genetics</a><li class="hasChildren" data-childUrl="http://www.sciencedirect.com/science/module/openTopic/9780128012383/Concept-000109"><a href="http://www.sciencedirect.com/science/module/topic/9780128012383/Concept-000109?_si=1&_ct=25" title="Human Nutrition" class="cLink" queryStr="?_origin=topic&_zone=subjectBrowse&md5=1a4536f62789e677ff818b802aadc921">Human Nutrition</a><li class="hasChildren" data-childUrl="http://www.sciencedirect.com/science/module/openTopic/9780128012383/Concept-000098"><a href="http://www.sciencedirect.com/science/module/topic/9780128012383/Concept-000098?_si=1&_ct=25" title="Human Physiology" class="cLink" queryStr="?_origin=topic&_zone=subjectBrowse&md5=1a4536f62789e677ff818b802aadc921">Human Physiology</a><li class="hasChildren" data-childUrl="http://www.sciencedirect.com/science/module/openTopic/9780128012383/Concept-000176"><a href="http://www.sciencedirect.com/science/module/topic/9780128012383/Concept-000176?_si=1&_ct=25" title="Immunobiology" class="cLink" queryStr="?_origin=topic&_zone=subjectBrowse&md5=1a4536f62789e677ff818b802aadc921">Immunobiology</a><li class="hasChildren" data-childUrl="http://www.sciencedirect.com/science/module/openTopic/9780128012383/Concept-000369"><a href="http://www.sciencedirect.com/science/module/topic/9780128012383/Concept-000369?_si=1&_ct=25" title="Medical Microbiology" class="cLink" queryStr="?_origin=topic&_zone=subjectBrowse&md5=1a4536f62789e677ff818b802aadc921">Medical Microbiology</a><li class="hasChildren" data-childUrl="http://www.sciencedirect.com/science/module/openTopic/9780128012383/Concept-000198"><a href="http://www.sciencedirect.com/science/module/topic/9780128012383/Concept-000198?_si=1&_ct=25" title="Neurobiology" class="cLink" queryStr="?_origin=topic&_zone=subjectBrowse&md5=1a4536f62789e677ff818b802aadc921">Neurobiology</a><li class="hasChildren" data-childUrl="http://www.sciencedirect.com/science/module/openTopic/9780128012383/Concept-000283"><a href="http://www.sciencedirect.com/science/module/topic/9780128012383/Concept-000283?_si=1&_ct=25" title="Pathobiology of Human Diseases" class="cLink" queryStr="?_origin=topic&_zone=subjectBrowse&md5=1a4536f62789e677ff818b802aadc921">Pathobiology of Human Diseases</a><li class="hasChildren" data-childUrl="http://www.sciencedirect.com/science/module/openTopic/9780128012383/Concept-000436"><a href="http://www.sciencedirect.com/science/module/topic/9780128012383/Concept-000436?_si=1&_ct=25" title="Pharmacology" class="cLink" queryStr="?_origin=topic&_zone=subjectBrowse&md5=1a4536f62789e677ff818b802aadc921">Pharmacology</a><li class="hasChildren" data-childUrl="http://www.sciencedirect.com/science/module/openTopic/9780128012383/Concept-000453"><a href="http://www.sciencedirect.com/science/module/topic/9780128012383/Concept-000453?_si=1&_ct=25" title="Toxicology" class="cLink" queryStr="?_origin=topic&_zone=subjectBrowse&md5=1a4536f62789e677ff818b802aadc921">Toxicology</a></ul>
+                </div>
+            </div>
+            <div id="moduleInfo">
+                <div id="description">
+                    <div class="header">
+    		    
+                        <div class="module_search" id="searchContainer">
+    <form class="modulesearch" aria-label="Quick search" role="search" method="get" action=http://www.sciencedirect.com/science/modResults/9780128012383/Concept-000393>
+        <noscript>
+        <input type="hidden" value="Y" name="JAVASCRIPT_DISABLED">
+        </noscript>
+        <input type="text" value="" maxlength="450" name="searchTerm" class="field" autocomplete="off">
+        <button class='clearButton' type="reset"><span class="clearField"></span></button>
+        <input type="submit" title="Search" value="" class="submit">
+    </form>
+</div>
+
+    		    
+                        <div id="about_ref_mod">
+                            <div class="module_title1"><h1>Epidemiology and Public Health</h1></div>
+                            
+                                <div class="caption_text"> <div class="feature_title"><h2>Featured article</h2></div><ol class="articleList oneresult"><li class="article"><ol><li class="title"><a class="articletitle cLink" href="http://www.sciencedirect.com/science/article/pii/B978012801238307820X" querystr="?_origin=topic&_zone=abstract"  title="Public Health and Epidemiology: Prevention and Surveillance of Health Risks">Public Health and Epidemiology: Prevention and Surveillance of Health Risks</a></li><li class="author"><span class="author">S.R. Quah</span></li><li class="abstract"><div class="primaryabstract"><p class="para">
+Public health is a medical area of specialization focused on the search for and control of health risk factors in communities, nations and the world. To accomplish this, public health specialists team up with clinicians and scientists to journey from the community to the bedside, the lab bench and back, investigating disease sources and modes of transmission. This article highlights the historical roots of public health, methods of investigation, main advances, and its current and future challenges.</p></div></li><li class="viewFullArticle"><a href="http://www.sciencedirect.com/science/article/pii/B978012801238307820X"title="view full article">View full article</a></li></ol></li></ol></div>
+                            
+                        </div>
+                    </div>
+                    <div id="resultContainer">
+                        <div class="allResults">
+                            <form method="post" name="Tag" action="/science/modResults/9780128012383">
+<input type="hidden" name="_si" value=1>
+<input type="hidden" name="PDF_DDM_MAX" value="20">
+<input type="hidden" name="_ct" value=25> 
+<input type="hidden" name="topic" value=Concept-000393> 
+<input type="hidden" name="TOTAL_PAGES" value=32> 
+<input type="hidden" name="sort" value=>
+<input type="hidden" name="ArticleListID" value=>
+<input type="hidden" name="rlVal" value=>
+<input type="hidden" name="ARTICLE_COUNT" value=787>   
+<input type="hidden" name="CURRENT_PAGE_NUMBER" value=1>
+<input type="hidden" name="MOD_TOPIC_TITLE" value="Epidemiology and Public Health">
+<input type="hidden" name="MOD_CID" value=287292>
+<input type="hidden" name="MOD_ISBN" value=9780128012383>
+<input type="hidden" name="pgType" value="topic">
+<!--<input type="hidden" value="" name="pdfDownload"> -->
+<noscript>
+    <input type="hidden" value="Y" name="JAVASCRIPT_DISABLED">
+    <noscript>
+    <div class="msgBox" style="margin-top:10px;width:665px;">
+    <span class="errMsg" style="color:#000;">
+    <img  class='warningIcon' title="Warning Icon" alt="Warning Icon" src="http://cdn.els-cdn.com/sd/img/sprite_parts/warning_a.gif" style="float:left;margin-right:5px;"/>
+    <div>JavaScript is disabled on your browser.  Please enable JavaScript to use all the features on this page.</div>
+    </span>
+    </div>
+    </noscript>
+</noscript>
+
+<div class="result_header">
+    
+    
+    <div class="result_count"><strong>787</strong> reference articles  related to  <strong>Epidemiology and Public Health</strong> </div>
+    
+    
+</div>
+ 
+                              
+<div id="articles">
+        <div class="articleHeader">
+            <div class="sorting">
+               
+               
+                <div class="filterLinks">View: <ul><li class="selected" data-url="http://www.sciencedirect.com/science/module/topic/9780128012383/Concept-000393#?_si=1&_ct=25&pgType=topic&sort=date&mod_topic_title=Epidemiology and Public Health">All</li><li class="Introductory"><a href="http://www.sciencedirect.com/science/module/topic/9780128012383/Concept-000393#?_si=1&_ct=25&pgType=topic&sort=date&mod_topic_title=Epidemiology and Public Health&rlVal=1&_rlInfo=intro|adv">Introductory</a></li><li class="Advanced"><a href="http://www.sciencedirect.com/science/module/topic/9780128012383/Concept-000393#?_si=1&_ct=25&pgType=topic&sort=date&mod_topic_title=Epidemiology and Public Health&rlVal=8&_rlInfo=intro|adv">Advanced</a></li></ul></div>            
+              
+            </div>
+           <div class="selection_menu"><div class="arrowBlock"><span class="iconSelect iconFull"></span></div><ul class="selection_menu navigation"><li class="menu_start"><input  id="purchaseBtnSprite" class="listAction iconBg" onclick="return ensureChkBoxSelected(this.form);" name="purchase" value="Purchase" type="submit"></li><li><div class="pulldown" > <div class="exportDivision" title="Export citations" alt="Export citations"><input id="exportIcon_sci_dir" value="Export" name="export" class="listAction export export_general initialImage" type="button" title="Export citations" aria-expanded="false" aria-controls="export_popup"> <a role="button" href="javascript:;" title="Export citations" alt="Export citations" class="dropdownArrow" aria-expanded="false" aria-controls="export_popup"><span class=" exportArrow down_sci_dir">Export citations</span></a> <input class='zone' name='zone' type='hidden' value='exportDropDown'/> </div><div class="menu hidden export_popup" id="export_popup"><img  class='warningIcon' title="Warning Icon" alt="Warning Icon" src="http://cdn.els-cdn.com/sd/img/sprite_parts/warning_a.gif"/><div class='exportInfo'><div class='chkboxCount'></div><div class='exportHelp'><a target='sdhelp' title='Help (Opens new window)' href='/science?_ob=HelpURL&_file=art_export.htm&_btn=Y&_zone=TopNavBar&_origin=topic' onclick='var helpWin;helpWin=window.open('/science?_ob=HelpURL&_file=art_export.htm&_btn=Y&_zone=TopNavBar&_origin=topic', 'sdhelp', 'scrollbars=yes,resizable=yes,directories=no,toolbar=no,menubar=no,status=no,width=984,height=738'); helpWin.focus(); return false;' title='Help (Opens new window)'>Help</a></td></div></div><div class="expContainer"><ul class="Export_Popup"><li class='subHeading'><h3>Direct export </h3></li><li class='direct_export'><div class="downBtn export_downBtn"><div><div class='btn_export directExport'><div class='icon_Mendeley' title='Save to Mendeley'>&nbsp;</div><input id="directExport" type="button" value="Save to Mendeley" name="Save to Mendeley" alt="Save to Mendeley" class="mendeleyBT button"/></div></div><div class='btnLine'><div class='btn_export refworks'><div class='icon_Refworks' title='Save to RefWorks'>&nbsp;</div><input id='REFWX' type='button' value='Save to RefWorks' name='Save to RefWorks' alt='Save to RefWorks' class='mendeleyBT button refworks'/></div></div><div class='clear'></div></div></li><li class="subHeading big"><h3>Export file</h3></li><li class="export_radio"><input type="radio" id="RIS" name="citation-type" checked value="RIS" {if var=RIS}checked{/if} class="artRadio expRadio RIS">&nbsp;<label for="RIS">RIS (for EndNote, Reference Manager, ProCite)</label></li><li class="export_radio"><input type="radio" id="BIBTEX" name="citation-type" value="BIBTEX" {if var=BIBTEX}checked{/if} class="artRadio expRadio BIBTEX">&nbsp;<label for="BIBTEX">BibTeX</label></li><li class="export_radio"><input type="radio" id="ASCII" name="citation-type" value="ASCII" {if var=ASCII}checked{/if} class="artRadio expRadio ASCII">&nbsp;<label for="ASCII">Text</label></li><li class='export_radio hidden'><input type='radio' id='REFWX' name='citation-type' value='REFWX' {if var=REFWX}checked{/if} class='artRadio expRadio REFWX'>&nbsp;<label for='REFWX'>RefWorks Direct Export</label></li><li class="subHeading big"><h3>Content</h3></li><li class='expCitab export_radio'><input type='radio' id='cite' name='format' value='cite' {if var=cite}checked{/if} class='artRadio expRadio'>&nbsp;<label class='cit' for='cite'>Citations Only</label></li><li class='expCitab export_radio'><input type='radio' id='cite-abs' name='format' value='cite-abs'checked class='artRadio expRadio'>&nbsp;<label class='cab' for='cite-abs'>Citations and Abstracts</label></li><li class="export_submit"><div class="downBtn export_downBtn" style=""><input type="submit" value="Export" name="export" alt="Export" id = "export_button" class="button export_button"/></div></li></ul></div></div></div></ul></div>
+        </div>
+        <ol class="articleList results">
+        <li class="detail"><div class="article"><div class="purchaseBtn"><span title="You are not entitled to access the full text of this document" class="iconPosition dunsub_article_sci_dir"></span></div><ol class="purchaseBlk"><li class="selection"><span class="selector"><input class="checkBox" type="checkbox" name="art" value="3-s2.0-B9780128036785001041" /><br/></span></li><li class="title"><a class="articletitle cLink"href="/science/article/pii/B9780128036785001041" querystr="?_origin=topic&_zone=rslt_list_item&conceptId=Concept-000393" title="Dental Epidemiology">Dental Epidemiology</a>  </i></span><span class="pubtype"></span></li><li class="source"><span class="srctitle"><i>Reference Module in Biomedical Sciences</i>, from <i>International Encyclopedia of Public Health (Second Edition)</i></span><span class="pubdatetxt"><i>, 2017</i></span><span class="pubpages"><i>, Pages 258-263</i></span></li><li class="author"><span class="author">Peter G. Robinson</span></li><li class="external"><div class="txt external"><ul class="extLinkBlock"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_origin=TopicPage&_srch=Citation&_zone=CitationResult&_fmt=full&_pii=B9780128036785001041&_isbn=9780128037089&_tab=afr&absLinks=y&md5=26792467657d82a41409b9b3f766573f" aria-describedby="title_B9780128036785001041" aria-controls="abs_B9780128036785001041" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a class="pdfIcon iconBg" href="/science?_ob=ShoppingCartURL&_method=add&_eid=3-s2.0-B9780128036785001041&_ts=1494959315&md5=9679649501ade12a3cb517127083c24f">Purchase PDF - $31.50</a></li></ul><div  class="previewBox abstract hidden"></div><div  class="previewBox rabstract hidden"></div><div  class="previewBox gabstract hidden"></div></div></li></ol></div></li><li class="detail"><div class="article"><div class="purchaseBtn"><span title="You are not entitled to access the full text of this document" class="iconPosition dunsub_article_sci_dir"></span></div><ol class="purchaseBlk"><li class="selection"><span class="selector"><input class="checkBox" type="checkbox" name="art" value="3-s2.0-B9780128036785001053" /><br/></span></li><li class="title"><a class="articletitle cLink"href="/science/article/pii/B9780128036785001053" querystr="?_origin=topic&_zone=rslt_list_item&conceptId=Concept-000393" title="Human Resources for Oral Health and Dentistry">Human Resources for Oral Health and Dentistry</a>  </i></span><span class="pubtype"></span></li><li class="source"><span class="srctitle"><i>Reference Module in Biomedical Sciences</i>, from <i>International Encyclopedia of Public Health (Second Edition)</i></span><span class="pubdatetxt"><i>, 2017</i></span><span class="pubpages"><i>, Pages 95-105</i></span></li><li class="author"><span class="author">Jennifer E. Gallagher</span></li><li class="external"><div class="txt external"><ul class="extLinkBlock"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=1&_origin=TopicPage&_srch=Citation&_zone=CitationResult&_fmt=full&_pii=B9780128036785001053&_isbn=9780128037089&_tab=afr&absLinks=y&md5=a4bb6ca97c651599b2267162f584ea6e" aria-describedby="title_B9780128036785001053" aria-controls="abs_B9780128036785001053" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a class="pdfIcon iconBg" href="/science?_ob=ShoppingCartURL&_method=add&_eid=3-s2.0-B9780128036785001053&_ts=1494959315&md5=b905eb934b4d84e2b810b8889df5a2a0">Purchase PDF - $31.50</a></li></ul><div  class="previewBox abstract hidden"></div><div  class="previewBox rabstract hidden"></div><div  class="previewBox gabstract hidden"></div></div></li></ol></div></li><li class="detail"><div class="article"><div class="purchaseBtn"><span title="You are entitled to access the full text of this document" class="iconPosition dsub_article_sci_dir"></span></div><ol class="purchaseBlk"><li class="selection"><span class="selector"><input class="checkBox" type="checkbox" name="art" value="3-s2.0-B978012801238307820X" /><br/></span></li><li class="title"><a class="articletitle cLink"href="/science/article/pii/B978012801238307820X" querystr="?_origin=topic&_zone=rslt_list_item&conceptId=Concept-000393" title="Public Health and Epidemiology: Prevention and Surveillance of Health Risks">Public Health and Epidemiology: Prevention and Surveillance of Health Risks</a>  </i></span><span class="pubtype"></span></li><li class="source"><span class="srctitle"><i>Reference Module in Biomedical Sciences</i></span><span class="pubdatetxt"><i>, 2015</i></span><span class="CURRENTASOF">, Current as of 21 April 2016</span></li><li class="author"><span class="author">S.R. Quah</span></li><li class="external"><div class="txt external"><ul class="extLinkBlock"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=2&_origin=TopicPage&_srch=Citation&_zone=CitationResult&_fmt=full&_pii=B978012801238307820X&_isbn=9780128012383&_tab=afr&absLinks=y&md5=3c02fc9e15bc5e6aa3550eefc0da575a" aria-describedby="title_B978012801238307820X" aria-controls="abs_B978012801238307820X" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li class="pdf"><a class="pdfIcon iconBg cLink"  href="/science/article/pii/B978012801238307820X/pdfft?md5=1fafae70a409bd7c689e13bde18988a2&pid=3-s2.0-B978012801238307820X-main.pdf" target="newPdfWin" onClick="var newWidth=((document.body.clientWidth*90)/100); var newHeight=document.body.clientHeight; var pdfWin; pdfWin=window.open('','newPdfWin','width='+newWidth+',height='+newHeight+',resizable=yes, left=50, top=50');" queryStr="?_origin=Topic_citation" >PDF (2223 K)</a></li></ul><div  class="previewBox abstract hidden"></div><div  class="previewBox rabstract hidden"></div><div  class="previewBox gabstract hidden"></div></div></li></ol></div></li><li class="detail"><div class="article"><div class="purchaseBtn"><span title="You are not entitled to access the full text of this document" class="iconPosition dunsub_article_sci_dir"></span></div><ol class="purchaseBlk"><li class="selection"><span class="selector"><input class="checkBox" type="checkbox" name="art" value="3-s2.0-B9780128036785004823" /><br/></span></li><li class="title"><a class="articletitle cLink"href="/science/article/pii/B9780128036785004823" querystr="?_origin=topic&_zone=rslt_list_item&conceptId=Concept-000393" title="Vaccines, Historical">Vaccines, Historical</a>  </i></span><span class="pubtype"></span></li><li class="source"><span class="srctitle"><i>Reference Module in Biomedical Sciences</i>, from <i>International Encyclopedia of Public Health (Second Edition)</i></span><span class="pubdatetxt"><i>, 2017</i></span><span class="pubpages"><i>, Pages 318-329</i></span></li><li class="author"><span class="author">Husein Moloo, Andrew W. Artenstein</span></li><li class="external"><div class="txt external"><ul class="extLinkBlock"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=3&_origin=TopicPage&_srch=Citation&_zone=CitationResult&_fmt=full&_pii=B9780128036785004823&_isbn=9780128037089&_tab=afr&absLinks=y&md5=fcabc9ea1f2c4083838b2203f8baed6f" aria-describedby="title_B9780128036785004823" aria-controls="abs_B9780128036785004823" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a class="pdfIcon iconBg" href="/science?_ob=ShoppingCartURL&_method=add&_eid=3-s2.0-B9780128036785004823&_ts=1494959315&md5=1b0470b937ddf58cfb743d2f7f225b19">Purchase PDF - $31.50</a></li></ul><div  class="previewBox abstract hidden"></div><div  class="previewBox rabstract hidden"></div><div  class="previewBox gabstract hidden"></div></div></li></ol></div></li><li class="detail"><div class="article"><div class="purchaseBtn"><span title="You are not entitled to access the full text of this document" class="iconPosition dunsub_article_sci_dir"></span></div><ol class="purchaseBlk"><li class="selection"><span class="selector"><input class="checkBox" type="checkbox" name="art" value="3-s2.0-B9780123739605001829" /><br/></span></li><li class="title"><a class="articletitle cLink"href="/science/article/pii/B9780123739605001829" querystr="?_origin=topic&_zone=rslt_list_item&conceptId=Concept-000393" title="Environmental and Occupational Epidemiology">Environmental and Occupational Epidemiology</a>  </i></span><span class="pubtype"></span></li><li class="source"><span class="srctitle"><i>Reference Module in Biomedical Sciences</i>, from <i>International Encyclopedia of Public Health</i></span><span class="pubdatetxt"><i>, 2008</i></span><span class="pubpages"><i>, Pages 352-361</i></span><span class="CURRENTASOF">, Current as of 3 April 2014</span></li><li class="author"><span class="author">N. Pearce, J. Douwes</span></li><li class="external"><div class="txt external"><ul class="extLinkBlock"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=4&_origin=TopicPage&_srch=Citation&_zone=CitationResult&_fmt=full&_pii=B9780123739605001829&_isbn=9780123739605&_tab=afr&absLinks=y&md5=d44b28625aa8e7b308d1b5e9298d2c46" aria-describedby="title_B9780123739605001829" aria-controls="abs_B9780123739605001829" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a class="pdfIcon iconBg" href="/science?_ob=ShoppingCartURL&_method=add&_eid=3-s2.0-B9780123739605001829&_ts=1494959315&md5=855056d3a0ba0d0198dd8cce9dd94028">Purchase PDF - $31.50</a></li></ul><div  class="previewBox abstract hidden"></div><div  class="previewBox rabstract hidden"></div><div  class="previewBox gabstract hidden"></div></div></li></ol></div></li><li class="detail"><div class="article"><div class="purchaseBtn"><span title="You are not entitled to access the full text of this document" class="iconPosition dunsub_article_sci_dir"></span></div><ol class="purchaseBlk"><li class="selection"><span class="selector"><input class="checkBox" type="checkbox" name="art" value="3-s2.0-B9780128012383028658" /><br/></span></li><li class="title"><a class="articletitle cLink"href="/science/article/pii/B9780128012383028658" querystr="?_origin=topic&_zone=rslt_list_item&conceptId=Concept-000393" title="Clinical Epidemiology☆">Clinical Epidemiology☆</a>  </i></span><span class="pubtype"></span></li><li class="source"><span class="srctitle"><i>Reference Module in Biomedical Sciences</i></span><span class="pubdatetxt"><i>, 2014</i></span></li><li class="author"><span class="author">D.L. Sackett, R. Brian Haynes</span></li><li class="external"><div class="txt external"><ul class="extLinkBlock"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=5&_origin=TopicPage&_srch=Citation&_zone=CitationResult&_fmt=full&_pii=B9780128012383028658&_isbn=9780128012383&_tab=afr&absLinks=y&md5=c8e9fa87ce0d6fbef1ed5dcd664d633d" aria-describedby="title_B9780128012383028658" aria-controls="abs_B9780128012383028658" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a class="pdfIcon iconBg" href="/science?_ob=ShoppingCartURL&_method=add&_eid=3-s2.0-B9780128012383028658&_ts=1494959315&md5=622e154bb7590d1b2525567dc267eb20">Purchase PDF - $31.50</a></li></ul><div  class="previewBox abstract hidden"></div><div  class="previewBox rabstract hidden"></div><div  class="previewBox gabstract hidden"></div></div></li></ol></div></li><li class="detail"><div class="article"><div class="purchaseBtn"><span title="You are not entitled to access the full text of this document" class="iconPosition dunsub_article_sci_dir"></span></div><ol class="purchaseBlk"><li class="selection"><span class="selector"><input class="checkBox" type="checkbox" name="art" value="3-s2.0-B9780128036785000771" /><br/></span></li><li class="title"><a class="articletitle cLink"href="/science/article/pii/B9780128036785000771" querystr="?_origin=topic&_zone=rslt_list_item&conceptId=Concept-000393" title="Clinical Epidemiology">Clinical Epidemiology</a>  </i></span><span class="pubtype"></span></li><li class="source"><span class="srctitle"><i>Reference Module in Biomedical Sciences</i>, from <i>International Encyclopedia of Public Health (Second Edition)</i></span><span class="pubdatetxt"><i>, 2017</i></span><span class="pubpages"><i>, Pages 58-61</i></span></li><li class="author"><span class="author">David L. Sackett, R. Brian Haynes</span></li><li class="external"><div class="txt external"><ul class="extLinkBlock"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=6&_origin=TopicPage&_srch=Citation&_zone=CitationResult&_fmt=full&_pii=B9780128036785000771&_isbn=9780128037089&_tab=afr&absLinks=y&md5=2759f253e38f3676bd0e146357ec5e79" aria-describedby="title_B9780128036785000771" aria-controls="abs_B9780128036785000771" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a class="pdfIcon iconBg" href="/science?_ob=ShoppingCartURL&_method=add&_eid=3-s2.0-B9780128036785000771&_ts=1494959315&md5=06b6689cf2c5f842f717f113d8b08eee">Purchase PDF - $31.50</a></li></ul><div  class="previewBox abstract hidden"></div><div  class="previewBox rabstract hidden"></div><div  class="previewBox gabstract hidden"></div></div></li></ol></div></li><li class="detail"><div class="article"><div class="purchaseBtn"><span title="You are not entitled to access the full text of this document" class="iconPosition dunsub_article_sci_dir"></span></div><ol class="purchaseBlk"><li class="selection"><span class="selector"><input class="checkBox" type="checkbox" name="art" value="3-s2.0-B9780128036785001326" /><br/></span></li><li class="title"><a class="articletitle cLink"href="/science/article/pii/B9780128036785001326" querystr="?_origin=topic&_zone=rslt_list_item&conceptId=Concept-000393" title="Environmental and Occupational Epidemiology">Environmental and Occupational Epidemiology</a>  </i></span><span class="pubtype"></span></li><li class="source"><span class="srctitle"><i>Reference Module in Biomedical Sciences</i>, from <i>International Encyclopedia of Public Health (Second Edition)</i></span><span class="pubdatetxt"><i>, 2017</i></span><span class="pubpages"><i>, Pages 479-486</i></span></li><li class="author"><span class="author">Neil Pearce, Jeroen Douwes</span></li><li class="external"><div class="txt external"><ul class="extLinkBlock"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=7&_origin=TopicPage&_srch=Citation&_zone=CitationResult&_fmt=full&_pii=B9780128036785001326&_isbn=9780128037089&_tab=afr&absLinks=y&md5=cf63f011014495fdc29494e7dedc2e9e" aria-describedby="title_B9780128036785001326" aria-controls="abs_B9780128036785001326" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a class="pdfIcon iconBg" href="/science?_ob=ShoppingCartURL&_method=add&_eid=3-s2.0-B9780128036785001326&_ts=1494959315&md5=69c02364747b75595cf4dd106edc053b">Purchase PDF - $31.50</a></li></ul><div  class="previewBox abstract hidden"></div><div  class="previewBox rabstract hidden"></div><div  class="previewBox gabstract hidden"></div></div></li></ol></div></li><li class="detail"><div class="article"><div class="purchaseBtn"><span title="You are not entitled to access the full text of this document" class="iconPosition dunsub_article_sci_dir"></span></div><ol class="purchaseBlk"><li class="selection"><span class="selector"><input class="checkBox" type="checkbox" name="art" value="3-s2.0-B978012801238302866X" /><br/></span></li><li class="title"><a class="articletitle cLink"href="/science/article/pii/B978012801238302866X" querystr="?_origin=topic&_zone=rslt_list_item&conceptId=Concept-000393" title="Demography of Aging☆">Demography of Aging☆</a>  </i></span><span class="READLEVEL">Introductory Article</span><span class="pubtype"></span></li><li class="source"><span class="srctitle"><i>Reference Module in Biomedical Sciences</i></span><span class="pubdatetxt"><i>, 2015</i></span></li><li class="author"><span class="author">K.C. Land, V.L. Lamb</span></li><li class="external"><div class="txt external"><ul class="extLinkBlock"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=8&_origin=TopicPage&_srch=Citation&_zone=CitationResult&_fmt=full&_pii=B978012801238302866X&_isbn=9780128012383&_tab=afr&absLinks=y&md5=1893f6f536a760b425e10ff24d76c677" aria-describedby="title_B978012801238302866X" aria-controls="abs_B978012801238302866X" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a class="pdfIcon iconBg" href="/science?_ob=ShoppingCartURL&_method=add&_eid=3-s2.0-B978012801238302866X&_ts=1494959315&md5=6df31916468257994c0b36fc810679a9">Purchase PDF - $31.50</a></li></ul><div  class="previewBox abstract hidden"></div><div  class="previewBox rabstract hidden"></div><div  class="previewBox gabstract hidden"></div></div></li></ol></div></li><li class="detail"><div class="article"><div class="purchaseBtn"><span title="You are not entitled to access the full text of this document" class="iconPosition dunsub_article_sci_dir"></span></div><ol class="purchaseBlk"><li class="selection"><span class="selector"><input class="checkBox" type="checkbox" name="art" value="3-s2.0-B9780128036785001028" /><br/></span></li><li class="title"><a class="articletitle cLink"href="/science/article/pii/B9780128036785001028" querystr="?_origin=topic&_zone=rslt_list_item&conceptId=Concept-000393" title="Demography, Epidemiology, and Public Health">Demography, Epidemiology, and Public Health</a>  </i></span><span class="pubtype"></span></li><li class="source"><span class="srctitle"><i>Reference Module in Biomedical Sciences</i>, from <i>International Encyclopedia of Public Health (Second Edition)</i></span><span class="pubdatetxt"><i>, 2017</i></span><span class="pubpages"><i>, Pages 223-225</i></span></li><li class="author"><span class="author">Ollie S. Miettinen</span></li><li class="external"><div class="txt external"><ul class="extLinkBlock"><li class="nojs"><a href=/science?_ob=PdfExcerptURL&_imagekey=3-s2.0-B9780128036785001028-main.pdf&_piikey=B9780128036785001028&_cdi=315580&_orig=topic&_zone=rslt_list_item&_fmt=abst&_eid=3-s20-B9780128036785001028&_isbn=9780128037089&_user=12975512&md5=7a539918fb360d19fd4887dd9293a4a6&ie=/excerpt.pdf pdfurl="/science?_ob=PdfExcerptURL&_imagekey=3-s2.0-B9780128036785001028-main.pdf&_piikey=B9780128036785001028&_cdi=315580&_orig=topic&_zone=rslt_list_item&_fmt=abst&_eid=3-s20-B9780128036785001028&_isbn=9780128037089&_user=12975512&md5=7a539918fb360d19fd4887dd9293a4a6&ie=/excerpt.pdf target="_blank" class="firstPagePDF"><span id=3-s20-B9780128036785001028-label>First page PDF</span></a></li><li><a class="pdfIcon iconBg" href="/science?_ob=ShoppingCartURL&_method=add&_eid=3-s2.0-B9780128036785001028&_ts=1494959315&md5=f1aa3afc53e288f507b61d5ddd6b6828">Purchase PDF - $31.50</a></li></ul><div  class="previewBox abstract hidden"></div><div  class="previewBox rabstract hidden"></div><div  class="previewBox gabstract hidden"></div></div></li></ol></div></li><li class="detail"><div class="article"><div class="purchaseBtn"><span title="You are not entitled to access the full text of this document" class="iconPosition dunsub_article_sci_dir"></span></div><ol class="purchaseBlk"><li class="selection"><span class="selector"><input class="checkBox" type="checkbox" name="art" value="3-s2.0-B9780128012383001501" /><br/></span></li><li class="title"><a class="articletitle cLink"href="/science/article/pii/B9780128012383001501" querystr="?_origin=topic&_zone=rslt_list_item&conceptId=Concept-000393" title="Demography of Human Aging and Longevity">Demography of Human Aging and Longevity</a>  </i></span><span class="pubtype"></span></li><li class="source"><span class="srctitle"><i>Reference Module in Biomedical Sciences</i></span><span class="pubdatetxt"><i>, 2014</i></span><span class="CURRENTASOF">, Current as of 25 January 2017</span></li><li class="author"><span class="author">S.J. Olshansky</span></li><li class="external"><div class="txt external"><ul class="extLinkBlock"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=10&_origin=TopicPage&_srch=Citation&_zone=CitationResult&_fmt=full&_pii=B9780128012383001501&_isbn=9780128012383&_tab=afr&absLinks=y&md5=8c83051cbf47293e6ee4effe184fe9dc" aria-describedby="title_B9780128012383001501" aria-controls="abs_B9780128012383001501" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a class="pdfIcon iconBg" href="/science?_ob=ShoppingCartURL&_method=add&_eid=3-s2.0-B9780128012383001501&_ts=1494959315&md5=74cd6d81ebca57ab19cb416036260fe5">Purchase PDF - $31.50</a></li></ul><div  class="previewBox abstract hidden"></div><div  class="previewBox rabstract hidden"></div><div  class="previewBox gabstract hidden"></div></div></li></ol></div></li><li class="detail"><div class="article"><div class="purchaseBtn"><span title="You are not entitled to access the full text of this document" class="iconPosition dunsub_article_sci_dir"></span></div><ol class="purchaseBlk"><li class="selection"><span class="selector"><input class="checkBox" type="checkbox" name="art" value="3-s2.0-B9780128036785004070" /><br/></span></li><li class="title"><a class="articletitle cLink"href="/science/article/pii/B9780128036785004070" querystr="?_origin=topic&_zone=rslt_list_item&conceptId=Concept-000393" title="Sick Building Syndrome">Sick Building Syndrome</a>  </i></span><span class="pubtype"></span></li><li class="source"><span class="srctitle"><i>Reference Module in Biomedical Sciences</i>, from <i>International Encyclopedia of Public Health (Second Edition)</i></span><span class="pubdatetxt"><i>, 2017</i></span><span class="pubpages"><i>, Pages 502-505</i></span></li><li class="author"><span class="author">Janis Jansz</span></li><li class="external"><div class="txt external"><ul class="extLinkBlock"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=11&_origin=TopicPage&_srch=Citation&_zone=CitationResult&_fmt=full&_pii=B9780128036785004070&_isbn=9780128037089&_tab=afr&absLinks=y&md5=c48fd46f52d1d794891a62597b7e8c6e" aria-describedby="title_B9780128036785004070" aria-controls="abs_B9780128036785004070" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a class="pdfIcon iconBg" href="/science?_ob=ShoppingCartURL&_method=add&_eid=3-s2.0-B9780128036785004070&_ts=1494959315&md5=bff3274c0ace4e0fb80a423bdba55ff4">Purchase PDF - $31.50</a></li></ul><div  class="previewBox abstract hidden"></div><div  class="previewBox rabstract hidden"></div><div  class="previewBox gabstract hidden"></div></div></li></ol></div></li><li class="detail"><div class="article"><div class="purchaseBtn"><span title="You are not entitled to access the full text of this document" class="iconPosition dunsub_article_sci_dir"></span></div><ol class="purchaseBlk"><li class="selection"><span class="selector"><input class="checkBox" type="checkbox" name="art" value="3-s2.0-B9780128036785002976" /><br/></span></li><li class="title"><a class="articletitle cLink"href="/science/article/pii/B9780128036785002976" querystr="?_origin=topic&_zone=rslt_list_item&conceptId=Concept-000393" title="Muscular Dystrophies">Muscular Dystrophies</a>  </i></span><span class="pubtype"></span></li><li class="source"><span class="srctitle"><i>Reference Module in Biomedical Sciences</i>, from <i>International Encyclopedia of Public Health (Second Edition)</i></span><span class="pubdatetxt"><i>, 2017</i></span><span class="pubpages"><i>, Pages 183-192</i></span></li><li class="author"><span class="author">Mina Astejada, May Christine Malicdan, Ichizo Nishino</span></li><li class="external"><div class="txt external"><ul class="extLinkBlock"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=12&_origin=TopicPage&_srch=Citation&_zone=CitationResult&_fmt=full&_pii=B9780128036785002976&_isbn=9780128037089&_tab=afr&absLinks=y&md5=9cebfe4e78f3b450b84f92cd5545e31b" aria-describedby="title_B9780128036785002976" aria-controls="abs_B9780128036785002976" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a class="pdfIcon iconBg" href="/science?_ob=ShoppingCartURL&_method=add&_eid=3-s2.0-B9780128036785002976&_ts=1494959315&md5=3df41260ea4e99d4814d304d167f6329">Purchase PDF - $31.50</a></li></ul><div  class="previewBox abstract hidden"></div><div  class="previewBox rabstract hidden"></div><div  class="previewBox gabstract hidden"></div></div></li></ol></div></li><li class="detail"><div class="article"><div class="purchaseBtn"><span title="You are not entitled to access the full text of this document" class="iconPosition dunsub_article_sci_dir"></span></div><ol class="purchaseBlk"><li class="selection"><span class="selector"><input class="checkBox" type="checkbox" name="art" value="3-s2.0-B9780128036785001077" /><br/></span></li><li class="title"><a class="articletitle cLink"href="/science/article/pii/B9780128036785001077" querystr="?_origin=topic&_zone=rslt_list_item&conceptId=Concept-000393" title="Diabetes Mellitus Prevention">Diabetes Mellitus Prevention</a>  </i></span><span class="pubtype"></span></li><li class="source"><span class="srctitle"><i>Reference Module in Biomedical Sciences</i>, from <i>International Encyclopedia of Public Health (Second Edition)</i></span><span class="pubdatetxt"><i>, 2017</i></span><span class="pubpages"><i>, Pages 282-287</i></span></li><li class="author"><span class="author">Sabitha R. Dasari, Reena Oza-Frank, K.M. Venkat Narayan</span></li><li class="external"><div class="txt external"><ul class="extLinkBlock"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=13&_origin=TopicPage&_srch=Citation&_zone=CitationResult&_fmt=full&_pii=B9780128036785001077&_isbn=9780128037089&_tab=afr&absLinks=y&md5=8093a13675d951827ac7ad4e0f9fffd1" aria-describedby="title_B9780128036785001077" aria-controls="abs_B9780128036785001077" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a class="pdfIcon iconBg" href="/science?_ob=ShoppingCartURL&_method=add&_eid=3-s2.0-B9780128036785001077&_ts=1494959315&md5=1dc71b8bc21b6999af2e1b91b436a0dd">Purchase PDF - $31.50</a></li></ul><div  class="previewBox abstract hidden"></div><div  class="previewBox rabstract hidden"></div><div  class="previewBox gabstract hidden"></div></div></li></ol></div></li><li class="detail"><div class="article"><div class="purchaseBtn"><span title="You are not entitled to access the full text of this document" class="iconPosition dunsub_article_sci_dir"></span></div><ol class="purchaseBlk"><li class="selection"><span class="selector"><input class="checkBox" type="checkbox" name="art" value="3-s2.0-B9780128036785001089" /><br/></span></li><li class="title"><a class="articletitle cLink"href="/science/article/pii/B9780128036785001089" querystr="?_origin=topic&_zone=rslt_list_item&conceptId=Concept-000393" title="Diabetes Mellitus Treatment">Diabetes Mellitus Treatment</a>  </i></span><span class="pubtype"></span></li><li class="source"><span class="srctitle"><i>Reference Module in Biomedical Sciences</i>, from <i>International Encyclopedia of Public Health (Second Edition)</i></span><span class="pubdatetxt"><i>, 2017</i></span><span class="pubpages"><i>, Pages 288-293</i></span></li><li class="author"><span class="author">Chin Meng Khoo</span></li><li class="external"><div class="txt external"><ul class="extLinkBlock"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=14&_origin=TopicPage&_srch=Citation&_zone=CitationResult&_fmt=full&_pii=B9780128036785001089&_isbn=9780128037089&_tab=afr&absLinks=y&md5=ff14a699cb560e29dba6dde9bded7c7e" aria-describedby="title_B9780128036785001089" aria-controls="abs_B9780128036785001089" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a class="pdfIcon iconBg" href="/science?_ob=ShoppingCartURL&_method=add&_eid=3-s2.0-B9780128036785001089&_ts=1494959315&md5=411b95f8323fe658f4a45e922cb44be4">Purchase PDF - $31.50</a></li></ul><div  class="previewBox abstract hidden"></div><div  class="previewBox rabstract hidden"></div><div  class="previewBox gabstract hidden"></div></div></li></ol></div></li><li class="detail"><div class="article"><div class="purchaseBtn"><span title="You are not entitled to access the full text of this document" class="iconPosition dunsub_article_sci_dir"></span></div><ol class="purchaseBlk"><li class="selection"><span class="selector"><input class="checkBox" type="checkbox" name="art" value="3-s2.0-B9780128036785004951" /><br/></span></li><li class="title"><a class="articletitle cLink"href="/science/article/pii/B9780128036785004951" querystr="?_origin=topic&_zone=rslt_list_item&conceptId=Concept-000393" title="Wilson's Disease">Wilson's Disease</a>  </i></span><span class="pubtype"></span></li><li class="source"><span class="srctitle"><i>Reference Module in Biomedical Sciences</i>, from <i>International Encyclopedia of Public Health (Second Edition)</i></span><span class="pubdatetxt"><i>, 2017</i></span><span class="pubpages"><i>, Pages 424-433</i></span></li><li class="author"><span class="author">Amit Kulkarni, Vijay Kumar Sharma</span></li><li class="external"><div class="txt external"><ul class="extLinkBlock"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=15&_origin=TopicPage&_srch=Citation&_zone=CitationResult&_fmt=full&_pii=B9780128036785004951&_isbn=9780128037089&_tab=afr&absLinks=y&md5=e3c3e760966dde47b7640b83929e77fa" aria-describedby="title_B9780128036785004951" aria-controls="abs_B9780128036785004951" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a class="pdfIcon iconBg" href="/science?_ob=ShoppingCartURL&_method=add&_eid=3-s2.0-B9780128036785004951&_ts=1494959315&md5=2f2ceab030d2a958209b36de5e9df191">Purchase PDF - $31.50</a></li></ul><div  class="previewBox abstract hidden"></div><div  class="previewBox rabstract hidden"></div><div  class="previewBox gabstract hidden"></div></div></li></ol></div></li><li class="detail"><div class="article"><div class="purchaseBtn"><span title="You are not entitled to access the full text of this document" class="iconPosition dunsub_article_sci_dir"></span></div><ol class="purchaseBlk"><li class="selection"><span class="selector"><input class="checkBox" type="checkbox" name="art" value="3-s2.0-B9780128036785001090" /><br/></span></li><li class="title"><a class="articletitle cLink"href="/science/article/pii/B9780128036785001090" querystr="?_origin=topic&_zone=rslt_list_item&conceptId=Concept-000393" title="Diabetes Mellitus, Epidemiology">Diabetes Mellitus, Epidemiology</a>  </i></span><span class="pubtype"></span></li><li class="source"><span class="srctitle"><i>Reference Module in Biomedical Sciences</i>, from <i>International Encyclopedia of Public Health (Second Edition)</i></span><span class="pubdatetxt"><i>, 2017</i></span><span class="pubpages"><i>, Pages 274-281</i></span></li><li class="author"><span class="author">Joan K. Bardsley, Helaine E. Resnick</span></li><li class="external"><div class="txt external"><ul class="extLinkBlock"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=16&_origin=TopicPage&_srch=Citation&_zone=CitationResult&_fmt=full&_pii=B9780128036785001090&_isbn=9780128037089&_tab=afr&absLinks=y&md5=1f7421ea6b2f7b32b2b70b243c559b46" aria-describedby="title_B9780128036785001090" aria-controls="abs_B9780128036785001090" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a class="pdfIcon iconBg" href="/science?_ob=ShoppingCartURL&_method=add&_eid=3-s2.0-B9780128036785001090&_ts=1494959315&md5=7c33707a79f905c5957ceecfd003f7ed">Purchase PDF - $31.50</a></li></ul><div  class="previewBox abstract hidden"></div><div  class="previewBox rabstract hidden"></div><div  class="previewBox gabstract hidden"></div></div></li></ol></div></li><li class="detail"><div class="article"><div class="purchaseBtn"><span title="You are not entitled to access the full text of this document" class="iconPosition dunsub_article_sci_dir"></span></div><ol class="purchaseBlk"><li class="selection"><span class="selector"><input class="checkBox" type="checkbox" name="art" value="3-s2.0-B9780128036785003854" /><br/></span></li><li class="title"><a class="articletitle cLink"href="/science/article/pii/B9780128036785003854" querystr="?_origin=topic&_zone=rslt_list_item&conceptId=Concept-000393" title="Rheumatic Fever and Rheumatic Heart Disease">Rheumatic Fever and Rheumatic Heart Disease</a>  </i></span><span class="pubtype"></span></li><li class="source"><span class="srctitle"><i>Reference Module in Biomedical Sciences</i>, from <i>International Encyclopedia of Public Health (Second Edition)</i></span><span class="pubdatetxt"><i>, 2017</i></span><span class="pubpages"><i>, Pages 357-362</i></span></li><li class="author"><span class="author">Praveg Goyal, Rajesh Vijayvergiya</span></li><li class="external"><div class="txt external"><ul class="extLinkBlock"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=17&_origin=TopicPage&_srch=Citation&_zone=CitationResult&_fmt=full&_pii=B9780128036785003854&_isbn=9780128037089&_tab=afr&absLinks=y&md5=0428c210dc475dd7f291c21b7bb984c1" aria-describedby="title_B9780128036785003854" aria-controls="abs_B9780128036785003854" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a class="pdfIcon iconBg" href="/science?_ob=ShoppingCartURL&_method=add&_eid=3-s2.0-B9780128036785003854&_ts=1494959315&md5=89a367ac06ca170bbf27aeb75c50fa94">Purchase PDF - $31.50</a></li></ul><div  class="previewBox abstract hidden"></div><div  class="previewBox rabstract hidden"></div><div  class="previewBox gabstract hidden"></div></div></li></ol></div></li><li class="detail"><div class="article"><div class="purchaseBtn"><span title="You are not entitled to access the full text of this document" class="iconPosition dunsub_article_sci_dir"></span></div><ol class="purchaseBlk"><li class="selection"><span class="selector"><input class="checkBox" type="checkbox" name="art" value="3-s2.0-B9780128036785001727" /><br/></span></li><li class="title"><a class="articletitle cLink"href="/science/article/pii/B9780128036785001727" querystr="?_origin=topic&_zone=rslt_list_item&conceptId=Concept-000393" title="Genetic Epidemiology">Genetic Epidemiology</a>  </i></span><span class="pubtype"></span></li><li class="source"><span class="srctitle"><i>Reference Module in Biomedical Sciences</i>, from <i>International Encyclopedia of Public Health (Second Edition)</i></span><span class="pubdatetxt"><i>, 2017</i></span><span class="pubpages"><i>, Pages 248-252</i></span></li><li class="author"><span class="author">Harry Campbell, Niall Anderson</span></li><li class="external"><div class="txt external"><ul class="extLinkBlock"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=18&_origin=TopicPage&_srch=Citation&_zone=CitationResult&_fmt=full&_pii=B9780128036785001727&_isbn=9780128037089&_tab=afr&absLinks=y&md5=6d602471e131d782108af714af254eb0" aria-describedby="title_B9780128036785001727" aria-controls="abs_B9780128036785001727" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a class="pdfIcon iconBg" href="/science?_ob=ShoppingCartURL&_method=add&_eid=3-s2.0-B9780128036785001727&_ts=1494959315&md5=cff951fb0705874c8b27e3213ae95707">Purchase PDF - $31.50</a></li></ul><div  class="previewBox abstract hidden"></div><div  class="previewBox rabstract hidden"></div><div  class="previewBox gabstract hidden"></div></div></li></ol></div></li><li class="detail"><div class="article"><div class="purchaseBtn"><span title="You are not entitled to access the full text of this document" class="iconPosition dunsub_article_sci_dir"></span></div><ol class="purchaseBlk"><li class="selection"><span class="selector"><input class="checkBox" type="checkbox" name="art" value="3-s2.0-B9780128012383030695" /><br/></span></li><li class="title"><a class="articletitle cLink"href="/science/article/pii/B9780128012383030695" querystr="?_origin=topic&_zone=rslt_list_item&conceptId=Concept-000393" title="Biostatistics☆">Biostatistics☆</a>  </i></span><span class="pubtype"></span></li><li class="source"><span class="srctitle"><i>Reference Module in Biomedical Sciences</i></span><span class="pubdatetxt"><i>, 2015</i></span></li><li class="author"><span class="author">P.E. Leaverton, F.L. Vaughn, Y. Zhu</span></li><li class="external"><div class="txt external"><ul class="extLinkBlock"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=19&_origin=TopicPage&_srch=Citation&_zone=CitationResult&_fmt=full&_pii=B9780128012383030695&_isbn=9780128012383&_tab=afr&absLinks=y&md5=8153d5ffc432b8184888da13a9717516" aria-describedby="title_B9780128012383030695" aria-controls="abs_B9780128012383030695" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a class="pdfIcon iconBg" href="/science?_ob=ShoppingCartURL&_method=add&_eid=3-s2.0-B9780128012383030695&_ts=1494959315&md5=cca44513ab5df6cf39a0f5bac6ca33c8">Purchase PDF - $31.50</a></li></ul><div  class="previewBox abstract hidden"></div><div  class="previewBox rabstract hidden"></div><div  class="previewBox gabstract hidden"></div></div></li></ol></div></li><li class="detail"><div class="article"><div class="purchaseBtn"><span title="You are not entitled to access the full text of this document" class="iconPosition dunsub_article_sci_dir"></span></div><ol class="purchaseBlk"><li class="selection"><span class="selector"><input class="checkBox" type="checkbox" name="art" value="3-s2.0-B9780128012383988378" /><br/></span></li><li class="title"><a class="articletitle cLink"href="/science/article/pii/B9780128012383988378" querystr="?_origin=topic&_zone=rslt_list_item&conceptId=Concept-000393" title="Measurement and Modeling: Infectious Disease Modeling">Measurement and Modeling: Infectious Disease Modeling</a>  </i></span><span class="pubtype"></span></li><li class="source"><span class="srctitle"><i>Reference Module in Biomedical Sciences</i></span><span class="pubdatetxt"><i>, 2016</i></span></li><li class="author"><span class="author">M. Kretzschmar</span></li><li class="external"><div class="txt external"><ul class="extLinkBlock"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=20&_origin=TopicPage&_srch=Citation&_zone=CitationResult&_fmt=full&_pii=B9780128012383988378&_isbn=9780128012383&_tab=afr&absLinks=y&md5=ca929b2981864db01945a2c6fbd30f10" aria-describedby="title_B9780128012383988378" aria-controls="abs_B9780128012383988378" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a class="pdfIcon iconBg" href="/science?_ob=ShoppingCartURL&_method=add&_eid=3-s2.0-B9780128012383988378&_ts=1494959315&md5=fa3ba2b686087947f5ac2cff66894b26">Purchase PDF - $31.50</a></li></ul><div  class="previewBox abstract hidden"></div><div  class="previewBox rabstract hidden"></div><div  class="previewBox gabstract hidden"></div></div></li></ol></div></li><li class="detail"><div class="article"><div class="purchaseBtn"><span title="You are not entitled to access the full text of this document" class="iconPosition dunsub_article_sci_dir"></span></div><ol class="purchaseBlk"><li class="selection"><span class="selector"><input class="checkBox" type="checkbox" name="art" value="3-s2.0-B9780128012383028750" /><br/></span></li><li class="title"><a class="articletitle cLink"href="/science/article/pii/B9780128012383028750" querystr="?_origin=topic&_zone=rslt_list_item&conceptId=Concept-000393" title="Concepts of Health and Disease☆">Concepts of Health and Disease☆</a>  </i></span><span class="READLEVEL">Introductory Article</span><span class="pubtype"></span></li><li class="source"><span class="srctitle"><i>Reference Module in Biomedical Sciences</i></span><span class="pubdatetxt"><i>, 2015</i></span></li><li class="author"><span class="author">D. Czeresnia, T.C. Soares</span></li><li class="external"><div class="txt external"><ul class="extLinkBlock"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=21&_origin=TopicPage&_srch=Citation&_zone=CitationResult&_fmt=full&_pii=B9780128012383028750&_isbn=9780128012383&_tab=afr&absLinks=y&md5=c55e509e63cac82b1f7739579670bd79" aria-describedby="title_B9780128012383028750" aria-controls="abs_B9780128012383028750" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a class="pdfIcon iconBg" href="/science?_ob=ShoppingCartURL&_method=add&_eid=3-s2.0-B9780128012383028750&_ts=1494959315&md5=6011504b469b239ddc3e2f2218aaa596">Purchase PDF - $31.50</a></li></ul><div  class="previewBox abstract hidden"></div><div  class="previewBox rabstract hidden"></div><div  class="previewBox gabstract hidden"></div></div></li></ol></div></li><li class="detail"><div class="article"><div class="purchaseBtn"><span title="You are not entitled to access the full text of this document" class="iconPosition dunsub_article_sci_dir"></span></div><ol class="purchaseBlk"><li class="selection"><span class="selector"><input class="checkBox" type="checkbox" name="art" value="3-s2.0-B9780128012383028804" /><br/></span></li><li class="title"><a class="articletitle cLink"href="/science/article/pii/B9780128012383028804" querystr="?_origin=topic&_zone=rslt_list_item&conceptId=Concept-000393" title="Observational Epidemiology☆">Observational Epidemiology☆</a>  </i></span><span class="pubtype"></span></li><li class="source"><span class="srctitle"><i>Reference Module in Biomedical Sciences</i></span><span class="pubdatetxt"><i>, 2014</i></span></li><li class="author"><span class="author">Jennifer L. Kelsey, Ellen B. Gold</span></li><li class="external"><div class="txt external"><ul class="extLinkBlock"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=22&_origin=TopicPage&_srch=Citation&_zone=CitationResult&_fmt=full&_pii=B9780128012383028804&_isbn=9780128012383&_tab=afr&absLinks=y&md5=e7a9fb16a509074f91774f541e0b6449" aria-describedby="title_B9780128012383028804" aria-controls="abs_B9780128012383028804" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a class="pdfIcon iconBg" href="/science?_ob=ShoppingCartURL&_method=add&_eid=3-s2.0-B9780128012383028804&_ts=1494959315&md5=1c33887b412e9a78320df9c343a1e826">Purchase PDF - $31.50</a></li></ul><div  class="previewBox abstract hidden"></div><div  class="previewBox rabstract hidden"></div><div  class="previewBox gabstract hidden"></div></div></li></ol></div></li><li class="detail"><div class="article"><div class="purchaseBtn"><span title="You are not entitled to access the full text of this document" class="iconPosition dunsub_article_sci_dir"></span></div><ol class="purchaseBlk"><li class="selection"><span class="selector"><input class="checkBox" type="checkbox" name="art" value="3-s2.0-B9780123739605003415" /><br/></span></li><li class="title"><a class="articletitle cLink"href="/science/article/pii/B9780123739605003415" querystr="?_origin=topic&_zone=rslt_list_item&conceptId=Concept-000393" title="Meta-Analysis">Meta-Analysis</a>  </i></span><span class="pubtype"></span></li><li class="source"><span class="srctitle"><i>Reference Module in Biomedical Sciences</i>, from <i>International Encyclopedia of Public Health</i></span><span class="pubdatetxt"><i>, 2008</i></span><span class="pubpages"><i>, Pages 442-450</i></span><span class="CURRENTASOF">, Current as of 27 December 2013</span></li><li class="author"><span class="author">A. Tatsioni, J.P.A. Ioannidis</span></li><li class="external"><div class="txt external"><ul class="extLinkBlock"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=23&_origin=TopicPage&_srch=Citation&_zone=CitationResult&_fmt=full&_pii=B9780123739605003415&_isbn=9780123739605&_tab=afr&absLinks=y&md5=6861f3567e857f88be93c53e8774f358" aria-describedby="title_B9780123739605003415" aria-controls="abs_B9780123739605003415" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a class="pdfIcon iconBg" href="/science?_ob=ShoppingCartURL&_method=add&_eid=3-s2.0-B9780123739605003415&_ts=1494959315&md5=d4d803a9e5ca1038e5e279af6a587355">Purchase PDF - $31.50</a></li></ul><div  class="previewBox abstract hidden"></div><div  class="previewBox rabstract hidden"></div><div  class="previewBox gabstract hidden"></div></div></li></ol></div></li><li class="detail last"><div class="article"><div class="purchaseBtn"><span title="You are not entitled to access the full text of this document" class="iconPosition dunsub_article_sci_dir"></span></div><ol class="purchaseBlk"><li class="selection"><span class="selector"><input class="checkBox" type="checkbox" name="art" value="3-s2.0-B9780128012383030713" /><br/></span></li><li class="title"><a class="articletitle cLink"href="/science/article/pii/B9780128012383030713" querystr="?_origin=topic&_zone=rslt_list_item&conceptId=Concept-000393" title="Chronic Disease Modeling☆">Chronic Disease Modeling☆</a>  </i></span><span class="pubtype"></span></li><li class="source"><span class="srctitle"><i>Reference Module in Biomedical Sciences</i></span><span class="pubdatetxt"><i>, 2015</i></span></li><li class="author"><span class="author">J.D.F. Habbema, R. Boer, J.J. Barendregt</span></li><li class="external"><div class="txt external"><ul class="extLinkBlock"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=24&_origin=TopicPage&_srch=Citation&_zone=CitationResult&_fmt=full&_pii=B9780128012383030713&_isbn=9780128012383&_tab=afr&absLinks=y&md5=b8c610ead09f938badab388071a7dbdd" aria-describedby="title_B9780128012383030713" aria-controls="abs_B9780128012383030713" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a class="pdfIcon iconBg" href="/science?_ob=ShoppingCartURL&_method=add&_eid=3-s2.0-B9780128012383030713&_ts=1494959315&md5=11f67618d644d19b22ba3ab8c1d4e894">Purchase PDF - $31.50</a></li></ul><div  class="previewBox abstract hidden"></div><div  class="previewBox rabstract hidden"></div><div  class="previewBox gabstract hidden"></div></div></li></ol></div></li>
+        </ol>
+        <div class="navigation pagination" aria-label="Pagination" role="navigation">
+            <!-- Page Navigation -->
+            <input type="hidden" name="bottomPaginationBoxChanged" value=""/>
+            <div class="paginationBar paging">
+                
+                    <span title="Previous Page" alt="Previous Page" aria-disabled="true" style="color:#A4A4A4;">&lt;&lt; Previous</span>
+                
+                <input type="hidden" value="f" name="bottomFlag"/>
+                <input type="hidden" value="f" name="bottomNav"/>
+                <span class="pageText">Page 1 of 32</span>
+                
+                    <!-- <input value="Next >>" type="submit" class="nextPrev" onmouseover="this.className='nextPrevHov'" onmouseout="this. className='nextPrev'" name="bottomNext" alt="Next Page" title="Next Page"> -->
+                    <a class=" cLink  Next"href="http://www.sciencedirect.com/science/module/topic/9780128012383/Concept-000393#?_si=2&_ct=25&pgType=topic&artCount=787&mod_topic_title=Epidemiology%20and%20Public%20Health&_origin=topic&_zone=bottomPagination" querystr="?_origin=topic&_zone=bottomPagination"  title=" Next"> Next&gt </a>
+                
+            </div>
+            <div>
+                <input type="hidden" value="f" name="displayPerPageFlag"/>
+Display
+<select id="resultsPerPage" onchange="this.form.displayPerPageFlag.value='t';this.form.target='';this.form.submit();" name="resultsPerPage"  aria-label="Number of results per page" aria-controls="searchResults">	<option value="10">10</option>	<option value="25" selected="selected">25</option>	<option value="50">50</option>	<option value="100">100</option>	<option value="200">200</option></select> results per page
+
+            </div>
+        </div>
+        
+    </div>
+
+</form>
+
+                        </div>
+                        <script>mrwResults.init();</script>
+                    </div>
+                </div>
+            </div>
+	    <div class="clear"> </div>
+            </div>
+            <div>
+            <!-- ECRED  -->
+
+<!-- ECRED -->
+
+
+ 
+            
+    
+
+ </div><!-- width100% -->
+</div><!-- sdHeader -->
+
+<!-- <div id="sdpa"></div> -->
+
+    
+       <div class="ccs-component">
+    
+        <div class="Footer" role="contentinfo"><div class="els-footer"><div class="els-footer-body"><a class="els-footer-elsevier" href="http://www.elsevier.com/" rel="nofollow" target="_blank"><span class="ccs-icon svg-wordmark-elsevier" aria-label="Elsevier"><span class="svg-text">Elsevier</span></span></a><div class="els-footer-content"><div class="els-footer-links"><a class="link-inherit" href="http://www.elsevier.com/solutions/sciencedirect" rel="nofollow" target="_blank">About ScienceDirect</a><wbr/><a class="link-inherit" href="/science/activateaccess" rel="nofollow" target="_blank">Remote access</a><wbr/><a class="link-inherit" href="/science?_ob=ShoppingCartURL&amp;_method=display&amp;_zone=TopNavBar&amp;_origin=module&amp;md5=276d9841c48e19395486cbf7c692e5c9" rel="nofollow" target="_blank">Shopping cart</a><wbr/><a class="link-inherit" href="https://service.elsevier.com/app/contact/supporthub/sciencedirect/" rel="nofollow" target="_blank">Contact and support</a><wbr/><a class="link-inherit" href="https://www.elsevier.com/legal/elsevier-website-terms-and-conditions" rel="nofollow" target="_blank">Terms and conditions</a><wbr/><a class="link-inherit" href="http://www.elsevier.com/legal/privacy-policy" rel="nofollow" target="_blank">Privacy policy</a></div><div class="els-footer-cookie">Cookies are used by this site. For more information, visit the <a class="link-blue" href="https://www.elsevier.com/solutions/sciencedirect/support/cookies" rel="nofollow" target="_blank">cookies page</a>.</div><div class="els-footer-copyright">Copyright © <span class="copyright-year">2017</span> Elsevier B.V. or its licensors or contributors. ScienceDirect ® is a registered trademark of Elsevier B.V.</div></div></div><div class="els-footer-relx-group"><a class="els-footer-relx" href="http://www.relx.com/" rel="nofollow" target="_blank"><span class="ccs-icon svg-wordmark-relx-group" aria-label="RELX Group"><span class="svg-text">RELX Group</span></span></a></div></div></div> 
+       </div>
+
+
+<div style="display:none" id="leaderboard2"><script type="text/javascript">
+	
+googletag.cmd.push(function() {
+
+	
+	
+//Adslot 1 declaration
+		
+gptadslots[1]= googletag.defineSlot('/6053/els.sdguest/ISSNgeneral', [[728,90]],'leaderboard2').addService(googletag.pubads());
+
+		
+//Adslot 2 declaration
+		
+gptadslots[2]= googletag.defineSlot('/6053/els.sdguest/ISSNgeneral', [[160,600]],'skyscraper2').addService(googletag.pubads());
+
+		
+googletag.pubads().collapseEmptyDivs();
+		
+googletag.pubads().enableAsyncRendering();
+		
+googletag.enableServices();
+	
+});
+
+</script>
+
+<!-- End: GPT -->
+
+<!-- Beginning Async AdSlot 1 for Ad unit els.sdgust/ISSNgeneral  ### size: [[728,90]] -->
+
+<!-- Adslot's refresh function: googletag.pubads().refresh([gptadslots[1]]) -->
+
+<script type='text/javascript'>
+
+  var lbZone = document.getElementById('leaderboard');
+  var lbContent = document.getElementById('leaderboard2');
+  if(lbZone && lbContent) {
+    lbZone.appendChild(lbContent);
+  }
+		
+googletag.cmd.push(function() { googletag.display('leaderboard2'); });
+	
+</script>
+
+<!-- End AdSlot 1 --></div>
+<div style="display:none" id="skyscraper2"><!-- Beginning Async AdSlot 2 for Ad unit els.sdgust/ISSNgeneral  ### size: [[160,600]] -->
+
+<!-- Adslot's refresh function: googletag.pubads().refresh([gptadslots[2]]) -->
+
+<script type='text/javascript'>
+  var skyZone = document.getElementById('skyscraper');
+  var skyContent = document.getElementById('skyscraper2');
+  if(skyZone && skyContent) {
+    skyZone.appendChild(skyContent);
+  }
+		
+googletag.cmd.push(function() { googletag.display('skyscraper2'); });
+	
+</script>
+
+
+<!-- End AdSlot 2 --></div>
+
+<script>
+var SDM = new Object;
+SDM.si = new Object;
+SDM.si.sds = "aaada5a39f161c36ee1e2b7e6609bd0a1dd2d71849926d73259edf63ecc7d9b944f2fbae725627c175e676da05c8b7fb";
+
+SDM.tid = "784aa262-3a65-11e7-8f9d-00000aab0f27";
+SDM.ep = new Object();
+SDM.ep.urlPrefix = "http://www.sciencedirect.com/science";
+SDM.ep.enableUsabillaMsg = "Y";
+SDM.ep.urlQualifier = "science";
+SDM.ieVersion="8";
+SDM.pageTransKey = "05/16/2017 14:28:34 EDT#1848_008#32261#95.30.38.0";
+SDM.pageType = "";
+SDM.ud = "12975512||C000228598|291352|GUEST";
+
+SDM.pf = new Object();
+SDM.pf.ddm = new Object();
+SDM.pf.ddm.endpoint = "";
+
+
+
+ 
+     SDM.isHome = false;
+ 
+ SDM.isSDTechHeader = true;
+
+
+
+
+SDPA.init();
+
+
+Ads.init();
+
+</script>
+
+<script type="text/javascript">/*{literal}<![CDATA[*/window.lightningjs||function(c){function g(b,d){d&&(d+=(/\?/.test(d)?"&":"?")+"lv=1");c[b]||function(){var i=window,h=document,j=b,g=h.location.protocol,l="load",k=0;(function(){function b(){a.P(l);a.w=1;c[j]("_load")}c[j]=function(){function m(){m.id=e;return c[j].apply(m,arguments)}var b,e=++k;b=this&&this!=i?this.id||0:0;(a.s=a.s||[]).push([e,b,arguments]);m.then=function(b,c,h){var d=a.fh[e]=a.fh[e]||[],j=a.eh[e]=a.eh[e]||[],f=a.ph[e]=a.ph[e]||[];b&&d.push(b);c&&j.push(c);h&&f.push(h);return m};return m};var a=c[j]._={};a.fh={};a.eh={};a.ph={};a.l=d?d.replace(/^\/\//,(g=="https:"?g:"http:")+"//"):d;a.p={0:+new Date};a.P=function(b){a.p[b]=new Date-a.p[0]};a.w&&b();i.addEventListener?i.addEventListener(l,b,!1):i.attachEvent("on"+l,b);var q=function(){function b(){return["<head></head><",c,' onload="var d=',n,";d.getElementsByTagName('head')[0].",d,"(d.",g,"('script')).",i,"='",a.l,"'\"></",c,">"].join("")}var c="body",e=h[c];if(!e)return setTimeout(q,100);a.P(1);var d="appendChild",g="createElement",i="src",k=h[g]("div"),l=k[d](h[g]("div")),f=h[g]("iframe"),n="document",p;k.style.display="none";e.insertBefore(k,e.firstChild).id=o+"-"+j;f.frameBorder="0";f.id=o+"-frame-"+j;/MSIE[ ]+6/.test(navigator.userAgent)&&(f[i]="javascript:false");f.allowTransparency="true";l[d](f);try{f.contentWindow[n].open()}catch(s){a.domain=h.domain,p="javascript:var d="+n+".open();d.domain='"+h.domain+"';",f[i]=p+"void(0);"}try{var r=f.contentWindow[n];r.write(b());r.close()}catch(t){f[i]=p+'d.write("'+b().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};a.l&&setTimeout(q,0)})()}();c[b].lv="1";return c[b]}var o="lightningjs",k=window[o]=g(o);k.require=g;k.modules=c}({});
+window.usabilla_live = lightningjs.require("usabilla_live", "//w.usabilla.com/11e800d34be0.js");
+/*]]>{/literal}*/
+if(typeof SDM != "undefined") {
+  if(SDM.ud) { usabilla_live("data", {"custom": {"ud":SDM.ud} }); }
+  if(SDM.pf&&SDM.pf.oa) {
+    if(SDM.pf.oa.item) { usabilla_live("data", {"custom": {"open_access":SDM.pf.oa.item} });}
+    if(SDM.pf.oa.archive) { usabilla_live("data", {"custom": {"open_archive":SDM.pf.oa.archive} });}
+  }
+  if(SDM.pm&&SDM.pm.mod_cid) {
+    usabilla_live("data", {"custom": {"refmod_article":true} });
+  }
+  else {usabilla_live("data", {"custom": {"refmod_article":false} });}
+}
+</script>
+<script>
+function tmp_removeCite() {
+    if ($('#cited_by_articles').length) {
+    if (SDM.pm != undefined) {
+        if (SDM.pm.issnisbn == '23528478') {
+            $('#cited_by_articles').hide();
+            } 
+        } 
+    }
+}
+
+function tmp_removeCiteCounter(c) {
+    if ($('#cited_by_articles').length) {
+        tmp_removeCite();
+    }
+    else if (c>30) {
+        return;
+    }
+    else {
+        c++;
+        setTimeout(function() {tmp_removeCiteCounter(c);}, 200);
+    }
+}
+tmp_removeCiteCounter(1);  
+</script>
+
+
+<script src="//assets.adobedtm.com/376c5346e33126fdb6b2dbac81e307cbacfd7935/satelliteLib-b7cfe8df39a4e5eec5536bba80e13f4b6fa0dd7c.js"></script>
+<script>
+
+
+var pageData=new Object;
+
+var page=new Object;
+page["businessUnit"]="ELS:RP:ST";
+page["isProduction"]="true";
+page["language"]="en";
+page["name"]="browse:refmodule";
+page["productName"]="SD";
+page["environment"]="prod";
+page["noTracking"]="false";
+page["loadTime"]="";
+page["loadTimestamp"]=Date.now().toString();
+page["type"]="PU-BR";
+pageData["page"]=page;
+
+var visitor=new Object;
+visitor["accessType"]="ae:ANON-GUEST";
+visitor["accountId"]="ae:228598";
+visitor["accountName"]="ae:ScienceDirect Guests";
+
+visitor["industry"]="";
+visitor["ipAddress"]="95.30.38.0";
+visitor["loginStatus"]="";
+visitor["sisId"]="";
+
+visitor["userId"]="ae:12975512";
+pageData["visitor"]=visitor;
+
+
+
+function getPageLoadTime()
+{ 
+    returnValue = '';
+    if (typeof(performance) !== 'undefined' && typeof(performance.timing) == 'object')
+    {
+        timing = performance.timing;
+        startTime = timing.redirectStart || timing.fetchStart || timing.requestStart;
+        endTime = timing.domContentLoadedEventEnd || timing.domInteractive || timing.domComplete || timing.loadEventComplete;
+        if (startTime && endTime && startTime < endTime) returnValue = endTime - startTime;
+    }
+    return returnValue.toString();
+}
+
+$(document).ready(function()
+{
+    if( typeof(pageData) != 'undefined' && typeof(pageData["page"]) != 'undefined' && typeof(pageData["page"]["loadTime"]) != 'undefined' )
+    {
+        pageData["page"]["loadTime"]=getPageLoadTime();
+    }
+}
+);
+
+
+try { pageDataTracker.trackPageLoad(); }
+catch(e) { console.warn("There was an error loading or running Adobe DTM:\r\n ", e); }
+</script>
+
+
+
+<script src="//sdfestaticassets-us-east-1.sciencedirectassets.com/prod/ce6a74e3c87c96230cf658ad64ddc24394585c0c/client.js"></script>
+
+
+        </div>
+    </div>
+    
+</div>
+</div>
+<div id="appBackground"></div>
+<div id="appDialog" class="files">
+    <div id="header">
+     <div class="pdfSearchHeading"> Download PDFs
+    <span class="close" id="closeBtn" href = "#" title = "Close Search Results " alt="Close Search Results"><img src="http://cdn.els-cdn.com/sd/sci_dir/closeButton.png"></span>
+    </div></div>
+    <div id="contentBlk" class="view">
+        <div class="help_button" id="ddmMainHelp"><a class="ddmHelp" target="sdhelp" href="/science?_ob=HelpURL&_file=DM_main.htm&_btn=Y&_zone=TopNavBar&_origin=ref_work" title="Help (Opens new window)" onClick="var helpWin; helpWin=window.open('/science?_ob=HelpURL&_file=DM_main.htm&_btn=Y&_zone=TopNavBar&_origin=ref_work','sdhelp','scrollbars=yes,resizable=yes,directories=no,toolbar=no,menubar=no,status=no,width=984,height=738'); helpWin.focus(); return false">Help</a></div>
+        <div class="help_button" id="ddmNewformatHelp"><a class="ddmHelp" target="sdhelp" href="/science?_ob=HelpURL&_file=DM_newformat.htm&_btn=Y&_zone=TopNavBar&_origin=ref_work" title="Help (Opens new window)" onClick="var helpWin; helpWin=window.open('/science?_ob=HelpURL&_file=DM_newformat.htm&_btn=Y&_zone=TopNavBar&_origin=ref_work','sdhelp','scrollbars=yes,resizable=yes,directories=no,toolbar=no,menubar=no,status=no,width=984,height=738'); helpWin.focus(); return false">Help</a></div>
+        <div id="filesTemplate"></div>
+        <div id="namingTemplate"></div> 
+    </div>
+    <div class="footer"></div>
+</div>
+
+</body>
+</html>
+

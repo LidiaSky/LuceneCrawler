@@ -1,0 +1,39 @@
+
+ Correlation functions of the integrable higher-spin XXX and XXZ spin chains through the fusion method
+Screen reader users, click here to load entire articleThis page uses JavaScript to progressively load the article content as a user scrolls. Screen reader users, click the load entire article button to bypass dynamically loaded article content.
+ Please note that Internet Explorer version 8.x will not be supported as of January 1, 2016. Please refer to this blog post for more information.
+ Close
+ ScienceDirectJournalsBooksRegisterSign inSign in using your ScienceDirect credentialsUsernamePasswordRemember meForgotten username or password?Sign in via your institutionOpenAthensOther institutionHelpJournalsBooksRegisterSign inHelpcloseSign in using your ScienceDirect credentialsUsernamePasswordRemember meForgotten username or password?Sign in via your institutionOpenAthensOther institution
+ Download PDF
+ Opens in a new window. Article suggestions will be shown in a dialog on return to ScienceDirect.
+  
+ Help
+ Direct export
+  
+  
+ Export file
+  RIS (for EndNote, Reference Manager, ProCite)
+  BibTeX
+  Text
+  RefWorks Direct Export
+ Content
+   Citation Only
+   Citation and Abstract
+ Advanced search
+  
+ JavaScript is disabled on your browser.
+ Please enable JavaScript to use all the features on this page.
+ JavaScript is disabled on your browser. Please enable JavaScript to use all the features on this page. This page uses JavaScript to progressively load the article content as a user scrolls. Click the View full text link to bypass dynamically loaded article content. View full text
+ Nuclear Physics BVolume 831, Issue 3, 1 June 2010, Pages 359–407
+ Correlation functions of the integrable higher-spin XXX and XXZ spin chains through the fusion methodTetsuo Deguchia, , , Chihiro Matsuib, c, a Department of Physics, Graduate School of Humanities and Sciences, Ochanomizu University, 2-1-1 Ohtsuka, Bunkyo-ku, Tokyo 112-8610, Japanb Department of Physics, Graduate School of Science, the University of Tokyo, 7-3-1 Hongo, Bunkyo-ku, Tokyo 113-0033, Japanc CREST, JST, 4-1-8 Honcho Kawaguchi, Saitama 332-0012, JapanReceived 23 July 2009, Accepted 21 December 2009, Available online 4 January 2010AbstractFor the integrable higher-spin XXX and XXZ spin chains we present multiple-integral representations for the correlation function of an arbitrary product of Hermitian elementary matrices in the massless ground state. We give a formula expressing it by a single term of multiple integrals. In particular, we explicitly derive the emptiness formation probability (EFP). We assume 2s-strings for the ground-state solution of the Bethe-ansatz equations for the spin-s XXZ chain, and solve the integral equations for the spin-s Gaudin matrix. In terms of the XXZ coupling Δ we define ζ   by Δ=cosζ, and put it in a region 0⩽ζ<π/2s0⩽ζ<π/2s of the gapless regime: −1<Δ⩽1−1<Δ⩽1 (0⩽ζ<π0⩽ζ<π), where Δ=1Δ=1 (ζ=0ζ=0) corresponds to the antiferromagnetic point. We calculate the zero-temperature correlation functions by the algebraic Bethe-ansatz, introducing the Hermitian elementary matrices in the massless regime, and taking advantage of the fusion construction of the R-matrix of the higher-spin representations of the affine quantum group.1. IntroductionThe correlation functions of the spin-1/2 XXZ spin chain have been studied extensively through the algebraic Bethe-ansatz during the last decade [1]; [2]; [3]; [4]; [5] ;  [6]. The multiple-integral representations of the correlation functions for the infinite lattice at zero temperature first derived through the affine quantum-group symmetry [7] ;  [8] and also by solving the q-KZ equations [9] ;  [10] have been rederived and then generalized into those for the finite-size lattice under nonzero magnetic field. They are also extended into those at finite temperatures [11]. Furthermore, the asymptotic expansion of a correlation function has been systematically discussed [12]. Thus, the exact study of the correlation functions of the XXZ spin chain should be not only very fruitful but also quite fundamental in the mathematical physics of integrable models.
+ ElsevierAbout ScienceDirectRemote accessShopping cartContact and supportTerms and conditionsPrivacy policyCookies are used by this site. For more information, visit the cookies page.Copyright © 2017 Elsevier B.V. or its licensors or contributors. ScienceDirect ® is a registered trademark of Elsevier B.V.RELX Group
+  Recommended articles
+ No articles found.
+  Citing articles (0)
+ This article has not been cited.
+  Related book content
+ No articles found.
+  
+ Download PDFs
+ Help
+ Help

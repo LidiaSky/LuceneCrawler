@@ -1,0 +1,1010 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+    
+<script async src="//cdn.optimizely.com/js/269842467.js"></script>
+
+
+
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5P8J8X"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5P8J8X');</script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta name="author" content="Elsevier">
+    <meta name="google-site-verification" content="0-8Ig3YtfzbeUxQdZ-TM_y8P_se41D4JrW3e0o8xgdk" />
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="msapplication-TileImage" content="//design.elsevier.com/dist/favicons/mstile-144x144.png"> 
+    <meta name="referrer" content="unsafe-url"> 
+    
+    <link href="https://www.elsevier.com/connect/home" rel="canonical"/>  
+
+    
+<!-- Community Landing pages //-->
+
+<!-- Call to Actions //-->
+<meta name="CTA.primary" content="Sign up for email updates" />
+<meta name="CTA.primary.URL" content="164823" />
+<meta name="CTA.tertiary" content="" />
+<meta name="CTA.tertiary.URL" content="" />
+
+<!-- Global - Communities (EC) //-->
+
+<!-- FrontEnd //-->
+<meta name="Title" content="Elsevier Connect" />
+<meta name="Description" content="Daily stories for the science, technology and health communities" />
+<meta name="Summary" content="" />
+<meta name="Headline" content="" />
+<meta name="Excerpt" content="" />
+<meta name="Author" content="" />
+<meta name="ViewsCount" content="" />
+<meta name="PostDate" content="" />
+<meta name="ThumbUrl" content="https://www.elsevier.com/__data/assets/image/0008/192806/EC-landing-page-image.jpg" />
+<meta name="PostId" content="" />
+<meta name="RelatedArticles" content="" />
+<meta name="Featured.Image" content="" />
+<meta name="Featured.Image.Caption" content="" />
+<meta name="Featured.Image.Owner" content="" />
+<meta name="PubDate" content="2017-02-01 13:56:01" />
+<meta name="VideoThumb" content="" />
+<meta name="VideoOrder" content="" />
+<meta name="related-authors" content="" />
+<meta name="Item.ImportAssetID" content="" />
+
+<!-- Category //-->
+<meta name="Primary.Category" content="" />
+
+<!-- Opengraph //-->
+<meta property="og:url" content="https://www.elsevier.com/connect" />
+<meta property="og:title" content="Elsevier Connect" />
+<meta property="og:site_name" content="Elsevier Connect" />
+<meta property="og:description" content="" />
+<meta property="og:type" content="article" />
+<meta property="og:image" content="https://www.elsevier.com/__data/assets/image/0008/192806/EC-landing-page-image.jpg" />
+
+<!-- Import //-->
+<meta name="Import.Published.Date" content="2015-01-01 00:00:00" />
+
+<!-- Tags //-->
+<meta name="Tag.Terms" content="" />
+<meta name="Tag.Community" content="Elsevier Connect" />
+
+<!-- Config //-->
+<meta name="Community.Collection.Name" content="elsevier%20connect" />
+<meta name="Hide.Latest.Posts" content="" />
+
+    <link rel="apple-touch-icon" sizes="57x57" href="https://cdn.elsevier.io/verona/includes/favicons/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://cdn.elsevier.io/verona/includes/favicons/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://cdn.elsevier.io/verona/includes/favicons/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://cdn.elsevier.io/verona/includes/favicons/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="60x60" href="https://cdn.elsevier.io/verona/includes/favicons/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://cdn.elsevier.io/verona/includes/favicons/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://cdn.elsevier.io/verona/includes/favicons/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://cdn.elsevier.io/verona/includes/favicons/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://cdn.elsevier.io/verona/includes/favicons/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="https://cdn.elsevier.io/verona/includes/favicons/favicon-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="https://cdn.elsevier.io/verona/includes/favicons/favicon-160x160.png" sizes="160x160">
+<link rel="icon" type="image/png" href="https://cdn.elsevier.io/verona/includes/favicons/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="https://cdn.elsevier.io/verona/includes/favicons/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="https://cdn.elsevier.io/verona/includes/favicons/favicon-32x32.png" sizes="32x32">    <title>Elsevier Connect</title>    <meta name="last-modified-date" content='2017-02-01 13:56:01'>    <link rel="stylesheet" href="https://cdn.elsevier.io/verona/ui/1.11.21/mercutio.min.css">
+<!--<link rel="stylesheet" href="https://cdn.elsevier.io/verona/ui/1.11.10/mercutio.min.css">-->
+<link rel="stylesheet" href="https://cdn.elsevier.io/matrix/ui/1.6.26/matrix.min.css">
+<style>
+    .header-fixed header[role=banner].faded {
+        background: #fff;
+    }
+</style>
+    
+    
+    
+    
+       
+     
+
+
+<script src="https://cdn.elsevier.io/verona/includes/vendor/jquery-2.1.4/jquery.min.js"></script>
+<script  src="https://cdn.elsevier.io/verona/includes/vendor/foundation-5.5.1/foundation.min.js"></script>
+<script  src="https://cdn.elsevier.io/verona/ui/1.11.21/mercutio.js"></script><script>
+jQuery(document).ready(function($) {
+    $(document)
+        .mercutio([ 
+            'core/jquery-ui',
+            'core/modernizr',
+            'extensions/NProgress',
+            'extensions/kubrickology',
+            'extensions/lightbox',
+            'extensions/accessibility',
+            'extensions/prism'
+        ], function(){
+            $(document)
+                .kubrickology();
+            $(document)
+                .foundation(
+                    'reflow',
+                    'topbar', 
+                    'accordion', 
+                    'offcanvas',
+                    { scrolltop: false }
+            );
+        }
+    );
+});
+</script><script>
+    //MOVE <=IE8 USERS
+    if(navigator.userAgent.match(/msie [6-8]/i) ){
+       window.location="/browser-outdated";
+    }
+</script><script defer src="https://cdn.elsevier.io/matrix/ui/1.6.26/scripts-top.min.js"></script>
+<script  src="//assets.adobedtm.com/376c5346e33126fdb6b2dbac81e307cbacfd7935/satelliteLib-203157332f7df01b28142e8c867d6813bc4995aa.js"></script>
+<script type="text/javascript">
+var pageData = null;
+</script>
+
+
+<!--
+  Running Squiz Matrix
+  Developed by Squiz - http://www.squiz.net
+  Squiz, Squiz Matrix, MySource, MySource Matrix and Squiz.net are registered Trademarks of Squiz Pty Ltd
+  Page generated: 16 May 2017 14:34:27
+-->
+
+
+</head>
+<body class="communities connect">
+    <a id="top"></a>
+    <div class="accessibility-link" tabindex="1">
+        <a class="accessibility-link-skip" title="Skip to content" href="#maincontent">Skip to content</a>  
+    </div>
+    <div class="off-canvas-wrap" data-offcanvas>
+        <div class="inner-wrap">
+            
+            <div class="header-container header-fixed">
+                <link rel="stylesheet" type="text/css" href="https://checkout.elsevier.com/stylesheets/cart_widget.css">
+<header role="banner">
+  <a class="elsevier-wordmark els_link-image" href="/" title="Homepage" tabindex="1">
+    <img src="https://cdn.elsevier.io/verona/includes/svg/ns-logo.svg" class="ns-tree hide-for-small" alt="elsevier non solus tree">
+    <img width="140" class="elsevier-wordmark-img" height="27" src="https://cdn.elsevier.io/verona/includes/svg/wordmark-elsevier.svg" alt="Elsevier Wordmark">
+  </a>
+  <a href="#" class="main-ui-item main-ui-item-menu js-header-menu-toggle-open" tabindex="4">
+    <span class="main-ui-icon">
+      <img src="https://cdn.elsevier.io/verona/includes/svg/icon-menu-hamburger-sized.svg" alt="Menu">
+    </span>
+    <span class="main-ui-text hide-for-small-only">Menu</span>
+  </a>
+  <div class="shopping-cart-content-container inline right">
+      <div class="shopping-cart-container">
+        <div class="main-ui-item main-ui-item-cart" tabindex="3" role="button">
+            <span class="main-ui-icon">
+                <img class="lightbox-is-image shopping-cart-icon" src="https://cdn.elsevier.io/verona/includes/svg/icon-shopping-cart-sized.svg" alt="Shopping Cart">
+            </span>
+            <span class="main-ui-text hide-for-small-only">Cart</span>
+            <span class="shopping-cart-count start">0</span>
+        </div>
+      </div>
+      <div class="shopping-cart-dropdown-container">
+        <ul class="shopping-cart-dropdown">
+          <li class="dd-view-cart"><a href="https://checkout.elsevier.com/cart" tabindex="3"><span class="icon-standalone-cart"></span> View Cart</a></li>
+          <li class="dd-login-register"><a href="https://checkout.elsevier.com/auth" tabindex="3"><span class="icon-standalone-login"></span> Register/Login</a></li>
+          <li class="dd-account hide"><a href="https://checkout.elsevier.com/account" tabindex="3"><span class="icon-standalone-user"></span> Account</a></li>
+          <li class="dd-help"><a href="https://service.elsevier.com/app/home/supporthub/ecommerce" target="_blank" tabindex="3"><span class="icon-standalone-help"></span> Help and Contact</a></li>
+          <li class="dd-logout hide"><a href="https://checkout.elsevier.com/logout" tabindex="3"><span class="icon-standalone-logout"></span> Logout</a></li>
+        </ul>
+      </div>
+  </div>
+  <div id="js-wrapper-search-link" class="container-form-search js-header-search-link">
+    <a class="main-ui-item main-ui-item-search bigsearch-toggle right" href="#" tabindex="2">
+        <span class="main-ui-icon bigsearch-toggle-icon">
+            <img src="//cdn.elsevier.io/verona/includes/svg/icon-magnify-glass-sized.svg" alt="Icon search menu toggle">
+        </span>
+        <span class="main-ui-text hide-for-small-only">Search</span>
+    </a>
+  </div>
+</header>
+
+<div class="modal"></div>
+
+<!-- Cart Widget JS/CSS -->
+<script>var ECOMM_CART_URL="https://checkout.elsevier.com/api/cart";</script>
+<script src="https://checkout.elsevier.com/javascripts/cart_widget.js"></script>
+<script src="https://checkout.elsevier.com/javascripts/promotions.js"></script>                <div class="standout bigsearch-area hide ">
+ <div class="row row-tight row-bigsearch">
+  <form id="js-bigsearch" class="bigsearch-form form-full-width" role="search" action="/search-results" method="get">
+   <div class="columns medium-12">
+    <input id="search" name="query" placeholder="Search for books, journals or webpages..." class="bigsearch-input" type="search">
+    <button class="search-form-button" aria-label="Search"><span>Search</span></button>
+   </div>
+   <div class="columns medium-12">
+
+     <div class="form-field-horz label-horz-multiple">
+      <p>Search in:</p>
+     </div>
+     <div class="form-field-horz">
+      <input id="search-radio-all" class="bigsearch-radiobutton" name="labels" type="radio" value="all" checked>
+      <label for="search-radio-all" class="r-label">All</label>
+     </div>
+     <div class="form-field-horz">
+      <input id="search-radio-webpages" class="bigsearch-radiobutton" name="labels" type="radio" value="pages">
+      <label for="search-radio-webpages" class="r-label">Webpages</label>
+     </div>
+     <div class="form-field-horz">
+      <input id="search-radio-books" class="bigsearch-radiobutton" name="labels" type="radio" value="books">
+      <label for="search-radio-books" class="r-label">Books</label>
+     </div>
+     <div class="form-field-horz">
+      <input id="search-radio-journals" class="bigsearch-radiobutton" name="labels" type="radio" value="journals">
+      <label for="search-radio-journals" class="r-label">Journals</label>
+     </div>
+     <!--div class="form-field-horz">
+       <input id="search-radio-connect" class="bigsearch-radiobutton" name="labels" type="radio" value="connect">
+       <label for="search-radio-connect" class="r-label">Elsevier Connect</label>
+     </div-->
+
+    </div>
+   </form>
+  </div>
+</div>            </div>
+            <main role="main" id="maincontent">
+                            
+                            
+
+              
+                            
+              
+                                          
+              <section class="row row-tight fullWidth collapse section-select-community">
+  <div class="columns medium-8 large-9 connect-to-community">
+    <a href="https://www.elsevier.com/connect" title="Elsevier Connect - Daily stories for the science, technology and health communities.">
+        <h1 class="logo-type-community left">
+            <span class="color-elsevier-brand">Elsevier Connect</span>
+        </h1>
+    </a>
+    <div class="community-share hide-for-small-only right"><div class="social-follow">
+  <a target="_blank" class="svg-icon-social" href="https://www.facebook.com/ElsevierConnect">
+    <img src="https://cdn.elsevier.io/verona/includes/svg/icon-social-facebook.svg" alt="Icon social media facebook" />
+  </a>
+  <a target="_blank" class="svg-icon-social" href="https://www.linkedin.com/company/elsevier">
+    <img src="https://cdn.elsevier.io/verona/includes/svg/icon-social-linkedin.svg" alt="Icon social media linkedin" />
+  </a>
+  <a target="_blank" class="svg-icon-social" href="https://twitter.com/ElsevierConnect">
+    <img src="https://cdn.elsevier.io/verona/includes/svg/icon-social-twitter.svg" alt="Icon social media twitter" />
+  </a>
+  <!--a target="_blank" class="svg-icon-social" href="https://plus.google.com/u/0/+elsevier/posts">
+    <img src="https://cdn.elsevier.io/verona/includes/svg/icon-social-googleplus-2.svg" alt="Icon social media google plus" />
+  </a-->
+  <a target="_blank" class="svg-icon-social" href="https://www.youtube.com/c/elsevier/">
+    <img alt="Icon social media youtube" src="https://cdn.elsevier.io/verona/includes/svg/icon-social-youtube.svg" />
+  </a>
+</div>  </div>
+</div>
+  <div class="columns medium-4 large-3">
+    <select class="select-community" name="choose-community">
+      <option disabled selected>Choose your Community</option>
+      <option value>Elsevier Connect</option>
+      <option value="atlas">Atlas</option>
+      <option value="reviewers-update">Reviewers' Update</option>
+      <option value="authors-update">Authors' Update</option>
+      <option value="editors-update">Editors' Update</option>
+    </select>
+  </div>
+</section><section style="background-image:url('https://www.elsevier.com/__data/assets/image/0008/192806/EC-landing-page-image.jpg');" class="hero hero-community">
+    <div class="row collapse">
+      
+      <div class="columns medium-10 medium-offset-1 text-center">
+        <div class="hero-campaign-excerpt">
+            <h1>Daily stories for the science, technology and health communities</h1>
+        </div>
+
+        
+        <a href="https://www.elsevier.com/connect/sign-up-for-community-updates" class="cta-primary cta-white ">Sign up for email updates</a>
+        <a href="./?a=" class="cta-tertiary cta-white hide"></a>
+      </div>
+    </div>
+</section>
+<section class="row show-for-small-only">
+  <div class="columns-12">
+    <div class="text-center">
+      <div class="community-share community-share-mobile"><div class="social-follow">
+  <a target="_blank" class="svg-icon-social" href="https://www.facebook.com/ElsevierConnect">
+    <img src="https://cdn.elsevier.io/verona/includes/svg/icon-social-facebook.svg" alt="Icon social media facebook" />
+  </a>
+  <a target="_blank" class="svg-icon-social" href="https://www.linkedin.com/company/elsevier">
+    <img src="https://cdn.elsevier.io/verona/includes/svg/icon-social-linkedin.svg" alt="Icon social media linkedin" />
+  </a>
+  <a target="_blank" class="svg-icon-social" href="https://twitter.com/ElsevierConnect">
+    <img src="https://cdn.elsevier.io/verona/includes/svg/icon-social-twitter.svg" alt="Icon social media twitter" />
+  </a>
+  <!--a target="_blank" class="svg-icon-social" href="https://plus.google.com/u/0/+elsevier/posts">
+    <img src="https://cdn.elsevier.io/verona/includes/svg/icon-social-googleplus-2.svg" alt="Icon social media google plus" />
+  </a-->
+  <a target="_blank" class="svg-icon-social" href="https://www.youtube.com/c/elsevier/">
+    <img alt="Icon social media youtube" src="https://cdn.elsevier.io/verona/includes/svg/icon-social-youtube.svg" />
+  </a>
+</div>    </div>
+  </div>
+</section><!--  URL:https://elsevier.funnelback.co.uk/s/search.html?collection=elsevier-communities&query=!nullquery&profile=_default_preview&form=connecthomejson&sort=date& |url --><section class="standout standout-tile">
+    <div class="row row-tight">
+        <article class="columns medium-4 tile tile-standout">
+            <a href="https://www.elsevier.com/connect/aspire-prize-recognizes-young-scientists-for-new-materials-technologies" title="ASPIRE Prize recognizes young scientists for “new materials technologies”" class="tile-image-anchor">
+                <div class="image-ratio2-1">
+                    <img src="https://www.elsevier.com/__data/assets/image/0015/301920/2017-ASPIRE-PRIZE-winner.jpg" alt="ASPIRE Prize recognizes young scientists for “new materials technologies”" />
+                </div>
+            </a>
+            <div class="article-tile-body">
+                <div class="article-tile-title title-height-clamp-3">
+                    <a href="https://www.elsevier.com/connect/aspire-prize-recognizes-young-scientists-for-new-materials-technologies" title="ASPIRE Prize recognizes young scientists for “new materials technologies”">
+                        <p>ASPIRE Prize recognizes young scientists for “new materials technologies”</p>
+                    </a>
+                </div>
+                <div class="article-meta meta-height-clamp-3">
+                    <ul class="not-enum">
+                        <li><small>By Alison Bert, DMA</small></li>
+                        <li><small>May 15, 2017</small></li>
+                    </ul>
+                </div>
+                <div class="article-meta-context">
+                    <a class="link-inpage-comments comment left" data-disqus-identifier="301916" href="https://www.elsevier.com/connect/aspire-prize-recognizes-young-scientists-for-new-materials-technologies#disqus_thread" rel="external" target="_blank">Comments</a>
+                            <a class="tag tag-community right" href="https://www.elsevier.com/connect/home" title="Elsevier Connect">Elsevier Connect</a>
+                </div>
+            </div>
+        </article>
+        <article class="columns medium-4 tile tile-standout">
+            <a href="https://www.elsevier.com/connect/gender-equality-in-science-experts-tackle-the-challenges-revealed-by-data" title="Gender equality in science: experts tackle the challenges revealed by data" class="tile-image-anchor">
+                <div class="image-ratio2-1">
+                    <img src="https://www.elsevier.com/__data/assets/image/0012/301134/Londa-Schiebinger-at-report-symposium.jpg" alt="Gender equality in science: experts tackle the challenges revealed by data" />
+                </div>
+            </a>
+            <div class="article-tile-body">
+                <div class="article-tile-title title-height-clamp-3">
+                    <a href="https://www.elsevier.com/connect/gender-equality-in-science-experts-tackle-the-challenges-revealed-by-data" title="Gender equality in science: experts tackle the challenges revealed by data">
+                        <p>Gender equality in science: experts tackle the challenges revealed by data</p>
+                    </a>
+                </div>
+                <div class="article-meta meta-height-clamp-3">
+                    <ul class="not-enum">
+                        <li><small>By Stacey Tobin, PhD</small></li>
+                        <li><small>May 11, 2017</small></li>
+                    </ul>
+                </div>
+                <div class="article-meta-context">
+                    <a class="link-inpage-comments comment left" data-disqus-identifier="301117" href="https://www.elsevier.com/connect/gender-equality-in-science-experts-tackle-the-challenges-revealed-by-data#disqus_thread" rel="external" target="_blank">Comments</a>
+                            <a class="tag tag-community right" href="https://www.elsevier.com/connect/home" title="Elsevier Connect">Elsevier Connect</a>
+                </div>
+            </div>
+        </article>
+        <article class="columns medium-4 tile tile-standout">
+            <a href="https://www.elsevier.com/connect/9-themes-that-emerged-from-our-open-scholarship-initiative-osi2017-meeting" title="9 themes that emerged from our Open Scholarship Initiative #OSI2017 meeting" class="tile-image-anchor">
+                <div class="image-ratio2-1">
+                    <img src="https://www.elsevier.com/__data/assets/image/0018/301167/OSI-composite.jpg" alt="9 themes that emerged from our Open Scholarship Initiative #OSI2017 meeting" />
+                </div>
+            </a>
+            <div class="article-tile-body">
+                <div class="article-tile-title title-height-clamp-3">
+                    <a href="https://www.elsevier.com/connect/9-themes-that-emerged-from-our-open-scholarship-initiative-osi2017-meeting" title="9 themes that emerged from our Open Scholarship Initiative #OSI2017 meeting">
+                        <p>9 themes that emerged from our Open Scholarship Initiative #OSI2017 meeting</p>
+                    </a>
+                </div>
+                <div class="article-meta meta-height-clamp-3">
+                    <ul class="not-enum">
+                        <li><small>By Glenn Hampson</small></li>
+                        <li><small>May 10, 2017</small></li>
+                    </ul>
+                </div>
+                <div class="article-meta-context">
+                    <a class="link-inpage-comments comment left" data-disqus-identifier="301162" href="https://www.elsevier.com/connect/9-themes-that-emerged-from-our-open-scholarship-initiative-osi2017-meeting#disqus_thread" rel="external" target="_blank">Comments</a>
+                            <a class="tag tag-community right" href="https://www.elsevier.com/connect/home" title="Elsevier Connect">Elsevier Connect</a>
+                </div>
+            </div>
+        </article>
+    </div>
+</section><section class="row results-container">
+    <div class="columns medium-8">
+        <p class="heading-section" id="stories">More stories</p>
+        <hr>
+  
+<!-- filter stories for mobile -->
+<div class="filter-connect-stories-mobile show-for-small-only">
+
+  <div class="matrix-show-hide-trigger">
+    <div class="text-center">
+      <button title="trigger hidden content" class="toggle-hidden-content">Filter to find your story</button>
+    </div>
+  </div>
+
+  <!-- automatic AJAX refresh on selecting a tag -->
+  <div class="matrix-show-hide-content"><div class="article-filter-block list-community">
+    <div class="article-sidebar-heading">
+        <p class="heading-component">By Community</p>
+        <button class="btn-ui clear right" data-btn-clear="f.Community|">Clear all</button>
+    </div>
+    <ul class="tags tags-community">
+            <li><a class="tag-community" href="?f.Community|community=atlas">Atlas</a></li>
+            <li><a class="tag-community" href="?f.Community|community=authors&#x27; update">Authors&#x27; Update</a></li>
+            <li><a class="tag-community" href="?f.Community|community=editors&#x27; update">Editors&#x27; Update</a></li>
+            <li><a class="tag-community" href="?f.Community|community=elsevier connect">Elsevier Connect</a></li>
+            <li><a class="tag-community" href="?f.Community|community=reviewers&#x27; update">Reviewers&#x27; Update</a></li>
+    </ul>
+</div><div class="article-filter-block list-tags">
+    <div class="article-sidebar-heading">
+        <p class="heading-component">By Tag</p>
+        <button class="btn-ui clear right" data-btn-clear="Tags|">Clear all</button>
+    </div>
+    <ul class="tags" > 
+            <li><a href="?f.Tags|terms=access to research" >Access To Research</a></li>
+            <li><a href="?f.Tags|terms=author support" >Author Support</a></li>
+            <li><a href="?f.Tags|terms=awards" >Awards</a></li>
+            <li><a href="?f.Tags|terms=corporate commentary" >Corporate Commentary</a></li>
+            <li><a href="?f.Tags|terms=data &amp; analytics" >Data &amp; Analytics</a></li>
+            <li><a href="?f.Tags|terms=ethics" >Ethics</a></li>
+            <li><a href="?f.Tags|terms=events" >Events</a></li>
+            <li><a href="?f.Tags|terms=expert advice" >Expert Advice</a></li>
+            <li><a href="?f.Tags|terms=gender &amp; diversity" >Gender &amp; Diversity</a></li>
+            <li><a href="?f.Tags|terms=healthcare" >Healthcare</a></li>
+            <li><a href="?f.Tags|terms=health science" >Health Science</a></li>
+            <li><a href="?f.Tags|terms=innovation" >Innovation</a></li>
+            <li><a href="?f.Tags|terms=library science" >Library Science</a></li>
+            <li><a href="?f.Tags|terms=medicine" >Medicine</a></li>
+            <li><a href="?f.Tags|terms=metrics" >Metrics</a></li>
+            <li><a href="?f.Tags|terms=nursing" >Nursing</a></li>
+            <li><a href="?f.Tags|terms=peer review" >Peer Review</a></li>
+            <li><a href="?f.Tags|terms=people" >People</a></li>
+            <li><a href="?f.Tags|terms=science communication" >Science Communication</a></li>
+            <li><a href="?f.Tags|terms=scientific discovery" >Scientific Discovery</a></li>
+            <li><a href="?f.Tags|terms=social responsibility" >Social Responsibility</a></li>
+            <li><a href="?f.Tags|terms=sustainability science" >Sustainability Science</a></li>
+            <li><a href="?f.Tags|terms=technology" >Technology</a></li>
+            <li><a href="?f.Tags|terms=trends" >Trends</a></li>
+    </ul>
+</div>  </div>
+</div><div class="results">
+    <article class="article-macro">
+        <a href="https://www.elsevier.com/connect/winning-proposal-for-green-and-sustainable-chemistry-challenge-improves-malaysian-rice-paddy-yield" title="Winning proposal for Green and Sustainable Chemistry Challenge improves Malaysian rice paddy yield">
+
+            <div class="article-macro-image-container">
+                <div class="image-ratio2-1">
+                    <img src="https://www.elsevier.com/__data/assets/image/0010/299692/field-trial-visit.jpg">
+                </div>
+            </div>
+
+            <div class="article-macro-content">
+                <div class="article-macro-excerpt">
+                    <a href="https://www.elsevier.com/connect/winning-proposal-for-green-and-sustainable-chemistry-challenge-improves-malaysian-rice-paddy-yield" title="#">
+                        <p class="article-macro-title">Winning proposal for Green and Sustainable Chemistry Challenge improves Malaysian rice paddy yield</p>
+                    </a>
+                </div>
+                <div class="article-meta">
+                    <ul class="not-enum">
+                        <li><small>By Rob van Daalen</small></li>
+                        <li><small>May 09, 2017</small></li>
+                    </ul>
+                </div>
+
+                <div class="article-meta-context">
+                    <a class="link-inpage-comments comment left" data-disqus-identifier="299685" href="https://www.elsevier.com/connect/winning-proposal-for-green-and-sustainable-chemistry-challenge-improves-malaysian-rice-paddy-yield#disqus_thread" rel="external" target="_blank">Comment</a>
+                    <div class="right"><span class='tag tag-community active'>Elsevier Connect</span> </div>
+                </div>
+            </div>
+
+        </a>
+    </article>
+
+    <article class="article-macro">
+        <a href="https://www.elsevier.com/connect/thriving-or-surviving-taking-a-wide-angle-on-mental-health" title="Thriving or surviving? Taking a wide angle on mental health">
+
+            <div class="article-macro-image-container">
+                <div class="image-ratio2-1">
+                    <img src="https://www.elsevier.com/__data/assets/image/0014/300065/mental-health-image.jpg">
+                </div>
+            </div>
+
+            <div class="article-macro-content">
+                <div class="article-macro-excerpt">
+                    <a href="https://www.elsevier.com/connect/thriving-or-surviving-taking-a-wide-angle-on-mental-health" title="#">
+                        <p class="article-macro-title">Thriving or surviving? Taking a wide angle on mental health</p>
+                    </a>
+                </div>
+                <div class="article-meta">
+                    <ul class="not-enum">
+                        <li><small>By Steven Turner and Lucy Goodchild van Hilten</small></li>
+                        <li><small>May 08, 2017</small></li>
+                    </ul>
+                </div>
+
+                <div class="article-meta-context">
+                    <a class="link-inpage-comments comment left" data-disqus-identifier="300061" href="https://www.elsevier.com/connect/thriving-or-surviving-taking-a-wide-angle-on-mental-health#disqus_thread" rel="external" target="_blank">Comment</a>
+                    <div class="right"><span class='tag tag-community active'>Elsevier Connect</span> </div>
+                </div>
+            </div>
+
+        </a>
+    </article>
+
+    <article class="article-macro">
+        <a href="https://www.elsevier.com/connect/in-pictures-three-hundred-thousand-cheers-for-science" title="In pictures: three (hundred thousand) cheers for science!">
+
+            <div class="article-macro-image-container">
+                <div class="image-ratio2-1">
+                    <img src="https://www.elsevier.com/__data/assets/image/0010/299638/Cell-Press-science-march.jpg">
+                </div>
+            </div>
+
+            <div class="article-macro-content">
+                <div class="article-macro-excerpt">
+                    <a href="https://www.elsevier.com/connect/in-pictures-three-hundred-thousand-cheers-for-science" title="#">
+                        <p class="article-macro-title">In pictures: three (hundred thousand) cheers for science!</p>
+                    </a>
+                </div>
+                <div class="article-meta">
+                    <ul class="not-enum">
+                        <li><small>By William Gunn, PhD</small></li>
+                        <li><small>May 05, 2017</small></li>
+                    </ul>
+                </div>
+
+                <div class="article-meta-context">
+                    <a class="link-inpage-comments comment left" data-disqus-identifier="299652" href="https://www.elsevier.com/connect/in-pictures-three-hundred-thousand-cheers-for-science#disqus_thread" rel="external" target="_blank">Comment</a>
+                    <div class="right"><span class='tag tag-community active'>Elsevier Connect</span> </div>
+                </div>
+            </div>
+
+        </a>
+    </article>
+
+    <article class="article-macro">
+        <a href="https://www.elsevier.com/connect/new-education-technologies-will-help-nursing-students-prepare-for-the-workforce" title="New education technologies will help nursing students prepare for the workforce">
+
+            <div class="article-macro-image-container">
+                <div class="image-ratio2-1">
+                    <img src="https://www.elsevier.com/__data/assets/image/0009/298449/Scott_Smith-SXSWedu.JPG">
+                </div>
+            </div>
+
+            <div class="article-macro-content">
+                <div class="article-macro-excerpt">
+                    <a href="https://www.elsevier.com/connect/new-education-technologies-will-help-nursing-students-prepare-for-the-workforce" title="#">
+                        <p class="article-macro-title">New education technologies will help nursing students prepare for the workforce</p>
+                    </a>
+                </div>
+                <div class="article-meta">
+                    <ul class="not-enum">
+                        <li><small>By Christopher Capot</small></li>
+                        <li><small>May 03, 2017</small></li>
+                    </ul>
+                </div>
+
+                <div class="article-meta-context">
+                    <a class="link-inpage-comments comment left" data-disqus-identifier="298409" href="https://www.elsevier.com/connect/new-education-technologies-will-help-nursing-students-prepare-for-the-workforce#disqus_thread" rel="external" target="_blank">Comment</a>
+                    <div class="right"><span class='tag tag-community active'>Elsevier Connect</span> </div>
+                </div>
+            </div>
+
+        </a>
+    </article>
+
+    <article class="article-macro">
+        <a href="https://www.elsevier.com/connect/olivier-dumon-on-opportunities-for-technology-and-innovation-in-the-sustainable-future" title="Olivier Dumon on opportunities for technology and innovation in &quot;the sustainable future&quot;">
+
+            <div class="article-macro-image-container">
+                <div class="image-ratio2-1">
+                    <img src="https://www.elsevier.com/__data/assets/image/0004/298813/Olivier-Dumon-tech-image.jpg">
+                </div>
+            </div>
+
+            <div class="article-macro-content">
+                <div class="article-macro-excerpt">
+                    <a href="https://www.elsevier.com/connect/olivier-dumon-on-opportunities-for-technology-and-innovation-in-the-sustainable-future" title="#">
+                        <p class="article-macro-title">Olivier Dumon on opportunities for technology and innovation in &quot;the sustainable future&quot;</p>
+                    </a>
+                </div>
+                <div class="article-meta">
+                    <ul class="not-enum">
+                        <li><small>By Alison Bert, DMA</small></li>
+                        <li><small>May 03, 2017</small></li>
+                    </ul>
+                </div>
+
+                <div class="article-meta-context">
+                    <a class="link-inpage-comments comment left" data-disqus-identifier="298799" href="https://www.elsevier.com/connect/olivier-dumon-on-opportunities-for-technology-and-innovation-in-the-sustainable-future#disqus_thread" rel="external" target="_blank">Comment</a>
+                    <div class="right"><span class='tag tag-community active'>Elsevier Connect</span> </div>
+                </div>
+            </div>
+
+        </a>
+    </article>
+
+    <article class="article-macro">
+        <a href="https://www.elsevier.com/connect/a-universitys-vision-to-change-the-world-through-research-and-innovation" title="A university’s vision to change the world through research and innovation">
+
+            <div class="article-macro-image-container">
+                <div class="image-ratio2-1">
+                    <img src="https://www.elsevier.com/__data/assets/image/0006/298788/EK_Untraditional_1200x600.jpg">
+                </div>
+            </div>
+
+            <div class="article-macro-content">
+                <div class="article-macro-excerpt">
+                    <a href="https://www.elsevier.com/connect/a-universitys-vision-to-change-the-world-through-research-and-innovation" title="#">
+                        <p class="article-macro-title">A university’s vision to change the world through research and innovation</p>
+                    </a>
+                </div>
+                <div class="article-meta">
+                    <ul class="not-enum">
+                        <li><small>By Ian Evans</small></li>
+                        <li><small>May 01, 2017</small></li>
+                    </ul>
+                </div>
+
+                <div class="article-meta-context">
+                    <a class="link-inpage-comments comment left" data-disqus-identifier="298285" href="https://www.elsevier.com/connect/a-universitys-vision-to-change-the-world-through-research-and-innovation#disqus_thread" rel="external" target="_blank">Comment</a>
+                    <div class="right"><span class='tag tag-community active'>Elsevier Connect</span> </div>
+                </div>
+            </div>
+
+        </a>
+    </article>
+
+    <article class="article-macro">
+        <a href="https://www.elsevier.com/authors-update/story/publishing-trends/join-our-free-webinar-on-gender-bias-in-academic-publishing" title="Join our free webinar on gender bias in academic publishing">
+
+            <div class="article-macro-image-container">
+                <div class="image-ratio2-1">
+                    <img src="https://www.elsevier.com/__data/assets/image/0005/298535/GenderWebinarFeature.jpg">
+                </div>
+            </div>
+
+            <div class="article-macro-content">
+                <div class="article-macro-excerpt">
+                    <a href="https://www.elsevier.com/authors-update/story/publishing-trends/join-our-free-webinar-on-gender-bias-in-academic-publishing" title="#">
+                        <p class="article-macro-title">Join our free webinar on gender bias in academic publishing</p>
+                    </a>
+                </div>
+                <div class="article-meta">
+                    <ul class="not-enum">
+                        <li><small>By Laura Mesquita</small></li>
+                        <li><small>May 01, 2017</small></li>
+                    </ul>
+                </div>
+
+                <div class="article-meta-context">
+                    <a class="link-inpage-comments comment left" data-disqus-identifier="298523" href="https://www.elsevier.com/authors-update/story/publishing-trends/join-our-free-webinar-on-gender-bias-in-academic-publishing#disqus_thread" rel="external" target="_blank">Comment</a>
+                    <div class="right"><span class='tag tag-community active'>Authors' Update</span> </div>
+                </div>
+            </div>
+
+        </a>
+    </article>
+
+<div class="text-center">
+    <a class="cta-primary" data-totalPage="178" data-numRanks="10">View next 10 stories</a>
+</div> 
+
+</div>
+</div><!-- filter stories for desktop -->
+<!-- same content source as content container #174811 -->
+<div class="columns medium-4 sidebar sidebar-communities hide-for-small-only">
+  <p class="heading-section" id="filter-stories">Filter your Stories</p>
+  <hr><div class="article-filter-block list-community">
+    <div class="article-sidebar-heading">
+        <p class="heading-component">By Community</p>
+        <button class="btn-ui clear right" data-btn-clear="f.Community|">Clear all</button>
+    </div>
+    <ul class="tags tags-community">
+            <li><a class="tag-community" href="?f.Community|community=atlas">Atlas</a></li>
+            <li><a class="tag-community" href="?f.Community|community=authors&#x27; update">Authors&#x27; Update</a></li>
+            <li><a class="tag-community" href="?f.Community|community=editors&#x27; update">Editors&#x27; Update</a></li>
+            <li><a class="tag-community" href="?f.Community|community=elsevier connect">Elsevier Connect</a></li>
+            <li><a class="tag-community" href="?f.Community|community=reviewers&#x27; update">Reviewers&#x27; Update</a></li>
+    </ul>
+</div><div class="article-filter-block list-tags">
+    <div class="article-sidebar-heading">
+        <p class="heading-component">By Tag</p>
+        <button class="btn-ui clear right" data-btn-clear="Tags|">Clear all</button>
+    </div>
+    <ul class="tags" > 
+            <li><a href="?f.Tags|terms=access to research" >Access To Research</a></li>
+            <li><a href="?f.Tags|terms=author support" >Author Support</a></li>
+            <li><a href="?f.Tags|terms=awards" >Awards</a></li>
+            <li><a href="?f.Tags|terms=corporate commentary" >Corporate Commentary</a></li>
+            <li><a href="?f.Tags|terms=data &amp; analytics" >Data &amp; Analytics</a></li>
+            <li><a href="?f.Tags|terms=ethics" >Ethics</a></li>
+            <li><a href="?f.Tags|terms=events" >Events</a></li>
+            <li><a href="?f.Tags|terms=expert advice" >Expert Advice</a></li>
+            <li><a href="?f.Tags|terms=gender &amp; diversity" >Gender &amp; Diversity</a></li>
+            <li><a href="?f.Tags|terms=healthcare" >Healthcare</a></li>
+            <li><a href="?f.Tags|terms=health science" >Health Science</a></li>
+            <li><a href="?f.Tags|terms=innovation" >Innovation</a></li>
+            <li><a href="?f.Tags|terms=library science" >Library Science</a></li>
+            <li><a href="?f.Tags|terms=medicine" >Medicine</a></li>
+            <li><a href="?f.Tags|terms=metrics" >Metrics</a></li>
+            <li><a href="?f.Tags|terms=nursing" >Nursing</a></li>
+            <li><a href="?f.Tags|terms=peer review" >Peer Review</a></li>
+            <li><a href="?f.Tags|terms=people" >People</a></li>
+            <li><a href="?f.Tags|terms=science communication" >Science Communication</a></li>
+            <li><a href="?f.Tags|terms=scientific discovery" >Scientific Discovery</a></li>
+            <li><a href="?f.Tags|terms=social responsibility" >Social Responsibility</a></li>
+            <li><a href="?f.Tags|terms=sustainability science" >Sustainability Science</a></li>
+            <li><a href="?f.Tags|terms=technology" >Technology</a></li>
+            <li><a href="?f.Tags|terms=trends" >Trends</a></li>
+    </ul>
+</div><!-- data-query="%globals_get_f.Community|community%" -->
+</div></section>
+                <div class="fixed-side-links side-bottom"> 
+                  <div class="row row-back-to-top"> 
+                    <div class="columns large-12"> 
+                      <a class="back-to-top right" href="#top" title="Back to the top of the page"><!--span class="back-to-top-text">Back to top</span--></a>
+                    </div><!-- .columns large-12 -->
+                  </div><!-- .row .row-back-to-top -->
+                </div><!-- .fixed-side-links .side-bottom -->
+
+            </main>
+
+               
+               <!--noindex-->
+
+               <aside class="primary-menu">
+               <div class="spine-section">
+                    <div class="main-ui-item main-ui-item-menu js-close-primary-menu" tabindex="5" role="button">
+                        <span class="main-ui-icon">
+                            <img src="https://cdn.elsevier.io/verona/includes/svg/icon-menu-hamburger-white-sized.svg" alt="Close menu" />
+                        </span>
+                        <span class="main-ui-text hide-for-small-only">Close</span>
+                    </div>
+                </div>
+                <div class="spine-section">    
+                    <nav class="main-navigation" role="navigation" aria-label="primary">
+
+                        
+                        											
+                        <!--  BEGIN LEVEL 1 -->
+                        
+                            <ul class="spine-level-1">
+                                <li><a href='https://www.elsevier.com' tabindex="5">Home</a></li>
+                                                                    <li class="">
+                                        <a href="https://www.elsevier.com/about" tabindex="5">
+                                            About                                        </a>
+                                        		                                    </li>
+                                                                    <li class="">
+                                        <a href="https://www.elsevier.com/books-and-journals" tabindex="5">
+                                            Books and Journals                                        </a>
+                                        		                                    </li>
+                                                                    <li class="">
+                                        <a href="https://www.elsevier.com/authors" tabindex="5">
+                                            Authors                                        </a>
+                                        		                                    </li>
+                                                                    <li class="">
+                                        <a href="https://www.elsevier.com/editors" tabindex="5">
+                                            Editors                                        </a>
+                                        		                                    </li>
+                                                                    <li class="">
+                                        <a href="https://www.elsevier.com/librarians" tabindex="5">
+                                            Librarians                                        </a>
+                                        		                                    </li>
+                                                                    <li class="">
+                                        <a href="https://www.elsevier.com/reviewers" tabindex="5">
+                                            Reviewers                                        </a>
+                                        		                                    </li>
+                                                                    <li class="">
+                                        <a href="https://www.elsevier.com/research-platforms" tabindex="5">
+                                            Research Platforms                                        </a>
+                                        		                                    </li>
+                                                                    <li class="">
+                                        <a href="https://www.elsevier.com/research-intelligence" tabindex="5">
+                                            Research Intelligence                                        </a>
+                                        		                                    </li>
+                                                                    <li class="">
+                                        <a href="https://www.elsevier.com/rd-solutions" tabindex="5">
+                                            R&amp;D Solutions                                        </a>
+                                        		                                    </li>
+                                                                    <li class="">
+                                        <a href="https://www.elsevier.com/clinical-solutions" tabindex="5">
+                                            Clinical Solutions                                        </a>
+                                        		                                    </li>
+                                                                    <li class="">
+                                        <a href="https://www.elsevier.com/education" tabindex="5">
+                                            Education Solutions                                        </a>
+                                        		                                    </li>
+                                                                    <li class="">
+                                        <a href="https://www.elsevier.com/solutions" tabindex="5">
+                                            All Solutions                                        </a>
+                                        		                                    </li>
+                                                                    <li class="">
+                                        <a href="https://www.elsevier.com/elsevier-store-ii" tabindex="5">
+                                            Shop Books and Journals                                        </a>
+                                        		                                    </li>
+                                                                    <li class="">
+                                        <a href="https://www.elsevier.com/author-webshop" tabindex="5">
+                                            Author Webshop                                        </a>
+                                        		                                    </li>
+                                                                    <li class="">
+                                        <a href="https://www.elsevier.com/elsevier-connect" tabindex="5">
+                                            Elsevier Connect                                        </a>
+                                        		                                    </li>
+                                                                    <li class="">
+                                        <a href="https://www.elsevier.com/support-center" tabindex="5">
+                                            Support Center                                        </a>
+                                        		                                    </li>
+                                                            </ul>
+                        			                    </nav>
+                </div>
+            </aside>
+
+        
+        
+                
+            <!--endnoindex-->
+
+         <footer class="footer-main fat-footer"> 
+    <section class="top"> 
+        <div class="row"> 
+            <div class="large-12 columns"> 
+                <ul class="accordion" data-accordion role="tablist"> 
+                    <li class="accordion-navigation"> 
+                        <a href="#footer-solutions" id="footer-solutions-heading" class="hide-for-large-up" role="tab" aria-controls="footer-solutions"> 
+                            <p class="heading">Solutions<span class="open-icon"></span></p> 
+                        </a> 
+                        <p class="heading show-for-large-up">Solutions</p> 
+                        <div id="footer-solutions" class="content" role="tabpanel" aria-labelledby="footer-solutions-heading"> 
+                            <ul class="first"> 
+                                <li><a href="//www.elsevier.com/solutions/scopus" title="Scopus">Scopus</a></li> 
+                                <li><a href="//www.elsevier.com/solutions/sciencedirect" title="ScienceDirect">ScienceDirect</a></li> 
+                                <li><a href="//www.elsevier.com/solutions/mendeley" title="Mendeley">Mendeley</a></li> 
+                                <li><a href="//evolve.elsevier.com/" title="Evolve" rel="external" target="_blank">Evolve</a></li> 
+                                <li><a href="//www.elsevier.com/solutions/knovel-engineering-information" title="Knovel">Knovel</a></li> 
+                                <li><a href="//www.elsevier.com/solutions/reaxys" title="Reaxys">Reaxys</a></li> 
+                                <li><a href="//www.clinicalkey.com/" title="Clinical Key" rel="external" target="_blank">Clinical Key</a></li> 
+                            </ul> 
+                        </div> 
+                    </li> 
+                    <li class="accordion-navigation"> 
+                        <a href="#footer-researchers" id="footer-researchers-heading" class="hide-for-large-up" role="tab" aria-controls="footer-researchers"> 
+                            <p class="heading">Researchers<span class="open-icon"></span></p> 
+                        </a> 
+                        <p class="heading show-for-large-up">Researchers</p> 
+                        <div id="footer-researchers" class="content" role="tabpanel" aria-labelledby="footer-researchers-heading"> 
+                            <ul> 
+                                <li><a href="//www.elsevier.com/authors/journal-authors/submit-your-paper" title="Submit your paper">Submit your paper</a></li> 
+                                <li><a href="//www.elsevier.com/books-and-journals" title="Find Books & Journals">Find books &amp; journals</a></li> 
+                                <li><a href="//www.elsevier.com/authors" title="visit Author Hub">Visit Author Hub</a></li> 
+                                <li><a href="//www.elsevier.com/editors" title="visit Editor Hub">Visit Editor Hub</a></li> 
+                                <li><a href="//www.elsevier.com/librarians" title="visit Librarian Hub">Visit Librarian Hub</a></li> 
+                                <li><a href="//www.elsevier.com/reviewers" title="visit Reviewer Hub">Visit Reviewer Hub</a></li>
+                                <li><a href="//service.elsevier.com/" title="Support center" target="_blank">Support center</a></li>
+                            </ul> 
+                        </div> 
+                    </li> 
+                    <li class="accordion-navigation"> 
+                        <a href="#footer-elsevier" id="footer-elsevier-heading" class="hide-for-large-up" role="tab" aria-controls="footer-elsevier"> 
+                            <p class="heading">Elsevier<span class="open-icon"></span></p> 
+                        </a> 
+                        <p class="heading show-for-large-up">Elsevier</p> 
+                        <div id="footer-elsevier" class="content" role="tabpanel" aria-labelledby="footer-elsevier-heading"> 
+                            <ul> 
+                                <li><a href="//www.elsevier.com/about/our-business" title="Our business">Our business</a></li>
+                                <li><a href="//www.elsevier.com/about/newsroom" title="Newsroom">Newsroom</a></li> 
+                                <li><a href="//www.elsevier.com/about/press-releases" title="Press releases">Press releases</a></li>
+                                <li><a href="//www.elsevier.com/contact" title="Contact">Contact</a></li>     
+                                <li><a href="//www.elsevier.com/events" title="Events">Events</a></li> 
+                                <li><a href="//www.elsevier.com/advertisers" title="Advertising">Advertising</a></li> 
+                                <li><a href="//www.elsevier.com/publisher-relations" title="Publisher relations">Publisher relations</a></li> 
+                            </ul> 
+                        </div> 
+                    </li> 
+                    <li class="accordion-navigation last"> 
+                        <a href="#footer-website" id="footer-website-heading" class="hide-for-large-up" role="tab" aria-controls="footer-website"> 
+                            <p class="heading">Website<span class="open-icon"></span></p> 
+                        </a> 
+                        <p class="heading show-for-large-up" >Website</p> 
+                        <div id="footer-website" class="content" role="tabpanel" aria-labelledby="footer-website-heading"> 
+                            <ul> 
+                                <li><a href="//www.elsevier.com/sitemap" title="Sitemap">Sitemap</a></li> 
+                                <li><a href="//www.elsevier.com/feedback" title="Website Feedback">Website feedback</a></li> 
+                            </ul> 
+                        </div> 
+                    </li> 
+                </ul> 
+                <div class="footer-social"> 
+                    <span class="heading">Follow Elsevier</span> 
+                    <div class="social-share"> 
+                        <a href="https://www.facebook.com/ElsevierConnect" class="svg-icon-social" target="_blank" title="Icon social media facebook"> 
+                            <img alt="Icon social media facebook" src="https://cdn.elsevier.io/verona/includes/svg/icon-social-facebook.svg"> 
+                        </a> 
+                        <a href="https://www.linkedin.com/company/elsevier" class="svg-icon-social" target="_blank" title="Icon social media linkedin"> 
+                            <img alt="Icon social media linkedin" src="https://cdn.elsevier.io/verona/includes/svg/icon-social-linkedin.svg"> 
+                        </a> 
+                        <a href="https://twitter.com/ElsevierConnect" class="svg-icon-social" target="_blank" title="Icon social media twitter"> 
+                            <img alt="Icon social media twitter" src="https://cdn.elsevier.io/verona/includes/svg/icon-social-twitter.svg"> 
+                        </a> 
+                         <a href="https://www.youtube.com/c/elsevier/" class="svg-icon-social" target="_blank"> 
+                            <img alt="Icon social media youtube" src="https://cdn.elsevier.io/verona/includes/svg/icon-social-youtube.svg"> 
+                        </a>  
+                    </div> 
+                </div> 
+            </div> 
+        </div> 
+    </section> 
+    <section class="bottom"> 
+    <div class="row">
+        <div class="large-2 columns show-for-large-up">
+            <a href="https://www.elsevier.com" class="els_link-image"> 
+                <img src="https://www.elsevier.com/__data/assets/file/0003/278661/ELS_NS_Logo_2C_RGB.svg" width="85" height="94" class="nonsolus-logo" style="background: white" alt="Elsevier logo">
+            </a>    
+        </div>    
+        <div class="large-7 columns">
+            <p>Copyright &copy; 2017 Elsevier, except certain content provided by third party</p>
+            <p>Cookies are used by this site. To decline or learn more, visit our <a href="//www.elsevier.com/legal/use-of-cookies" title="Cookies" target="_blank">Cookies</a> page.</p>
+            <p><a href="//www.elsevier.com/legal/elsevier-website-terms-and-conditions" title="Terms and Conditions" target="_blank">Terms and Conditions</a>
+                    <a href="//www.elsevier.com/legal/privacy-policy" class="els-document-link" title="Privacy Policy" target="_blank">Privacy Policy</a></p>
+        </div>
+        <div class="large-5 columns hide-for-large-up">
+            <a href="https://www.elsevier.com" class="els_link-image"> 
+                <img src="https://www.elsevier.com/__data/assets/file/0003/278661/ELS_NS_Logo_2C_RGB.svg" width="85" height="94" class="nonsolus-logo" style="background: white" alt="Elsevier logo">
+            </a>  
+            <a title="Go to RELX Group Homepage" href="http://www.reedelsevier.com/" class="els_link-image"> 
+                <img width="150" alt="RELX Group Wordmark" src="https://cdn.elsevier.io/verona/includes/svg/logo-relxgroup.svg"> 
+            </a> 
+        </div>
+        <div class="large-3 columns show-for-large-up"> 
+            <a title="Go to RELX Group Homepage" href="http://www.reedelsevier.com/" class="els_link-image"> 
+                <img width="150" alt="RELX Group Wordmark" src="https://cdn.elsevier.io/verona/includes/svg/logo-relxgroup.svg"> 
+            </a> 
+        </div> 
+    </div>
+    </section> 
+</footer>        </div>
+    </div>
+
+<script  src="https://cdn.elsevier.io/matrix/ui/1.6.26/vendor.min.js"></script>
+<script  src="https://cdn.elsevier.io/matrix/ui/1.6.26/scripts-bottom.min.js"></script><script src="https://www.elsevier.com/__data/assets/js_file/0008/173393/connect-newjs.js"></script> 
+<script src="https://www.elsevier.com/__data/assets/js_file/0018/5724/connectjs.js"></script> 
+<script type="text/javascript">var switchTo5x=true;</script>
+<script src="https://www.elsevier.com/__data/assets/js_file/0013/6250/buttonsjs.js"></script> <!-- Buttons -->
+<script type="text/javascript">stLight.options({publisher: "bf7e6d29-4f96-4d95-8673-0c5f924a504a", doNotHash: true, doNotCopy: true, hashAddressBar: false});</script>
+
+
+<!-- Twitter -->
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+
+<!-- Disqus - Comment counting on landing pages -->
+<script type="text/javascript">
+/* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+var disqus_shortname = 'elsevierconnect'; // required: Ensures comments from Elsevierconnect set up are shown
+
+/* * * DON'T EDIT BELOW THIS LINE * * */
+(function () {
+    var s = document.createElement('script'); s.async = true;
+    s.type = 'text/javascript';
+    s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+    (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+}());
+</script><div id="surveyPopup" class="survey-trigger" style="display:none;">
+<script>
+   surveyOptions = {
+      startDate: 1380622914,
+      endDate: 1609373814,
+      frequency: '',
+      url: 'https://survey.confirmit.com/wix2/p2683244022.aspx',
+      inactive: 'No',
+      target: 0.1,
+      cookieName: 'survey'
+  }
+  
+  $(function(){
+      surveyInit(surveyOptions);
+  })
+</script> 
+
+<p>Elsevier.com visitor survey</p>
+<p>We are always looking for ways to improve customer experience on Elsevier.com. <br />
+We would like to ask you for a <b>moment of your time</b> to fill in a short questionnaire, <b>at the end of your visit</b>. <br /> 
+<br/> 
+If you decide to participate, a new browser window will open and remain open until you have<br /> completed your visit to this website. <br /><br /> Thanks in advance for your time.</p>
+<a class="survey-accept cta-primary lightbox" href="http://survey.confirmit.com/wix2/p2683244022.aspx" rel="nofollow">Accept</a>&nbsp;<a class="survey-decline cta-primary">Decline</a></div>
+
+
+</body>
+</html>

@@ -1,0 +1,176 @@
+
+ Elsevier ScienceDirect Blog | Product news, events, and announcements for www.sciencedirect.com
+ Skip directly to content
+ www.ScienceDirect.com | Top25 Articles | About | Sales & Support
+ All Posts
+Release Notes
+ Search this Blog
+ Search
+ Get our Newsletter
+ subscribe-sd.png
+Follow ScienceDirect 
+ Tweets from @sciencedirect
+ Tweets by @sciencedirect
+ Top Categories
+ ScienceDirect (39)
+ Search (7)
+ Mendeley (5)
+ Open Access (5)
+ Research Success (3)
+ see all
+ Popular posts
+ Articles-in-Press added to ScienceDirect journal alerts
+ Standing on the shoulders of giants: sharing research responsibly
+ New ScienceDirect Alert Options and More in May
+ Academic sharing – what is Elsevier doing about this?
+ Have you heard? Spread the word about upgrading your browser
+ see all
+ Recent Posts
+ Are you saving money? Are you productive? Are you using ScienceDirect?
+ Sincerely, Your ScienceDirect Team
+ Update your browser for better – and more secure – searching on ScienceDirect
+ How old is too old? No matter the age, the science matters
+ Discover more: 5 tips for better searching on ScienceDirect
+ see all
+ Are you saving money? Are you productive? Are you using ScienceDirect?
+ Submitted by Anonymous (not verified)
+ on 1 February 2017 - 10:32am
+  
+ image2.jpg
+Driving innovation while balancing commercial demands can be a challenge in supporting R&D and product development. Corporate researchers tell us that they are under pressure to:
+Create new ideas and demonstrate commercial viability of productsShorten the time required to make R&D investment go/no-go decisions and meet project milestonesReduce R&D costs and expensive testing of new ideas
+For corporate researchers in particular, ScienceDirect enables you to meet these challenges by connecting you to the latest scientific developments so you can make better decisions, more quickly and confidently.
+In an independent study conducted in 2016, 88% of corporate researchers report that ScienceDirect saves them time.
+Here are just a few examples to show how ScienceDirect saves time and helps advance the work of your industry colleagues.
+Find out what other researchers have already done, so you won’t need to repeat it. A researcher in pharma R&D management needed to gather data and test conditions for existing ion channel blockers to support in vitro screening efforts. ScienceDirect expedited compilation of a dataset of over 30 compounds blocking the target channel. Quick access to the existing data saved several months of time and made it possible to develop the SAR to inform the design of new ion channel blocker drug candidates.
+Gain access to ideas in other disciplines/markets that inspire innovation and solutions. A researcher in pharma technical management faced a problem with long-term changes in a product’s performance. ScienceDirect enabled the researcher to locate multiple articles supporting a possible mechanism and to design experiments to confirm it. By applying knowledge from non-pharmaceutical studies, a raw material aging mechanism was identified, salvaging the product launch and saving over $20 million dollars.
+Make sure you don’t overlook critical information supporting your research. A biotech engineering project manager needed to keep up-to-date regarding developments in plant biology research. ScienceDirect streamlined the research methodology, making it easy to identify relevant articles and publications. This knowledge supported improvement of project strategies and helped drive an effective go/no-go decision, resulting in a successful product patent.
+How will you be inspired to use ScienceDirect? Check out the 2016 global study by Martin Akel & Associates to see how other corporate researchers benefit from ScienceDirect. Maybe you’ll discover a new way to drive your projects forward faster.
+Contributed by Muriel Spoorenberg, Solution Marketing Manager - ScienceDirect, R&D Solutions 
+ Tags: research productivityresearch & development
+ Sincerely, Your ScienceDirect Team
+ Submitted by Kira Cooper
+ on 13 December 2016 - 12:13pm
+ happyholidays.jpg
+We’re taking a break for the winter holidays, and hope you are too. We’ll return in January 2017 with new posts about ScienceDirect news, tips and information worth sharing. Until then, stay in touch with ScienceDirect on Twitter @sciencedirect.com and Facebook. (P.S. To our Southern Hemisphere friends, enjoy the sunshine.)
+ 
+ Tags: holiday greetings
+ Update your browser for better – and more secure – searching on ScienceDirect
+ Submitted by Kira Cooper
+ on 30 November 2016 - 7:56am
+ Last year, we announced that ScienceDirect would no longer support Internet Explorer 8 (IE8) at the start of this year. Now, we announce that effective January 1, 2017, ScienceDirect will no longer support Internet Explorer 9 (IE9). We are making gradual changes to IE support following Microsoft’s announcement earlier this year about its official discontinuation of Internet Explorer 8, 9 and 10 (more information can be found on Microsoft’s support page).
+To continue to make the most of your ScienceDirect search and discovery experience, we recommend you use the latest versions of the following browsers:
+Google ChromeMozilla FirefoxInternet Explorer version 10 or higher
+We like to keep current so ScienceDirect automatically updates to support the latest versions of Chrome and Firefox upon their release (but please note that we do not support Beta or test versions of these browsers).
+For best results, we recommend you set the following browser preferences:
+JavaScript: To access many ScienceDirect features, JavaScript must be enabled for your browser.Cookies: To sign on, cookies must be enabled for your browser. Using cookies lets us provide a more secure method of authenticating your login ID and password.Browser Cache: We recommend setting your browser to “cache (store) page” automatically so images do not have to download every time you visit a page on ScienceDirect.
+Get more advice about browser requirements and preferences from our Help files, only a click away on every ScienceDirect page:
+ sd-blogpost.jpg
+Launch your preferred browser and discover more on ScienceDirect today.
+Never miss out on the latest ScienceDirect news and information. To stay informed about browsers supported by ScienceDirect, improvements we’re planning and more, sign up for our free newsletter and follow us on Twitter @sciencedirect and Facebook.
+With thanks to Nicolai Humphreys, ScienceDirect Product Manager
+ Tags: browsersSearch
+ How old is too old? No matter the age, the science matters
+ Submitted by Kira Cooper
+ on 27 October 2016 - 12:30pm
+ herritage3.jpg
+Courtesy of the Elsevier Heritage Collection“I have met young scholars who are not familiar with earlier literature and they think that older works are not as good as newer ones. That is simply not true. Many old scientific papers were very well-written, applied the same scientific rigour, and their processes were just as valid as today’s experiments. They can be very valuable to any researcher.”–Iain Clarke, Professor and head of the Department of Physiology at the Faculty of Medicine, Nursing & Health Sciences, Monash University, AustraliaWho says science gets old? You can’t possibly believe that – do you want someone to think at some point that your research is old? Of course you don’t. It’s wise not to believe books and journal articles that are 10, 20, 30 or more years old are, well, old. The lessons of science have much to teach us, as Professor Clarke so clearly states.Reading the history and developments of a particular science is time well spent. Whether you call it a literature review, a literature survey or prior art, there are huge benefits to making time to “search the stacks.” Consider these three reasons:You’ll develop a rich, full and comprehensive body of knowledge. Reading the older stuff shows that you’ve done your homework. You’ll avoid repeating work that has already been done. You’ll demonstrate what is already known about a topic, show how extensive the research that has already been done is, and show the gap your own research intends to fill. Knowing what, and who, came before is where you begin to (or further) establish your own expertise.You’ll discover supporting research from other disciplines that you might not have known about. References to foundational literature in the books and articles you read may open vistas to other disciplines that influenced the original work. These references may lead you to look for collaborators outside of your own domain expertise, ensuring you have a multidisciplinary view to your project.It’s good practice. Knowing how to get a solid grounding in your field through a literature review is important for a career in either academia or industry. Honing this skill shows you are resourceful and thorough. And by reading all the published literature you can discover on your chosen topic, you’ll begin to recognize well-written discourse, which, in turn, may influence your own approach to writing or communicating about your work.Need more than just our word for it? Read our Pre-1995 Backfiles Case Study 4-part series where a range of experts, including Professor Clarke, weigh in on the value of scientific literature written 20 or more years ago. And if you get stuck or don’t know where to begin, stay calm. Call, text, email or visit your library or information center. Librarians and information professionals are experts at literature surveys. They can guide you through the steps to doing a thorough review, as well as assist with the various resources they have available for your use.It’s time to get started. Try a search on ScienceDirect today and discover years’ worth of science to inspire your own growing body of knowledge. Your research will thank you.
+ Tags: literature reviewliterature surveyprior artfoundational sciencebackfiles
+ Discover more: 5 tips for better searching on ScienceDirect
+ Submitted by Kira Cooper
+ on 28 September 2016 - 8:57am
+ Discovery is at the heart of what you do. Whether you’re a student, a teacher or a researcher, you’re driven to discover information that you don’t yet know about in order to move to the next phase of your work: complete an assignment, update a course syllabus, refine your research direction or add to your paper’s bibliography.
+Discovering publications is one of the reasons why you use ScienceDirect. To get to discovery, we want you to have a successful search experience. To help you along, here are our top tips for a better search query on ScienceDirect:
+Search terms are not case-sensitive. Using all lowercase, all uppercase or a mix of capital and lowercase letters will not affect your query.Entering a singular noun will also search for plural noun forms and possessives. For example:Method also finds methods and method’sCriterion also finds criteriaEntering search terms using either US or UK spellings will automatically search for both spelling variations. For example:Behavior also finds behaviourMultiple words set off by spaces will search for documents or images that include both words.You can use either quotation marks or curly brackets to search for a word or phrase, but the results will differ in these ways:Searches in quotation marks, such as “colour code,” will be fuzzy searches. Our search engine will search for singular and plural nouns, as well as US and UK spellings, and will allow wildcards and ignore symbols and punctuation.Searches in curly brackets, such as {colour code}, will be exact searches. Our search engine will look only for that exact phrase, including symbols and punctuation.
+Prefer to start simple? Use the ScienceDirect home page. Need more refinement options? Go to our Advanced search or Expert search pages. We also suggest you turn on Search history (located on Advanced and Expert search pages) so that ScienceDirect can recall your previous searches the next time you visit. And you can always refer to additional Search tips via the Help button on any ScienceDirect page for our full range of search tips so you get the most from your ScienceDirect search experience:
+ image1.jpg
+ image2.jpg
+Try a new search today and discover how easily you can improve the relevancy of your query results on ScienceDirect. Have your own search tip to share? We invite you to share it on Twitter @sciencedirect and Facebook.
+We’ll have more to share about improvements to search on ScienceDirect in the coming months. Sign up for our free Newsletter and you’ll never miss out on the latest ScienceDirect news and information.
+With thanks to Kalyan Ram, ScienceDirect Senior Product Manager, and Saskia van Acker, Search Product Manager
+ Tags: Searchsearch tipssearch help
+ Standing on the shoulders of giants: sharing research responsibly
+ Submitted by Kira Cooper
+ on 31 August 2016 - 1:27pm
+ New discoveries have long been built upon the work of others. It was, after all, Sir Isaac Newton who famously said, “If I have seen further than others, it is by standing upon the shoulders of giants.”
+To continue to empower knowledge and advance science, it is important to share publications. Sharing responsibly means knowing what you may share and where, which is not the same for every publication. We at Elsevier have developed tools and information on ScienceDirect to support you with ways to responsibly share scholarly publications.
+When you click to download a publication from ScienceDirect, you’ll occasionally see a message pop up. The message may be refreshed from time to time, but it will typically be similar to the following:
+ 1.png
+Clicking on the button will take you to our new Sharing publications page on our help files (found within the “Journal and book publications” tab as shown below):
+ 2.png
+All you need to know about responsible sharing can be found here. ScienceDirect facilitates sharing scholarly information responsibly, whether you use the Digital Object Identifier (DOI) link or when you need to share the full text. And if you have questions about sharing a publication from ScienceDirect responsibly, see the chart below and visit our Permissions page on Elsevier.com.
+Responsible sharing overview
+ 3-2.png
+Your need to collaborate and conduct research across departments, disciplines or institutions has never been greater, and we understand that absorbing all the guidelines from various publishers can seem daunting. Elsevier’s ScienceDirect Team continues to work hard to make this process as seamless as possible for you while ensuring that you can trust a publication’s authenticity for furthering your own work or studies; for you are indeed standing on the shoulders of giants.
+ 
+ stevewatson.jpg
+This post was contributed by Steve Watson, Head of Open Access & Customer Segmentation for ScienceDirect, Amsterdam.
+ Tags: responsible sharingDOI linkfull textpermissions
+ Gotta catch a cache: Celebrate the original location-based mobile game this weekend
+ Submitted by Kira Cooper
+ on 17 August 2016 - 12:35pm
+ igd.png
+Pokémon Go has gotten all the attention lately. But this coming Saturday, August 20, ScienceDirect invites you to celebrate the granddaddy of GPS-based games, geocaching, in honor of International Geocaching Day.
+Geocaching and its underlying technologies touch on a wide variety of disciplines. On ScienceDirect, you can discover publications about “geocaching” in computer science, urban planning, forestry, behavioral sciences, education, outdoor recreation, ecology, geology, geography, engineering and even astronautics. You’ll get 70 search results using the search term “geocaching” (ScienceDirect search hint: use curly brackets { } instead of quotation marks for exact searches). Add “GPS” OR “global positioning satellites” to your search query and results expand to nearly 53,000 journal articles and book chapters, including over 1,800 open access articles.
+So take a break from your reading, writing, reviewing or research by grabbing your smartphone, heading outside and using your GPS to search for one (or more) of the over two million geocache sites located around the world. There’s sure to be one near you. Locating a geocache might not be as easy as doing a search on ScienceDirect, but you’ll be glad for the fresh air and exercise to help reinvigorate you when you do get back to your work ... It’ll still be there when you return, we promise.
+ Tags: Searchmultidisciplinarityjournal articlesBooksopen access articles
+ We’ve changed our Top 25
+ Submitted by Kira Cooper
+ on 10 August 2016 - 8:51am
+ We now have new ways for you to discover popular articles and recent publications on ScienceDirect in your major field of research. On the new ScienceDirect homepage, simply scroll to one of the four major subject areas to quickly see what’s trending in:
+Physical Sciences and EngineeringLife SciencesHealth SciencesSocial Sciences and Humanities
+ 01-image.png
+Popular Articles and Recent Publications can help you stay more informed about what’s new and trending in your chosen field. And for even easier ways of staying up-to-date, sign up to receive email alerts matched to your information needs. ScienceDirect offers three kinds of alerts:
+Alerts from your favorite Elsevier journals and book series so you can stay informed when new articles or new volumes become availableTopic alerts when new articles pertaining to a specific area of interest are available on ScienceDirectSearch alerts when a stored search on ScienceDirect retrieves new results for you
+From your sign in, go to “Manage my alerts” then sign up for the alerts you want to receive.
+ 02-image.png
+For more ways to stay more informed, subscribe to the ScienceDirect Newsletter and follow us on Twitter @sciencedirect.
+ Tags: popular articlesrecent publicationsAlertsjournalsbook series
+ Get a jump on reading the latest research with Articles in Press
+ Submitted by Kira Cooper
+ on 21 July 2016 - 7:29am
+ Articles in Press on ScienceDirect are articles that have been accepted for publication in Elsevier journals but have not yet been assigned to specific issues. They’re a great way to read about the latest developments in your research area before articles are officially published.
+You’ll find three types of Articles in Press on ScienceDirect:
+Accepted manuscripts – Accepted manuscripts are articles that have been peer reviewed and accepted for publication by a journal’s Editorial Board, but have not yet been copyedited or formatted in the relevant journal’s house style. In your search results, you’ll see these articles identified in red, like this:
+ 1.jpg
+And on the article page, like this:
+ 2.jpg
+Uncorrected proofs – Uncorrected proofs have been copyedited and formatted, but are not finalized and may still be corrected by the authors, so the text could change before final publication. You’ll see them listed in your search results like this:
+ 3.png
+Corrected proofs – Corrected proofs contain authors' corrections and may or may not have a specific issue and page numbers assigned.
+ 4.png
+You’ll also find Articles in Press in the Journal and Book Series alerts section of the alerts page. Under the Content view column, click on the Articles in Press link. A list of Articles in Press will display.
+ 5.jpg
+ 
+To make sure you don’t miss out on the latest information in your areas of interest, sign onto ScienceDirect and set up journal or book series alerts today; be sure to check the Articles in Press box and you’ll never miss the newest research impacting your field. One of many ways that ScienceDirect keeps you more informed.
+Keywords: ScienceDirect, articles, articles in press, new research
+ Tags: ScienceDirectarticlesarticles in pressnew research
+ Cyanobacteria, Cancer and Renewable Fuel: The many faces of curacin A
+ Submitted by Andrea Cowan
+ on 26 May 2016 - 5:39pm
+ CuracinA.JPG
+The Gerwick Laboratory, a multidisciplinary marine biomedical research facility, is very active in the research and discovery of useful compounds produced by marine algae. One of the most promising compounds discovered to date is curacin A.
+“Curacin A has, on the one hand, a deceptively simple looking structure, but it has many, many things to teach us about how molecules are put together by nature.” - William H. Gerwick, Ph.D., Gerwick Laboratory
+A better understanding of curacin A’s structure has led to advancements in the biofuel arena and scientists have also been able to develop a synthesized version of curacin A (more stable than the natural version) which is being used to treat cancer.
+Once again, a multi-disciplinary approach to research offers scientists the opportunity to:
+“reach into one field, pull a technology or concept, and apply it in a new and unique way in another area of science” asserts Gerwick.
+To better understand the research that is being presented, ScienceDirect offers researchers a number of features, including figures, tables and featured author videos so that scientists can not only read the full-text article but also benefit from visual displays of information and in some cases, hear from the authors themselves on their research, methodology and key findings.
+Learn more about content innovations on ScienceDirect.
+Read the complete white paper about curacin A
+Tweet @sciencedirect with a link to a video or message about your own latest research.
+ JvdB.jpg
+This post and white paper were contributed by Jennifer Van den Brink, Corporate Marketing Manager, Elsevier, Amsterdam
+ Tags: ScienceDirectResearch Successcontent innovation
+ Pages1
+2
+3
+4
+5
+6
+7
+8
+next ›
+last »
+ About ScienceDirectAbout this BlogRelated WebsitesConnect with ScienceDirectAbout ScienceDirectSales & Customer SupportProduct SupportOnline TutorialsTop25 Hottest ArticlesTerms & ConditionsPrivacy PolicyQuestions & CommentsSite Mapwww.elsevier.comblog.engineeringvillage.comblog.scopus.comwww.mendeley.comSee all Elsevier websitesGet our newsletter 
+ elsevier-tree.png
+  Copyright © 2017 Elsevier B.V.

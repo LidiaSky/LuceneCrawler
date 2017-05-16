@@ -1,0 +1,1021 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<!--
+<script>
+  var JDM=new Object;
+JDM.dac=new Object;
+JDM.pm=new Object;
+JDM.ep=new Object;
+JDM.pf = new Object;
+JDM.pf.dc = new Object;
+
+JDM.pf.dc.respObj = '';
+JDM.pf.dc.retry = 5;
+JDM.pf.dc.retryDelay = 300;
+JDM.pf.dc.retryFactor = 1.0;
+JDM.pf.crawler = false;
+
+JDM.pm.cid = '';
+JDM.pm.issn = '00165107';
+JDM.pm.allowVIA = '';
+JDM.pm.contentType = '';
+JDM.pm.newStructure = false;
+
+JDM.ep.urlPrefix = "http://www.sciencedirect.com/science";
+
+</script> -->
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<script language="javascript">
+
+var exportAvail=true;
+
+ 
+var exportBook=false;
+
+
+var prodImagePath = "sci_dir";
+
+
+gigyaLib="//cdn.gigya.com/JS/socialize.js?apiKey=3__Bt7bHrGM8mjKPwBuOVjWyMi678aF6-PewcnoHJJ6UR1fS5t9NG9RBbKHjE0oA6J";
+
+blk_all_social_logins="Y";
+BROWSER_SPECIFIC_USR_MSG=true;
+var buildTitleFilter=false;
+
+SD_System_Msg=false;
+</script>
+
+<script>(function() {var scriptTag = document.createElement('script'); 
+scriptTag.type = 'text/javascript';scriptTag.async = true;
+scriptTag.src = '//cdn.optimizely.com/js/204774041.js';
+var head = document.getElementsByTagName('head')[0];
+head.parentNode.insertBefore(scriptTag, head);
+})();function optimizelyTimeout() {
+window.optimizely = window.optimizely|| []; 
+if(!window.optimizely.data) {
+window.optimizely.push("timeout"); } }
+setTimeout(optimizelyTimeout, 1000); </script>
+
+<!-- Start: GPT Async -->
+<script type='text/javascript'>
+	
+var gptadslots=[];
+	
+var googletag = googletag || {};
+	
+googletag.cmd = googletag.cmd || [];
+	
+(function(){ var gads = document.createElement('script');
+		
+gads.async = true; gads.type = 'text/javascript';
+		
+var useSSL = 'https:' == document.location.protocol;
+		
+gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+		
+var node = document.getElementsByTagName('script')[0];
+		
+node.parentNode.insertBefore(gads, node);
+	})();
+
+</script>
+<!-- TRANSKEY: 05/16/2017 14:26:56 EDT#2849_006#60418#95.30.38.0 -->
+<meta name="robots" content="NOARCHIVE">
+<meta name="robots" content="noodp" />
+<meta name="robots" content="noydir" />
+<link rel="shortcut icon" href="http://cdn.els-cdn.com/sd/favSD.ico" type="image/x-icon">
+<link rel="stylesheet" Title="Default Styles" href="//sdfestaticassets-us-east-1.sciencedirectassets.com/prod/ce6a74e3c87c96230cf658ad64ddc24394585c0c/style.css" type="text/css">
+
+
+   <style type="text/css">
+.nojs { display: none;}
+</style>
+
+<script type="text/javascript">
+
+if (/MSIE (\d+\.\d+);/.test(navigator.userAgent)){
+document.styleSheets[document.styleSheets.length-1].rules[0].style["display"] = "";
+} else{
+document.styleSheets[document.styleSheets.length-1].cssRules[0].style["display"] = "";
+}
+
+</script>
+
+
+
+
+<link rel="stylesheet" Title="Default Styles" href="http://cdn.els-cdn.com/sd/css/css_gen_v01_1704R5.css" type="text/css">
+<!--[if  IE 7]>
+<link rel="stylesheet" Title="Default Styles" href="http://cdn.els-cdn.com/sd/css/css_gen_ie7_v01_1704R5.css" type="text/css">
+<![endif]-->
+<!--[if lte IE 6]>
+<link rel="stylesheet" Title="Default Styles" href="http://cdn.els-cdn.com/sd/css/css_gen_ie6_v01_1704R5.css" type="text/css">
+<![endif]-->
+<link rel="stylesheet" href="http://cdn.els-cdn.com/sd/css/jquery-ui_1704R5.css" type="text/css">
+<link rel="stylesheet" href="http://cdn.els-cdn.com/sd/css/commonSprite_1704R5.css" type="text/css">
+
+<!--[if lt IE 9]>
+<link rel="stylesheet" Title="Default Styles" href="http://cdn.els-cdn.com/sd/css/css_gen_ielt9_1704R5.css" type="text/css">
+<![endif]-->
+
+
+<!--[if lt IE 7]>
+<script src="http://ie7-js.googlecode.com/svn/version/2.0(beta3)/IE7.js" 
+ type="text/javascript">
+</script>
+<script src="http://ie7-js.googlecode.com/svn/version/2.0(beta3)/IE7-squish.js" 
+ type="text/javascript">
+</script>
+<![endif]-->
+<script> 
+var SDM=new Object;
+SDM.ep = new Object;
+SDM.ep.mendeleyJS = "https://www.mendeley.com/minified/bookmarklet.js";
+</script>
+<script>
+  var JDM=new Object;
+JDM.dac=new Object;
+JDM.pm=new Object;
+JDM.ep=new Object;
+JDM.pf = new Object;
+JDM.pf.dc = new Object;
+
+JDM.pf.dc.respObj = '';
+JDM.pf.dc.retry = 5;
+JDM.pf.dc.retryDelay = 300;
+JDM.pf.dc.retryFactor = 1.0;
+JDM.pf.crawler = false;
+
+JDM.pm.cid = '';
+JDM.pm.issn = '00165107';
+JDM.pm.allowVIA = '';
+JDM.pm.contentType = '';
+JDM.pm.newStructure = false;
+
+JDM.ep.urlPrefix = "http://www.sciencedirect.com/science";
+
+</script>
+<script>var SD_URL_QUALIFIER = "science";</script>
+
+ 
+  
+
+<script src="http://cdn.els-cdn.com/sd/js/sdX_1704R5.js"></script>
+
+
+
+
+<script src="http://cdn.els-cdn.com/sd/js/sdO_1704R5.js"></script>
+
+<script src="http://cdn.els-cdn.com/sd/js/importer-api_1704R5.js.min"></script>
+<script src="http://cdn.els-cdn.com/sd/js/pa_1704R5.js"></script>
+
+
+
+
+ 
+
+<script>
+var prs = new Object();prs.rt=function(label,ts){this[label]=(ts||ts==0?ts:new Date().getTime());};
+</script>
+
+
+
+
+     <!-- if not logged in -->
+	   
+		
+
+
+
+<script>
+(function() {
+  if (window.BOOMR && window.BOOMR.version) { return; }
+  var dom,doc,where,iframe = document.createElement('iframe'),win = window;
+
+  function boomerangSaveLoadTime(e) {
+    win.BOOMR_onload=(e && e.timeStamp) || new Date().getTime();
+  }
+  if (win.addEventListener) {
+    win.addEventListener("load", boomerangSaveLoadTime, false);
+  } else if (win.attachEvent) {
+    win.attachEvent("onload", boomerangSaveLoadTime);
+  }
+
+  iframe.src = "javascript:false";
+  iframe.title = ""; iframe.role="presentation";
+  (iframe.frameElement || iframe).style.cssText = "width:0;height:0;border:0;display:none;";
+  where = document.getElementsByTagName('script')[0];
+  where.parentNode.insertBefore(iframe, where);
+
+  try {
+    doc = iframe.contentWindow.document;
+  } catch(e) {
+    dom = document.domain;
+    iframe.src="javascript:var d=document.open();d.domain='"+dom+"';void(0);";
+    doc = iframe.contentWindow.document;
+  }
+  doc.open()._l = function() {
+    var js = this.createElement("script");
+    if(dom) this.domain = dom;
+    js.id = "boomr-if-as";
+    js.src = '//c.go-mpulse.net/boomerang/' +
+    '2FBN2-NKMGU-EJKY8-ZANKZ-SUJZF';
+    BOOMR_lstart=new Date().getTime();
+    this.body.appendChild(js);
+  };
+  doc.write('<body onload="document._l();">');
+  doc.close();
+})();
+</script>
+
+
+
+
+<script>
+var USERACTIONSURL="http://www.sciencedirect.com/science/UserActions";
+</script>
+
+<link rel="alternate"
+      type="application/rss+xml"
+      title="Set up an article RSS feed"
+      href="http://rss.sciencedirect.com/publication/science/273305">
+
+
+<meta name="description"  content="The online version of Gastrointestinal Endoscopy at ScienceDirect.com, the world's leading platform for high quality peer-reviewed full-text journals.">
+
+
+<link rel="canonical" href="http://www.sciencedirect.com/science/journal/00165107"/>
+<!-- static const char journaltmpl_sccsId[] = "@(#)journal.tmpl	3.1.2.1  11/18/99 17:52:55 - Retrieved: 12/15/99 12:27:24"; -->
+
+    
+      
+          
+            <title>Gastrointestinal Endoscopy | Vol 85, Iss 6, Pgs A1-A24, 1117-1312, (June 2017) | ScienceDirect.com</title>
+          
+       
+    
+
+
+<link rel="stylesheet" Title="Default Styles" href="http://cdn.els-cdn.com/sd/css/css_results_page_sprite_v01_1704R5.css" type="text/css">
+<link rel="stylesheet" Title="Default Styles" href="http://cdn.els-cdn.com/sd/css/css_table_v01_1704R5.css" type="text/css">
+<link rel="stylesheet" Title="Default Styles" href="http://cdn.els-cdn.com/sd/css/css_pub_v01_1704R5.css" type="text/css">
+<link rel="stylesheet" Title="Default Styles" href="http://cdn.els-cdn.com/sd/css/commonSprite_1704R5.css" type="text/css">
+
+</head>
+
+<body>
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MSJL85"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MSJL85');</script>
+<!-- End Google Tag Manager -->
+
+
+<script language="javascript" type="text/javascript">
+<!--
+function submitTocList(prevNext){
+  var sv = document.getElementById('vectorNext').value;
+  document.Tag.nextVector.value= sv;
+  var pv = document.getElementById('vectorPrev').value;
+  document.Tag.prevVector.value= pv;
+  document.Tag.go.value= prevNext;
+  document.Tag.target="";
+  document.Tag.submit();
+}
+//-->
+</script>
+
+
+<script language="javascript" type="text/javascript">
+<!--
+    var pgPubReload=false;
+    $('body').on('click','a,li',function(e){
+        pgPubReload=true;
+        setTimeout(function(){pgPubReload=false;},1500);
+    });
+    $(document).ready(function(){
+	$('body').on('mouseover','.browseMain tbody tr', function(){
+		var imgObj=$(this).find('td img');
+		if(!pgPubReload && imgObj[0]){
+			imgObj.attr('data-src',imgObj.attr('src'));
+			imgObj.attr('src',$(this).attr('data-hoverimg'));
+		}
+	});
+	$('body').on('mouseout','.browseMain tbody tr', function(){
+		var imgObj=$(this).find('td img');
+		if(!pgPubReload  && imgObj[0])imgObj.attr('src',imgObj.attr('data-src'));
+	});
+	}); 
+//-->
+</script>
+
+<div id="pubPg">
+
+<div class="skipnav">
+    <a id="skipNavigation" title="Skip to Main content" href="#main_content">Skip to Main content</a>
+</div>
+
+
+
+<!-- ************* For A/B testing FAST and SOLR Proxy ***************** -->
+
+<!-- *************End for A/B testing FAST and SOLR Proxy *****************-->
+
+
+
+<div id="ieWarningMsg">
+    <span class="infoIcon_ie spErrorIcon">
+        Please note that Internet Explorer version 8.x will not be supported as of January 1, 2016. Please refer to <a href="http://blog.sciencedirect.com/posts/have-you-heard-spread-the-word-about-upgrading-your-browser"> this blog post</a> for more information.
+    </span>
+    <a class="closeBt" title="Close Internet Explorer 7 warning">Close</a>
+</div>
+
+
+
+  
+    <div class="adBlock" style="width:100%; padding:0.1em 0;text-align:center;" id="leaderboard" aria-label="advertisement" role="region">
+        
+    </div>
+  
+
+<div id="header">
+
+<div class="ccs-component">
+    <div class="header" role="banner"><div class="els-header"><noscript></noscript><div class="els-header-sub-nav-container"><div class="els-header-leftside"><div class="els-header-wordmark"><a href="/"><span aria-label="ScienceDirect" class="ccs-icon svg-wordmark-sciencedirect-orange els-main-title"><span class="svg-text">ScienceDirect</span></span></a></div></div><div class="els-header-sub-nav"><ul class="JournalsAndBooks els-header-navigation" role="navigation"><li class="els-header-navigation-section"><a id="ccs-journalsLink" class="link-inherit els-header-navigation-item els-selected-header-navigation-item" href="/science/journals">Journals</a></li><li class="els-header-navigation-section"><a id="ccs-journalsLink" class="link-inherit els-header-navigation-item " href="/science/bookbshsrw">Books</a></li><li class="els-header-navigation-section"><a class="link-inherit els-header-navigation-item " href="https://www.sciencedirect.com/user/register?returnURL=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Fjournal%2F00165107%2F85%2F6">Register</a></li></ul><ul class="els-header-icons"><li class="els-header-icons-item els-header-user"><a aria-controls="ccs-profilePopup" aria-expanded="false" id="ccs-profilePopupLink" title="" href="https://www.sciencedirect.com/user/login?returnURL=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Fjournal%2F00165107%2F85%2F6" class="link-inherit els-header-user-link"><span class="signIn_User"><span id="els-header-user-sign-in" class="els-header-user-sign-in">Sign in</span><span id="els-header-user-sign-in-icon" class="ccs-icon svg-sdfe-arrow-down els-header-user-icon-signin"></span></span></a><div class="SignInOut"><div class="ccs-signin-popup" role="dialog" id="ccs-profilePopup" aria-label="Sign in"><div class="ccs-signin-popup-body-border"><div class="ccs-signin-body ccs-signin-popup-body"><form id="ccs-header-sign-in-form" class="SignInForm ccs-signin-local" action="https://www.sciencedirect.com/science/MiamiLoginURL" method="POST"><input type="hidden" value="login" name="login"/><input type="hidden" value="MiamiLogonURL" name="_ob"/><input type="hidden" value="http://www.sciencedirect.com/science/journal/00165107/85/6" name="returnURL"/><input type="hidden" value="http://www.sciencedirect.com/science/journal/00165107/85/6" name="targetURL"/><input type="hidden" value="https://www.sciencedirect.com/science/MiamiLoginURL" name="invalidLoginURL"/><input type="hidden" value="pubhome_j" name="pageType"/><div><h3>Sign in using your ScienceDirect credentials</h3><div class="ccs-signin-form"><div><label class="ccs-signin-form-left">Username</label><span class="ccs-signin-form-right"><input class="ccs-signin-username" name="userid" id="ccs-signin-username-input" title="Please enter your username here" type="text"/></span></div><div><label class="ccs-signin-form-left">Password</label><span class="ccs-signin-form-right"><input class="ccs-signin-password" name="password" title="Please enter your password here" type="password"/></span></div><div><label class="ccs-signin-form-left"></label><span class="ccs-signin-form-right"><input class="" name="rememberid" value="Y" title="Checking this option will log you in automatically next time you visit ScienceDirect" type="checkbox" checked=""/><label>Remember me</label></span></div><div><label class="ccs-signin-form-left"></label><span class="ccs-signin-form-right"><input class="ccs-signin-submit" value="Sign in" title="Sign in to ScienceDirect" type="submit"/></span></div><div><label class="ccs-signin-form-left"></label><span class="ccs-signin-form-right"><a class="link-inherit" rel="nofollow" href="/science?_ob=ReminderURL&amp;_method=display&amp;md5=4a97631c25ac81c09ad2f961106e9da2" target="passwd" title="Click here for help in recovering your ScienceDirect access">Forgotten username or password?</a></span></div></div></div></form><div class="InstitutionalLogin ccs-signin-remote"><h3>Sign in via your institution</h3><ul class="ccs-signin-institution"><li class="ccs-signin-open-athens"><a class="link-inherit" rel="nofollow" href="https://auth.elsevier.com/ShibAuth/institutionLogin?entityID=https%3A%2F%2Fidp.eduserv.org.uk%2Fopenathens&amp;appReturnURL=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Fjournal%2F00165107%2F85%2F6" title="Log in using OpenAthens">OpenAthens</a></li><li class="ccs-signin-external"><a class="link-inherit" rel="nofollow" href="/science/externallogin" title="Other institution login">Other institution</a></li></ul></div></div></div></div></div></li><li class="Help els-header-icons-item"><a id="ccs-help-link" class="link-inherit els-header-help" href="/science?_ob=HelpURL&amp;_file=jnl_bk_homepage.htm&amp;_btn=Y" title="Help" target="_blank"><span aria-label="Help" class="ccs-icon svg-help"><span class="svg-text">Help</span></span></a></li></ul><div id="mobile-menu-parent"><div class="HamburgerButton" id="hamburger-button"><button id="ccs-mobileHamburgerButton" aria-controls="" aria-expanded="false" aria-label="Menu" class="link"><span class="svg-hamburger-closed"></span></button></div><div aria-label="Mobile menu" class="MobileMenu" id="mobile-menu"><div class="mobile-menu-container" id="mobile-menu-container"><div class="mobilemenu-content"><div><div class="primary-mobile-menu"><ul class="JournalsAndBooks els-header-navigation" role="navigation"><li class="els-header-navigation-section"><a id="mobileccs-journalsLink" class="link-inherit els-header-navigation-item els-selected-header-navigation-item" href="/science/journals">Journals</a></li><li class="els-header-navigation-section"><a id="mobileccs-journalsLink" class="link-inherit els-header-navigation-item " href="/science/bookbshsrw">Books</a></li><li class="els-header-navigation-section"><a class="link-inherit els-header-navigation-item " href="https://www.sciencedirect.com/user/register?returnURL=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Fjournal%2F00165107%2F85%2F6">Register</a></li></ul></div><div class="secondary-mobile-menu"><li class="els-header-icons-item els-header-user"><a href="https://www.sciencedirect.com/user/login?returnURL=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Fjournal%2F00165107%2F85%2F6" aria-controls="mobileccs-profilePopup" aria-expanded="false" id="mobileccs-ProfilePopupLink" class="link-inherit els-header-user-link"><span class="signIn_User"><span id="els-header-user-sign-in" class="els-header-user-sign-in">Sign in</span><span id="els-header-user-sign-in-icon" class="ccs-icon svg-sdfe-arrow-down els-header-user-icon-signin"></span></span></a></li><li class="Help els-header-icons-item"><a id="mobileccs-help-link" class="link-inherit els-header-help" href="/science?_ob=HelpURL&amp;_file=jnl_bk_homepage.htm&amp;_btn=Y" title="Help" target="_blank"><span aria-label="Help" class="ccs-icon svg-help"><span class="svg-text">Help</span></span></a></li></div></div></div></div></div></div><div class="SignInOut"><div class="ccs-signin-popup ccs-mobile-signin-popup" role="dialog" id="mobileccs-profilePopup" aria-label="Sign in"><div class="ccs-signin-popup-body-border"><div class="ccs-signin-body ccs-signin-popup-body"><form id="ccs-header-sign-in-form" class="SignInForm ccs-signin-local" action="https://www.sciencedirect.com/science/MiamiLoginURL" method="POST"><div class="ccs-sign-in-close"><a href="#" class="ccs-icon svg-delete link-inherit" id="ccs-closeSignInPopup" aria-label="Close sign in popup" aria-controls="mobileccs-profilePopup" role="button" title="Close"><span class="svg-text">close</span></a></div><input type="hidden" value="login" name="login"/><input type="hidden" value="MiamiLogonURL" name="_ob"/><input type="hidden" value="http://www.sciencedirect.com/science/journal/00165107/85/6" name="returnURL"/><input type="hidden" value="http://www.sciencedirect.com/science/journal/00165107/85/6" name="targetURL"/><input type="hidden" value="https://www.sciencedirect.com/science/MiamiLoginURL" name="invalidLoginURL"/><input type="hidden" value="pubhome_j" name="pageType"/><div><h3>Sign in using your ScienceDirect credentials</h3><div class="ccs-signin-form"><div><label class="ccs-signin-form-left">Username</label><span class="ccs-signin-form-right"><input class="ccs-signin-username" name="userid" id="mobileccs-signin-username-input" title="Please enter your username here" type="text"/></span></div><div><label class="ccs-signin-form-left">Password</label><span class="ccs-signin-form-right"><input class="ccs-signin-password" name="password" title="Please enter your password here" type="password"/></span></div><div><label class="ccs-signin-form-left"></label><span class="ccs-signin-form-right"><input class="" name="rememberid" value="Y" title="Checking this option will log you in automatically next time you visit ScienceDirect" type="checkbox" checked=""/><label>Remember me</label></span></div><div><label class="ccs-signin-form-left"></label><span class="ccs-signin-form-right"><input class="ccs-signin-submit" value="Sign in" title="Sign in to ScienceDirect" type="submit"/></span></div><div><label class="ccs-signin-form-left"></label><span class="ccs-signin-form-right"><a class="link-inherit" rel="nofollow" href="/science?_ob=ReminderURL&amp;_method=display&amp;md5=4a97631c25ac81c09ad2f961106e9da2" target="passwd" title="Click here for help in recovering your ScienceDirect access">Forgotten username or password?</a></span></div></div></div></form><div class="InstitutionalLogin ccs-signin-remote"><h3>Sign in via your institution</h3><ul class="ccs-signin-institution"><li class="ccs-signin-open-athens"><a class="link-inherit" rel="nofollow" href="https://auth.elsevier.com/ShibAuth/institutionLogin?entityID=https%3A%2F%2Fidp.eduserv.org.uk%2Fopenathens&amp;appReturnURL=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Fjournal%2F00165107%2F85%2F6" title="Log in using OpenAthens">OpenAthens</a></li><li class="ccs-signin-external"><a class="link-inherit" rel="nofollow" href="/science/externallogin" title="Other institution login">Other institution</a></li></ul></div></div></div></div></div></div></div></div></div> 
+    
+</div> 
+
+
+  
+    <div class="quicksearch">
+        <a name="Skip Buttons"></a><div class="extSearch" aria-label="Quick Search" role="search" >
+
+<form id="quickSearch" name="qkSrch" method="get" target="_top" action="/science">
+    <div>
+        <input type="hidden" name="_ob" value="QuickSearchURL">
+        <input type="hidden" name="_method" value="submitForm">
+        <input type="hidden" name="_acct" value="C000228598">
+        <input type="hidden" name="searchtype" value="a">
+        <input type="hidden" name="_origin" value="journal">
+        <input type="hidden" name="_zone" value="qSearch">
+        <input type="hidden" name="md5" value="8a07ed6851dd3690819a55769f7f2e65">
+        <input type="hidden" name="qs_cid" value="273305">
+        <input class="all" placeholder="Search all fields" aria-label="Search all fields" type="text" name="qs_all" id="qs_all" value="" size="34" maxlength="450" title="Search all fields">
+        <input class="author" placeholder="Author name" aria-label="Author name" type="text" name="qs_author" id="qs_author" value="" size="13" maxlength="450" title="e.g. J S Smith or John Smith or Smith JS" style="_width:100%">
+        <input class="srctitle" placeholder="Journal or book title" aria-label="Journal or book title"  type="text" id="qs_title" name="qs_title" value="--This Journal/Book--" size="13" maxlength="450" title="For example: journal of molecular biology">
+        <input class="volumelist" placeholder="Volume" aria-label="Volume"  type="text" name="qs_vol" id="qs_vol" value="" size="2" maxlength="10">
+        <input class="issuelist" placeholder="Issue" aria-label="Issue" type="text" name="qs_issue" id="qs_issue" value="" size="2" maxlength="10">
+        <input class="pages" placeholder="Page" aria-label="Page" type="text" name="qs_pages" id="qs_pages" value="" size="2" maxlength="10" title="For example: 14-27">
+        <input class="button" id="submit_search" type="Submit" alt="Submit Quick Search" value="" title="Submit Quick Search" name="sdSearch">
+        
+        <a class="advanced" href="http://www.sciencedirect.com/science/search" >Advanced search</a>
+    </div>
+</form>
+
+</div>
+
+
+
+<script>autoCompleteInit('/'+'science'+ '/jfind/auto');</script>
+
+
+    </div>
+  
+
+</div><!--header-->
+
+
+ 
+
+     
+     
+
+<a tabindex="-1" name="main_content" id="main_content"></a>
+
+<div id="sdHeader" class="outerWrapper">
+  <div class="sdContent">
+    
+    
+    
+
+
+
+
+
+
+
+    <div id="spriteFlag" data-sprite="true">&nbsp;</div>
+    <div class="pubFontBox" aria-label="Science Direct" role="Main">
+
+        
+        
+
+        
+        <!-- Common to journal and refwork title and related information -->
+
+<div id="main_content" class="publication_head">
+    <div class="publication serialPublication">
+        
+        <div class="coverImageDiv"><img src="http://ars.els-cdn.com/content/image/1-s2.0-S0016510717X00060-cov150h.gif" border="1" class="cover" alt="Cover image Gastrointestinal Endoscopy"></div>
+        
+        
+        
+        
+        <div class="info">
+            
+            
+            <span class="pubTitle" style="margin:0px;">
+                <h1>Gastrointestinal Endoscopy</h1>
+                
+            </span>
+            
+            
+            <ul class="about navigation" role="navigation">
+                
+                
+                
+                
+                    <li><span title="This publication supports Open Access"><span>Supports </span><span class="txtOrange">Open Access</span></span></li>
+                
+                
+                    <li><a class="cExLink" href="http://www.elsevier.com/locate/issn/00165107" data-url = "science/RedirectURL?_method=gejLink&_linkType=general&_cdi=273305&_issn=00165107&_targetURL=http://www.elsevier.com/locate/issn/00165107" target="pubWindow" title="About this Journal, e.g. Description; Editorial Board; Ordering Information; Dispatch Dates -where applicable- (Opens new window)" >About this Journal</a></li>
+                
+                
+                  
+                    <li><a href="http://www.sciencedirect.com/science/journal/00165107/85/1" title="Sample Issue Online">Sample Issue Online</a></li>
+                  
+                
+                
+                    <li><a class ="cExLink" href="http://ees.elsevier.com/issn/00165107" data-url="/science/RedirectURL?_method=authServLink&_cdi=273305&_issn=00165107&_targetURL=http://ees.elsevier.com/issn/00165107" target="pubWindow" title="Submit your Article (Opens new window)" >Submit your Article</a></li>
+                
+                
+                
+                
+                    <li><a href="http://www.asge.org/" target="pubWindow" title="The American Society for Gastrointestinal Endoscopy (Opens new window)" >The American Society for Gastrointestinal Endoscopy</a></li>
+                
+            </ul>
+            
+             
+            
+            
+              
+            
+            <ul class="feeds" aria-label="Rss and alert" role="navigation">
+                
+
+
+    
+    <li width="140px" align="left" valign="top" id="newFeedPub">
+        <a class="rssCiteIconPubHome" title="Gastrointestinal Endoscopy RSS article feed" href="/science?_ob=RSSURL&_method=setup&_cid=273305&md5=5c2ba1e0ea849130cb3070cc3eef4a59" target="_blank" onClick="openNS('/science?_ob=RSSURL&_method=setup&_cid=273305&md5=5c2ba1e0ea849130cb3070cc3eef4a59', 700, 500); return false;"  > <span class="rssCiteTextPubHome">Get new article feed</span></a>
+    </li>
+    
+    
+    <li width="140px" align="left" valign="top" id="newFeedPub">
+		<a class="rssCiteIconPubHome" title="Gastrointestinal Endoscopy Open Access article feed" href="/science?_ob=RSSURL&_method=setup&oa=1&_cid=273305&md5=5c2ba1e0ea849130cb3070cc3eef4a59" target="_blank" onClick="openNS('/science?_ob=RSSURL&_method=setup&oa=1&_cid=273305&md5=5c2ba1e0ea849130cb3070cc3eef4a59', 700, 500); return false;" > <span class="rssCiteTextPubHome">Get new <span class="txtOrange">Open Access </span>article feed</span></a>
+    </li>
+     
+
+
+
+  <li>
+    <div id="alertLink" style="display:none;">
+      <a class="citeAlertIconPubHome_sci_dir" href>
+        <span class="citeAlertTextPubHome"></span>
+      </a>
+    </div>
+  </li>
+
+
+<li id="rsltInd" style="display:none;margin-bottom:15px;">
+  <div class="imgIcon"><h3><img src="http://cdn.els-cdn.com/sd/errorIcon.gif" alt="Failure" title="Failure"></h3></div>
+  <div class="confirmMsgText">Your selection(s) could not be saved due to an internal error. Please try again.</div>
+</li>
+
+
+  
+
+
+
+  
+    
+      <li>
+        <div id="favoriteOn" style="display:none;">
+          
+            <span class="favIcon_sci_dir" title="Added to Favorites">
+              <span class="favText">Added to Favorites [</span><a class="favText" href="/science?_ob=PublicationURL&addFavorite=2&_cid=273305&_pubType=J&_auth=y&md5=e11f26bc7cf39f8b2ac1428a8c7e46bc" >remove</a><span class="favText">]</span>
+            </span>
+          
+        </div>
+        <div id="favoriteOff" style="display:inline;">
+          <a class="favIcon_sci_dir" href="/science?_ob=PublicationURL&addFavorite=2&_cid=273305&_pubType=J&_auth=y&md5=e11f26bc7cf39f8b2ac1428a8c7e46bc" 
+             >
+            
+              <span class="favText">
+                
+                
+                Add to Favorites 
+              </span>
+            
+          </a>
+        </div>
+      </li>
+    
+  
+
+  
+
+
+
+            </ul>
+            
+                <p class="copyright">Copyright © 2017 The American Society for Gastrointestinal Endoscopy. All rights reserved</p>
+            
+        </div>
+        
+    </div>
+</div>
+
+
+        
+        
+
+        
+        <noscript>
+        	<div class="msgBox" style="margin:10px 0 0 227px;width:595px;">
+        	<span class="errMsg" style="color:#000;">
+        	<img  class='warningIcon' title="Warning Icon" alt="Warning Icon" src="http://cdn.els-cdn.com/sd/img/sprite_parts/warning_a.gif" style="float:left;margin-right:5px;"/>
+            <div>JavaScript is disabled on your browser.  Please enable JavaScript to use all the features on this page.</div>
+        	</span>
+            </div>
+        </noscript>
+
+        <div id="bodyAllResults" class="cbodyAllResults">
+            <div id="issueDisplayData">
+                
+                
+                
+                
+                
+            </div>
+            <div id="bodyResults" class="mainResults journal">
+                
+                <div class="volumeHeader skyScraper">
+                    
+                   
+                    <h2 >Gastrointestinal Endoscopy<br>Volume 85, Issue 6, Pages A1-A24, 1117-1312 (June 2017)</h2>
+                    
+                    &nbsp;
+                </div>
+                
+
+                
+                    <div class="adBlock" id="skyscraper" style="float:right;width:160px;" aria-label="advertisement" role="region"></div>
+                
+                
+                                <div id="volumeIssueData" aria-label="Volume Issue" role="Navigation">
+                    
+                      <ul class="navigation">
+                      
+                        <li>
+                        
+                            <a title="Previous volume/issue" class="ActionButton" href="/science/journal/00165107/85/5">&lt; Previous vol/iss</a>
+                        
+                        </li>
+                        <li>
+                        
+                            <a title="Next volume/issue" class="ActionButton" href="/science/journal/aip/00165107">Next vol/iss &gt;</a>
+                        
+                        </li>
+                      
+                      </ul>
+                    
+                    <ol>
+                        <li><a href="/science/journal/aip/00165107"><span class="txtBold">Articles in Press</span></a></li><li><a class = "cLink" querystr="?_zone=volIssueHeader&_origin=browse" href="/science/journal/00165107/open-access"><span class="txtBold">  Open Access articles</span></a></li><li><A name="85"></A><A HREF="/science/journal/00165107/85" class="cLink volLink" queryStr="?_cHubEid=1-s2.0-S0016510717X00060" alt="Collapse Volume 85 2015" title="Collapse Volume 85 2015" aria-expanded="true" ><span class="srcPartOpened" title="Close">&nbsp;</span><span class="offscreen">Close</span>Volumes 81 - 85 (2015 - 2017)</A><ol><li class="selected"><div class="txt currentVolumes"><span aria-selected="true" style="color: #0156aa; font-weight: bold">Volume 85, Issue 6</span><span class="txtHidden"> - selected</span><br>pp. A1-A24, 1117-1312 (June 2017)</div><div class="accessIconBlk"><span class="dunsub_openaccess_sci_dir " title="Issue contains Open Access articles" alt="Issue contains Open Access articles">&nbsp;<span class="offscreen">Issue contains Open Access articles</span></span></div></li><li><div class="txt currentVolumes"><A HREF="/science/journal/00165107/85/5">Volume 85, Issue 5</A><br>pp. A1-A24, 873-1116 (May 2017)</div><div class="accessIconBlk"><span class="dunsub_openaccess_sci_dir " title="Issue contains Open Access articles" alt="Issue contains Open Access articles">&nbsp;<span class="offscreen">Issue contains Open Access articles</span></span></div></li><li><div class="txt currentVolumes"><A HREF="/science/journal/00165107/85/5/supp/S">Volume 85, Issue 5, Supplement</A><br>pp. AB1-AB704 (May 2017)<br><small>DDW 2017 ASGE Program and Abstracts, DDW 2017 ASGE Program and Abstracts</small></div><div class="accessIconBlk"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></div></li><li><div class="txt currentVolumes"><A HREF="/science/journal/00165107/85/4">Volume 85, Issue 4</A><br>pp. A1-A20, 693-872 (April 2017)</div><div class="accessIconBlk"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></div></li><li><div class="txt currentVolumes"><A HREF="/science/journal/00165107/85/3">Volume 85, Issue 3</A><br>pp. A1-A20, 465-692 (March 2017)</div><div class="accessIconBlk"><span class="dunsub_openaccess_sci_dir " title="Issue contains Open Access articles" alt="Issue contains Open Access articles">&nbsp;<span class="offscreen">Issue contains Open Access articles</span></span></div></li><li><div class="txt currentVolumes"><A HREF="/science/journal/00165107/85/2">Volume 85, Issue 2</A><br>pp. A1-A28, 273-464 (February 2017)</div><div class="accessIconBlk"><span class="dunsub_openaccess_sci_dir " title="Issue contains Open Access articles" alt="Issue contains Open Access articles">&nbsp;<span class="offscreen">Issue contains Open Access articles</span></span></div></li><li><div class="txt currentVolumes"><A HREF="/science/journal/00165107/85/1">Volume 85, Issue 1</A><br>pp. A1-A22, 1-272 (January 2017)</div><div class="accessIconBlk"><span class="dsub_openaccess_sci_dir " title="Issue contains Open Access articles" alt="Issue contains Open Access articles">&nbsp;<span class="offscreen">Issue contains Open Access articles</span></span></div></li><li><div class="txt currentVolumes"><A HREF="/science/journal/00165107/84/6">Volume 84, Issue 6</A><br>pp. A1-A20, 885-1080 (December 2016)</div><div class="accessIconBlk"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></div></li><li><div class="txt currentVolumes"><A HREF="/science/journal/00165107/84/5">Volume 84, Issue 5</A><br>pp. A1-A20, 757-884 (November 2016)</div><div class="accessIconBlk"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></div></li><li><div class="txt currentVolumes"><A HREF="/science/journal/00165107/84/4">Volume 84, Issue 4</A><br>pp. A1-A20, 553-756 (October 2016)</div><div class="accessIconBlk"><span class="dunsub_openaccess_sci_dir " title="Issue contains Open Access articles" alt="Issue contains Open Access articles">&nbsp;<span class="offscreen">Issue contains Open Access articles</span></span></div></li><li><div class="txt currentVolumes"><A HREF="/science/journal/00165107/84/3">Volume 84, Issue 3</A><br>pp. A1-A24, 385-552 (September 2016)</div><div class="accessIconBlk"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></div></li><li><div class="txt currentVolumes"><A HREF="/science/journal/00165107/84/2">Volume 84, Issue 2</A><br>pp. A1-A24, 209-384 (August 2016)</div><div class="accessIconBlk"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></div></li><li><div class="txt currentVolumes"><A HREF="/science/journal/00165107/84/1">Volume 84, Issue 1</A><br>pp. A1-A24, 1-208 (July 2016)</div><div class="accessIconBlk"><span class="dunsub_openaccess_sci_dir " title="Issue contains Open Access articles" alt="Issue contains Open Access articles">&nbsp;<span class="offscreen">Issue contains Open Access articles</span></span></div></li><li><div class="txt currentVolumes"><A HREF="/science/journal/00165107/83/6">Volume 83, Issue 6</A><br>pp. A1-A22, 1051-1308 (June 2016)</div><div class="accessIconBlk"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></div></li><li><div class="txt currentVolumes"><A HREF="/science/journal/00165107/83/5">Volume 83, Issue 5</A><br>pp. A1-A30, 857-1050 (May 2016)</div><div class="accessIconBlk"><span class="dunsub_openaccess_sci_dir " title="Issue contains Open Access articles" alt="Issue contains Open Access articles">&nbsp;<span class="offscreen">Issue contains Open Access articles</span></span></div></li><li><div class="txt currentVolumes"><A HREF="/science/journal/00165107/83/5/supp/S">Volume 83, Issue 5, Supplement</A><br>pp. AB1-AB694 (May 2016)<br><small>2016 DDW ASGE Program and Abstracts, DDW 2016 ASGE Program and Abstracts</small></div><div class="accessIconBlk"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></div></li><li><div class="txt currentVolumes"><A HREF="/science/journal/00165107/83/4">Volume 83, Issue 4</A><br>pp. A1-A30, 679-856 (April 2016)</div><div class="accessIconBlk"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></div></li><li><div class="txt currentVolumes"><A HREF="/science/journal/00165107/83/3">Volume 83, Issue 3</A><br>pp. A1-A26, 481-678 (March 2016)</div><div class="accessIconBlk"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></div></li><li><div class="txt currentVolumes"><A HREF="/science/journal/00165107/83/2">Volume 83, Issue 2</A><br>pp. A1-A30, 279-480 (February 2016)</div><div class="accessIconBlk"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></div></li><li><div class="txt currentVolumes"><A HREF="/science/journal/00165107/83/1">Volume 83, Issue 1</A><br>pp. A1-A30, 1-278 (January 2016)</div><div class="accessIconBlk"><span class="dunsub_openaccess_sci_dir " title="Issue contains Open Access articles" alt="Issue contains Open Access articles">&nbsp;<span class="offscreen">Issue contains Open Access articles</span></span></div></li><li><div class="txt currentVolumes"><A HREF="/science/journal/00165107/82/6">Volume 82, Issue 6</A><br>pp. A1-A22, 975-1170 (December 2015)</div><div class="accessIconBlk"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></div></li><li><div class="txt currentVolumes"><A HREF="/science/journal/00165107/82/5">Volume 82, Issue 5</A><br>pp. A1-A24, 767-974 (November 2015)</div><div class="accessIconBlk"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></div></li><li><div class="txt currentVolumes"><A HREF="/science/journal/00165107/82/4">Volume 82, Issue 4</A><br>pp. A1-A26, 593-766 (October 2015)</div><div class="accessIconBlk"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></div></li><li><div class="txt currentVolumes"><A HREF="/science/journal/00165107/82/3">Volume 82, Issue 3</A><br>pp. A1-A24, 425-592 (September 2015)</div><div class="accessIconBlk"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></div></li><li><div class="txt currentVolumes"><A HREF="/science/journal/00165107/82/2">Volume 82, Issue 2</A><br>pp. A1-A28, 189-424 (August 2015)</div><div class="accessIconBlk"><span class="dunsub_openaccess_sci_dir " title="Issue contains Open Access articles" alt="Issue contains Open Access articles">&nbsp;<span class="offscreen">Issue contains Open Access articles</span></span></div></li><li><div class="txt currentVolumes"><A HREF="/science/journal/00165107/82/1">Volume 82, Issue 1</A><br>pp. A1-A28, 1-188 (July 2015)</div><div class="accessIconBlk"><span class="dunsub_openaccess_sci_dir " title="Issue contains Open Access articles" alt="Issue contains Open Access articles">&nbsp;<span class="offscreen">Issue contains Open Access articles</span></span></div></li><li><div class="txt currentVolumes"><A HREF="/science/journal/00165107/81/6">Volume 81, Issue 6</A><br>pp. A1-A28, 1305-1540 (June 2015)</div><div class="accessIconBlk"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></div></li><li><div class="txt currentVolumes"><A HREF="/science/journal/00165107/81/5">Volume 81, Issue 5</A><br>pp. A1-A22, 1063-1304 (May 2015)</div><div class="accessIconBlk"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></div></li><li><div class="txt currentVolumes"><A HREF="/science/journal/00165107/81/5/supp/S">Volume 81, Issue 5, Supplement</A><br>pp. AB1-AB630 (May 2015)<br><small>DDW 2015 ASGE Program and Abstracts, DDW 2015 ASGE Program and Abstracts</small></div><div class="accessIconBlk"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></div></li><li><div class="txt currentVolumes"><A HREF="/science/journal/00165107/81/4">Volume 81, Issue 4</A><br>pp. A1-A22, 781-1062 (April 2015)</div><div class="accessIconBlk"><span class="dunsub_openaccess_sci_dir " title="Issue contains Open Access articles" alt="Issue contains Open Access articles">&nbsp;<span class="offscreen">Issue contains Open Access articles</span></span></div></li><li><div class="txt currentVolumes"><A HREF="/science/journal/00165107/81/3">Volume 81, Issue 3</A><br>pp. A1-A24, 489-780 (March 2015)</div><div class="accessIconBlk"><span class="dunsub_openaccess_sci_dir " title="Issue contains Open Access articles" alt="Issue contains Open Access articles">&nbsp;<span class="offscreen">Issue contains Open Access articles</span></span></div></li><li><div class="txt currentVolumes"><A HREF="/science/journal/00165107/81/2">Volume 81, Issue 2</A><br>pp. A1-A24, 249-488 (February 2015)</div><div class="accessIconBlk"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></div></li><li><div class="txt currentVolumes"><A HREF="/science/journal/00165107/81/1">Volume 81, Issue 1</A><br>pp. A1-A32, 1-248 (January 2015)</div><div class="accessIconBlk"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></div></li></ol></li><li><A HREF="/science/journal/00165107/80" alt="Expand Volume 80 2010" title="Expand Volume 80 2010" aria-expanded="false" class="volLink"><span class="srcPartClosed" title="Open">&nbsp;</span><span class="offscreen">Open</span>Volumes 71 - 80 (2010 - 2014)</A></li><li><A HREF="/science/journal/00165107/70" alt="Expand Volume 70 2005" title="Expand Volume 70 2005" aria-expanded="false" class="volLink"><span class="srcPartClosed" title="Open">&nbsp;</span><span class="offscreen">Open</span>Volumes 61 - 70 (2005 - 2009)</A></li><li><A HREF="/science/journal/00165107/60" alt="Expand Volume 60 2000" title="Expand Volume 60 2000" aria-expanded="false" class="volLink"><span class="srcPartClosed" title="Open">&nbsp;</span><span class="offscreen">Open</span>Volumes 51 - 60 (2000 - 2004)</A></li><li><A HREF="/science/journal/00165107/50" alt="Expand Volume 50 1995" title="Expand Volume 50 1995" aria-expanded="false" class="volLink"><span class="srcPartClosed" title="Open">&nbsp;</span><span class="offscreen">Open</span>Volumes 41 - 50 (1995 - 1999)</A></li><li><A HREF="/science/journal/00165107/40" alt="Expand Volume 40 1985" title="Expand Volume 40 1985" aria-expanded="false" class="volLink"><span class="srcPartClosed" title="Open">&nbsp;</span><span class="offscreen">Open</span>Volumes 31 - 40 (1985 - 1994)</A></li><li><A HREF="/science/journal/00165107/30" alt="Expand Volume 30 1974" title="Expand Volume 30 1974" aria-expanded="false" class="volLink"><span class="srcPartClosed" title="Open">&nbsp;</span><span class="offscreen">Open</span>Volumes 21 - 30 (1974 - 1984)</A></li><li><A HREF="/science/journal/00165107/20" alt="Expand Volume 20 1971" title="Expand Volume 20 1971" aria-expanded="false" class="volLink"><span class="srcPartClosed" title="Open">&nbsp;</span><span class="offscreen">Open</span>Volumes 18 - 20 (1971 - 1974)</A></li>
+                    </ol>
+                    <script>prs.rt("pcr_nav");</script>
+                
+                </div> <!-- volumeIssueData -->
+                 
+
+  
+                
+                    
+                    
+                    <div id="issueList" class="skyScraper">
+                      <div class="resultList">
+                        
+    <form  method="get" name="Tag" action="/science" target="">
+      <input type="hidden" name="_ob" value="PublicationURL">
+      <input type="hidden" name="_method" value="list">
+      <input type="hidden" name="_hubEid" value="1-s2.0-S0016510717X00060">
+      <input type="hidden" name="_auth" value="y">
+      <input type="hidden" name="_version" value="1">
+      <input type="hidden" name="refSource" value="toc">
+      <input type="hidden" name="_pubType" value="J">
+      
+      
+        <input type="hidden" name="PDF_DDM_MAX" value="25">
+      
+      
+        <input type="hidden" name="_cid" value="273305">
+      
+      
+      
+      <input type="hidden" name="md5" value="9d53e0e0b11441705244ce9f8de5f9b8">
+
+      
+        <input type="hidden" name="chunk" value="0">
+      
+      
+        <input type="hidden" name="view" value="c">
+      
+       
+      
+      
+      
+            
+      
+      
+      <input type="hidden" name="go" value="">
+      <input type="hidden" name="nextVector" value="">
+      <input type="hidden" name="prevVector" value="">
+      
+      
+          <input type="hidden" name="chunkSize" value="100">
+      
+      
+          <input type="hidden" name="hitCount" value="45">
+       
+    
+        <input type="hidden" name="count" value="45"><div id="issueListHeader" class="pubBody"><div class="arrowBlock"><span class="arrowIcon" title="Download or Export 0 selected results." alt="Download or Export 0 selected results."><span class="offscreen">Download and Export 0 checked results</span>&nbsp;</span></div><ul aria-label="Download or Export 0 selected results" role="region"><img src="http://cdn.els-cdn.com/sd/clear.gif" alt="" height="1"><li><input id="purchaseBtnSprite" value="Purchase" name="purchase" class="listAction" type="submit" onclick="return ensureChkBoxSelected(this.form);"/></li><li><input type="hidden" name="hubEID" value=""><div class="pulldown"> <div class= "exportDivision" title="Export citations" alt="Export citations"><input id="exportIcon_sci_dir" value="Export" name="export" class="listAction export export_general initialImage" type="button" title="Export citations"> <a role="button" href="javascript:;" title="Export citations" alt="Export citations" class="dropdownArrow" aria-expanded="false" aria-controls="export_popup"><span class=" exportArrow down_sci_dir">Export citations</span></a> <input class='zone' name='zone' type='hidden' value='exportDropDown'/> </div><div class="menu hidden export_popup" id="export_popup"><img class='warningIcon' title="Warning Icon" alt="Warning Icon" src="http://cdn.els-cdn.com/sd/img/sprite_parts/warning_a.gif"/><div class='exportInfo'><div class='chkboxCount'></div><div class='exportHelp'><a target='sdhelp' title='Help (Opens new window)' href='/science?_ob=HelpURL&_file=art_export.htm&_btn=Y&_zone=TopNavBar&_origin=journal' onclick='var helpWin;helpWin=window.open('/science?_ob=HelpURL&_file=art_export.htm&_btn=Y&_zone=TopNavBar&_origin=journal', 'sdhelp', 'scrollbars=yes,resizable=yes,directories=no,toolbar=no,menubar=no,status=no,width=984,height=738'); helpWin.focus(); return false;' title='Help (Opens new window)'>Help</a></td></div></div><div class="expContainer"><ul class="Export_Popup"><li class='subHeading'><h3>Direct export </h3></li><li class='direct_export'><div class="downBtn export_downBtn"><div><div class='btn_export directExport'><div class='icon_Mendeley' title='Save to Mendeley'>&nbsp;</div><input id="directExport" type="button" value="Save to Mendeley" name="Save to Mendeley" alt="Save to Mendeley" class="mendeleyBT button"/></div></div><div class='btnLine'><div class='btn_export refworks'><div class='icon_Refworks' title='Save to Refworks'>&nbsp;</div><input id='REFWX' type='button' value='Save to RefWorks' name='Save to RefWorks' alt='Save to RefWorks' class='mendeleyBT button refworks'/></div></div><div class='clear'></div></div></li><li class="subHeading big"><h3>Export file</h3></li><li class="export_radio"><input type="radio" id="RIS" name="citation-type" checked value="RIS" {if var=RIS}checked{/if} class="artRadio expRadio RIS">&nbsp;<label for="RIS">RIS (for EndNote, Reference Manager, ProCite)</label></li><li class="export_radio"><input type="radio" id="BIBTEX" name="citation-type" value="BIBTEX" {if var=BIBTEX}checked{/if} class="artRadio expRadio BIBTEX">&nbsp;<label for="BIBTEX">BibTeX</label></li><li class="export_radio"><input type="radio" id="ASCII" name="citation-type" value="ASCII" {if var=ASCII}checked{/if} class="artRadio expRadio ASCII">&nbsp;<label for="ASCII">Text</label></li><li class='export_radio hidden'><input type='radio' id='REFWX' name='citation-type' value='REFWX' {if var=REFWX}checked{/if} class='artRadio expRadio REFWX'>&nbsp;<label for='REFWX'>RefWorks Direct Export</label></li><li class="subHeading big"><h3>Content</h3></li><li class='expCitab export_radio'><input type='radio' id='cite' name='format' value='cite' {if var=cite}checked{/if} class='artRadio expRadio'>&nbsp;<label class='cit' for='cite'>Citations Only</label></li><li class='expCitab export_radio'><input type='radio' id='cite-abs' name='format' value='cite-abs'checked class='artRadio expRadio'>&nbsp;<label class ='cab' for='cite-abs'>Citations and Abstracts</label></li><li class="export_submit"><div class="downBtn export_downBtn" style=""><input type="submit" value="Export" name="export" alt="Export" id = "export_button" class="button export_button"/></div></li></ul></div></div><br></li></ul><div aria-label="Filter by access" role="region" class="sortFilterContainer"><div class="pulldown right"><a aria-controls="content_type_menu" aria-expanded="false" aria-haspopup="true" class="button" href="#" role="button"><span class="icon filter_a"> </span> <span id="selectedOption">&nbsp; All access types &nbsp;</span><span class="icon arrow-down"> </span></a><div aria-activedescendant="access_JL" aria-label="Filter by content type" class="menu hidden filterMenu" id="content_type_menu" role="menu"><ul><li class="filterEnabled " aria-disabled=" "><a class="menuitem itemSelected" href="/science/journal/00165107/85/6" aria-expanded="false"> All access types </a></li><li class="filterEnabled" aria-disabled=" "><a class="menuitem cLink" queryStr="?_cHubEid=1-s2.0-S0016510717X00060" href="/science/journal/00165107/85/6/open-access" aria-expanded="false"> Open Access articles</a></li><li class="filterDisabled" aria-disabled="">Open Archive articles</li></ul></div></div></div></div><div class="pubBody"><div aria-label="Articles" role="region"><div id="bodyMainResults" class='bookResultsExp ' role='region' aria-label='Search Results' ><ol class="articleList results"><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S0016510717318345" aria-labelledby="title_S0016510717318345" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S0016510717318345" href="http://www.sciencedirect.com/science/article/pii/S0016510717318345" class="cLink artTitle S_C_artTitle " data-docsubtype="con" queryStr="?_rdoc=1&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S0016510717X00060)&_docanchor=&_ct=45&md5=2d41cc6f839ff8bdf31bcee842cc500a">Contents</a></h4></li><li class="source "><i>Pages A2, A4, A6</i></li><li class="authors "></li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a class="cLink" rel="nofollow" aria-describedby="title_S0016510717318345" href="/science/article/pii/S0016510717318345/pdfft?md5=3684aebda7b3fcadaf3274272599e2f5&pid=1-s2.0-S0016510717318345-main.pdf" queryStr="?_origin=PublicationURL&_zone=rslt_list_item" target="_blank"><span class="pdfIconSmall">&nbsp;</span>PDF (237 K)</a></li>
+</ul><div  id="abs_S0016510717318345" class="previewBox abstract hidden"></div><div  id="rabs_S0016510717318345" class="previewBox rabstract hidden"></div><div  id="gabs_S0016510717318345" class="previewBox gabstract hidden"></div></div></li><li class="accessBlock colLast"><span class="dsub_article_sci_dir sci_dir" title="Entitled to full text" alt="Entitled to full text">&nbsp;<span class="offscreen">Entitled to full text</span></span></li></ul></li><div id="resultsView_1" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S0016510717318357" aria-labelledby="title_S0016510717318357" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S0016510717318357" href="http://www.sciencedirect.com/science/article/pii/S0016510717318357" class="cLink artTitle S_C_artTitle prelim " data-docsubtype="edb" queryStr="?_rdoc=2&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S0016510717X00060)&_docanchor=&_ct=45&md5=1a930183fd124600c25cea95532752f3">Editors</a></h4></li><li class="source "><i>Pages A9-A10</i></li><li class="authors "></li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a class="cLink" rel="nofollow" aria-describedby="title_S0016510717318357" href="/science/article/pii/S0016510717318357/pdfft?md5=6e68069f447a7f86310af1d1ab511521&pid=1-s2.0-S0016510717318357-main.pdf" queryStr="?_origin=PublicationURL&_zone=rslt_list_item" target="_blank"><span class="pdfIconSmall">&nbsp;</span>PDF (163 K)</a></li>
+</ul><div  id="abs_S0016510717318357" class="previewBox abstract hidden"></div><div  id="rabs_S0016510717318357" class="previewBox rabstract hidden"></div><div  id="gabs_S0016510717318357" class="previewBox gabstract hidden"></div></div></li><li class="accessBlock colLast"><span class="dsub_article_sci_dir sci_dir" title="Entitled to full text" alt="Entitled to full text">&nbsp;<span class="offscreen">Entitled to full text</span></span></li></ul></li><div id="resultsView_2" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S0016510717318370" aria-labelledby="title_S0016510717318370" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S0016510717318370" href="http://www.sciencedirect.com/science/article/pii/S0016510717318370" class="cLink artTitle S_C_artTitle " data-docsubtype="mis" queryStr="?_rdoc=3&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S0016510717X00060)&_docanchor=&_ct=45&md5=d48715decffda4ac6ecc651e88020fef">Focus on...</a></h4></li><li class="source "><i>Page A14</i></li><li class="authors "></li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a aria-describedby="title_S0016510717318370"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S0016510717318370&_ts=1494959232&md5=cee0a3d6376472ccb623d83d797810c9"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+</ul><div  id="abs_S0016510717318370" class="previewBox abstract hidden"></div><div  id="rabs_S0016510717318370" class="previewBox rabstract hidden"></div><div  id="gabs_S0016510717318370" class="previewBox gabstract hidden"></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_3" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S0016510717318382" aria-labelledby="title_S0016510717318382" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S0016510717318382" href="http://www.sciencedirect.com/science/article/pii/S0016510717318382" class="cLink artTitle S_C_artTitle " data-docsubtype="mis" queryStr="?_rdoc=4&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S0016510717X00060)&_docanchor=&_ct=45&md5=1d00e935493e9c4342a6d56b6eb015c5">ASGE update</a></h4></li><li class="source "><i>Page A15</i></li><li class="authors "></li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a aria-describedby="title_S0016510717318382"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S0016510717318382&_ts=1494959232&md5=417405ad4587efea76b4928073b5729a"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+</ul><div  id="abs_S0016510717318382" class="previewBox abstract hidden"></div><div  id="rabs_S0016510717318382" class="previewBox rabstract hidden"></div><div  id="gabs_S0016510717318382" class="previewBox gabstract hidden"></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_4" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S0016510717318394" aria-labelledby="title_S0016510717318394" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S0016510717318394" href="http://www.sciencedirect.com/science/article/pii/S0016510717318394" class="cLink artTitle S_C_artTitle " data-docsubtype="mis" queryStr="?_rdoc=5&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S0016510717X00060)&_docanchor=&_ct=45&md5=f670d53013c4f1e7946e253416cb9a04">In upcoming issues...</a></h4></li><li class="source "><i>Page A16</i></li><li class="authors "></li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a aria-describedby="title_S0016510717318394"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S0016510717318394&_ts=1494959232&md5=2558fc00a78fb2fbd81b7417f2877cf1"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+</ul><div  id="abs_S0016510717318394" class="previewBox abstract hidden"></div><div  id="rabs_S0016510717318394" class="previewBox rabstract hidden"></div><div  id="gabs_S0016510717318394" class="previewBox gabstract hidden"></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_5" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S0016510717318412" aria-labelledby="title_S0016510717318412" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S0016510717318412" href="http://www.sciencedirect.com/science/article/pii/S0016510717318412" class="cLink artTitle S_C_artTitle " data-docsubtype="mis" queryStr="?_rdoc=6&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S0016510717X00060)&_docanchor=&_ct=45&md5=61d2acebe48fa48f45a88ab8ea525dc0">Information for readers</a></h4></li><li class="source "><i>Page A20</i></li><li class="authors "></li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a aria-describedby="title_S0016510717318412"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S0016510717318412&_ts=1494959232&md5=6a2a18d16cadaa33b39e32ca69ba6ea0"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+</ul><div  id="abs_S0016510717318412" class="previewBox abstract hidden"></div><div  id="rabs_S0016510717318412" class="previewBox rabstract hidden"></div><div  id="gabs_S0016510717318412" class="previewBox gabstract hidden"></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_6" class="resultsView"></div><div class="subHeadsBlock heading1" ><h2 class="sectionH1">Guideline</h2></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S0016510717301244" aria-labelledby="title_S0016510717301244" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S0016510717301244" href="http://www.sciencedirect.com/science/article/pii/S0016510717301244" class="cLink artTitle S_C_artTitle " data-docsubtype="pgl" queryStr="?_rdoc=7&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S0016510717X00060)&_docanchor=&_ct=45&md5=63d6916ea4fa99ff2c43aabf043ce3c0">The role of endoscopy in subepithelial lesions of the GI tract</a></h4></li><li class="source "><i>Pages 1117-1132</i></li><li class="authors ">Standards of Practice Committee, Ashley L. Faulx, Shivangi Kothari, Ruben D. Acosta, Deepak Agrawal, David H. Bruining, Vinay Chandrasekhara, Mohamad A. Eloubeidi, Robert D. Fanelli, Suryakanth R. Gurudu, Mouen A. Khashab, Jenifer R. Lightdale, V. Raman Muthusamy, Aasma Shaukat, Bashar J. Qumseya, Amy Wang, Sachin B. Wani, Julie Yang, John M. DeWitt</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a aria-describedby="title_S0016510717301244"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S0016510717301244&_ts=1494959232&md5=7cd47c9d24c0c5126b0a1b44fe64ecc2"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+</ul><div  id="abs_S0016510717301244" class="previewBox abstract hidden"></div><div  id="rabs_S0016510717301244" class="previewBox rabstract hidden"></div><div  id="gabs_S0016510717301244" class="previewBox gabstract hidden"></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_7" class="resultsView"></div><div class="subHeadsBlock heading1" ><h2 class="sectionH1">Review Article</h2></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S001651071730069X" aria-labelledby="title_S001651071730069X" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S001651071730069X" href="http://www.sciencedirect.com/science/article/pii/S001651071730069X" class="cLink artTitle S_C_artTitle " data-docsubtype="rev" queryStr="?_rdoc=8&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S0016510717X00060)&_docanchor=&_ct=45&md5=7be82d9f8a9ffcc3850fbf235dcd09d2"><img src="http://ars.els-cdn.com/content/image/1-s2.0-S001651071730069X-camera_s.gif" class="charImg" alt="Author interview series" title="Author interview series"/>Exploring endoscopic therapy for the treatment of Crohn’s disease–related fistula and abscess</a></h4><span class="articleTypeLabel">Review Article</span></li><li class="source "><i>Pages 1133-1143</i></li><li class="authors ">Bo Shen</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=8&_origin=PublicationURL&_srch=hubEid(1-s2.0-S0016510717X00060)&_ct=45&_zone=rslt_list_item&_fmt=full&_pii=S001651071730069X&_issn=00165107&_tab=afr&absLinks=y&md5=eb51b8b0b1b3fc8d6a9bc0478001f0a8" aria-describedby="title_S001651071730069X" aria-controls="abs_S001651071730069X" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a href="#" data-type="graphicalAbstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/graphicalAbstract?_rdoc=8&_origin=PublicationURL&_srch=hubEid(1-s2.0-S0016510717X00060)&_ct=45&_zone=rslt_list_item&_fmt=full&_pii=S001651071730069X&_issn=00165107&_tab=afr&absLinks=y&md5=eb51b8b0b1b3fc8d6a9bc0478001f0a8" aria-describedby="title_S001651071730069X" aria-controls="gabs_S001651071730069X" aria-expanded="true"><span class="arrowDown"></span><span class="preTxt">Close graphical abstract</span></a></li><li><a aria-describedby="title_S001651071730069X"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S001651071730069X&_ts=1494959232&md5=b8ba2d64d2b847178f44123e43df2f24"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+</ul><div  id="abs_S001651071730069X" class="previewBox abstract hidden"></div><div  id="rabs_S001651071730069X" class="previewBox rabstract hidden"></div><div  id="gabs_S001651071730069X" class="previewBox gabstract"><div id="abs" class="previewContent"><div><?xml version="1.0" encoding="UTF-8"?><div class="svAbstract" data-etype="ab"><div class="articleText"><div class="articleText_indent"><p class="paraText"><div id="undfig1" class="ImageScroller" style="height:261px"><img height="244" border="0" align="middle" width="252" style="vertical-align: bottom;" alt="image" title="image" src="http://ars.els-cdn.com/content/image/1-s2.0-S001651071730069X-fx1.jpg"/></div></div></div></div></div></div></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_8" class="resultsView"></div><div class="subHeadsBlock heading1" ><h2 class="sectionH1">Systematic Reviews and Meta-Analyses</h2></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S0016510717300779" aria-labelledby="title_S0016510717300779" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S0016510717300779" href="http://www.sciencedirect.com/science/article/pii/S0016510717300779" class="cLink artTitle S_C_artTitle " data-docsubtype="rev" queryStr="?_rdoc=9&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S0016510717X00060)&_docanchor=&_ct=45&md5=b3ac6e5a48b409a7c06250f3da7890c3"><img src="http://ars.els-cdn.com/content/image/1-s2.0-S0016510717300779-cme_s.gif" class="charImg" alt="CME examination article" title="CME examination article"/><img src="http://ars.els-cdn.com/content/image/1-s2.0-S0016510717300779-camera_s.gif" class="charImg" alt="Author interview series" title="Author interview series"/>Indomethacin and diclofenac in the prevention of post-ERCP pancreatitis: a systematic review and meta-analysis of prospective controlled trials</a></h4><span class="articleTypeLabel">Review Article</span></li><li class="source "><i>Pages 1144-1156.e1</i></li><li class="authors ">Árpád Patai, Norbert Solymosi, László Mohácsi, Árpád V. Patai</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=9&_origin=PublicationURL&_srch=hubEid(1-s2.0-S0016510717X00060)&_ct=45&_zone=rslt_list_item&_fmt=full&_pii=S0016510717300779&_issn=00165107&_tab=afr&absLinks=y&md5=c1ba61d549c945eca71a7c7062c39a37" aria-describedby="title_S0016510717300779" aria-controls="abs_S0016510717300779" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a aria-describedby="title_S0016510717300779"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S0016510717300779&_ts=1494959232&md5=a8b10822711e0513a070665318817e80"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+</ul><div  id="abs_S0016510717300779" class="previewBox abstract hidden"></div><div  id="rabs_S0016510717300779" class="previewBox rabstract hidden"></div><div  id="gabs_S0016510717300779" class="previewBox gabstract hidden"></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_9" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S0016510717300019" aria-labelledby="title_S0016510717300019" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S0016510717300019" href="http://www.sciencedirect.com/science/article/pii/S0016510717300019" class="cLink artTitle S_C_artTitle " data-docsubtype="rev" queryStr="?_rdoc=10&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S0016510717X00060)&_docanchor=&_ct=45&md5=580046fb47f966ab96c2741c244e1c2d"><img src="http://ars.els-cdn.com/content/image/1-s2.0-S0016510717300019-cme_s.gif" class="charImg" alt="CME examination article" title="CME examination article"/><img src="http://ars.els-cdn.com/content/image/1-s2.0-S0016510717300019-camera_s.gif" class="charImg" alt="Author interview series" title="Author interview series"/>Retention associated with video capsule endoscopy: systematic review and meta-analysis</a></h4><span class="articleTypeLabel">Review Article</span></li><li class="source "><i>Pages 1157-1168.e2</i></li><li class="authors ">Mona Rezapour, Chidi Amadi, Lauren B. Gerson</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=10&_origin=PublicationURL&_srch=hubEid(1-s2.0-S0016510717X00060)&_ct=45&_zone=rslt_list_item&_fmt=full&_pii=S0016510717300019&_issn=00165107&_tab=afr&absLinks=y&md5=fe0bd2917ab0fe2a201103a871d9a9f2" aria-describedby="title_S0016510717300019" aria-controls="abs_S0016510717300019" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a aria-describedby="title_S0016510717300019"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S0016510717300019&_ts=1494959232&md5=20537d2010b88cbe65d0902458cd01d1"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+</ul><div  id="abs_S0016510717300019" class="previewBox abstract hidden"></div><div  id="rabs_S0016510717300019" class="previewBox rabstract hidden"></div><div  id="gabs_S0016510717300019" class="previewBox gabstract hidden"></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_10" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S0016510716308896" aria-labelledby="title_S0016510716308896" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S0016510716308896" href="http://www.sciencedirect.com/science/article/pii/S0016510716308896" class="cLink artTitle S_C_artTitle " data-docsubtype="rev" queryStr="?_rdoc=11&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S0016510717X00060)&_docanchor=&_ct=45&md5=29d3b819fbe0c0e2d841cf62c9b089c4"><img src="http://ars.els-cdn.com/content/image/1-s2.0-S0016510716308896-camera_s.gif" class="charImg" alt="Author interview series" title="Author interview series"/>Natural history of diminutive and small colorectal polyps: a systematic literature review</a></h4><span class="articleTypeLabel">Review Article</span></li><li class="source "><i>Pages 1169-1176.e1</i></li><li class="authors ">Jasper L.A. Vleugels, Yark Hazewinkel, Paul Fockens, Evelien Dekker</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=11&_origin=PublicationURL&_srch=hubEid(1-s2.0-S0016510717X00060)&_ct=45&_zone=rslt_list_item&_fmt=full&_pii=S0016510716308896&_issn=00165107&_tab=afr&absLinks=y&md5=981e6eb02b65f8f121adc28b5ba5c9e5" aria-describedby="title_S0016510716308896" aria-controls="abs_S0016510716308896" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a aria-describedby="title_S0016510716308896"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S0016510716308896&_ts=1494959232&md5=05f912b1267cbee45c42ff00d64d62e9"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+</ul><div  id="abs_S0016510716308896" class="previewBox abstract hidden"></div><div  id="rabs_S0016510716308896" class="previewBox rabstract hidden"></div><div  id="gabs_S0016510716308896" class="previewBox gabstract hidden"></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_11" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S0016510717301062" aria-labelledby="title_S0016510717301062" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S0016510717301062" href="http://www.sciencedirect.com/science/article/pii/S0016510717301062" class="cLink artTitle S_C_artTitle " data-docsubtype="edi" queryStr="?_rdoc=12&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S0016510717X00060)&_docanchor=&_ct=45&md5=1f4650bedaec484fc4daac34b62830e1"><img src="http://ars.els-cdn.com/content/image/1-s2.0-S0016510717301062-edit_s.gif" class="charImg" alt="Commentary on preceding article" title="Commentary on preceding article"/>Time to reduce the burden of removing diminutive polyps in colorectal cancer screening</a></h4></li><li class="source "><i>Pages 1177-1179</i></li><li class="authors ">Hermann Brenner, Michael Hoffmeister, Christian Stock</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a aria-describedby="title_S0016510717301062"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S0016510717301062&_ts=1494959232&md5=aef67fd43b1bab58b0144316efa82212"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+</ul><div  id="abs_S0016510717301062" class="previewBox abstract hidden"></div><div  id="rabs_S0016510717301062" class="previewBox rabstract hidden"></div><div  id="gabs_S0016510717301062" class="previewBox gabstract hidden"></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_12" class="resultsView"></div><div class="subHeadsBlock heading1" ><h2 class="sectionH1">Original Articles</h2></div><div class="subHeadsBlock sectionH2 heading2" ><h2 class="sectionH2">Clinical Endoscopy</h2></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S0016510716307222" aria-labelledby="title_S0016510716307222" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S0016510716307222" href="http://www.sciencedirect.com/science/article/pii/S0016510716307222" class="cLink artTitle S_C_artTitle " data-docsubtype="fla" queryStr="?_rdoc=13&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S0016510717X00060)&_docanchor=&_ct=45&md5=f2a9c40832a20ec8fb48a5878d28aeb9"><img src="http://ars.els-cdn.com/content/image/1-s2.0-S0016510716307222-fastrk_s.gif" class="charImg" alt="Fast Track article" title="Fast Track article"/>Adenosine triphosphate bioluminescence for bacteriologic surveillance and reprocessing strategies for minimizing risk of infection transmission by duodenoscopes</a></h4><span class="articleTypeLabel">Original Research Article</span></li><li class="source "><i>Pages 1180-1187.e1</i></li><li class="authors ">Saurabh Sethi, Robert J. Huang, Monique T. Barakat, Niaz Banaei, Shai Friedland, Subhas Banerjee</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=13&_origin=PublicationURL&_srch=hubEid(1-s2.0-S0016510717X00060)&_ct=45&_zone=rslt_list_item&_fmt=full&_pii=S0016510716307222&_issn=00165107&_tab=afr&absLinks=y&md5=30e8b0f45b8fdb6912adfd7bc60fe933" aria-describedby="title_S0016510716307222" aria-controls="abs_S0016510716307222" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a aria-describedby="title_S0016510716307222"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S0016510716307222&_ts=1494959232&md5=f8a96135eb0e1e8759417ed9a711dab6"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+</ul><div  id="abs_S0016510716307222" class="previewBox abstract hidden"></div><div  id="rabs_S0016510716307222" class="previewBox rabstract hidden"></div><div  id="gabs_S0016510716307222" class="previewBox gabstract hidden"></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_13" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S0016510717300639" aria-labelledby="title_S0016510717300639" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S0016510717300639" href="http://www.sciencedirect.com/science/article/pii/S0016510717300639" class="cLink artTitle S_C_artTitle " data-docsubtype="fla" queryStr="?_rdoc=14&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S0016510717X00060)&_docanchor=&_ct=45&md5=7281a78e8a53852a151bfe8d8a4f9b65"><img src="http://ars.els-cdn.com/content/image/1-s2.0-S0016510717300639-cme_s.gif" class="charImg" alt="CME examination article" title="CME examination article"/><img src="http://ars.els-cdn.com/content/image/1-s2.0-S0016510717300639-camera_s.gif" class="charImg" alt="Author interview series" title="Author interview series"/><img src="http://ars.els-cdn.com/content/image/1-s2.0-S0016510717300639-fastrk_s.gif" class="charImg" alt="Fast Track article" title="Fast Track article"/>Providing data for serrated polyp detection rate benchmarks: an analysis of the New Hampshire Colonoscopy Registry</a></h4><span class="articleTypeLabel">Original Research Article</span></li><li class="source "><i>Pages 1188-1194</i></li><li class="authors ">Joseph C. Anderson, Lynn F. Butterly, Julia E. Weiss, Christina M. Robinson</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=14&_origin=PublicationURL&_srch=hubEid(1-s2.0-S0016510717X00060)&_ct=45&_zone=rslt_list_item&_fmt=full&_pii=S0016510717300639&_issn=00165107&_tab=afr&absLinks=y&md5=27d8aef70b1d6c28385a94af5daff4a1" aria-describedby="title_S0016510717300639" aria-controls="abs_S0016510717300639" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a aria-describedby="title_S0016510717300639"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S0016510717300639&_ts=1494959232&md5=c2a6fe19e387248c371ab037a259fc4c"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+</ul><div  id="abs_S0016510717300639" class="previewBox abstract hidden"></div><div  id="rabs_S0016510717300639" class="previewBox rabstract hidden"></div><div  id="gabs_S0016510717300639" class="previewBox gabstract hidden"></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_14" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S0016510716306319" aria-labelledby="title_S0016510716306319" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S0016510716306319" href="http://www.sciencedirect.com/science/article/pii/S0016510716306319" class="cLink artTitle S_C_artTitle " data-docsubtype="fla" queryStr="?_rdoc=15&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S0016510717X00060)&_docanchor=&_ct=45&md5=04774a12f89cee6d7ed9dd11ec6dc9c1"><img src="http://ars.els-cdn.com/content/image/1-s2.0-S0016510716306319-camera_s.gif" class="charImg" alt="Author interview series" title="Author interview series"/>Diagnostic accuracy of probe-based confocal laser endomicroscopy in Lugol-unstained esophageal superficial lesions of patients with head and neck cancer</a></h4><span class="articleTypeLabel">Original Research Article</span></li><li class="source "><i>Pages 1195-1207</i></li><li class="authors ">Adriana Vaz Safatle-Ribeiro, Elisa Ryoka Baba, Sheila Friedrich Faraj, Juliana Trazzi Rios, Marcelo Simas de Lima, Bruno Costa Martins, Sebastian Naschold Geiger, Caterina Pennacchi, Carla Gusman, Fábio Shiguehissa Kawaguti, Ricardo Sato Uemura, Evandro Sobroza de Melo, Ulysses Ribeiro Jr., Fauze Maluf-Filho</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=15&_origin=PublicationURL&_srch=hubEid(1-s2.0-S0016510717X00060)&_ct=45&_zone=rslt_list_item&_fmt=full&_pii=S0016510716306319&_issn=00165107&_tab=afr&absLinks=y&md5=ed5345ffe80ce1f0641a47ec99c96834" aria-describedby="title_S0016510716306319" aria-controls="abs_S0016510716306319" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a aria-describedby="title_S0016510716306319"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S0016510716306319&_ts=1494959232&md5=cac93e778c353dfc1df00a7316dc152b"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+</ul><div  id="abs_S0016510716306319" class="previewBox abstract hidden"></div><div  id="rabs_S0016510716306319" class="previewBox rabstract hidden"></div><div  id="gabs_S0016510716306319" class="previewBox gabstract hidden"></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_15" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S0016510716306721" aria-labelledby="title_S0016510716306721" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S0016510716306721" href="http://www.sciencedirect.com/science/article/pii/S0016510716306721" class="cLink artTitle S_C_artTitle " data-docsubtype="fla" queryStr="?_rdoc=16&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S0016510717X00060)&_docanchor=&_ct=45&md5=a17573cae6a41f65020d1e0102774f6e"><img src="http://ars.els-cdn.com/content/image/1-s2.0-S0016510716306721-camera_s.gif" class="charImg" alt="Author interview series" title="Author interview series"/>A multicenter international registry of redo per-oral endoscopic myotomy (POEM) after failed POEM</a></h4><span class="articleTypeLabel">Original Research Article</span></li><li class="source "><i>Pages 1208-1211</i></li><li class="authors ">Amy Tyberg, Stefan Seewald, Reem Z. Sharaiha, Guadalupe Martinez, Amit P. Desai, Nikhil A. Kumta, Arnon Lambroza, Amrita Sethi, Kevin M. Reavis, Ketisha DeRoche, Monica Gaidhane, Michael Talbot, Payal Saxena, Felipe Zamarripa, Maximilien Barret, Nicholas Eleftheriadis, Valerio Balassone, Haruhiro Inoue, Michel Kahaleh</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=16&_origin=PublicationURL&_srch=hubEid(1-s2.0-S0016510717X00060)&_ct=45&_zone=rslt_list_item&_fmt=full&_pii=S0016510716306721&_issn=00165107&_tab=afr&absLinks=y&md5=4bf7e25fd0108f22fbcf03266906c03e" aria-describedby="title_S0016510716306721" aria-controls="abs_S0016510716306721" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a aria-describedby="title_S0016510716306721"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S0016510716306721&_ts=1494959232&md5=f99edbd12c51ae3889db03cd9bf45224"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+</ul><div  id="abs_S0016510716306721" class="previewBox abstract hidden"></div><div  id="rabs_S0016510716306721" class="previewBox rabstract hidden"></div><div  id="gabs_S0016510716306721" class="previewBox gabstract hidden"></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_16" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S0016510716308008" aria-labelledby="title_S0016510716308008" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S0016510716308008" href="http://www.sciencedirect.com/science/article/pii/S0016510716308008" class="cLink artTitle S_C_artTitle " data-docsubtype="fla" queryStr="?_rdoc=17&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S0016510717X00060)&_docanchor=&_ct=45&md5=ab441a1ff32d048587db529f92482014">Ultrathin disposable gastroscope for screening and surveillance of gastroesophageal varices in patients with liver cirrhosis: a prospective comparative study</a></h4><span class="articleTypeLabel">Original Research Article</span></li><li class="source "><i>Pages 1212-1217</i></li><li class="authors ">Dep K. Huynh, Leanne Toscano, Vinh-An Phan, Tsai-Wing Ow, Mark Schoeman, Nam Q. Nguyen</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=17&_origin=PublicationURL&_srch=hubEid(1-s2.0-S0016510717X00060)&_ct=45&_zone=rslt_list_item&_fmt=full&_pii=S0016510716308008&_issn=00165107&_tab=afr&absLinks=y&md5=90bcd18dc6bb81828239dfe79929d8ea" aria-describedby="title_S0016510716308008" aria-controls="abs_S0016510716308008" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a aria-describedby="title_S0016510716308008"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S0016510716308008&_ts=1494959232&md5=cc038e28eb59fa9dca17d43a6d5f643a"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+</ul><div  id="abs_S0016510716308008" class="previewBox abstract hidden"></div><div  id="rabs_S0016510716308008" class="previewBox rabstract hidden"></div><div  id="gabs_S0016510716308008" class="previewBox gabstract hidden"></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_17" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S0016510716307994" aria-labelledby="title_S0016510716307994" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S0016510716307994" href="http://www.sciencedirect.com/science/article/pii/S0016510716307994" class="cLink artTitle S_C_artTitle " data-docsubtype="fla" queryStr="?_rdoc=18&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S0016510717X00060)&_docanchor=&_ct=45&md5=c0fc544295379d803a8ec505dbfa68c4">Clinical outcomes of non-curative endoscopic submucosal dissection with negative resected margins for gastric cancer</a></h4><span class="articleTypeLabel">Original Research Article</span></li><li class="source "><i>Pages 1218-1224</i></li><li class="authors ">Yosuke Toya, Masaki Endo, Shotaro Nakamura, Risaburo Akasaka, Takashi Kosaka, Shunichi Yanai, Keisuke Kawasaki, Keisuke Koeda, Tamotsu Sugai, Takayuki Matsumoto</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=18&_origin=PublicationURL&_srch=hubEid(1-s2.0-S0016510717X00060)&_ct=45&_zone=rslt_list_item&_fmt=full&_pii=S0016510716307994&_issn=00165107&_tab=afr&absLinks=y&md5=c699e15e49afd030d38194a3252b5dac" aria-describedby="title_S0016510716307994" aria-controls="abs_S0016510716307994" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a aria-describedby="title_S0016510716307994"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S0016510716307994&_ts=1494959232&md5=15cc3acc89f308ff9895280917f09f59"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+</ul><div  id="abs_S0016510716307994" class="previewBox abstract hidden"></div><div  id="rabs_S0016510716307994" class="previewBox rabstract hidden"></div><div  id="gabs_S0016510716307994" class="previewBox gabstract hidden"></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_18" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S001651071630671X" aria-labelledby="title_S001651071630671X" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S001651071630671X" href="http://www.sciencedirect.com/science/article/pii/S001651071630671X" class="cLink artTitle S_C_artTitle " data-docsubtype="fla" queryStr="?_rdoc=19&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S0016510717X00060)&_docanchor=&_ct=45&md5=86c40135cab9527bedb202c594ff41cc"><img src="http://ars.els-cdn.com/content/image/1-s2.0-S001651071630671X-video_s.gif" class="charImg" alt="Online video" title="Online video"/><img src="http://ars.els-cdn.com/content/image/1-s2.0-S001651071630671X-camera_s.gif" class="charImg" alt="Author interview series" title="Author interview series"/>Feasibility of per-oral cholecystoscopy and advanced gallbladder interventions after EUS-guided gallbladder stenting (with video)</a></h4><span class="articleTypeLabel">Original Research Article</span></li><li class="source "><i>Pages 1225-1232</i></li><li class="authors ">Shannon Melissa Chan, Anthony Yuen Bun Teoh, Hon Chi Yip, Vivien Wai Yin Wong, Philip Wai Yan Chiu, Enders Kwok Wai Ng</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=19&_origin=PublicationURL&_srch=hubEid(1-s2.0-S0016510717X00060)&_ct=45&_zone=rslt_list_item&_fmt=full&_pii=S001651071630671X&_issn=00165107&_tab=afr&absLinks=y&md5=0068f8ab71ef66da0deefff7dbea952f" aria-describedby="title_S001651071630671X" aria-controls="abs_S001651071630671X" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a aria-describedby="title_S001651071630671X"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S001651071630671X&_ts=1494959232&md5=de160e36721762e6e5882043720a40fa"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+<li><a id ="title_S001651071630671X" href="http://www.sciencedirect.com/science/article/pii/S001651071630671X#MMCvFirst" class="mmcLinkSprite" cLink S_C_artTitle " data-docsubtype="fla" queryStr="?_rdoc=19&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S0016510717X00060)&_docanchor=&_ct=45&md5=86c40135cab9527bedb202c594ff41cc"><span class="mmcTxt">Supplementary content</span></a></li></ul><div  id="abs_S001651071630671X" class="previewBox abstract hidden"></div><div  id="rabs_S001651071630671X" class="previewBox rabstract hidden"></div><div  id="gabs_S001651071630671X" class="previewBox gabstract hidden"></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_19" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S0016510716305806" aria-labelledby="title_S0016510716305806" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S0016510716305806" href="http://www.sciencedirect.com/science/article/pii/S0016510716305806" class="cLink artTitle S_C_artTitle " data-docsubtype="fla" queryStr="?_rdoc=20&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S0016510717X00060)&_docanchor=&_ct=45&md5=809c3b0d847b50d3f5e26e8753648de8"><img src="http://ars.els-cdn.com/content/image/1-s2.0-S0016510716305806-camera_s.gif" class="charImg" alt="Author interview series" title="Author interview series"/>Sonographic and cyst fluid cytologic changes after EUS-guided pancreatic cyst ablation</a></h4><span class="articleTypeLabel">Original Research Article</span></li><li class="source "><i>Pages 1233-1242</i></li><li class="authors ">Kook Hyun Kim, Kathleen McGreevy, Kristin La Fortune, Harvey Cramer, John DeWitt</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=20&_origin=PublicationURL&_srch=hubEid(1-s2.0-S0016510717X00060)&_ct=45&_zone=rslt_list_item&_fmt=full&_pii=S0016510716305806&_issn=00165107&_tab=afr&absLinks=y&md5=32a484d76a18535a224b73b1a4b96679" aria-describedby="title_S0016510716305806" aria-controls="abs_S0016510716305806" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a aria-describedby="title_S0016510716305806"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S0016510716305806&_ts=1494959232&md5=17af9b775425657247cc97905e4351ab"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+</ul><div  id="abs_S0016510716305806" class="previewBox abstract hidden"></div><div  id="rabs_S0016510716305806" class="previewBox rabstract hidden"></div><div  id="gabs_S0016510716305806" class="previewBox gabstract hidden"></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_20" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S0016510716307350" aria-labelledby="title_S0016510716307350" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S0016510716307350" href="http://www.sciencedirect.com/science/article/pii/S0016510716307350" class="cLink artTitle S_C_artTitle " data-docsubtype="fla" queryStr="?_rdoc=21&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S0016510717X00060)&_docanchor=&_ct=45&md5=93743eaff6dba46a05c0f16a5984da75"><img src="http://ars.els-cdn.com/content/image/1-s2.0-S0016510716307350-cme_s.gif" class="charImg" alt="CME examination article" title="CME examination article"/><img src="http://ars.els-cdn.com/content/image/1-s2.0-S0016510716307350-video_s.gif" class="charImg" alt="Online video" title="Online video"/><img src="http://ars.els-cdn.com/content/image/1-s2.0-S0016510716307350-camera_s.gif" class="charImg" alt="Author interview series" title="Author interview series"/>Endoscopic “step-up approach” using a dedicated biflanged metal stent reduces the need for direct necrosectomy in walled-off necrosis (with videos)</a></h4><span class="articleTypeLabel">Original Research Article</span></li><li class="source "><i>Pages 1243-1252</i></li><li class="authors ">Sundeep Lakhtakia, Jahangeer Basha, Rupjyoti Talukdar, Rajesh Gupta, Zaheer Nabi, Mohan Ramchandani, B.V.N. Kumar, Partha Pal, Rakesh Kalpala, P. Manohar Reddy, R. Pradeep, Jagadish R. Singh, G.V. Rao, D. Nageshwar Reddy</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=21&_origin=PublicationURL&_srch=hubEid(1-s2.0-S0016510717X00060)&_ct=45&_zone=rslt_list_item&_fmt=full&_pii=S0016510716307350&_issn=00165107&_tab=afr&absLinks=y&md5=357c09474e592e9c70eddf37f4c0ca75" aria-describedby="title_S0016510716307350" aria-controls="abs_S0016510716307350" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a aria-describedby="title_S0016510716307350"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S0016510716307350&_ts=1494959232&md5=a6abdbad181b233dac5bcd2506ee1c44"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+<li><a id ="title_S0016510716307350" href="http://www.sciencedirect.com/science/article/pii/S0016510716307350#MMCvFirst" class="mmcLinkSprite" cLink S_C_artTitle " data-docsubtype="fla" queryStr="?_rdoc=21&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S0016510717X00060)&_docanchor=&_ct=45&md5=93743eaff6dba46a05c0f16a5984da75"><span class="mmcTxt">Supplementary content</span></a></li></ul><div  id="abs_S0016510716307350" class="previewBox abstract hidden"></div><div  id="rabs_S0016510716307350" class="previewBox rabstract hidden"></div><div  id="gabs_S0016510716307350" class="previewBox gabstract hidden"></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_21" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S0016510717301888" aria-labelledby="title_S0016510717301888" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S0016510717301888" href="http://www.sciencedirect.com/science/article/pii/S0016510717301888" class="cLink artTitle S_C_artTitle " data-docsubtype="edi" queryStr="?_rdoc=22&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S0016510717X00060)&_docanchor=&_ct=45&md5=ee852dea6b6686dd8823a2290591d3b2"><img src="http://ars.els-cdn.com/content/image/1-s2.0-S0016510717301888-edit_s.gif" class="charImg" alt="Commentary on preceding article" title="Commentary on preceding article"/>Superiority of metal stents for pancreatic walled-off necrosis: bigger is better!</a></h4></li><li class="source "><i>Pages 1253-1254</i></li><li class="authors ">Monica Saumoy, Michel Kahaleh</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a aria-describedby="title_S0016510717301888"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S0016510717301888&_ts=1494959232&md5=d28123582cc087f07069569b49b3c5b8"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+</ul><div  id="abs_S0016510717301888" class="previewBox abstract hidden"></div><div  id="rabs_S0016510717301888" class="previewBox rabstract hidden"></div><div  id="gabs_S0016510717301888" class="previewBox gabstract hidden"></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_22" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S0016510716307970" aria-labelledby="title_S0016510716307970" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S0016510716307970" href="http://www.sciencedirect.com/science/article/pii/S0016510716307970" class="cLink artTitle S_C_artTitle " data-docsubtype="fla" queryStr="?_rdoc=23&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S0016510717X00060)&_docanchor=&_ct=45&md5=31ac622fa874bbeb10ea94fdfeb64b2e">Comparison of carbon dioxide and air insufflation during consecutive EGD and colonoscopy in moderate-sedation patients: a prospective, double-blind, randomized controlled trial</a></h4><span class="articleTypeLabel">Original Research Article</span></li><li class="source "><i>Pages 1255-1262</i></li><li class="authors ">Su Young Kim, Jun-Won Chung, Dong Kyun Park, Kwang An Kwon, Kyoung Oh Kim, Yoon Jae Kim, Jung Ho Kim</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=23&_origin=PublicationURL&_srch=hubEid(1-s2.0-S0016510717X00060)&_ct=45&_zone=rslt_list_item&_fmt=full&_pii=S0016510716307970&_issn=00165107&_tab=afr&absLinks=y&md5=65d687b2db5933d9c987f54ae9ba810e" aria-describedby="title_S0016510716307970" aria-controls="abs_S0016510716307970" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a aria-describedby="title_S0016510716307970"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S0016510716307970&_ts=1494959232&md5=70889afdc91f8d183e190ee6f43700d3"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+</ul><div  id="abs_S0016510716307970" class="previewBox abstract hidden"></div><div  id="rabs_S0016510716307970" class="previewBox rabstract hidden"></div><div  id="gabs_S0016510716307970" class="previewBox gabstract hidden"></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_23" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S0016510716307969" aria-labelledby="title_S0016510716307969" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S0016510716307969" href="http://www.sciencedirect.com/science/article/pii/S0016510716307969" class="cLink artTitle S_C_artTitle " data-docsubtype="fla" queryStr="?_rdoc=24&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S0016510717X00060)&_docanchor=&_ct=45&md5=ccdd4499b706b0049130e94992cd0d80">Impact of physician compliance with colonoscopy surveillance guidelines on interval colorectal cancer</a></h4><span class="articleTypeLabel">Original Research Article</span></li><li class="source "><i>Pages 1263-1270</i></li><li class="authors ">Jennifer Nayor, John R. Saltzman, Emily J. Campbell, Molly L. Perencevich, Kunal Jajoo, James M. Richter</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=24&_origin=PublicationURL&_srch=hubEid(1-s2.0-S0016510717X00060)&_ct=45&_zone=rslt_list_item&_fmt=full&_pii=S0016510716307969&_issn=00165107&_tab=afr&absLinks=y&md5=0101de933aa3633f6192d9f5e8f2302c" aria-describedby="title_S0016510716307969" aria-controls="abs_S0016510716307969" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a aria-describedby="title_S0016510716307969"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S0016510716307969&_ts=1494959232&md5=32c4c2e54551a7861d39188f29703f95"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+</ul><div  id="abs_S0016510716307969" class="previewBox abstract hidden"></div><div  id="rabs_S0016510716307969" class="previewBox rabstract hidden"></div><div  id="gabs_S0016510716307969" class="previewBox gabstract hidden"></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_24" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S0016510717300664" aria-labelledby="title_S0016510717300664" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S0016510717300664" href="http://www.sciencedirect.com/science/article/pii/S0016510717300664" class="cLink artTitle S_C_artTitle " data-docsubtype="edi" queryStr="?_rdoc=25&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S0016510717X00060)&_docanchor=&_ct=45&md5=f492fff82df99129c3c20771311b3549"><img src="http://ars.els-cdn.com/content/image/1-s2.0-S0016510717300664-edit_s.gif" class="charImg" alt="Commentary on preceding article" title="Commentary on preceding article"/>Colonoscopy surveillance intervals: we are not there yet</a></h4></li><li class="source "><i>Pages 1271-1272</i></li><li class="authors ">John L. Petrini Jr.</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a aria-describedby="title_S0016510717300664"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S0016510717300664&_ts=1494959232&md5=bfbdfc0f5e62dfa98e4b9f3157b22023"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+</ul><div  id="abs_S0016510717300664" class="previewBox abstract hidden"></div><div  id="rabs_S0016510717300664" class="previewBox rabstract hidden"></div><div  id="gabs_S0016510717300664" class="previewBox gabstract hidden"></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_25" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S0016510716308112" aria-labelledby="title_S0016510716308112" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S0016510716308112" href="http://www.sciencedirect.com/science/article/pii/S0016510716308112" class="cLink artTitle S_C_artTitle " data-docsubtype="fla" queryStr="?_rdoc=26&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S0016510717X00060)&_docanchor=&_ct=45&md5=4cc47d342af9d655e1c074801650f11d">Adenoma miss rates associated with a 3-minute versus 6-minute colonoscopy withdrawal time: a prospective, randomized trial</a></h4><span class="articleTypeLabel">Original Research Article</span></li><li class="source "><i>Pages 1273-1280</i></li><li class="authors ">Sheila Kumar, Nirav Thosani, Uri Ladabaum, Shai Friedland, Ann M. Chen, Rajan Kochar, Subhas Banerjee</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=26&_origin=PublicationURL&_srch=hubEid(1-s2.0-S0016510717X00060)&_ct=45&_zone=rslt_list_item&_fmt=full&_pii=S0016510716308112&_issn=00165107&_tab=afr&absLinks=y&md5=84a3579ed6d63c086e4fc3284127b684" aria-describedby="title_S0016510716308112" aria-controls="abs_S0016510716308112" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a aria-describedby="title_S0016510716308112"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S0016510716308112&_ts=1494959232&md5=7b74036c32bb4508766f503f092934f6"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+</ul><div  id="abs_S0016510716308112" class="previewBox abstract hidden"></div><div  id="rabs_S0016510716308112" class="previewBox rabstract hidden"></div><div  id="gabs_S0016510716308112" class="previewBox gabstract hidden"></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_26" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S0016510717301876" aria-labelledby="title_S0016510717301876" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S0016510717301876" href="http://www.sciencedirect.com/science/article/pii/S0016510717301876" class="cLink artTitle S_C_artTitle " data-docsubtype="edi" queryStr="?_rdoc=27&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S0016510717X00060)&_docanchor=&_ct=45&md5=d859dfe4d5b7faefc0cacefbbf44465e"><img src="http://ars.els-cdn.com/content/image/1-s2.0-S0016510717301876-edit_s.gif" class="charImg" alt="Commentary on preceding article" title="Commentary on preceding article"/>Colonoscopy withdrawal: it takes time to do it well</a></h4></li><li class="source "><i>Pages 1281-1283</i></li><li class="authors ">Robert L. Barclay</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a aria-describedby="title_S0016510717301876"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S0016510717301876&_ts=1494959232&md5=22900a4808104e846a6ece930207e04b"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+</ul><div  id="abs_S0016510717301876" class="previewBox abstract hidden"></div><div  id="rabs_S0016510717301876" class="previewBox rabstract hidden"></div><div  id="gabs_S0016510717301876" class="previewBox gabstract hidden"></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_27" class="resultsView"></div><div class="subHeadsBlock heading1" ><h2 class="sectionH1">CME Examination</h2></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S0016510717318266" aria-labelledby="title_S0016510717318266" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S0016510717318266" href="http://www.sciencedirect.com/science/article/pii/S0016510717318266" class="cLink artTitle S_C_artTitle " data-docsubtype="exm" queryStr="?_rdoc=28&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S0016510717X00060)&_docanchor=&_ct=45&md5=c17f0057299a4513c59046517cf46bb3">Continuing Medical Education Exam: June 2017</a></h4></li><li class="source "><i>Pages 1284-1284.e5</i></li><li class="authors ">James Buxbaum, Karthik Ravi, William Ross, Brian Weston, Prasad G. Iyer, Amit Rastogi, Michael B. Wallace</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a aria-describedby="title_S0016510717318266"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S0016510717318266&_ts=1494959232&md5=38333248f0d467a8a851bc3a923e498c"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+</ul><div  id="abs_S0016510717318266" class="previewBox abstract hidden"></div><div  id="rabs_S0016510717318266" class="previewBox rabstract hidden"></div><div  id="gabs_S0016510717318266" class="previewBox gabstract hidden"></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_28" class="resultsView"></div><div class="subHeadsBlock heading1" ><h2 class="sectionH1">New Methods</h2></div><div class="subHeadsBlock sectionH2 heading2" ><h2 class="sectionH2">Clinical Endoscopy</h2></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S001651071630534X" aria-labelledby="title_S001651071630534X" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S001651071630534X" href="http://www.sciencedirect.com/science/article/pii/S001651071630534X" class="cLink artTitle S_C_artTitle " data-docsubtype="fla" queryStr="?_rdoc=29&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S0016510717X00060)&_docanchor=&_ct=45&md5=29552b9b46471f24b3a4aa05e1e265d5"><img src="http://ars.els-cdn.com/content/image/1-s2.0-S001651071630534X-video_s.gif" class="charImg" alt="Online video" title="Online video"/>Use of a lumen-apposing metal stent to treat GI strictures (with videos)</a></h4><span class="articleTypeLabel">Original Research Article</span></li><li class="source "><i>Pages 1285-1289</i></li><li class="authors ">Shayan Irani, Sujai Jalaj, Andrew Ross, Michael Larsen, Ian S. Grimm, Todd H. Baron</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=29&_origin=PublicationURL&_srch=hubEid(1-s2.0-S0016510717X00060)&_ct=45&_zone=rslt_list_item&_fmt=full&_pii=S001651071630534X&_issn=00165107&_tab=afr&absLinks=y&md5=7ca2e5a39e4cc57bf206855597c3869f" aria-describedby="title_S001651071630534X" aria-controls="abs_S001651071630534X" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a aria-describedby="title_S001651071630534X"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S001651071630534X&_ts=1494959232&md5=ccc284ab774294e31d7882e292bc814c"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+<li><a id ="title_S001651071630534X" href="http://www.sciencedirect.com/science/article/pii/S001651071630534X#MMCvFirst" class="mmcLinkSprite" cLink S_C_artTitle " data-docsubtype="fla" queryStr="?_rdoc=29&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S0016510717X00060)&_docanchor=&_ct=45&md5=29552b9b46471f24b3a4aa05e1e265d5"><span class="mmcTxt">Supplementary content</span></a></li></ul><div  id="abs_S001651071630534X" class="previewBox abstract hidden"></div><div  id="rabs_S001651071630534X" class="previewBox rabstract hidden"></div><div  id="gabs_S001651071630534X" class="previewBox gabstract hidden"></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_29" class="resultsView"></div><div class="subHeadsBlock heading1" ><h2 class="sectionH1">At the Focal Point</h2></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S0016510716306356" aria-labelledby="title_S0016510716306356" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S0016510716306356" href="http://www.sciencedirect.com/science/article/pii/S0016510716306356" class="cLink artTitle S_C_artTitle " data-docsubtype="sco" queryStr="?_rdoc=30&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S0016510717X00060)&_docanchor=&_ct=45&md5=f6192d2d46b7915359852ad9884bd14f">Thoracic osteomyelitis: an unusual adverse event of esophageal stenting</a></h4></li><li class="source "><i>Pages 1290-1291</i></li><li class="authors ">Linda Zhang, Paul Edwards, Milan Bassan</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li class="nojs"><a href=/science?_ob=PdfExcerptURL&_imagekey=1-s2.0-S0016510716306356-main.pdf&_piikey=S0016510716306356&_cdi=273305&_orig=PublicationURL&_zone=rslt_list_item&_fmt=abst&_eid=1-s2.0-S0016510716306356&_issn=00165107&_user=12975512&md5=285188f1751f61dc61f35122188fa291&ie=/excerpt.pdf pdfurl="/science?_ob=PdfExcerptURL&_imagekey=1-s2.0-S0016510716306356-main.pdf&_piikey=S0016510716306356&_cdi=273305&_orig=PublicationURL&_zone=rslt_list_item&_fmt=abst&_eid=1-s2.0-S0016510716306356&_issn=00165107&_user=12975512&md5=285188f1751f61dc61f35122188fa291&ie=/excerpt.pdf target="_blank" class="firstPagePDF"><span id=1-s20-S0016510716306356-label>First page PDF</span></a></li><li><a aria-describedby="title_S0016510716306356"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S0016510716306356&_ts=1494959232&md5=7e70b4be5ff06d3d49e06280c1558c9a"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+</ul><div  id="abs_S0016510716306356" class="previewBox abstract hidden"></div><div  id="rabs_S0016510716306356" class="previewBox rabstract hidden"></div><div  id="gabs_S0016510716306356" class="previewBox gabstract hidden"></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_30" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S0016510716306344" aria-labelledby="title_S0016510716306344" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S0016510716306344" href="http://www.sciencedirect.com/science/article/pii/S0016510716306344" class="cLink artTitle S_C_artTitle " data-docsubtype="sco" queryStr="?_rdoc=31&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S0016510717X00060)&_docanchor=&_ct=45&md5=3a0b6511a59001454e990cbe996b9a1b">Esophageal placement of a lumen-apposing metal stent in a patient with a chronic anastomotic stricture</a></h4></li><li class="source "><i>Pages 1291-1293</i></li><li class="authors ">Douglas G. Adler</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li class="nojs"><a href=/science?_ob=PdfExcerptURL&_imagekey=1-s2.0-S0016510716306344-main.pdf&_piikey=S0016510716306344&_cdi=273305&_orig=PublicationURL&_zone=rslt_list_item&_fmt=abst&_eid=1-s2.0-S0016510716306344&_issn=00165107&_user=12975512&md5=fc72910737157b73bc992c4755dd5610&ie=/excerpt.pdf pdfurl="/science?_ob=PdfExcerptURL&_imagekey=1-s2.0-S0016510716306344-main.pdf&_piikey=S0016510716306344&_cdi=273305&_orig=PublicationURL&_zone=rslt_list_item&_fmt=abst&_eid=1-s2.0-S0016510716306344&_issn=00165107&_user=12975512&md5=fc72910737157b73bc992c4755dd5610&ie=/excerpt.pdf target="_blank" class="firstPagePDF"><span id=1-s20-S0016510716306344-label>First page PDF</span></a></li><li><a aria-describedby="title_S0016510716306344"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S0016510716306344&_ts=1494959232&md5=008aa45cafdc1b6bc81f1a825289d728"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+</ul><div  id="abs_S0016510716306344" class="previewBox abstract hidden"></div><div  id="rabs_S0016510716306344" class="previewBox rabstract hidden"></div><div  id="gabs_S0016510716306344" class="previewBox gabstract hidden"></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_31" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S0016510716306423" aria-labelledby="title_S0016510716306423" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S0016510716306423" href="http://www.sciencedirect.com/science/article/pii/S0016510716306423" class="cLink artTitle S_C_artTitle " data-docsubtype="sco" queryStr="?_rdoc=32&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S0016510717X00060)&_docanchor=&_ct=45&md5=804160dc9679a1385ce5ed27a1c57b6d">Esophageal hemangiomatosis with chest CT revealing a fine, curvilinear, calcified thrombus within the esophagus simulating acute esophageal fishbone impaction: first reported endoscopic photograph of GI manifestations in Maffucci syndrome</a></h4></li><li class="source "><i>Pages 1293-1294</i></li><li class="authors ">Seifeldin Hakim, Tusar Desai, Mitchell S. Cappell</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li class="nojs"><a href=/science?_ob=PdfExcerptURL&_imagekey=1-s2.0-S0016510716306423-main.pdf&_piikey=S0016510716306423&_cdi=273305&_orig=PublicationURL&_zone=rslt_list_item&_fmt=abst&_eid=1-s2.0-S0016510716306423&_issn=00165107&_user=12975512&md5=da51f84155c36213a9b32fb7a32aeb95&ie=/excerpt.pdf pdfurl="/science?_ob=PdfExcerptURL&_imagekey=1-s2.0-S0016510716306423-main.pdf&_piikey=S0016510716306423&_cdi=273305&_orig=PublicationURL&_zone=rslt_list_item&_fmt=abst&_eid=1-s2.0-S0016510716306423&_issn=00165107&_user=12975512&md5=da51f84155c36213a9b32fb7a32aeb95&ie=/excerpt.pdf target="_blank" class="firstPagePDF"><span id=1-s20-S0016510716306423-label>First page PDF</span></a></li><li><a aria-describedby="title_S0016510716306423"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S0016510716306423&_ts=1494959232&md5=34730977e7e61a1739fde8088ead4baa"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+</ul><div  id="abs_S0016510716306423" class="previewBox abstract hidden"></div><div  id="rabs_S0016510716306423" class="previewBox rabstract hidden"></div><div  id="gabs_S0016510716306423" class="previewBox gabstract hidden"></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_32" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S0016510716303716" aria-labelledby="title_S0016510716303716" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S0016510716303716" href="http://www.sciencedirect.com/science/article/pii/S0016510716303716" class="cLink artTitle S_C_artTitle " data-docsubtype="sco" queryStr="?_rdoc=33&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S0016510717X00060)&_docanchor=&_ct=45&md5=db698c303b4a94db8db74bb24e4f2233">Foiled by coils: upper GI bleeding from a rare delayed adverse event of transarterial embolization</a></h4></li><li class="source "><i>Pages 1295-1296</i></li><li class="authors ">Corlan O. Adebajo, Irving Waxman, Christopher Chapman, Carol Semrad</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li class="nojs"><a href=/science?_ob=PdfExcerptURL&_imagekey=1-s2.0-S0016510716303716-main.pdf&_piikey=S0016510716303716&_cdi=273305&_orig=PublicationURL&_zone=rslt_list_item&_fmt=abst&_eid=1-s2.0-S0016510716303716&_issn=00165107&_user=12975512&md5=c7db0c9844ab4c1faedc455aa2a4a527&ie=/excerpt.pdf pdfurl="/science?_ob=PdfExcerptURL&_imagekey=1-s2.0-S0016510716303716-main.pdf&_piikey=S0016510716303716&_cdi=273305&_orig=PublicationURL&_zone=rslt_list_item&_fmt=abst&_eid=1-s2.0-S0016510716303716&_issn=00165107&_user=12975512&md5=c7db0c9844ab4c1faedc455aa2a4a527&ie=/excerpt.pdf target="_blank" class="firstPagePDF"><span id=1-s20-S0016510716303716-label>First page PDF</span></a></li><li><a aria-describedby="title_S0016510716303716"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S0016510716303716&_ts=1494959232&md5=95a1a64603b7921e2c51b11365c16f99"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+</ul><div  id="abs_S0016510716303716" class="previewBox abstract hidden"></div><div  id="rabs_S0016510716303716" class="previewBox rabstract hidden"></div><div  id="gabs_S0016510716303716" class="previewBox gabstract hidden"></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_33" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S0016510716306411" aria-labelledby="title_S0016510716306411" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S0016510716306411" href="http://www.sciencedirect.com/science/article/pii/S0016510716306411" class="cLink artTitle S_C_artTitle " data-docsubtype="sco" queryStr="?_rdoc=34&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S0016510717X00060)&_docanchor=&_ct=45&md5=70dd2251039348c3ccf416ef8f5c888a">ERCP for diagnosis and extraction of choledochal phytobezoar causing right upper quadrant abdominal pain and cholestasis in a patient without prior sphincterotomy or biliary instrumentation</a></h4></li><li class="source "><i>Pages 1296-1298</i></li><li class="authors ">Vincent Ganapini, Maryconi Jaurigue, Mitual Amin, Gehad Ghaith, Mitchell S. Cappell</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li class="nojs"><a href=/science?_ob=PdfExcerptURL&_imagekey=1-s2.0-S0016510716306411-main.pdf&_piikey=S0016510716306411&_cdi=273305&_orig=PublicationURL&_zone=rslt_list_item&_fmt=abst&_eid=1-s2.0-S0016510716306411&_issn=00165107&_user=12975512&md5=7d4f38bfbe703ea02d8d5c4c5b1d2b5f&ie=/excerpt.pdf pdfurl="/science?_ob=PdfExcerptURL&_imagekey=1-s2.0-S0016510716306411-main.pdf&_piikey=S0016510716306411&_cdi=273305&_orig=PublicationURL&_zone=rslt_list_item&_fmt=abst&_eid=1-s2.0-S0016510716306411&_issn=00165107&_user=12975512&md5=7d4f38bfbe703ea02d8d5c4c5b1d2b5f&ie=/excerpt.pdf target="_blank" class="firstPagePDF"><span id=1-s20-S0016510716306411-label>First page PDF</span></a></li><li><a aria-describedby="title_S0016510716306411"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S0016510716306411&_ts=1494959232&md5=3a23562b2bc1bd8dd1391ba00c82f788"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+</ul><div  id="abs_S0016510716306411" class="previewBox abstract hidden"></div><div  id="rabs_S0016510716306411" class="previewBox rabstract hidden"></div><div  id="gabs_S0016510716306411" class="previewBox gabstract hidden"></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_34" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S0016510716304448" aria-labelledby="title_S0016510716304448" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S0016510716304448" href="http://www.sciencedirect.com/science/article/pii/S0016510716304448" class="cLink artTitle S_C_artTitle " data-docsubtype="sco" queryStr="?_rdoc=35&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S0016510717X00060)&_docanchor=&_ct=45&md5=e1d686ce12557aa07b3ed0ff685d355d">Double-balloon assisted trans-anal ERCP in a patient with Roux-en-Y choledochojejunostomy</a></h4></li><li class="source "><i>Pages 1298-1299</i></li><li class="authors ">Rintaro Hashimoto, Tomoki Matsuda, Hayato Aoki, Toru Okuzono, Masato Nakahori</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li class="nojs"><a href=/science?_ob=PdfExcerptURL&_imagekey=1-s2.0-S0016510716304448-main.pdf&_piikey=S0016510716304448&_cdi=273305&_orig=PublicationURL&_zone=rslt_list_item&_fmt=abst&_eid=1-s2.0-S0016510716304448&_issn=00165107&_user=12975512&md5=b52a490efb031b4875bf6a4c3822e1f9&ie=/excerpt.pdf pdfurl="/science?_ob=PdfExcerptURL&_imagekey=1-s2.0-S0016510716304448-main.pdf&_piikey=S0016510716304448&_cdi=273305&_orig=PublicationURL&_zone=rslt_list_item&_fmt=abst&_eid=1-s2.0-S0016510716304448&_issn=00165107&_user=12975512&md5=b52a490efb031b4875bf6a4c3822e1f9&ie=/excerpt.pdf target="_blank" class="firstPagePDF"><span id=1-s20-S0016510716304448-label>First page PDF</span></a></li><li><a aria-describedby="title_S0016510716304448"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S0016510716304448&_ts=1494959232&md5=46810116e18a5ccd01151ea199eedd5e"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+</ul><div  id="abs_S0016510716304448" class="previewBox abstract hidden"></div><div  id="rabs_S0016510716304448" class="previewBox rabstract hidden"></div><div  id="gabs_S0016510716304448" class="previewBox gabstract hidden"></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_35" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S0016510716304436" aria-labelledby="title_S0016510716304436" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S0016510716304436" href="http://www.sciencedirect.com/science/article/pii/S0016510716304436" class="cLink artTitle S_C_artTitle " data-docsubtype="sco" queryStr="?_rdoc=36&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S0016510717X00060)&_docanchor=&_ct=45&md5=e1eb362a461deda9dc32738f77d52ef2">Successful treatment of a perforated duodenal ulcer with polyglycolic acid sheets</a></h4></li><li class="source "><i>Pages 1299-1300</i></li><li class="authors ">Yasuyuki Tanaka, Takeharu Nakamura, Shigehiko Fujii, Toshihiro Kusaka</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li class="nojs"><a href=/science?_ob=PdfExcerptURL&_imagekey=1-s2.0-S0016510716304436-main.pdf&_piikey=S0016510716304436&_cdi=273305&_orig=PublicationURL&_zone=rslt_list_item&_fmt=abst&_eid=1-s2.0-S0016510716304436&_issn=00165107&_user=12975512&md5=f784786a4f0541d3fb79961b1b557f4f&ie=/excerpt.pdf pdfurl="/science?_ob=PdfExcerptURL&_imagekey=1-s2.0-S0016510716304436-main.pdf&_piikey=S0016510716304436&_cdi=273305&_orig=PublicationURL&_zone=rslt_list_item&_fmt=abst&_eid=1-s2.0-S0016510716304436&_issn=00165107&_user=12975512&md5=f784786a4f0541d3fb79961b1b557f4f&ie=/excerpt.pdf target="_blank" class="firstPagePDF"><span id=1-s20-S0016510716304436-label>First page PDF</span></a></li><li><a aria-describedby="title_S0016510716304436"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S0016510716304436&_ts=1494959232&md5=61419373ee8e3faf933810fe1cda5c9e"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+</ul><div  id="abs_S0016510716304436" class="previewBox abstract hidden"></div><div  id="rabs_S0016510716304436" class="previewBox rabstract hidden"></div><div  id="gabs_S0016510716304436" class="previewBox gabstract hidden"></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_36" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S0016510716304771" aria-labelledby="title_S0016510716304771" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S0016510716304771" href="http://www.sciencedirect.com/science/article/pii/S0016510716304771" class="cLink artTitle S_C_artTitle " data-docsubtype="sco" queryStr="?_rdoc=37&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S0016510717X00060)&_docanchor=&_ct=45&md5=d85f8b9f56379602de136723cd47a4a6">Pseudoinvasion appearing as a deeply invasive malignant colorectal polyp</a></h4></li><li class="source "><i>Pages 1301-1302</i></li><li class="authors ">Eelco C. Brand, Raouf E. Nakhleh, Michael B. Wallace</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li class="nojs"><a href=/science?_ob=PdfExcerptURL&_imagekey=1-s2.0-S0016510716304771-main.pdf&_piikey=S0016510716304771&_cdi=273305&_orig=PublicationURL&_zone=rslt_list_item&_fmt=abst&_eid=1-s2.0-S0016510716304771&_issn=00165107&_user=12975512&md5=633f97432f66ba46e05073e14d78d3f4&ie=/excerpt.pdf pdfurl="/science?_ob=PdfExcerptURL&_imagekey=1-s2.0-S0016510716304771-main.pdf&_piikey=S0016510716304771&_cdi=273305&_orig=PublicationURL&_zone=rslt_list_item&_fmt=abst&_eid=1-s2.0-S0016510716304771&_issn=00165107&_user=12975512&md5=633f97432f66ba46e05073e14d78d3f4&ie=/excerpt.pdf target="_blank" class="firstPagePDF"><span id=1-s20-S0016510716304771-label>First page PDF</span></a></li><li><a aria-describedby="title_S0016510716304771"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S0016510716304771&_ts=1494959232&md5=209001eeb6de326e2ebf9b60fb63120d"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+</ul><div  id="abs_S0016510716304771" class="previewBox abstract hidden"></div><div  id="rabs_S0016510716304771" class="previewBox rabstract hidden"></div><div  id="gabs_S0016510716304771" class="previewBox gabstract hidden"></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_37" class="resultsView"></div><div class="subHeadsBlock heading1" ><h2 class="sectionH1">Featured Videos</h2></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S0016510717301165" aria-labelledby="title_S0016510717301165" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S0016510717301165" href="http://www.sciencedirect.com/science/article/pii/S0016510717301165" class="cLink artTitle S_C_artTitle " data-docsubtype="sco" queryStr="?_rdoc=38&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S0016510717X00060)&_docanchor=&_ct=45&md5=f01c41a17a14d927b5f21415c8ff631a"><img src="http://ars.els-cdn.com/content/image/1-s2.0-S0016510717301165-video_s.gif" class="charImg" alt="Online video" title="Online video"/>Overtube-assisted pneumatic dilation for achalasia in megaesophagus</a></h4></li><li class="source "><i>Pages 1303-1304</i></li><li class="authors ">Tejas Kirtane, Bharat Bhandari, Larry D. Scott, Shashideep Singhal</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li class="nojs"><a href=/science?_ob=PdfExcerptURL&_imagekey=1-s2.0-S0016510717301165-main.pdf&_piikey=S0016510717301165&_cdi=273305&_orig=PublicationURL&_zone=rslt_list_item&_fmt=abst&_eid=1-s2.0-S0016510717301165&_issn=00165107&_user=12975512&md5=77c5830015f3d90bd05deddac8d6bdca&ie=/excerpt.pdf pdfurl="/science?_ob=PdfExcerptURL&_imagekey=1-s2.0-S0016510717301165-main.pdf&_piikey=S0016510717301165&_cdi=273305&_orig=PublicationURL&_zone=rslt_list_item&_fmt=abst&_eid=1-s2.0-S0016510717301165&_issn=00165107&_user=12975512&md5=77c5830015f3d90bd05deddac8d6bdca&ie=/excerpt.pdf target="_blank" class="firstPagePDF"><span id=1-s20-S0016510717301165-label>First page PDF</span></a></li><li><a aria-describedby="title_S0016510717301165"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S0016510717301165&_ts=1494959232&md5=86612a524fb73cd42717ac9c4191f35c"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+<li><a id ="title_S0016510717301165" href="http://www.sciencedirect.com/science/article/pii/S0016510717301165#MMCvFirst" class="mmcLinkSprite" cLink S_C_artTitle " data-docsubtype="sco" queryStr="?_rdoc=38&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S0016510717X00060)&_docanchor=&_ct=45&md5=f01c41a17a14d927b5f21415c8ff631a"><span class="mmcTxt">Supplementary content</span></a></li></ul><div  id="abs_S0016510717301165" class="previewBox abstract hidden"></div><div  id="rabs_S0016510717301165" class="previewBox rabstract hidden"></div><div  id="gabs_S0016510717301165" class="previewBox gabstract hidden"></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_38" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S0016510717318278" aria-labelledby="title_S0016510717318278" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S0016510717318278" href="http://www.sciencedirect.com/science/article/pii/S0016510717318278" class="cLink artTitle S_C_artTitle " data-docsubtype="sco" queryStr="?_rdoc=39&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S0016510717X00060)&_docanchor=&_ct=45&md5=005f0d6691bc2cd66df6b507de269715"><img src="http://ars.els-cdn.com/content/image/1-s2.0-S0016510717318278-video_s.gif" class="charImg" alt="Online video" title="Online video"/>Salvage resection of recurrent polyp after polypectomy on the colorectal anastomosis using endoscopic submucosal dissection</a></h4></li><li class="source "><i>Pages 1305-1306</i></li><li class="authors ">Michiko Wada, Motohiko Kato, Yuichiro Hirai, Toshio Uraoka</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li class="nojs"><a href=/science?_ob=PdfExcerptURL&_imagekey=1-s2.0-S0016510717318278-main.pdf&_piikey=S0016510717318278&_cdi=273305&_orig=PublicationURL&_zone=rslt_list_item&_fmt=abst&_eid=1-s2.0-S0016510717318278&_issn=00165107&_user=12975512&md5=47fa850f84361fd207cb3b14026c38bf&ie=/excerpt.pdf pdfurl="/science?_ob=PdfExcerptURL&_imagekey=1-s2.0-S0016510717318278-main.pdf&_piikey=S0016510717318278&_cdi=273305&_orig=PublicationURL&_zone=rslt_list_item&_fmt=abst&_eid=1-s2.0-S0016510717318278&_issn=00165107&_user=12975512&md5=47fa850f84361fd207cb3b14026c38bf&ie=/excerpt.pdf target="_blank" class="firstPagePDF"><span id=1-s20-S0016510717318278-label>First page PDF</span></a></li><li><a aria-describedby="title_S0016510717318278"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S0016510717318278&_ts=1494959232&md5=c5cd6507f0255891ec90c37e9a841048"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+<li><a id ="title_S0016510717318278" href="http://www.sciencedirect.com/science/article/pii/S0016510717318278#MMCvFirst" class="mmcLinkSprite" cLink S_C_artTitle " data-docsubtype="sco" queryStr="?_rdoc=39&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S0016510717X00060)&_docanchor=&_ct=45&md5=005f0d6691bc2cd66df6b507de269715"><span class="mmcTxt">Supplementary content</span></a></li></ul><div  id="abs_S0016510717318278" class="previewBox abstract hidden"></div><div  id="rabs_S0016510717318278" class="previewBox rabstract hidden"></div><div  id="gabs_S0016510717318278" class="previewBox gabstract hidden"></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_39" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S001651071731828X" aria-labelledby="title_S001651071731828X" style="padding-left:6px;"></li><li class="title oaBlock"><h4><a id ="title_S001651071731828X" href="http://www.sciencedirect.com/science/article/pii/S001651071731828X" class="cLink artTitle S_C_artTitle " data-docsubtype="sco" queryStr="?_rdoc=40&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S0016510717X00060)&_docanchor=&_ct=45&md5=41551a2237d54a34c38ad8797e525523"><img src="http://ars.els-cdn.com/content/image/1-s2.0-S001651071731828X-video_s.gif" class="charImg" alt="Online video" title="Online video"/>The effectiveness of intraductal ultrasonography for cystic duct cannulation</a></h4></li><li class="source oaBlock"><i>Pages 1307-1308</i></li><li class="authors oaBlock">Kenji Hayasaka, Hideaki Harada, Takanori Shimizu, Satoshi Suehiro, Yasushi Katsuyama</li><li class="external "><div class="txt external oaBlock"><ul class="extLinkBlock extLinkBlockJrnl"><li><a class="cLink" rel="nofollow" aria-describedby="title_S001651071731828X" href="/science/article/pii/S001651071731828X/pdfft?md5=c675b439e8590d52e76418569e366a5d&pid=1-s2.0-S001651071731828X-main.pdf" queryStr="?_origin=PublicationURL&_zone=rslt_list_item" target="_blank"><span class="pdfIconSmall">&nbsp;</span>PDF (649 K)</a></li>
+<li><a id ="title_S001651071731828X" href="http://www.sciencedirect.com/science/article/pii/S001651071731828X#MMCvFirst" class="mmcLinkSprite" cLink S_C_artTitle " data-docsubtype="sco" queryStr="?_rdoc=40&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S0016510717X00060)&_docanchor=&_ct=45&md5=41551a2237d54a34c38ad8797e525523"><span class="mmcTxt">Supplementary content</span></a></li></ul><div  id="abs_S001651071731828X" class="previewBox abstract hidden"></div><div  id="rabs_S001651071731828X" class="previewBox rabstract hidden"></div><div  id="gabs_S001651071731828X" class="previewBox gabstract hidden"></div></div></li><li class="accessBlock colLast"><span class="iconPosition" title="Open Access Article" alt="Open Access Article">Open Access&nbsp;<span class="offscreen">Open Access Article</span><span class="dsprite_oaIcon">&nbsp;</span></span></li></ul></li><div id="resultsView_40" class="resultsView"></div><div class="subHeadsBlock heading1" ><h2 class="sectionH1">Letters to the Editor</h2></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S0016510716308951" aria-labelledby="title_S0016510716308951" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S0016510716308951" href="http://www.sciencedirect.com/science/article/pii/S0016510716308951" class="cLink artTitle S_C_artTitle " data-docsubtype="cor" queryStr="?_rdoc=41&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S0016510717X00060)&_docanchor=&_ct=45&md5=d302b9e3f641c4908d7a3c3ca4e4a198">Learning curve for EMR of large nonpolypoid colorectal neoplasia: an alternative analysis method using longitudinal models</a></h4></li><li class="source "><i>Pages 1309-1310</i></li><li class="authors ">Saurabh Chawla, Emad Qayed</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a aria-describedby="title_S0016510716308951"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S0016510716308951&_ts=1494959232&md5=66d6fabe828c560cf6161729c6b1e42e"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+</ul><div  id="abs_S0016510716308951" class="previewBox abstract hidden"></div><div  id="rabs_S0016510716308951" class="previewBox rabstract hidden"></div><div  id="gabs_S0016510716308951" class="previewBox gabstract hidden"></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_41" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S0016510717300226" aria-labelledby="title_S0016510717300226" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S0016510717300226" href="http://www.sciencedirect.com/science/article/pii/S0016510717300226" class="cLink artTitle S_C_artTitle " data-docsubtype="cor" queryStr="?_rdoc=42&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S0016510717X00060)&_docanchor=&_ct=45&md5=883e26a5f68214505c703d1a12cb6b0a">Fecal immunochemical testing for colorectal cancer and medication restrictions</a></h4></li><li class="source "><i>Pages 1310-1311</i></li><li class="authors ">Vincent Baty</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a aria-describedby="title_S0016510717300226"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S0016510717300226&_ts=1494959232&md5=2e83b7e77e130d43b12cd5ccab01d447"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+</ul><div  id="abs_S0016510717300226" class="previewBox abstract hidden"></div><div  id="rabs_S0016510717300226" class="previewBox rabstract hidden"></div><div  id="gabs_S0016510717300226" class="previewBox gabstract hidden"></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_42" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S0016510717301037" aria-labelledby="title_S0016510717301037" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S0016510717301037" href="http://www.sciencedirect.com/science/article/pii/S0016510717301037" class="cLink artTitle S_C_artTitle " data-docsubtype="cor" queryStr="?_rdoc=43&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S0016510717X00060)&_docanchor=&_ct=45&md5=5e10f09456fb6da812de82d9f089e3c7">Response</a></h4></li><li class="source "><i>Page 1311</i></li><li class="authors ">Douglas J. Robertson, Jeffrey K. Lee</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a aria-describedby="title_S0016510717301037"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S0016510717301037&_ts=1494959232&md5=5e9a8f78f3d37baca45541c1716b3772"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+</ul><div  id="abs_S0016510717301037" class="previewBox abstract hidden"></div><div  id="rabs_S0016510717301037" class="previewBox rabstract hidden"></div><div  id="gabs_S0016510717301037" class="previewBox gabstract hidden"></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_43" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S0016510717301050" aria-labelledby="title_S0016510717301050" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S0016510717301050" href="http://www.sciencedirect.com/science/article/pii/S0016510717301050" class="cLink artTitle S_C_artTitle " data-docsubtype="cor" queryStr="?_rdoc=44&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S0016510717X00060)&_docanchor=&_ct=45&md5=30848bad767f8beb74515dd61c3c9661">Diagnosis of autoimmune pancreatitis using new, flexible EUS core biopsy needles: report of 2 cases</a></h4></li><li class="source "><i>Pages 1311-1312</i></li><li class="authors ">Thomas M. Runge, Phil A. Hart, Elizaburo Sasatomi, Todd H. Baron</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a aria-describedby="title_S0016510717301050"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S0016510717301050&_ts=1494959232&md5=6db5253e3c00065f0d04e87ae6edb544"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+</ul><div  id="abs_S0016510717301050" class="previewBox abstract hidden"></div><div  id="rabs_S0016510717301050" class="previewBox rabstract hidden"></div><div  id="gabs_S0016510717301050" class="previewBox gabstract hidden"></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_44" class="resultsView"></div><div class="subHeadsBlock heading1" ><h2 class="sectionH1">Erratum</h2></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S0016510717318254" aria-labelledby="title_S0016510717318254" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S0016510717318254" href="http://www.sciencedirect.com/science/article/pii/S0016510717318254" class="cLink artTitle S_C_artTitle " data-docsubtype="err" queryStr="?_rdoc=45&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S0016510717X00060)&_docanchor=&_ct=45&md5=03140ee9c3fc3e6f4feddc661d2fe17f">Erratum</a></h4></li><li class="source "><i>Page 1312</i></li><li class="authors "></li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a class="cLink" rel="nofollow" aria-describedby="title_S0016510717318254" href="/science/article/pii/S0016510717318254/pdfft?md5=d81fe6481c7eccc1eb268cd6404f1a1f&pid=1-s2.0-S0016510717318254-main.pdf" queryStr="?_origin=PublicationURL&_zone=rslt_list_item" target="_blank"><span class="pdfIconSmall">&nbsp;</span>PDF (1190 K)</a></li>
+</ul><div  id="abs_S0016510717318254" class="previewBox abstract hidden"></div><div  id="rabs_S0016510717318254" class="previewBox rabstract hidden"></div><div  id="gabs_S0016510717318254" class="previewBox gabstract hidden"></div></div></li><li class="accessBlock colLast"><span class="dsub_article_sci_dir sci_dir" title="Entitled to full text" alt="Entitled to full text">&nbsp;<span class="offscreen">Entitled to full text</span></span></li></ul></li><div id="resultsView_45" class="resultsView"></div></ol></div></div>
+    
+
+
+    <input type="hidden" name="count" value="45">
+
+
+
+
+</div>
+</form>
+
+<script>prs.rt("pcr");</script>
+
+
+                      
+                        <div class="navigation top" aria-label="Pagination" role="navigation">
+                          <!-- Page Navigation -->
+<input type="hidden" name="bottomPaginationBoxChanged" value=""/>
+<input type="hidden" id="vectorNext" name="vectorNext" value=""/>
+<input type="hidden" id="vectorPrev" name="vectorPrev" value=""/>
+<div class="paginationBar">
+  
+  
+    Articles <b>1 - 45</b>
+  
+  </div>
+
+                        </div> 
+                        <div class="navigation" aria-label="Pagination" role="navigation">
+                          <!-- Page Navigation -->
+<input type="hidden" name="bottomPaginationBoxChanged" value=""/>
+<input type="hidden" id="vectorNext" name="vectorNext" value=""/>
+<input type="hidden" id="vectorPrev" name="vectorPrev" value=""/>
+<div class="paginationBar">
+  
+  
+    Articles <b>1 - 45</b>
+  
+  </div>
+
+                        </div>
+                      
+                      </div>
+                    </div> <!-- end of issueList -->
+                
+                    
+                <ul class="volumePage navigation">
+                
+                    
+                    <li>
+                    
+                    <a title="Previous volume/issue" class="ActionButton" href="/science/journal/00165107/85/5">&lt; Previous vol/iss</a>
+                    
+                    </li>
+                    <li>
+                    
+                      <a title="Next volume/issue" class="ActionButton" href="/science/journal/aip/00165107">Next vol/iss &gt;</a>
+                    
+                    </li>
+                    
+                
+                </ul>
+                <div style="clear:both"></div>
+            </div>
+            <!-- ECRED  -->
+
+<!-- ECRED -->
+
+
+ 
+            
+    
+
+ </div><!-- width100% -->
+</div><!-- sdHeader -->
+
+<!-- <div id="sdpa"></div> -->
+
+    
+       <div class="ccs-component">
+    
+        <div class="Footer" role="contentinfo"><div class="els-footer"><div class="els-footer-body"><a class="els-footer-elsevier" href="http://www.elsevier.com/" rel="nofollow" target="_blank"><span class="ccs-icon svg-wordmark-elsevier" aria-label="Elsevier"><span class="svg-text">Elsevier</span></span></a><div class="els-footer-content"><div class="els-footer-links"><a class="link-inherit" href="http://www.elsevier.com/solutions/sciencedirect" rel="nofollow" target="_blank">About ScienceDirect</a><wbr/><a class="link-inherit" href="/science/activateaccess" rel="nofollow" target="_blank">Remote access</a><wbr/><a class="link-inherit" href="/science?_ob=ShoppingCartURL&amp;_method=display&amp;_zone=TopNavBar&amp;_origin=publicationurl&amp;md5=f795ebb7043da9fdff66dbc72a1c68c8" rel="nofollow" target="_blank">Shopping cart</a><wbr/><a class="link-inherit" href="https://service.elsevier.com/app/contact/supporthub/sciencedirect/" rel="nofollow" target="_blank">Contact and support</a><wbr/><a class="link-inherit" href="https://www.elsevier.com/legal/elsevier-website-terms-and-conditions" rel="nofollow" target="_blank">Terms and conditions</a><wbr/><a class="link-inherit" href="http://www.elsevier.com/legal/privacy-policy" rel="nofollow" target="_blank">Privacy policy</a></div><div class="els-footer-cookie">Cookies are used by this site. For more information, visit the <a class="link-blue" href="https://www.elsevier.com/solutions/sciencedirect/support/cookies" rel="nofollow" target="_blank">cookies page</a>.</div><div class="els-footer-copyright">Copyright © <span class="copyright-year">2017</span> Elsevier B.V. or its licensors or contributors. ScienceDirect ® is a registered trademark of Elsevier B.V.</div></div></div><div class="els-footer-relx-group"><a class="els-footer-relx" href="http://www.relx.com/" rel="nofollow" target="_blank"><span class="ccs-icon svg-wordmark-relx-group" aria-label="RELX Group"><span class="svg-text">RELX Group</span></span></a></div></div></div> 
+       </div>
+
+
+<div style="display:none" id="leaderboard2"><script type="text/javascript">
+	
+googletag.cmd.push(function() {
+
+	
+	
+//Adslot 1 declaration
+		
+gptadslots[1]= googletag.defineSlot('/6053/els.sdguest/ISSN00165107', [[728,90]],'leaderboard2').addService(googletag.pubads());
+
+		
+//Adslot 2 declaration
+		
+gptadslots[2]= googletag.defineSlot('/6053/els.sdguest/ISSN00165107', [[160,600]],'skyscraper2').addService(googletag.pubads());
+
+		
+googletag.pubads().collapseEmptyDivs();
+		
+googletag.pubads().enableAsyncRendering();
+		
+googletag.enableServices();
+	
+});
+
+</script>
+
+<!-- End: GPT -->
+
+<!-- Beginning Async AdSlot 1 for Ad unit els.sdgust/ISSN00165107  ### size: [[728,90]] -->
+
+<!-- Adslot's refresh function: googletag.pubads().refresh([gptadslots[1]]) -->
+
+<script type='text/javascript'>
+
+  var lbZone = document.getElementById('leaderboard');
+  var lbContent = document.getElementById('leaderboard2');
+  if(lbZone && lbContent) {
+    lbZone.appendChild(lbContent);
+  }
+		
+googletag.cmd.push(function() { googletag.display('leaderboard2'); });
+	
+</script>
+
+<!-- End AdSlot 1 --></div>
+<div style="display:none" id="skyscraper2"><!-- Beginning Async AdSlot 2 for Ad unit els.sdgust/ISSN00165107  ### size: [[160,600]] -->
+
+<!-- Adslot's refresh function: googletag.pubads().refresh([gptadslots[2]]) -->
+
+<script type='text/javascript'>
+  var skyZone = document.getElementById('skyscraper');
+  var skyContent = document.getElementById('skyscraper2');
+  if(skyZone && skyContent) {
+    skyZone.appendChild(skyContent);
+  }
+		
+googletag.cmd.push(function() { googletag.display('skyscraper2'); });
+	
+</script>
+
+
+<!-- End AdSlot 2 --></div>
+
+<script>
+var SDM = new Object;
+SDM.si = new Object;
+SDM.si.sds = "7c6a89c481b22b2e2b76133575430ab6b7739eea0ab71197410034ba2866eeaab1f022090b8b34deb4550c9df44c8e64";
+
+SDM.tid = "3e28273a-3a65-11e7-888d-00000aacb361";
+SDM.ep = new Object();
+SDM.ep.urlPrefix = "http://www.sciencedirect.com/science";
+SDM.ep.enableUsabillaMsg = "Y";
+SDM.ep.urlQualifier = "science";
+SDM.ieVersion="8";
+SDM.pageTransKey = "05/16/2017 14:26:56 EDT#2849_006#60418#95.30.38.0";
+SDM.pageType = "pubhome_j";
+SDM.ud = "12975512||C000228598|291352|GUEST";
+
+SDM.pf = new Object();
+SDM.pf.ddm = new Object();
+SDM.pf.ddm.endpoint = "";
+
+
+
+ 
+     SDM.isHome = false;
+ 
+ SDM.isSDTechHeader = true;
+
+
+
+
+SDPA.init();
+
+
+Ads.init();
+
+</script>
+
+<script type="text/javascript">/*{literal}<![CDATA[*/window.lightningjs||function(c){function g(b,d){d&&(d+=(/\?/.test(d)?"&":"?")+"lv=1");c[b]||function(){var i=window,h=document,j=b,g=h.location.protocol,l="load",k=0;(function(){function b(){a.P(l);a.w=1;c[j]("_load")}c[j]=function(){function m(){m.id=e;return c[j].apply(m,arguments)}var b,e=++k;b=this&&this!=i?this.id||0:0;(a.s=a.s||[]).push([e,b,arguments]);m.then=function(b,c,h){var d=a.fh[e]=a.fh[e]||[],j=a.eh[e]=a.eh[e]||[],f=a.ph[e]=a.ph[e]||[];b&&d.push(b);c&&j.push(c);h&&f.push(h);return m};return m};var a=c[j]._={};a.fh={};a.eh={};a.ph={};a.l=d?d.replace(/^\/\//,(g=="https:"?g:"http:")+"//"):d;a.p={0:+new Date};a.P=function(b){a.p[b]=new Date-a.p[0]};a.w&&b();i.addEventListener?i.addEventListener(l,b,!1):i.attachEvent("on"+l,b);var q=function(){function b(){return["<head></head><",c,' onload="var d=',n,";d.getElementsByTagName('head')[0].",d,"(d.",g,"('script')).",i,"='",a.l,"'\"></",c,">"].join("")}var c="body",e=h[c];if(!e)return setTimeout(q,100);a.P(1);var d="appendChild",g="createElement",i="src",k=h[g]("div"),l=k[d](h[g]("div")),f=h[g]("iframe"),n="document",p;k.style.display="none";e.insertBefore(k,e.firstChild).id=o+"-"+j;f.frameBorder="0";f.id=o+"-frame-"+j;/MSIE[ ]+6/.test(navigator.userAgent)&&(f[i]="javascript:false");f.allowTransparency="true";l[d](f);try{f.contentWindow[n].open()}catch(s){a.domain=h.domain,p="javascript:var d="+n+".open();d.domain='"+h.domain+"';",f[i]=p+"void(0);"}try{var r=f.contentWindow[n];r.write(b());r.close()}catch(t){f[i]=p+'d.write("'+b().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};a.l&&setTimeout(q,0)})()}();c[b].lv="1";return c[b]}var o="lightningjs",k=window[o]=g(o);k.require=g;k.modules=c}({});
+window.usabilla_live = lightningjs.require("usabilla_live", "//w.usabilla.com/11e800d34be0.js");
+/*]]>{/literal}*/
+if(typeof SDM != "undefined") {
+  if(SDM.ud) { usabilla_live("data", {"custom": {"ud":SDM.ud} }); }
+  if(SDM.pf&&SDM.pf.oa) {
+    if(SDM.pf.oa.item) { usabilla_live("data", {"custom": {"open_access":SDM.pf.oa.item} });}
+    if(SDM.pf.oa.archive) { usabilla_live("data", {"custom": {"open_archive":SDM.pf.oa.archive} });}
+  }
+  if(SDM.pm&&SDM.pm.mod_cid) {
+    usabilla_live("data", {"custom": {"refmod_article":true} });
+  }
+  else {usabilla_live("data", {"custom": {"refmod_article":false} });}
+}
+</script>
+<script>
+function tmp_removeCite() {
+    if ($('#cited_by_articles').length) {
+    if (SDM.pm != undefined) {
+        if (SDM.pm.issnisbn == '23528478') {
+            $('#cited_by_articles').hide();
+            } 
+        } 
+    }
+}
+
+function tmp_removeCiteCounter(c) {
+    if ($('#cited_by_articles').length) {
+        tmp_removeCite();
+    }
+    else if (c>30) {
+        return;
+    }
+    else {
+        c++;
+        setTimeout(function() {tmp_removeCiteCounter(c);}, 200);
+    }
+}
+tmp_removeCiteCounter(1);  
+</script>
+
+
+<script src="//assets.adobedtm.com/376c5346e33126fdb6b2dbac81e307cbacfd7935/satelliteLib-b7cfe8df39a4e5eec5536bba80e13f4b6fa0dd7c.js"></script>
+<script>
+
+
+var pageData=new Object;
+
+var page=new Object;
+page["businessUnit"]="ELS:RP:ST";
+page["isProduction"]="true";
+page["language"]="en";
+page["name"]="browse:journal";
+page["productName"]="SD";
+page["environment"]="prod";
+page["noTracking"]="false";
+page["loadTime"]="";
+page["loadTimestamp"]=Date.now().toString();
+page["type"]="pubhome_j";
+pageData["page"]=page;
+
+var visitor=new Object;
+visitor["accessType"]="ae:ANON-GUEST";
+visitor["accountId"]="ae:228598";
+visitor["accountName"]="ae:ScienceDirect Guests";
+
+visitor["industry"]="";
+visitor["ipAddress"]="95.30.38.0";
+visitor["loginStatus"]="";
+visitor["sisId"]="";
+
+visitor["userId"]="ae:12975512";
+pageData["visitor"]=visitor;
+
+
+
+function getPageLoadTime()
+{ 
+    returnValue = '';
+    if (typeof(performance) !== 'undefined' && typeof(performance.timing) == 'object')
+    {
+        timing = performance.timing;
+        startTime = timing.redirectStart || timing.fetchStart || timing.requestStart;
+        endTime = timing.domContentLoadedEventEnd || timing.domInteractive || timing.domComplete || timing.loadEventComplete;
+        if (startTime && endTime && startTime < endTime) returnValue = endTime - startTime;
+    }
+    return returnValue.toString();
+}
+
+$(document).ready(function()
+{
+    if( typeof(pageData) != 'undefined' && typeof(pageData["page"]) != 'undefined' && typeof(pageData["page"]["loadTime"]) != 'undefined' )
+    {
+        pageData["page"]["loadTime"]=getPageLoadTime();
+    }
+}
+);
+
+
+try { pageDataTracker.trackPageLoad(); }
+catch(e) { console.warn("There was an error loading or running Adobe DTM:\r\n ", e); }
+</script>
+
+
+
+<script src="//sdfestaticassets-us-east-1.sciencedirectassets.com/prod/ce6a74e3c87c96230cf658ad64ddc24394585c0c/client.js"></script>
+
+
+        </div>
+        
+    </div> 
+
+    <div style="clear:both"></div>
+    
+</div>
+<div id="appBackground"></div>
+<div id="appDialog" class="files">
+    <div id="header">
+     <div class="pdfSearchHeading"> Download PDFs
+    <span class="close" id="closeBtn" href = "#" title = "Close Search Results " alt="Close Search Results"><img src="http://cdn.els-cdn.com/sd/sci_dir/closeButton.png"></span>
+    </div></div>
+    <div id="contentBlk" class="view">
+        <div class="help_button" id="ddmMainHelp"><a class="ddmHelp" target="sdhelp" href="/science?_ob=HelpURL&_file=DM_main.htm&_btn=Y&_zone=TopNavBar&_origin=journal" title="Help (Opens new window)" onClick="var helpWin; helpWin=window.open('/science?_ob=HelpURL&_file=DM_main.htm&_btn=Y&_zone=TopNavBar&_origin=journal','sdhelp','scrollbars=yes,resizable=yes,directories=no,toolbar=no,menubar=no,status=no,width=984,height=738'); helpWin.focus(); return false">Help</a></div>
+        <div class="help_button" id="ddmNewformatHelp"><a class="ddmHelp" target="sdhelp" href="/science?_ob=HelpURL&_file=DM_newformat.htm&_btn=Y&_zone=TopNavBar&_origin=journal" title="Help (Opens new window)" onClick="var helpWin; helpWin=window.open('/science?_ob=HelpURL&_file=DM_newformat.htm&_btn=Y&_zone=TopNavBar&_origin=journal','sdhelp','scrollbars=yes,resizable=yes,directories=no,toolbar=no,menubar=no,status=no,width=984,height=738'); helpWin.focus(); return false">Help</a></div>
+        <div id="filesTemplate"></div>
+        <div id="namingTemplate"></div> 
+    </div>
+    <div class="footer"></div>
+</div>
+
+</body>
+</html>

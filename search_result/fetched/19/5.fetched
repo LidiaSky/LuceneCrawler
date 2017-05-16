@@ -1,0 +1,1008 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<!--
+<script>
+  var JDM=new Object;
+JDM.dac=new Object;
+JDM.pm=new Object;
+JDM.ep=new Object;
+JDM.pf = new Object;
+JDM.pf.dc = new Object;
+
+JDM.pf.dc.respObj = '';
+JDM.pf.dc.retry = 5;
+JDM.pf.dc.retryDelay = 300;
+JDM.pf.dc.retryFactor = 1.0;
+JDM.pf.crawler = false;
+
+JDM.pm.cid = '';
+JDM.pm.issn = '18761070';
+JDM.pm.allowVIA = '';
+JDM.pm.contentType = '';
+JDM.pm.newStructure = false;
+
+JDM.ep.urlPrefix = "http://www.sciencedirect.com/science";
+
+</script> -->
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<script language="javascript">
+
+var exportAvail=true;
+
+ 
+var exportBook=false;
+
+
+var prodImagePath = "sci_dir";
+
+
+gigyaLib="//cdn.gigya.com/JS/socialize.js?apiKey=3__Bt7bHrGM8mjKPwBuOVjWyMi678aF6-PewcnoHJJ6UR1fS5t9NG9RBbKHjE0oA6J";
+
+blk_all_social_logins="Y";
+BROWSER_SPECIFIC_USR_MSG=true;
+var buildTitleFilter=false;
+
+SD_System_Msg=false;
+</script>
+
+<script>(function() {var scriptTag = document.createElement('script'); 
+scriptTag.type = 'text/javascript';scriptTag.async = true;
+scriptTag.src = '//cdn.optimizely.com/js/204774041.js';
+var head = document.getElementsByTagName('head')[0];
+head.parentNode.insertBefore(scriptTag, head);
+})();function optimizelyTimeout() {
+window.optimizely = window.optimizely|| []; 
+if(!window.optimizely.data) {
+window.optimizely.push("timeout"); } }
+setTimeout(optimizelyTimeout, 1000); </script>
+
+<!-- Start: GPT Async -->
+<script type='text/javascript'>
+	
+var gptadslots=[];
+	
+var googletag = googletag || {};
+	
+googletag.cmd = googletag.cmd || [];
+	
+(function(){ var gads = document.createElement('script');
+		
+gads.async = true; gads.type = 'text/javascript';
+		
+var useSSL = 'https:' == document.location.protocol;
+		
+gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+		
+var node = document.getElementsByTagName('script')[0];
+		
+node.parentNode.insertBefore(gads, node);
+	})();
+
+</script>
+<!-- TRANSKEY: 05/16/2017 14:29:16 EDT#1850_006#162500#95.30.38.0 -->
+<meta name="robots" content="NOARCHIVE">
+<meta name="robots" content="noodp" />
+<meta name="robots" content="noydir" />
+<link rel="shortcut icon" href="http://cdn.els-cdn.com/sd/favSD.ico" type="image/x-icon">
+<link rel="stylesheet" Title="Default Styles" href="//sdfestaticassets-us-east-1.sciencedirectassets.com/prod/ce6a74e3c87c96230cf658ad64ddc24394585c0c/style.css" type="text/css">
+
+
+   <style type="text/css">
+.nojs { display: none;}
+</style>
+
+<script type="text/javascript">
+
+if (/MSIE (\d+\.\d+);/.test(navigator.userAgent)){
+document.styleSheets[document.styleSheets.length-1].rules[0].style["display"] = "";
+} else{
+document.styleSheets[document.styleSheets.length-1].cssRules[0].style["display"] = "";
+}
+
+</script>
+
+
+
+
+<link rel="stylesheet" Title="Default Styles" href="http://cdn.els-cdn.com/sd/css/css_gen_v01_1704R5.css" type="text/css">
+<!--[if  IE 7]>
+<link rel="stylesheet" Title="Default Styles" href="http://cdn.els-cdn.com/sd/css/css_gen_ie7_v01_1704R5.css" type="text/css">
+<![endif]-->
+<!--[if lte IE 6]>
+<link rel="stylesheet" Title="Default Styles" href="http://cdn.els-cdn.com/sd/css/css_gen_ie6_v01_1704R5.css" type="text/css">
+<![endif]-->
+<link rel="stylesheet" href="http://cdn.els-cdn.com/sd/css/jquery-ui_1704R5.css" type="text/css">
+<link rel="stylesheet" href="http://cdn.els-cdn.com/sd/css/commonSprite_1704R5.css" type="text/css">
+
+<!--[if lt IE 9]>
+<link rel="stylesheet" Title="Default Styles" href="http://cdn.els-cdn.com/sd/css/css_gen_ielt9_1704R5.css" type="text/css">
+<![endif]-->
+
+
+<!--[if lt IE 7]>
+<script src="http://ie7-js.googlecode.com/svn/version/2.0(beta3)/IE7.js" 
+ type="text/javascript">
+</script>
+<script src="http://ie7-js.googlecode.com/svn/version/2.0(beta3)/IE7-squish.js" 
+ type="text/javascript">
+</script>
+<![endif]-->
+<script> 
+var SDM=new Object;
+SDM.ep = new Object;
+SDM.ep.mendeleyJS = "https://www.mendeley.com/minified/bookmarklet.js";
+</script>
+<script>
+  var JDM=new Object;
+JDM.dac=new Object;
+JDM.pm=new Object;
+JDM.ep=new Object;
+JDM.pf = new Object;
+JDM.pf.dc = new Object;
+
+JDM.pf.dc.respObj = '';
+JDM.pf.dc.retry = 5;
+JDM.pf.dc.retryDelay = 300;
+JDM.pf.dc.retryFactor = 1.0;
+JDM.pf.crawler = false;
+
+JDM.pm.cid = '';
+JDM.pm.issn = '18761070';
+JDM.pm.allowVIA = '';
+JDM.pm.contentType = '';
+JDM.pm.newStructure = false;
+
+JDM.ep.urlPrefix = "http://www.sciencedirect.com/science";
+
+</script>
+<script>var SD_URL_QUALIFIER = "science";</script>
+
+ 
+  
+
+<script src="http://cdn.els-cdn.com/sd/js/sdX_1704R5.js"></script>
+
+
+
+
+<script src="http://cdn.els-cdn.com/sd/js/sdO_1704R5.js"></script>
+
+<script src="http://cdn.els-cdn.com/sd/js/importer-api_1704R5.js.min"></script>
+<script src="http://cdn.els-cdn.com/sd/js/pa_1704R5.js"></script>
+
+
+
+
+ 
+
+<script>
+var prs = new Object();prs.rt=function(label,ts){this[label]=(ts||ts==0?ts:new Date().getTime());};
+</script>
+
+
+
+
+     <!-- if not logged in -->
+	   
+		
+
+
+
+<script>
+(function() {
+  if (window.BOOMR && window.BOOMR.version) { return; }
+  var dom,doc,where,iframe = document.createElement('iframe'),win = window;
+
+  function boomerangSaveLoadTime(e) {
+    win.BOOMR_onload=(e && e.timeStamp) || new Date().getTime();
+  }
+  if (win.addEventListener) {
+    win.addEventListener("load", boomerangSaveLoadTime, false);
+  } else if (win.attachEvent) {
+    win.attachEvent("onload", boomerangSaveLoadTime);
+  }
+
+  iframe.src = "javascript:false";
+  iframe.title = ""; iframe.role="presentation";
+  (iframe.frameElement || iframe).style.cssText = "width:0;height:0;border:0;display:none;";
+  where = document.getElementsByTagName('script')[0];
+  where.parentNode.insertBefore(iframe, where);
+
+  try {
+    doc = iframe.contentWindow.document;
+  } catch(e) {
+    dom = document.domain;
+    iframe.src="javascript:var d=document.open();d.domain='"+dom+"';void(0);";
+    doc = iframe.contentWindow.document;
+  }
+  doc.open()._l = function() {
+    var js = this.createElement("script");
+    if(dom) this.domain = dom;
+    js.id = "boomr-if-as";
+    js.src = '//c.go-mpulse.net/boomerang/' +
+    '2FBN2-NKMGU-EJKY8-ZANKZ-SUJZF';
+    BOOMR_lstart=new Date().getTime();
+    this.body.appendChild(js);
+  };
+  doc.write('<body onload="document._l();">');
+  doc.close();
+})();
+</script>
+
+
+
+
+<script>
+var USERACTIONSURL="http://www.sciencedirect.com/science/UserActions";
+</script>
+
+<link rel="alternate"
+      type="application/rss+xml"
+      title="Set up an article RSS feed"
+      href="http://rss.sciencedirect.com/publication/science/277737">
+
+
+<meta name="description"  content="The online version of Journal of the Taiwan Institute of Chemical Engineers at ScienceDirect.com, the world's leading platform for high quality peer-reviewed full-text journals.">
+
+
+<link rel="canonical" href="http://www.sciencedirect.com/science/journal/18761070"/>
+<!-- static const char journaltmpl_sccsId[] = "@(#)journal.tmpl	3.1.2.1  11/18/99 17:52:55 - Retrieved: 12/15/99 12:27:24"; -->
+
+    
+      
+          
+            <title>Journal of the Taiwan Institute of Chemical Engineers | Vol 75, Pgs 1-316, (June 2017) | ScienceDirect.com</title>
+          
+       
+    
+
+
+<link rel="stylesheet" Title="Default Styles" href="http://cdn.els-cdn.com/sd/css/css_results_page_sprite_v01_1704R5.css" type="text/css">
+<link rel="stylesheet" Title="Default Styles" href="http://cdn.els-cdn.com/sd/css/css_table_v01_1704R5.css" type="text/css">
+<link rel="stylesheet" Title="Default Styles" href="http://cdn.els-cdn.com/sd/css/css_pub_v01_1704R5.css" type="text/css">
+<link rel="stylesheet" Title="Default Styles" href="http://cdn.els-cdn.com/sd/css/commonSprite_1704R5.css" type="text/css">
+
+</head>
+
+<body>
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MSJL85"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MSJL85');</script>
+<!-- End Google Tag Manager -->
+
+
+<script language="javascript" type="text/javascript">
+<!--
+function submitTocList(prevNext){
+  var sv = document.getElementById('vectorNext').value;
+  document.Tag.nextVector.value= sv;
+  var pv = document.getElementById('vectorPrev').value;
+  document.Tag.prevVector.value= pv;
+  document.Tag.go.value= prevNext;
+  document.Tag.target="";
+  document.Tag.submit();
+}
+//-->
+</script>
+
+
+<script language="javascript" type="text/javascript">
+<!--
+    var pgPubReload=false;
+    $('body').on('click','a,li',function(e){
+        pgPubReload=true;
+        setTimeout(function(){pgPubReload=false;},1500);
+    });
+    $(document).ready(function(){
+	$('body').on('mouseover','.browseMain tbody tr', function(){
+		var imgObj=$(this).find('td img');
+		if(!pgPubReload && imgObj[0]){
+			imgObj.attr('data-src',imgObj.attr('src'));
+			imgObj.attr('src',$(this).attr('data-hoverimg'));
+		}
+	});
+	$('body').on('mouseout','.browseMain tbody tr', function(){
+		var imgObj=$(this).find('td img');
+		if(!pgPubReload  && imgObj[0])imgObj.attr('src',imgObj.attr('data-src'));
+	});
+	}); 
+//-->
+</script>
+
+<div id="pubPg">
+
+<div class="skipnav">
+    <a id="skipNavigation" title="Skip to Main content" href="#main_content">Skip to Main content</a>
+</div>
+
+
+
+<!-- ************* For A/B testing FAST and SOLR Proxy ***************** -->
+
+<!-- *************End for A/B testing FAST and SOLR Proxy *****************-->
+
+
+
+<div id="ieWarningMsg">
+    <span class="infoIcon_ie spErrorIcon">
+        Please note that Internet Explorer version 8.x will not be supported as of January 1, 2016. Please refer to <a href="http://blog.sciencedirect.com/posts/have-you-heard-spread-the-word-about-upgrading-your-browser"> this blog post</a> for more information.
+    </span>
+    <a class="closeBt" title="Close Internet Explorer 7 warning">Close</a>
+</div>
+
+
+
+  
+    <div class="adBlock" style="width:100%; padding:0.1em 0;text-align:center;" id="leaderboard" aria-label="advertisement" role="region">
+        
+    </div>
+  
+
+<div id="header">
+
+<div class="ccs-component">
+    <div class="header" role="banner"><div class="els-header"><noscript></noscript><div class="els-header-sub-nav-container"><div class="els-header-leftside"><div class="els-header-wordmark"><a href="/"><span aria-label="ScienceDirect" class="ccs-icon svg-wordmark-sciencedirect-orange els-main-title"><span class="svg-text">ScienceDirect</span></span></a></div></div><div class="els-header-sub-nav"><ul class="JournalsAndBooks els-header-navigation" role="navigation"><li class="els-header-navigation-section"><a id="ccs-journalsLink" class="link-inherit els-header-navigation-item els-selected-header-navigation-item" href="/science/journals">Journals</a></li><li class="els-header-navigation-section"><a id="ccs-journalsLink" class="link-inherit els-header-navigation-item " href="/science/bookbshsrw">Books</a></li><li class="els-header-navigation-section"><a class="link-inherit els-header-navigation-item " href="https://www.sciencedirect.com/user/register?returnURL=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Fjournal%2F18761070%2F75">Register</a></li></ul><ul class="els-header-icons"><li class="els-header-icons-item els-header-user"><a aria-controls="ccs-profilePopup" aria-expanded="false" id="ccs-profilePopupLink" title="" href="https://www.sciencedirect.com/user/login?returnURL=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Fjournal%2F18761070%2F75" class="link-inherit els-header-user-link"><span class="signIn_User"><span id="els-header-user-sign-in" class="els-header-user-sign-in">Sign in</span><span id="els-header-user-sign-in-icon" class="ccs-icon svg-sdfe-arrow-down els-header-user-icon-signin"></span></span></a><div class="SignInOut"><div class="ccs-signin-popup" role="dialog" id="ccs-profilePopup" aria-label="Sign in"><div class="ccs-signin-popup-body-border"><div class="ccs-signin-body ccs-signin-popup-body"><form id="ccs-header-sign-in-form" class="SignInForm ccs-signin-local" action="https://www.sciencedirect.com/science/MiamiLoginURL" method="POST"><input type="hidden" value="login" name="login"/><input type="hidden" value="MiamiLogonURL" name="_ob"/><input type="hidden" value="http://www.sciencedirect.com/science/journal/18761070/75" name="returnURL"/><input type="hidden" value="http://www.sciencedirect.com/science/journal/18761070/75" name="targetURL"/><input type="hidden" value="https://www.sciencedirect.com/science/MiamiLoginURL" name="invalidLoginURL"/><input type="hidden" value="pubhome_j" name="pageType"/><div><h3>Sign in using your ScienceDirect credentials</h3><div class="ccs-signin-form"><div><label class="ccs-signin-form-left">Username</label><span class="ccs-signin-form-right"><input class="ccs-signin-username" name="userid" id="ccs-signin-username-input" title="Please enter your username here" type="text"/></span></div><div><label class="ccs-signin-form-left">Password</label><span class="ccs-signin-form-right"><input class="ccs-signin-password" name="password" title="Please enter your password here" type="password"/></span></div><div><label class="ccs-signin-form-left"></label><span class="ccs-signin-form-right"><input class="" name="rememberid" value="Y" title="Checking this option will log you in automatically next time you visit ScienceDirect" type="checkbox" checked=""/><label>Remember me</label></span></div><div><label class="ccs-signin-form-left"></label><span class="ccs-signin-form-right"><input class="ccs-signin-submit" value="Sign in" title="Sign in to ScienceDirect" type="submit"/></span></div><div><label class="ccs-signin-form-left"></label><span class="ccs-signin-form-right"><a class="link-inherit" rel="nofollow" href="/science?_ob=ReminderURL&amp;_method=display&amp;md5=4a97631c25ac81c09ad2f961106e9da2" target="passwd" title="Click here for help in recovering your ScienceDirect access">Forgotten username or password?</a></span></div></div></div></form><div class="InstitutionalLogin ccs-signin-remote"><h3>Sign in via your institution</h3><ul class="ccs-signin-institution"><li class="ccs-signin-open-athens"><a class="link-inherit" rel="nofollow" href="https://auth.elsevier.com/ShibAuth/institutionLogin?entityID=https%3A%2F%2Fidp.eduserv.org.uk%2Fopenathens&amp;appReturnURL=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Fjournal%2F18761070%2F75" title="Log in using OpenAthens">OpenAthens</a></li><li class="ccs-signin-external"><a class="link-inherit" rel="nofollow" href="/science/externallogin" title="Other institution login">Other institution</a></li></ul></div></div></div></div></div></li><li class="Help els-header-icons-item"><a id="ccs-help-link" class="link-inherit els-header-help" href="/science?_ob=HelpURL&amp;_file=jnl_bk_homepage.htm&amp;_btn=Y" title="Help" target="_blank"><span aria-label="Help" class="ccs-icon svg-help"><span class="svg-text">Help</span></span></a></li></ul><div id="mobile-menu-parent"><div class="HamburgerButton" id="hamburger-button"><button id="ccs-mobileHamburgerButton" aria-controls="" aria-expanded="false" aria-label="Menu" class="link"><span class="svg-hamburger-closed"></span></button></div><div aria-label="Mobile menu" class="MobileMenu" id="mobile-menu"><div class="mobile-menu-container" id="mobile-menu-container"><div class="mobilemenu-content"><div><div class="primary-mobile-menu"><ul class="JournalsAndBooks els-header-navigation" role="navigation"><li class="els-header-navigation-section"><a id="mobileccs-journalsLink" class="link-inherit els-header-navigation-item els-selected-header-navigation-item" href="/science/journals">Journals</a></li><li class="els-header-navigation-section"><a id="mobileccs-journalsLink" class="link-inherit els-header-navigation-item " href="/science/bookbshsrw">Books</a></li><li class="els-header-navigation-section"><a class="link-inherit els-header-navigation-item " href="https://www.sciencedirect.com/user/register?returnURL=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Fjournal%2F18761070%2F75">Register</a></li></ul></div><div class="secondary-mobile-menu"><li class="els-header-icons-item els-header-user"><a href="https://www.sciencedirect.com/user/login?returnURL=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Fjournal%2F18761070%2F75" aria-controls="mobileccs-profilePopup" aria-expanded="false" id="mobileccs-ProfilePopupLink" class="link-inherit els-header-user-link"><span class="signIn_User"><span id="els-header-user-sign-in" class="els-header-user-sign-in">Sign in</span><span id="els-header-user-sign-in-icon" class="ccs-icon svg-sdfe-arrow-down els-header-user-icon-signin"></span></span></a></li><li class="Help els-header-icons-item"><a id="mobileccs-help-link" class="link-inherit els-header-help" href="/science?_ob=HelpURL&amp;_file=jnl_bk_homepage.htm&amp;_btn=Y" title="Help" target="_blank"><span aria-label="Help" class="ccs-icon svg-help"><span class="svg-text">Help</span></span></a></li></div></div></div></div></div></div><div class="SignInOut"><div class="ccs-signin-popup ccs-mobile-signin-popup" role="dialog" id="mobileccs-profilePopup" aria-label="Sign in"><div class="ccs-signin-popup-body-border"><div class="ccs-signin-body ccs-signin-popup-body"><form id="ccs-header-sign-in-form" class="SignInForm ccs-signin-local" action="https://www.sciencedirect.com/science/MiamiLoginURL" method="POST"><div class="ccs-sign-in-close"><a href="#" class="ccs-icon svg-delete link-inherit" id="ccs-closeSignInPopup" aria-label="Close sign in popup" aria-controls="mobileccs-profilePopup" role="button" title="Close"><span class="svg-text">close</span></a></div><input type="hidden" value="login" name="login"/><input type="hidden" value="MiamiLogonURL" name="_ob"/><input type="hidden" value="http://www.sciencedirect.com/science/journal/18761070/75" name="returnURL"/><input type="hidden" value="http://www.sciencedirect.com/science/journal/18761070/75" name="targetURL"/><input type="hidden" value="https://www.sciencedirect.com/science/MiamiLoginURL" name="invalidLoginURL"/><input type="hidden" value="pubhome_j" name="pageType"/><div><h3>Sign in using your ScienceDirect credentials</h3><div class="ccs-signin-form"><div><label class="ccs-signin-form-left">Username</label><span class="ccs-signin-form-right"><input class="ccs-signin-username" name="userid" id="mobileccs-signin-username-input" title="Please enter your username here" type="text"/></span></div><div><label class="ccs-signin-form-left">Password</label><span class="ccs-signin-form-right"><input class="ccs-signin-password" name="password" title="Please enter your password here" type="password"/></span></div><div><label class="ccs-signin-form-left"></label><span class="ccs-signin-form-right"><input class="" name="rememberid" value="Y" title="Checking this option will log you in automatically next time you visit ScienceDirect" type="checkbox" checked=""/><label>Remember me</label></span></div><div><label class="ccs-signin-form-left"></label><span class="ccs-signin-form-right"><input class="ccs-signin-submit" value="Sign in" title="Sign in to ScienceDirect" type="submit"/></span></div><div><label class="ccs-signin-form-left"></label><span class="ccs-signin-form-right"><a class="link-inherit" rel="nofollow" href="/science?_ob=ReminderURL&amp;_method=display&amp;md5=4a97631c25ac81c09ad2f961106e9da2" target="passwd" title="Click here for help in recovering your ScienceDirect access">Forgotten username or password?</a></span></div></div></div></form><div class="InstitutionalLogin ccs-signin-remote"><h3>Sign in via your institution</h3><ul class="ccs-signin-institution"><li class="ccs-signin-open-athens"><a class="link-inherit" rel="nofollow" href="https://auth.elsevier.com/ShibAuth/institutionLogin?entityID=https%3A%2F%2Fidp.eduserv.org.uk%2Fopenathens&amp;appReturnURL=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Fjournal%2F18761070%2F75" title="Log in using OpenAthens">OpenAthens</a></li><li class="ccs-signin-external"><a class="link-inherit" rel="nofollow" href="/science/externallogin" title="Other institution login">Other institution</a></li></ul></div></div></div></div></div></div></div></div></div> 
+    
+</div> 
+
+
+  
+    <div class="quicksearch">
+        <a name="Skip Buttons"></a><div class="extSearch" aria-label="Quick Search" role="search" >
+
+<form id="quickSearch" name="qkSrch" method="get" target="_top" action="/science">
+    <div>
+        <input type="hidden" name="_ob" value="QuickSearchURL">
+        <input type="hidden" name="_method" value="submitForm">
+        <input type="hidden" name="_acct" value="C000228598">
+        <input type="hidden" name="searchtype" value="a">
+        <input type="hidden" name="_origin" value="journal">
+        <input type="hidden" name="_zone" value="qSearch">
+        <input type="hidden" name="md5" value="8a07ed6851dd3690819a55769f7f2e65">
+        <input type="hidden" name="qs_cid" value="277737">
+        <input class="all" placeholder="Search all fields" aria-label="Search all fields" type="text" name="qs_all" id="qs_all" value="" size="34" maxlength="450" title="Search all fields">
+        <input class="author" placeholder="Author name" aria-label="Author name" type="text" name="qs_author" id="qs_author" value="" size="13" maxlength="450" title="e.g. J S Smith or John Smith or Smith JS" style="_width:100%">
+        <input class="srctitle" placeholder="Journal or book title" aria-label="Journal or book title"  type="text" id="qs_title" name="qs_title" value="--This Journal/Book--" size="13" maxlength="450" title="For example: journal of molecular biology">
+        <input class="volumelist" placeholder="Volume" aria-label="Volume"  type="text" name="qs_vol" id="qs_vol" value="" size="2" maxlength="10">
+        <input class="issuelist" placeholder="Issue" aria-label="Issue" type="text" name="qs_issue" id="qs_issue" value="" size="2" maxlength="10">
+        <input class="pages" placeholder="Page" aria-label="Page" type="text" name="qs_pages" id="qs_pages" value="" size="2" maxlength="10" title="For example: 14-27">
+        <input class="button" id="submit_search" type="Submit" alt="Submit Quick Search" value="" title="Submit Quick Search" name="sdSearch">
+        
+        <a class="advanced" href="http://www.sciencedirect.com/science/search" >Advanced search</a>
+    </div>
+</form>
+
+</div>
+
+
+
+<script>autoCompleteInit('/'+'science'+ '/jfind/auto');</script>
+
+
+    </div>
+  
+
+</div><!--header-->
+
+
+ 
+
+     
+     
+
+<a tabindex="-1" name="main_content" id="main_content"></a>
+
+<div id="sdHeader" class="outerWrapper">
+  <div class="sdContent">
+    
+    
+    
+
+
+
+
+
+
+
+    <div id="spriteFlag" data-sprite="true">&nbsp;</div>
+    <div class="pubFontBox" aria-label="Science Direct" role="Main">
+
+        
+        
+
+        
+        <!-- Common to journal and refwork title and related information -->
+
+<div id="main_content" class="publication_head">
+    <div class="publication serialPublication">
+        
+        <div class="coverImageDiv"><img src="http://ars.els-cdn.com/content/image/1-s2.0-S1876107017X00060-cov150h.gif" border="1" class="cover" alt="Cover image Journal of the Taiwan Institute of Chemical Engineers"></div>
+        
+        
+        
+        
+        <div class="info">
+            
+            
+            <span class="pubTitle" style="margin:0px;">
+                <h1>Journal of the Taiwan Institute of Chemical Engineers</h1>
+                
+            </span>
+            
+            
+            <ul class="about navigation" role="navigation">
+                
+                
+                
+                
+                    <li><span title="This publication supports Open Access"><span>Supports </span><span class="txtOrange">Open Access</span></span></li>
+                
+                
+                    <li><a class="cExLink" href="http://www.elsevier.com/locate/issn/18761070" data-url = "science/RedirectURL?_method=gejLink&_linkType=general&_cdi=277737&_issn=18761070&_targetURL=http://www.elsevier.com/locate/issn/18761070" target="pubWindow" title="About this Journal, e.g. Description; Editorial Board; Ordering Information; Dispatch Dates -where applicable- (Opens new window)" >About this Journal</a></li>
+                
+                
+                  
+                    <li><a href="http://www.sciencedirect.com/science/journal/18761070/70" title="Sample Issue Online">Sample Issue Online</a></li>
+                  
+                
+                
+                    <li><a class ="cExLink" href="http://ees.elsevier.com/issn/18761070" data-url="/science/RedirectURL?_method=authServLink&_cdi=277737&_issn=18761070&_targetURL=http://ees.elsevier.com/issn/18761070" target="pubWindow" title="Submit your Article (Opens new window)" >Submit your Article</a></li>
+                
+                
+                
+                
+            </ul>
+            
+             
+            
+            
+              
+                <p>Formerly known as  <b><A HREF="/science/journal/03681653">Journal of the Chinese Institute of Chemical Engineers</A></b>; </p>
+              
+            
+            <ul class="feeds" aria-label="Rss and alert" role="navigation">
+                
+
+
+    
+    <li width="140px" align="left" valign="top" id="newFeedPub">
+        <a class="rssCiteIconPubHome" title="Journal of the Taiwan Institute of Chemical Engineers RSS article feed" href="/science?_ob=RSSURL&_method=setup&_cid=277737&md5=b0750f802bf28704516fab01127e0917" target="_blank" onClick="openNS('/science?_ob=RSSURL&_method=setup&_cid=277737&md5=b0750f802bf28704516fab01127e0917', 700, 500); return false;"  > <span class="rssCiteTextPubHome">Get new article feed</span></a>
+    </li>
+    
+     
+
+
+
+  <li>
+    <div id="alertLink" style="display:none;">
+      <a class="citeAlertIconPubHome_sci_dir" href>
+        <span class="citeAlertTextPubHome"></span>
+      </a>
+    </div>
+  </li>
+
+
+<li id="rsltInd" style="display:none;margin-bottom:15px;">
+  <div class="imgIcon"><h3><img src="http://cdn.els-cdn.com/sd/errorIcon.gif" alt="Failure" title="Failure"></h3></div>
+  <div class="confirmMsgText">Your selection(s) could not be saved due to an internal error. Please try again.</div>
+</li>
+
+
+  
+
+
+
+  
+    
+      <li>
+        <div id="favoriteOn" style="display:none;">
+          
+            <span class="favIcon_sci_dir" title="Added to Favorites">
+              <span class="favText">Added to Favorites [</span><a class="favText" href="/science?_ob=PublicationURL&addFavorite=2&_cid=277737&_pubType=J&_auth=y&md5=3b501036ae1caaa5fa5c0cb9142f8a08" >remove</a><span class="favText">]</span>
+            </span>
+          
+        </div>
+        <div id="favoriteOff" style="display:inline;">
+          <a class="favIcon_sci_dir" href="/science?_ob=PublicationURL&addFavorite=2&_cid=277737&_pubType=J&_auth=y&md5=3b501036ae1caaa5fa5c0cb9142f8a08" 
+             >
+            
+              <span class="favText">
+                
+                
+                Add to Favorites 
+              </span>
+            
+          </a>
+        </div>
+      </li>
+    
+  
+
+  
+
+
+
+            </ul>
+            
+                <p class="copyright">Copyright © 2017 Taiwan Institute of Chemical Engineers. All rights reserved</p>
+            
+        </div>
+        
+    </div>
+</div>
+
+
+        
+        
+
+        
+        <noscript>
+        	<div class="msgBox" style="margin:10px 0 0 227px;width:595px;">
+        	<span class="errMsg" style="color:#000;">
+        	<img  class='warningIcon' title="Warning Icon" alt="Warning Icon" src="http://cdn.els-cdn.com/sd/img/sprite_parts/warning_a.gif" style="float:left;margin-right:5px;"/>
+            <div>JavaScript is disabled on your browser.  Please enable JavaScript to use all the features on this page.</div>
+        	</span>
+            </div>
+        </noscript>
+
+        <div id="bodyAllResults" class="cbodyAllResults">
+            <div id="issueDisplayData">
+                
+                
+                
+                
+                
+            </div>
+            <div id="bodyResults" class="mainResults journal">
+                
+                <div class="volumeHeader skyScraper">
+                    
+                   
+                    <h2 >Journal of the Taiwan Institute of Chemical Engineers<br>Volume 75, Pages 1-316 (June 2017)</h2>
+                    
+                    &nbsp;
+                </div>
+                
+
+                
+                    <div class="adBlock" id="skyscraper" style="float:right;width:160px;" aria-label="advertisement" role="region"></div>
+                
+                
+                                <div id="volumeIssueData" aria-label="Volume Issue" role="Navigation">
+                    
+                      <ul class="navigation">
+                      
+                        <li>
+                        
+                            <a title="Previous volume/issue" class="ActionButton" href="/science/journal/18761070/74">&lt; Previous vol/iss</a>
+                        
+                        </li>
+                        <li>
+                        
+                            <a title="Next volume/issue" class="ActionButton" href="/science/journal/aip/18761070">Next vol/iss &gt;</a>
+                        
+                        </li>
+                      
+                      </ul>
+                    
+                    <ol>
+                        <li><a href="/science/journal/aip/18761070"><span class="txtBold">Articles in Press</span></a></li><li><A name="75"></A><A HREF="/science/journal/18761070/75" class="cLink volLink" queryStr="?_cHubEid=1-s2.0-S1876107017X00060" alt="Collapse Volume 75 2017" title="Collapse Volume 75 2017" aria-expanded="true" ><span class="srcPartOpened" title="Close">&nbsp;</span><span class="offscreen">Close</span>Volumes 71 - 75 (2017)</A><ol><li class="selected"><div class="txt currentVolumes"><span aria-selected="true" style="color: #0156aa; font-weight: bold">Volume 75</span><span class="txtHidden"> - selected</span><br>pp. 1-316 (June 2017)</div><div class="accessIconBlk"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></div></li><li><div class="txt currentVolumes"><A HREF="/science/journal/18761070/74">Volume 74</A><br>pp. 1-296 (May 2017)</div><div class="accessIconBlk"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></div></li><li><div class="txt currentVolumes"><A HREF="/science/journal/18761070/73">Volume 73</A><br>pp. 1-166 (April 2017)<br><small>In Memory of Professor Yung-Cheng Chao</small></div><div class="accessIconBlk"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></div></li><li><div class="txt currentVolumes"><A HREF="/science/journal/18761070/72">Volume 72</A><br>pp. 1-252 (March 2017)</div><div class="accessIconBlk"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></div></li><li><div class="txt currentVolumes"><A HREF="/science/journal/18761070/71">Volume 71</A><br>pp. 1-546 (February 2017)</div><div class="accessIconBlk"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></div></li></ol></li><li><A HREF="/science/journal/18761070/70" alt="Expand Volume 70 2016" title="Expand Volume 70 2016" aria-expanded="false" class="volLink"><span class="srcPartClosed" title="Open">&nbsp;</span><span class="offscreen">Open</span>Volumes 61 - 70 (2016 - 2017)</A></li><li><A HREF="/science/journal/18761070/60" alt="Expand Volume 60 2015" title="Expand Volume 60 2015" aria-expanded="false" class="volLink"><span class="srcPartClosed" title="Open">&nbsp;</span><span class="offscreen">Open</span>Volumes 51 - 60 (2015 - 2016)</A></li><li><A HREF="/science/journal/18761070/50" alt="Expand Volume 50 2010" title="Expand Volume 50 2010" aria-expanded="false" class="volLink"><span class="srcPartClosed" title="Open">&nbsp;</span><span class="offscreen">Open</span>Volumes 41 - 50 (2010 - 2015)</A></li><li><A HREF="/science/journal/18761070/40" alt="Expand Volume 40 2009" title="Expand Volume 40 2009" aria-expanded="false" class="volLink"><span class="srcPartClosed" title="Open">&nbsp;</span><span class="offscreen">Open</span>Volume 40 (2009)</A></li>
+                    </ol>
+                    <script>prs.rt("pcr_nav");</script>
+                
+                </div> <!-- volumeIssueData -->
+                 
+
+  
+                
+                    
+                    
+                    <div id="issueList" class="skyScraper">
+                      <div class="resultList">
+                        
+    <form  method="get" name="Tag" action="/science" target="">
+      <input type="hidden" name="_ob" value="PublicationURL">
+      <input type="hidden" name="_method" value="list">
+      <input type="hidden" name="_hubEid" value="1-s2.0-S1876107017X00060">
+      <input type="hidden" name="_auth" value="y">
+      <input type="hidden" name="_version" value="1">
+      <input type="hidden" name="refSource" value="toc">
+      <input type="hidden" name="_pubType" value="J">
+      
+      
+        <input type="hidden" name="PDF_DDM_MAX" value="25">
+      
+      
+        <input type="hidden" name="_cid" value="277737">
+      
+      
+      
+      <input type="hidden" name="md5" value="3387587cd545f90800b7998ffa44cd57">
+
+      
+        <input type="hidden" name="chunk" value="0">
+      
+      
+        <input type="hidden" name="view" value="c">
+      
+       
+      
+      
+      
+            
+      
+      
+      <input type="hidden" name="go" value="">
+      <input type="hidden" name="nextVector" value="">
+      <input type="hidden" name="prevVector" value="">
+      
+      
+          <input type="hidden" name="chunkSize" value="100">
+      
+      
+          <input type="hidden" name="hitCount" value="36">
+       
+    
+        <input type="hidden" name="count" value="36"><div id="issueListHeader" class="pubBody"><div class="arrowBlock"><span class="arrowIcon" title="Download or Export 0 selected results." alt="Download or Export 0 selected results."><span class="offscreen">Download and Export 0 checked results</span>&nbsp;</span></div><ul aria-label="Download or Export 0 selected results" role="region"><img src="http://cdn.els-cdn.com/sd/clear.gif" alt="" height="1"><li><input id="purchaseBtnSprite" value="Purchase" name="purchase" class="listAction" type="submit" onclick="return ensureChkBoxSelected(this.form);"/></li><li><input type="hidden" name="hubEID" value=""><div class="pulldown"> <div class= "exportDivision" title="Export citations" alt="Export citations"><input id="exportIcon_sci_dir" value="Export" name="export" class="listAction export export_general initialImage" type="button" title="Export citations"> <a role="button" href="javascript:;" title="Export citations" alt="Export citations" class="dropdownArrow" aria-expanded="false" aria-controls="export_popup"><span class=" exportArrow down_sci_dir">Export citations</span></a> <input class='zone' name='zone' type='hidden' value='exportDropDown'/> </div><div class="menu hidden export_popup" id="export_popup"><img class='warningIcon' title="Warning Icon" alt="Warning Icon" src="http://cdn.els-cdn.com/sd/img/sprite_parts/warning_a.gif"/><div class='exportInfo'><div class='chkboxCount'></div><div class='exportHelp'><a target='sdhelp' title='Help (Opens new window)' href='/science?_ob=HelpURL&_file=art_export.htm&_btn=Y&_zone=TopNavBar&_origin=journal' onclick='var helpWin;helpWin=window.open('/science?_ob=HelpURL&_file=art_export.htm&_btn=Y&_zone=TopNavBar&_origin=journal', 'sdhelp', 'scrollbars=yes,resizable=yes,directories=no,toolbar=no,menubar=no,status=no,width=984,height=738'); helpWin.focus(); return false;' title='Help (Opens new window)'>Help</a></td></div></div><div class="expContainer"><ul class="Export_Popup"><li class='subHeading'><h3>Direct export </h3></li><li class='direct_export'><div class="downBtn export_downBtn"><div><div class='btn_export directExport'><div class='icon_Mendeley' title='Save to Mendeley'>&nbsp;</div><input id="directExport" type="button" value="Save to Mendeley" name="Save to Mendeley" alt="Save to Mendeley" class="mendeleyBT button"/></div></div><div class='btnLine'><div class='btn_export refworks'><div class='icon_Refworks' title='Save to Refworks'>&nbsp;</div><input id='REFWX' type='button' value='Save to RefWorks' name='Save to RefWorks' alt='Save to RefWorks' class='mendeleyBT button refworks'/></div></div><div class='clear'></div></div></li><li class="subHeading big"><h3>Export file</h3></li><li class="export_radio"><input type="radio" id="RIS" name="citation-type" checked value="RIS" {if var=RIS}checked{/if} class="artRadio expRadio RIS">&nbsp;<label for="RIS">RIS (for EndNote, Reference Manager, ProCite)</label></li><li class="export_radio"><input type="radio" id="BIBTEX" name="citation-type" value="BIBTEX" {if var=BIBTEX}checked{/if} class="artRadio expRadio BIBTEX">&nbsp;<label for="BIBTEX">BibTeX</label></li><li class="export_radio"><input type="radio" id="ASCII" name="citation-type" value="ASCII" {if var=ASCII}checked{/if} class="artRadio expRadio ASCII">&nbsp;<label for="ASCII">Text</label></li><li class='export_radio hidden'><input type='radio' id='REFWX' name='citation-type' value='REFWX' {if var=REFWX}checked{/if} class='artRadio expRadio REFWX'>&nbsp;<label for='REFWX'>RefWorks Direct Export</label></li><li class="subHeading big"><h3>Content</h3></li><li class='expCitab export_radio'><input type='radio' id='cite' name='format' value='cite' {if var=cite}checked{/if} class='artRadio expRadio'>&nbsp;<label class='cit' for='cite'>Citations Only</label></li><li class='expCitab export_radio'><input type='radio' id='cite-abs' name='format' value='cite-abs'checked class='artRadio expRadio'>&nbsp;<label class ='cab' for='cite-abs'>Citations and Abstracts</label></li><li class="export_submit"><div class="downBtn export_downBtn" style=""><input type="submit" value="Export" name="export" alt="Export" id = "export_button" class="button export_button"/></div></li></ul></div></div><br></li></ul><div aria-label="Filter by access" role="region" class="sortFilterContainer"><div class="pulldown right"><a aria-controls="content_type_menu" aria-expanded="false" aria-haspopup="true" class="button" href="#" role="button"><span class="icon filter_a"> </span> <span id="selectedOption">&nbsp; All access types &nbsp;</span><span class="icon arrow-down"> </span></a><div aria-activedescendant="access_JL" aria-label="Filter by content type" class="menu hidden filterMenu" id="content_type_menu" role="menu"><ul><li class="filterDisabled " aria-disabled=""> All access types </li><li class="filterDisabled" aria-disabled="">Open Access articles</li><li class="filterDisabled" aria-disabled="">Open Archive articles</li></ul></div></div></div></div><div class="pubBody"><div aria-label="Articles" role="region"><div id="bodyMainResults" class='bookResultsExp ' role='region' aria-label='Search Results' ><ol class="articleList results"><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S1876107017302134" aria-labelledby="title_S1876107017302134" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S1876107017302134" href="http://www.sciencedirect.com/science/article/pii/S1876107017302134" class="cLink artTitle S_C_artTitle prelim " data-docsubtype="edb" queryStr="?_rdoc=1&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_docanchor=&_ct=36&md5=73ef02248d910d57da3d52399766c906">Editorial Board</a></h4></li><li class="source "><i>Page i</i></li><li class="authors "></li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a class="cLink" rel="nofollow" aria-describedby="title_S1876107017302134" href="/science/article/pii/S1876107017302134/pdfft?md5=b915791ff8cab0874e56ed8a156cd24f&pid=1-s2.0-S1876107017302134-main.pdf" queryStr="?_origin=PublicationURL&_zone=rslt_list_item" target="_blank"><span class="pdfIconSmall">&nbsp;</span>PDF (72 K)</a></li>
+</ul><div  id="abs_S1876107017302134" class="previewBox abstract hidden"></div><div  id="rabs_S1876107017302134" class="previewBox rabstract hidden"></div><div  id="gabs_S1876107017302134" class="previewBox gabstract hidden"></div></div></li><li class="accessBlock colLast"><span class="dsub_article_sci_dir sci_dir" title="Entitled to full text" alt="Entitled to full text">&nbsp;<span class="offscreen">Entitled to full text</span></span></li></ul></li><div id="resultsView_1" class="resultsView"></div><div class="subHeadsBlock heading1" ><h2 class="sectionH1">Chemical and Biomolecular Science and Technology</h2></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S1876107017300883" aria-labelledby="title_S1876107017300883" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S1876107017300883" href="http://www.sciencedirect.com/science/article/pii/S1876107017300883" class="cLink artTitle S_C_artTitle " data-docsubtype="fla" queryStr="?_rdoc=2&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_docanchor=&_ct=36&md5=d99222110d92d20a6b9c0739679ee667">Effect of coolant flow rate on the dynamics of delayed recycle continuous stirred tank reactor</a></h4><span class="articleTypeLabel">Original Research Article</span></li><li class="source "><i>Pages 1-11</i></li><li class="authors ">Balasubramanian Periyasamy, Mihir Bhalchandra Khanolkar</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=2&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017300883&_issn=18761070&_tab=afr&absLinks=y&md5=e0d19cd0d49b53a218dd87eead16f10f" aria-describedby="title_S1876107017300883" aria-controls="abs_S1876107017300883" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a href="#" data-type="graphicalAbstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/graphicalAbstract?_rdoc=2&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017300883&_issn=18761070&_tab=afr&absLinks=y&md5=e0d19cd0d49b53a218dd87eead16f10f" aria-describedby="title_S1876107017300883" aria-controls="gabs_S1876107017300883" aria-expanded="true"><span class="arrowDown"></span><span class="preTxt">Close graphical abstract</span></a></li><li><a href="#" data-type="researchAbstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/researchAbstract?_rdoc=2&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017300883&_issn=18761070&_tab=afr&absLinks=y&md5=e0d19cd0d49b53a218dd87eead16f10f" aria-describedby="title_S1876107017300883" aria-controls="rabs_S1876107017300883" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Research highlights</span></a></li><li><a aria-describedby="title_S1876107017300883"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S1876107017300883&_ts=1494959358&md5=974c22b3c556bd2a979b7c139c70b336"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+<li><a id ="title_S1876107017300883" href="http://www.sciencedirect.com/science/article/pii/S1876107017300883#MMCvFirst" class="mmcLinkSprite" cLink S_C_artTitle " data-docsubtype="fla" queryStr="?_rdoc=2&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_docanchor=&_ct=36&md5=d99222110d92d20a6b9c0739679ee667"><span class="mmcTxt">Supplementary content</span></a></li></ul><div  id="abs_S1876107017300883" class="previewBox abstract hidden"></div><div  id="rabs_S1876107017300883" class="previewBox rabstract hidden"></div><div  id="gabs_S1876107017300883" class="previewBox gabstract"><div id="abs" class="previewContent"><div><?xml version="1.0" encoding="UTF-8"?><div class="svAbstract" data-etype="ab"><div class="articleText"><div class="articleText_indent"><p class="paraText"><div id="fig0011" class="ImageScroller" style="height:127px"><img height="110" border="0" align="middle" width="301" style="vertical-align: bottom;" alt="image" title="image" src="http://ars.els-cdn.com/content/image/1-s2.0-S1876107017300883-fx1.jpg"/></div></div></div></div></div></div></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_2" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S1876107017300937" aria-labelledby="title_S1876107017300937" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S1876107017300937" href="http://www.sciencedirect.com/science/article/pii/S1876107017300937" class="cLink artTitle S_C_artTitle " data-docsubtype="fla" queryStr="?_rdoc=3&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_docanchor=&_ct=36&md5=ea6968ce560023c1870b249849269487">A facile synthesis of 3D network PdCu nanostructure with enhanced electrocatalytic activity towards ethanol oxidation</a></h4><span class="articleTypeLabel">Original Research Article</span></li><li class="source "><i>Pages 12-17</i></li><li class="authors ">Zhiping Xiong, Bo Yan, Ke Zhang, Caiqin Wang, Shumin Li, Hui Xu, Yukou Du, Chunyang Zhai</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=3&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017300937&_issn=18761070&_tab=afr&absLinks=y&md5=6df58bc7e4c234b20d8b9ac170f17bc8" aria-describedby="title_S1876107017300937" aria-controls="abs_S1876107017300937" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a href="#" data-type="graphicalAbstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/graphicalAbstract?_rdoc=3&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017300937&_issn=18761070&_tab=afr&absLinks=y&md5=6df58bc7e4c234b20d8b9ac170f17bc8" aria-describedby="title_S1876107017300937" aria-controls="gabs_S1876107017300937" aria-expanded="true"><span class="arrowDown"></span><span class="preTxt">Close graphical abstract</span></a></li><li><a href="#" data-type="researchAbstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/researchAbstract?_rdoc=3&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017300937&_issn=18761070&_tab=afr&absLinks=y&md5=6df58bc7e4c234b20d8b9ac170f17bc8" aria-describedby="title_S1876107017300937" aria-controls="rabs_S1876107017300937" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Research highlights</span></a></li><li><a aria-describedby="title_S1876107017300937"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S1876107017300937&_ts=1494959358&md5=10b25565214f009241bc9741182bc558"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+<li><a id ="title_S1876107017300937" href="http://www.sciencedirect.com/science/article/pii/S1876107017300937#MMCvFirst" class="mmcLinkSprite" cLink S_C_artTitle " data-docsubtype="fla" queryStr="?_rdoc=3&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_docanchor=&_ct=36&md5=ea6968ce560023c1870b249849269487"><span class="mmcTxt">Supplementary content</span></a></li></ul><div  id="abs_S1876107017300937" class="previewBox abstract hidden"></div><div  id="rabs_S1876107017300937" class="previewBox rabstract hidden"></div><div  id="gabs_S1876107017300937" class="previewBox gabstract"><div id="abs" class="previewContent"><div><?xml version="1.0" encoding="UTF-8"?><div class="svAbstract" data-etype="ab"><div class="articleText"><div class="articleText_indent"><p class="paraText"><div id="fig0006" class="ImageScroller" style="height:217px"><img height="200" border="0" align="middle" width="274" style="vertical-align: bottom;" alt="image" title="image" src="http://ars.els-cdn.com/content/image/1-s2.0-S1876107017300937-fx1.jpg"/></div></div></div></div></div></div></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_3" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S1876107017301359" aria-labelledby="title_S1876107017301359" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S1876107017301359" href="http://www.sciencedirect.com/science/article/pii/S1876107017301359" class="cLink artTitle S_C_artTitle " data-docsubtype="fla" queryStr="?_rdoc=4&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_docanchor=&_ct=36&md5=8581ecc744f4ad6a9a57cd7f0fccea8c">Investigation of the calcination temperature effect on the interaction between Au nanoparticles and the catalytic support α-Fe<sub>2</sub>O<sub>3</sub> for the low temperature CO oxidation</a></h4><span class="articleTypeLabel">Original Research Article</span></li><li class="source "><i>Pages 18-28</i></li><li class="authors ">J.L. Ayastuy, U. Iriarte-Velasco, A. Gurbani, M.A. Gutiérrez-Ortiz</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=4&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017301359&_issn=18761070&_tab=afr&absLinks=y&md5=1883fd3a3b353a5695998e3d92880114" aria-describedby="title_S1876107017301359" aria-controls="abs_S1876107017301359" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a href="#" data-type="graphicalAbstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/graphicalAbstract?_rdoc=4&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017301359&_issn=18761070&_tab=afr&absLinks=y&md5=1883fd3a3b353a5695998e3d92880114" aria-describedby="title_S1876107017301359" aria-controls="gabs_S1876107017301359" aria-expanded="true"><span class="arrowDown"></span><span class="preTxt">Close graphical abstract</span></a></li><li><a href="#" data-type="researchAbstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/researchAbstract?_rdoc=4&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017301359&_issn=18761070&_tab=afr&absLinks=y&md5=1883fd3a3b353a5695998e3d92880114" aria-describedby="title_S1876107017301359" aria-controls="rabs_S1876107017301359" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Research highlights</span></a></li><li><a aria-describedby="title_S1876107017301359"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S1876107017301359&_ts=1494959358&md5=bb70c898f878933d6f5fda58dd5af587"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+<li><a id ="title_S1876107017301359" href="http://www.sciencedirect.com/science/article/pii/S1876107017301359#MMCvFirst" class="mmcLinkSprite" cLink S_C_artTitle " data-docsubtype="fla" queryStr="?_rdoc=4&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_docanchor=&_ct=36&md5=8581ecc744f4ad6a9a57cd7f0fccea8c"><span class="mmcTxt">Supplementary content</span></a></li></ul><div  id="abs_S1876107017301359" class="previewBox abstract hidden"></div><div  id="rabs_S1876107017301359" class="previewBox rabstract hidden"></div><div  id="gabs_S1876107017301359" class="previewBox gabstract"><div id="abs" class="previewContent"><div><?xml version="1.0" encoding="UTF-8"?><div class="svAbstract" data-etype="ab"><div class="articleText"><div class="articleText_indent"><p class="paraText"><div id="fig0008" class="ImageScroller" style="height:209px"><img height="192" border="0" align="middle" width="301" style="vertical-align: bottom;" alt="image" title="image" src="http://ars.els-cdn.com/content/image/1-s2.0-S1876107017301359-fx1.jpg"/></div></div></div></div></div></div></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_4" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S1876107017301384" aria-labelledby="title_S1876107017301384" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S1876107017301384" href="http://www.sciencedirect.com/science/article/pii/S1876107017301384" class="cLink artTitle S_C_artTitle " data-docsubtype="fla" queryStr="?_rdoc=5&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_docanchor=&_ct=36&md5=791ceb6ace4c7b521a1cfd09b3ee23aa">Study of the countercurrent–concurrent gas–liquid flow configuration impact on ethylene hydrogenation within structured catalyst bed: Experiment and modeling</a></h4><span class="articleTypeLabel">Original Research Article</span></li><li class="source "><i>Pages 29-42</i></li><li class="authors ">S. Ahmadigoltapeh, Hooman Ziaei Halimejani</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=5&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017301384&_issn=18761070&_tab=afr&absLinks=y&md5=712884749bf6df9c2215c0d5cdaf8c97" aria-describedby="title_S1876107017301384" aria-controls="abs_S1876107017301384" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a href="#" data-type="graphicalAbstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/graphicalAbstract?_rdoc=5&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017301384&_issn=18761070&_tab=afr&absLinks=y&md5=712884749bf6df9c2215c0d5cdaf8c97" aria-describedby="title_S1876107017301384" aria-controls="gabs_S1876107017301384" aria-expanded="true"><span class="arrowDown"></span><span class="preTxt">Close graphical abstract</span></a></li><li><a href="#" data-type="researchAbstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/researchAbstract?_rdoc=5&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017301384&_issn=18761070&_tab=afr&absLinks=y&md5=712884749bf6df9c2215c0d5cdaf8c97" aria-describedby="title_S1876107017301384" aria-controls="rabs_S1876107017301384" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Research highlights</span></a></li><li><a aria-describedby="title_S1876107017301384"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S1876107017301384&_ts=1494959358&md5=0c0afa368ea949c8b67971cb314e83df"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+</ul><div  id="abs_S1876107017301384" class="previewBox abstract hidden"></div><div  id="rabs_S1876107017301384" class="previewBox rabstract hidden"></div><div  id="gabs_S1876107017301384" class="previewBox gabstract"><div id="abs" class="previewContent"><div><?xml version="1.0" encoding="UTF-8"?><div class="svAbstract" data-etype="ab"><div class="articleText"><div class="articleText_indent"><p class="paraText"><div id="fig0014" class="ImageScroller" style="height:261px"><img height="244" border="0" align="middle" width="226" style="vertical-align: bottom;" alt="image" title="image" src="http://ars.els-cdn.com/content/image/1-s2.0-S1876107017301384-fx1.jpg"/></div></div></div></div></div></div></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_5" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S1876107017301396" aria-labelledby="title_S1876107017301396" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S1876107017301396" href="http://www.sciencedirect.com/science/article/pii/S1876107017301396" class="cLink artTitle S_C_artTitle " data-docsubtype="fla" queryStr="?_rdoc=6&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_docanchor=&_ct=36&md5=e0769af0e2ab6a3c092f2670a108e821">Production of biodiesel by transesterification of Jatropha oil with microwave heating</a></h4><span class="articleTypeLabel">Original Research Article</span></li><li class="source "><i>Pages 43-50</i></li><li class="authors ">Jar-Jin Lin, Yu-Wen Chen</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=6&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017301396&_issn=18761070&_tab=afr&absLinks=y&md5=a4bda93cbe060abe5ab0fb862a0174f7" aria-describedby="title_S1876107017301396" aria-controls="abs_S1876107017301396" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a href="#" data-type="graphicalAbstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/graphicalAbstract?_rdoc=6&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017301396&_issn=18761070&_tab=afr&absLinks=y&md5=a4bda93cbe060abe5ab0fb862a0174f7" aria-describedby="title_S1876107017301396" aria-controls="gabs_S1876107017301396" aria-expanded="true"><span class="arrowDown"></span><span class="preTxt">Close graphical abstract</span></a></li><li><a href="#" data-type="researchAbstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/researchAbstract?_rdoc=6&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017301396&_issn=18761070&_tab=afr&absLinks=y&md5=a4bda93cbe060abe5ab0fb862a0174f7" aria-describedby="title_S1876107017301396" aria-controls="rabs_S1876107017301396" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Research highlights</span></a></li><li><a aria-describedby="title_S1876107017301396"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S1876107017301396&_ts=1494959358&md5=672c6f3008b6931eaee1ed2796c9d96d"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+</ul><div  id="abs_S1876107017301396" class="previewBox abstract hidden"></div><div  id="rabs_S1876107017301396" class="previewBox rabstract hidden"></div><div  id="gabs_S1876107017301396" class="previewBox gabstract"><div id="abs" class="previewContent"><div><?xml version="1.0" encoding="UTF-8"?><div class="svAbstract" data-etype="ab"><div class="articleText"><div class="articleText_indent"><p class="paraText"><div id="fig0010" class="ImageScroller" style="height:217px"><img height="200" border="0" align="middle" width="266" style="vertical-align: bottom;" alt="image" title="image" src="http://ars.els-cdn.com/content/image/1-s2.0-S1876107017301396-fx1.jpg"/></div></div></div></div></div></div></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_6" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S1876107017301414" aria-labelledby="title_S1876107017301414" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S1876107017301414" href="http://www.sciencedirect.com/science/article/pii/S1876107017301414" class="cLink artTitle S_C_artTitle " data-docsubtype="fla" queryStr="?_rdoc=7&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_docanchor=&_ct=36&md5=c2438dae776fbff53da8832b4b9402e1">Molecular dynamics simulations on dissolutive wetting of Al–Ni alloy droplets on NiAl substrate</a></h4><span class="articleTypeLabel">Original Research Article</span></li><li class="source "><i>Pages 51-58</i></li><li class="authors ">Lin Lin, Sheng Hui, Gui Lu, Shuo-Lin Wang, Xiao-Dong Wang, Duu-Jong Lee</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=7&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017301414&_issn=18761070&_tab=afr&absLinks=y&md5=f4c5a833085b08b958772a9a759ba963" aria-describedby="title_S1876107017301414" aria-controls="abs_S1876107017301414" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a href="#" data-type="graphicalAbstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/graphicalAbstract?_rdoc=7&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017301414&_issn=18761070&_tab=afr&absLinks=y&md5=f4c5a833085b08b958772a9a759ba963" aria-describedby="title_S1876107017301414" aria-controls="gabs_S1876107017301414" aria-expanded="true"><span class="arrowDown"></span><span class="preTxt">Close graphical abstract</span></a></li><li><a href="#" data-type="researchAbstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/researchAbstract?_rdoc=7&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017301414&_issn=18761070&_tab=afr&absLinks=y&md5=f4c5a833085b08b958772a9a759ba963" aria-describedby="title_S1876107017301414" aria-controls="rabs_S1876107017301414" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Research highlights</span></a></li><li><a aria-describedby="title_S1876107017301414"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S1876107017301414&_ts=1494959358&md5=853a63549a0b0a99cb20dda839e1ffa4"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+</ul><div  id="abs_S1876107017301414" class="previewBox abstract hidden"></div><div  id="rabs_S1876107017301414" class="previewBox rabstract hidden"></div><div  id="gabs_S1876107017301414" class="previewBox gabstract"><div id="abs" class="previewContent"><div><?xml version="1.0" encoding="UTF-8"?><div class="svAbstract" data-etype="ab"><div class="articleText"><div class="articleText_indent"><p class="paraText"><div id="fig0010" class="ImageScroller" style="height:217px"><img height="200" border="0" align="middle" width="269" style="vertical-align: bottom;" alt="image" title="image" src="http://ars.els-cdn.com/content/image/1-s2.0-S1876107017301414-fx1.jpg"/></div></div></div></div></div></div></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_7" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S1876107017301517" aria-labelledby="title_S1876107017301517" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S1876107017301517" href="http://www.sciencedirect.com/science/article/pii/S1876107017301517" class="cLink artTitle S_C_artTitle " data-docsubtype="fla" queryStr="?_rdoc=8&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_docanchor=&_ct=36&md5=1cc99397d04ae35247b750afd4f26193">Facile synthesis of hierarchical porous catalysts for enhanced conversion of fructose to 5-hydroxymethylfurfural</a></h4><span class="articleTypeLabel">Original Research Article</span></li><li class="source "><i>Pages 59-69</i></li><li class="authors ">Pei Jin, Yunlei Zhang, Yao Chen, Jianming Pan, Xiaohui Dai, Meng Liu, Yongsheng Yan, Chunxiang Li</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=8&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017301517&_issn=18761070&_tab=afr&absLinks=y&md5=06a4bd4239ceb90f6ad4bf15f1d2ae9d" aria-describedby="title_S1876107017301517" aria-controls="abs_S1876107017301517" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a href="#" data-type="graphicalAbstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/graphicalAbstract?_rdoc=8&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017301517&_issn=18761070&_tab=afr&absLinks=y&md5=06a4bd4239ceb90f6ad4bf15f1d2ae9d" aria-describedby="title_S1876107017301517" aria-controls="gabs_S1876107017301517" aria-expanded="true"><span class="arrowDown"></span><span class="preTxt">Close graphical abstract</span></a></li><li><a href="#" data-type="researchAbstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/researchAbstract?_rdoc=8&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017301517&_issn=18761070&_tab=afr&absLinks=y&md5=06a4bd4239ceb90f6ad4bf15f1d2ae9d" aria-describedby="title_S1876107017301517" aria-controls="rabs_S1876107017301517" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Research highlights</span></a></li><li><a aria-describedby="title_S1876107017301517"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S1876107017301517&_ts=1494959358&md5=c712883fb8aa21f6c36facbcfebd17ae"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+</ul><div  id="abs_S1876107017301517" class="previewBox abstract hidden"></div><div  id="rabs_S1876107017301517" class="previewBox rabstract hidden"></div><div  id="gabs_S1876107017301517" class="previewBox gabstract"><div id="abs" class="previewContent"><div><?xml version="1.0" encoding="UTF-8"?><div class="svAbstract" data-etype="ab"><div class="articleText"><div class="articleText_indent"><p class="paraText"><div id="fig0012" class="ImageScroller" style="height:154px"><img height="137" border="0" align="middle" width="301" style="vertical-align: bottom;" alt="image" title="image" src="http://ars.els-cdn.com/content/image/1-s2.0-S1876107017301517-fx1.jpg"/></div></div></div></div></div></div></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_8" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S1876107017301542" aria-labelledby="title_S1876107017301542" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S1876107017301542" href="http://www.sciencedirect.com/science/article/pii/S1876107017301542" class="cLink artTitle S_C_artTitle " data-docsubtype="fla" queryStr="?_rdoc=9&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_docanchor=&_ct=36&md5=0785fb7f9abbff89e63637eb0f042470">Extracting antioxidant phenolic compounds from compressional-puffing pretreated <span style='font-style: italic'>Pinus morrisonicola</span>: Effects of operational parameters, kinetics and characterization</a></h4><span class="articleTypeLabel">Original Research Article</span></li><li class="source "><i>Pages 70-76</i></li><li class="authors ">Pai-Shih Chiang, Duu-Jong Lee, Chris G. Whiteley, Chun-Yung Huang</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=9&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017301542&_issn=18761070&_tab=afr&absLinks=y&md5=0bcf1226cd742231feae1292d9bce5c7" aria-describedby="title_S1876107017301542" aria-controls="abs_S1876107017301542" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a href="#" data-type="graphicalAbstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/graphicalAbstract?_rdoc=9&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017301542&_issn=18761070&_tab=afr&absLinks=y&md5=0bcf1226cd742231feae1292d9bce5c7" aria-describedby="title_S1876107017301542" aria-controls="gabs_S1876107017301542" aria-expanded="true"><span class="arrowDown"></span><span class="preTxt">Close graphical abstract</span></a></li><li><a href="#" data-type="researchAbstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/researchAbstract?_rdoc=9&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017301542&_issn=18761070&_tab=afr&absLinks=y&md5=0bcf1226cd742231feae1292d9bce5c7" aria-describedby="title_S1876107017301542" aria-controls="rabs_S1876107017301542" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Research highlights</span></a></li><li><a aria-describedby="title_S1876107017301542"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S1876107017301542&_ts=1494959358&md5=43c62d52322cb8c4395ed4998a30fd81"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+<li><a id ="title_S1876107017301542" href="http://www.sciencedirect.com/science/article/pii/S1876107017301542#MMCvFirst" class="mmcLinkSprite" cLink S_C_artTitle " data-docsubtype="fla" queryStr="?_rdoc=9&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_docanchor=&_ct=36&md5=0785fb7f9abbff89e63637eb0f042470"><span class="mmcTxt">Supplementary content</span></a></li></ul><div  id="abs_S1876107017301542" class="previewBox abstract hidden"></div><div  id="rabs_S1876107017301542" class="previewBox rabstract hidden"></div><div  id="gabs_S1876107017301542" class="previewBox gabstract"><div id="abs" class="previewContent"><div><?xml version="1.0" encoding="UTF-8"?><div class="svAbstract" data-etype="ab"><div class="articleText"><div class="articleText_indent"><p class="paraText"><div id="fig0005" class="ImageScroller" style="height:261px"><img height="244" border="0" align="middle" width="199" style="vertical-align: bottom;" alt="image" title="image" src="http://ars.els-cdn.com/content/image/1-s2.0-S1876107017301542-fx1.jpg"/></div></div></div></div></div></div></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_9" class="resultsView"></div><div class="subHeadsBlock heading1" ><h2 class="sectionH1">Energy and Environmental Science and Technology</h2></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S1876107017300305" aria-labelledby="title_S1876107017300305" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S1876107017300305" href="http://www.sciencedirect.com/science/article/pii/S1876107017300305" class="cLink artTitle S_C_artTitle " data-docsubtype="fla" queryStr="?_rdoc=10&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_docanchor=&_ct=36&md5=665522bc6038910fab3b73a434f16cf9">Numerical investigation of modified solar still using nanofluids and external condenser</a></h4><span class="articleTypeLabel">Original Research Article</span></li><li class="source "><i>Pages 77-86</i></li><li class="authors ">A.E. Kabeel, Z.M. Omara, F.A. Essa</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=10&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017300305&_issn=18761070&_tab=afr&absLinks=y&md5=1deb17ad519741a164404d4787198b45" aria-describedby="title_S1876107017300305" aria-controls="abs_S1876107017300305" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a href="#" data-type="researchAbstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/researchAbstract?_rdoc=10&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017300305&_issn=18761070&_tab=afr&absLinks=y&md5=1deb17ad519741a164404d4787198b45" aria-describedby="title_S1876107017300305" aria-controls="rabs_S1876107017300305" aria-expanded="true"><span class="arrowDown"></span><span class="preTxt">Close research highlights</span></a></li><li><a aria-describedby="title_S1876107017300305"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S1876107017300305&_ts=1494959358&md5=e04c0ed6501bbcd06c760fb31c4f30e0"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+</ul><div  id="abs_S1876107017300305" class="previewBox abstract hidden"></div><div  id="rabs_S1876107017300305" class="previewBox rabstract"><div id="abs" class="previewContent"><div><?xml version="1.0" encoding="UTF-8"?><div class="svAbstract" data-etype="ab"><div class="articleText"><div class="articleText_indent"><h3 class="h3">Highlights</h3><p class="paraText"><dl class="listitem" id="list_celist0001"><dt class="label">•</dt><dd><p id="para0001">The modified solar still integrated with a separate condenser using nano-fluids is presented.</dd><dt class="label">•</dt><dd><p id="para0002">Theoretical analysis of the heat and mass transfer for the solar stills has been developed.</dd><dt class="label">•</dt><dd><p id="para0003">The analysis is conducted for aluminum oxide and cuprous oxide nano-particles.</dd></dl></div></div></div></div></div></div><div  id="gabs_S1876107017300305" class="previewBox gabstract hidden"></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_10" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S1876107017300834" aria-labelledby="title_S1876107017300834" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S1876107017300834" href="http://www.sciencedirect.com/science/article/pii/S1876107017300834" class="cLink artTitle S_C_artTitle " data-docsubtype="fla" queryStr="?_rdoc=11&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_docanchor=&_ct=36&md5=8e1b012890021a37c6af04d0f787f654">Adsorption characteristics and kinetics of organic airborne contamination for the chemical filters used in the fan-filter unit (FFU) of a cleanroom</a></h4><span class="articleTypeLabel">Original Research Article</span></li><li class="source "><i>Pages 87-96</i></li><li class="authors ">Shih-Cheng Hu, Andy Chang, Angus Shiue, Ti Lin, Song-Dun Liao</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=11&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017300834&_issn=18761070&_tab=afr&absLinks=y&md5=ce39bf17d59ebee446613b5dd8262d6c" aria-describedby="title_S1876107017300834" aria-controls="abs_S1876107017300834" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a href="#" data-type="graphicalAbstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/graphicalAbstract?_rdoc=11&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017300834&_issn=18761070&_tab=afr&absLinks=y&md5=ce39bf17d59ebee446613b5dd8262d6c" aria-describedby="title_S1876107017300834" aria-controls="gabs_S1876107017300834" aria-expanded="true"><span class="arrowDown"></span><span class="preTxt">Close graphical abstract</span></a></li><li><a href="#" data-type="researchAbstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/researchAbstract?_rdoc=11&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017300834&_issn=18761070&_tab=afr&absLinks=y&md5=ce39bf17d59ebee446613b5dd8262d6c" aria-describedby="title_S1876107017300834" aria-controls="rabs_S1876107017300834" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Research highlights</span></a></li><li><a aria-describedby="title_S1876107017300834"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S1876107017300834&_ts=1494959358&md5=fd2539e7aa42f839734f8c730c9622e5"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+</ul><div  id="abs_S1876107017300834" class="previewBox abstract hidden"></div><div  id="rabs_S1876107017300834" class="previewBox rabstract hidden"></div><div  id="gabs_S1876107017300834" class="previewBox gabstract"><div id="abs" class="previewContent"><div><?xml version="1.0" encoding="UTF-8"?><div class="svAbstract" data-etype="ab"><div class="articleText"><div class="articleText_indent"><p class="paraText"><div id="fig0013" class="ImageScroller" style="height:260px"><img height="243" border="0" align="middle" width="124" style="vertical-align: bottom;" alt="image" title="image" src="http://ars.els-cdn.com/content/image/1-s2.0-S1876107017300834-fx1.jpg"/></div></div></div></div></div></div></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_11" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S1876107017300858" aria-labelledby="title_S1876107017300858" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S1876107017300858" href="http://www.sciencedirect.com/science/article/pii/S1876107017300858" class="cLink artTitle S_C_artTitle " data-docsubtype="fla" queryStr="?_rdoc=12&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_docanchor=&_ct=36&md5=2f4d46177eefdd988e9c81d626f06b5f">Remediation of phenol and phenolic derivatives by catalytic wet peroxide oxidation over Co-Ni layered double nano hydroxides</a></h4><span class="articleTypeLabel">Original Research Article</span></li><li class="source "><i>Pages 97-104</i></li><li class="authors ">S.A. Hosseini, M. Davodian, A.R. Abbasian</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=12&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017300858&_issn=18761070&_tab=afr&absLinks=y&md5=cf8b395c76940837647b18271b51a447" aria-describedby="title_S1876107017300858" aria-controls="abs_S1876107017300858" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a href="#" data-type="graphicalAbstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/graphicalAbstract?_rdoc=12&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017300858&_issn=18761070&_tab=afr&absLinks=y&md5=cf8b395c76940837647b18271b51a447" aria-describedby="title_S1876107017300858" aria-controls="gabs_S1876107017300858" aria-expanded="true"><span class="arrowDown"></span><span class="preTxt">Close graphical abstract</span></a></li><li><a href="#" data-type="researchAbstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/researchAbstract?_rdoc=12&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017300858&_issn=18761070&_tab=afr&absLinks=y&md5=cf8b395c76940837647b18271b51a447" aria-describedby="title_S1876107017300858" aria-controls="rabs_S1876107017300858" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Research highlights</span></a></li><li><a aria-describedby="title_S1876107017300858"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S1876107017300858&_ts=1494959358&md5=3dfc4988544937a112cbe8afaab6e01b"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+</ul><div  id="abs_S1876107017300858" class="previewBox abstract hidden"></div><div  id="rabs_S1876107017300858" class="previewBox rabstract hidden"></div><div  id="gabs_S1876107017300858" class="previewBox gabstract"><div id="abs" class="previewContent"><div><?xml version="1.0" encoding="UTF-8"?><div class="svAbstract" data-etype="ab"><div class="articleText"><div class="articleText_indent"><p class="paraText"><div id="fig0011" class="ImageScroller" style="height:262px"><img height="245" border="0" align="middle" width="205" style="vertical-align: bottom;" alt="image" title="image" src="http://ars.els-cdn.com/content/image/1-s2.0-S1876107017300858-fx1.jpg"/></div></div></div></div></div></div></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_12" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S187610701730086X" aria-labelledby="title_S187610701730086X" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S187610701730086X" href="http://www.sciencedirect.com/science/article/pii/S187610701730086X" class="cLink artTitle S_C_artTitle " data-docsubtype="fla" queryStr="?_rdoc=13&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_docanchor=&_ct=36&md5=10a6c808e6fe50eb4815dbef699be822">Adsorption of Bezathren dyes onto sodic bentonite from aqueous solutions</a></h4><span class="articleTypeLabel">Original Research Article</span></li><li class="source "><i>Pages 105-111</i></li><li class="authors ">Ihssane Belbachir, Benamar Makhoukhi</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=13&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S187610701730086X&_issn=18761070&_tab=afr&absLinks=y&md5=f1f319778c2fb50fd97d893cdb183489" aria-describedby="title_S187610701730086X" aria-controls="abs_S187610701730086X" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a href="#" data-type="graphicalAbstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/graphicalAbstract?_rdoc=13&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S187610701730086X&_issn=18761070&_tab=afr&absLinks=y&md5=f1f319778c2fb50fd97d893cdb183489" aria-describedby="title_S187610701730086X" aria-controls="gabs_S187610701730086X" aria-expanded="true"><span class="arrowDown"></span><span class="preTxt">Close graphical abstract</span></a></li><li><a href="#" data-type="researchAbstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/researchAbstract?_rdoc=13&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S187610701730086X&_issn=18761070&_tab=afr&absLinks=y&md5=f1f319778c2fb50fd97d893cdb183489" aria-describedby="title_S187610701730086X" aria-controls="rabs_S187610701730086X" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Research highlights</span></a></li><li><a aria-describedby="title_S187610701730086X"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S187610701730086X&_ts=1494959358&md5=cfdb6cd2b61b7370ec495ce7865e5420"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+</ul><div  id="abs_S187610701730086X" class="previewBox abstract hidden"></div><div  id="rabs_S187610701730086X" class="previewBox rabstract hidden"></div><div  id="gabs_S187610701730086X" class="previewBox gabstract"><div id="abs" class="previewContent"><div><?xml version="1.0" encoding="UTF-8"?><div class="svAbstract" data-etype="ab"><div class="articleText"><div class="articleText_indent"><p class="paraText"><div id="fig0012" class="ImageScroller" style="height:217px"><img height="200" border="0" align="middle" width="235" style="vertical-align: bottom;" alt="image" title="image" src="http://ars.els-cdn.com/content/image/1-s2.0-S187610701730086X-fx1.jpg"/></div></div></div></div></div></div></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_13" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S1876107017300913" aria-labelledby="title_S1876107017300913" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S1876107017300913" href="http://www.sciencedirect.com/science/article/pii/S1876107017300913" class="cLink artTitle S_C_artTitle " data-docsubtype="fla" queryStr="?_rdoc=14&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_docanchor=&_ct=36&md5=aff1ba8ae7441c76713f9f8c45e7aafe">A novel polyaniline interlayer manganese dioxide composite anode for high-performance microbial fuel cell</a></h4><span class="articleTypeLabel">Original Research Article</span></li><li class="source "><i>Pages 112-118</i></li><li class="authors ">Yuyang Wang, Qing Wen, Ye Chen, Lijuan Qi</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=14&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017300913&_issn=18761070&_tab=afr&absLinks=y&md5=ac493cec2e8a1f87405193a46894b96d" aria-describedby="title_S1876107017300913" aria-controls="abs_S1876107017300913" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a href="#" data-type="graphicalAbstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/graphicalAbstract?_rdoc=14&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017300913&_issn=18761070&_tab=afr&absLinks=y&md5=ac493cec2e8a1f87405193a46894b96d" aria-describedby="title_S1876107017300913" aria-controls="gabs_S1876107017300913" aria-expanded="true"><span class="arrowDown"></span><span class="preTxt">Close graphical abstract</span></a></li><li><a href="#" data-type="researchAbstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/researchAbstract?_rdoc=14&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017300913&_issn=18761070&_tab=afr&absLinks=y&md5=ac493cec2e8a1f87405193a46894b96d" aria-describedby="title_S1876107017300913" aria-controls="rabs_S1876107017300913" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Research highlights</span></a></li><li><a aria-describedby="title_S1876107017300913"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S1876107017300913&_ts=1494959358&md5=ba85aa0da7fc3232f21710747f83a481"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+</ul><div  id="abs_S1876107017300913" class="previewBox abstract hidden"></div><div  id="rabs_S1876107017300913" class="previewBox rabstract hidden"></div><div  id="gabs_S1876107017300913" class="previewBox gabstract"><div id="abs" class="previewContent"><div><?xml version="1.0" encoding="UTF-8"?><div class="svAbstract" data-etype="ab"><div class="articleText"><div class="articleText_indent"><p class="paraText">Schematic illustration of the sandwich-like structure (MnO<sub>2</sub>/PANI/MnO<sub>2</sub>) composite material.<div id="fig0006" class="ImageScroller" style="height:208px"><img height="191" border="0" align="middle" width="301" style="vertical-align: bottom;" alt="image" title="image" src="http://ars.els-cdn.com/content/image/1-s2.0-S1876107017300913-fx1.jpg"/></div></div></div></div></div></div></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_14" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S1876107017300986" aria-labelledby="title_S1876107017300986" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S1876107017300986" href="http://www.sciencedirect.com/science/article/pii/S1876107017300986" class="cLink artTitle S_C_artTitle " data-docsubtype="fla" queryStr="?_rdoc=15&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_docanchor=&_ct=36&md5=32d016b1f33bb7257baa85dc928e7171">Numerical heat transfer analysis in a two-phase microorganism malodor removing system with the effect of internal structures</a></h4><span class="articleTypeLabel">Original Research Article</span></li><li class="source "><i>Pages 119-130</i></li><li class="authors ">Haider Ali, Cheol Woo Park</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=15&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017300986&_issn=18761070&_tab=afr&absLinks=y&md5=4b839d730f405e323adf4e9e1ae021b5" aria-describedby="title_S1876107017300986" aria-controls="abs_S1876107017300986" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a href="#" data-type="graphicalAbstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/graphicalAbstract?_rdoc=15&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017300986&_issn=18761070&_tab=afr&absLinks=y&md5=4b839d730f405e323adf4e9e1ae021b5" aria-describedby="title_S1876107017300986" aria-controls="gabs_S1876107017300986" aria-expanded="true"><span class="arrowDown"></span><span class="preTxt">Close graphical abstract</span></a></li><li><a href="#" data-type="researchAbstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/researchAbstract?_rdoc=15&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017300986&_issn=18761070&_tab=afr&absLinks=y&md5=4b839d730f405e323adf4e9e1ae021b5" aria-describedby="title_S1876107017300986" aria-controls="rabs_S1876107017300986" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Research highlights</span></a></li><li><a aria-describedby="title_S1876107017300986"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S1876107017300986&_ts=1494959358&md5=5b1895770fe67c112bb7aa7961a563d4"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+</ul><div  id="abs_S1876107017300986" class="previewBox abstract hidden"></div><div  id="rabs_S1876107017300986" class="previewBox rabstract hidden"></div><div  id="gabs_S1876107017300986" class="previewBox gabstract"><div id="abs" class="previewContent"><div><?xml version="1.0" encoding="UTF-8"?><div class="svAbstract" data-etype="ab"><div class="articleText"><div class="articleText_indent"><p class="paraText"><div id="fig0009" class="ImageScroller" style="height:171px"><img height="154" border="0" align="middle" width="301" style="vertical-align: bottom;" alt="image" title="image" src="http://ars.els-cdn.com/content/image/1-s2.0-S1876107017300986-fx1.jpg"/></div></div></div></div></div></div></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_15" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S1876107017301104" aria-labelledby="title_S1876107017301104" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S1876107017301104" href="http://www.sciencedirect.com/science/article/pii/S1876107017301104" class="cLink artTitle S_C_artTitle " data-docsubtype="fla" queryStr="?_rdoc=16&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_docanchor=&_ct=36&md5=282eca2134ecb7024293fbb73c019f11">Numerical analysis of entropy generation due to natural convection in three-dimensional partially open enclosures</a></h4><span class="articleTypeLabel">Original Research Article</span></li><li class="source "><i>Pages 131-140</i></li><li class="authors ">Hakan F. Oztop, Lioua Kolsi, Abdulaziz Alghamdi, Nidal Abu-Hamdeh, Mohamed Naceur Borjini, Habib Ben Aissia</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=16&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017301104&_issn=18761070&_tab=afr&absLinks=y&md5=fe13e83923f3ebe2f469d7beeb8bf523" aria-describedby="title_S1876107017301104" aria-controls="abs_S1876107017301104" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a href="#" data-type="graphicalAbstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/graphicalAbstract?_rdoc=16&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017301104&_issn=18761070&_tab=afr&absLinks=y&md5=fe13e83923f3ebe2f469d7beeb8bf523" aria-describedby="title_S1876107017301104" aria-controls="gabs_S1876107017301104" aria-expanded="true"><span class="arrowDown"></span><span class="preTxt">Close graphical abstract</span></a></li><li><a href="#" data-type="researchAbstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/researchAbstract?_rdoc=16&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017301104&_issn=18761070&_tab=afr&absLinks=y&md5=fe13e83923f3ebe2f469d7beeb8bf523" aria-describedby="title_S1876107017301104" aria-controls="rabs_S1876107017301104" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Research highlights</span></a></li><li><a aria-describedby="title_S1876107017301104"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S1876107017301104&_ts=1494959358&md5=451ff67e4de3e6807f63d5613591d8a7"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+</ul><div  id="abs_S1876107017301104" class="previewBox abstract hidden"></div><div  id="rabs_S1876107017301104" class="previewBox rabstract hidden"></div><div  id="gabs_S1876107017301104" class="previewBox gabstract"><div id="abs" class="previewContent"><div><?xml version="1.0" encoding="UTF-8"?><div class="svAbstract" data-etype="ab"><div class="articleText"><div class="articleText_indent"><p class="paraText">Figure trajectories for different opening ratios for different Rayleigh numbers<div id="fig0013" class="ImageScroller" style="height:262px"><img height="245" border="0" align="middle" width="224" style="vertical-align: bottom;" alt="image" title="image" src="http://ars.els-cdn.com/content/image/1-s2.0-S1876107017301104-fx1.jpg"/></div>.</div></div></div></div></div></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_16" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S1876107017301165" aria-labelledby="title_S1876107017301165" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S1876107017301165" href="http://www.sciencedirect.com/science/article/pii/S1876107017301165" class="cLink artTitle S_C_artTitle " data-docsubtype="fla" queryStr="?_rdoc=17&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_docanchor=&_ct=36&md5=19419ef7712430ebe7f7387242de98ad">Facile synthesis of AgIO<sub>3</sub>/AgBr composite with enhanced photocatalytic activity under visible-light irradiation</a></h4><span class="articleTypeLabel">Original Research Article</span></li><li class="source "><i>Pages 141-147</i></li><li class="authors ">Qian Wen Cao, Yi Fan Zheng, Xu Chun Song</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=17&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017301165&_issn=18761070&_tab=afr&absLinks=y&md5=c71b6ea1be586d35ef858ffd95ae8a3e" aria-describedby="title_S1876107017301165" aria-controls="abs_S1876107017301165" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a href="#" data-type="graphicalAbstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/graphicalAbstract?_rdoc=17&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017301165&_issn=18761070&_tab=afr&absLinks=y&md5=c71b6ea1be586d35ef858ffd95ae8a3e" aria-describedby="title_S1876107017301165" aria-controls="gabs_S1876107017301165" aria-expanded="true"><span class="arrowDown"></span><span class="preTxt">Close graphical abstract</span></a></li><li><a href="#" data-type="researchAbstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/researchAbstract?_rdoc=17&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017301165&_issn=18761070&_tab=afr&absLinks=y&md5=c71b6ea1be586d35ef858ffd95ae8a3e" aria-describedby="title_S1876107017301165" aria-controls="rabs_S1876107017301165" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Research highlights</span></a></li><li><a aria-describedby="title_S1876107017301165"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S1876107017301165&_ts=1494959358&md5=7c654c29be5aed30f2193ef37929e05f"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+</ul><div  id="abs_S1876107017301165" class="previewBox abstract hidden"></div><div  id="rabs_S1876107017301165" class="previewBox rabstract hidden"></div><div  id="gabs_S1876107017301165" class="previewBox gabstract"><div id="abs" class="previewContent"><div><?xml version="1.0" encoding="UTF-8"?><div class="svAbstract" data-etype="ab"><div class="articleText"><div class="articleText_indent"><p class="paraText"><div id="fig0009" class="ImageScroller" style="height:150px"><img height="133" border="0" align="middle" width="301" style="vertical-align: bottom;" alt="image" title="image" src="http://ars.els-cdn.com/content/image/1-s2.0-S1876107017301165-fx1.jpg"/></div></div></div></div></div></div></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_17" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S1876107017301207" aria-labelledby="title_S1876107017301207" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S1876107017301207" href="http://www.sciencedirect.com/science/article/pii/S1876107017301207" class="cLink artTitle S_C_artTitle " data-docsubtype="fla" queryStr="?_rdoc=18&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_docanchor=&_ct=36&md5=9b10410d990ca2dade1e82b0997b079c">Influence of fuel type on microwave-enhanced fabrication of KOH/Ca<sub>12</sub>Al<sub>14</sub>O<sub>33</sub> nanocatalyst for biodiesel production via microwave heating</a></h4><span class="articleTypeLabel">Original Research Article</span></li><li class="source "><i>Pages 148-155</i></li><li class="authors ">Hamed Nayebzadeh, Naser Saghatoleslami, Mohammad Haghighi, Mohammad Tabasizadeh</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=18&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017301207&_issn=18761070&_tab=afr&absLinks=y&md5=aaa4f40890007fd3b317b5e6b49adc14" aria-describedby="title_S1876107017301207" aria-controls="abs_S1876107017301207" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a href="#" data-type="graphicalAbstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/graphicalAbstract?_rdoc=18&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017301207&_issn=18761070&_tab=afr&absLinks=y&md5=aaa4f40890007fd3b317b5e6b49adc14" aria-describedby="title_S1876107017301207" aria-controls="gabs_S1876107017301207" aria-expanded="true"><span class="arrowDown"></span><span class="preTxt">Close graphical abstract</span></a></li><li><a href="#" data-type="researchAbstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/researchAbstract?_rdoc=18&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017301207&_issn=18761070&_tab=afr&absLinks=y&md5=aaa4f40890007fd3b317b5e6b49adc14" aria-describedby="title_S1876107017301207" aria-controls="rabs_S1876107017301207" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Research highlights</span></a></li><li><a aria-describedby="title_S1876107017301207"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S1876107017301207&_ts=1494959358&md5=339173d7586d186718dc012838ea8e18"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+</ul><div  id="abs_S1876107017301207" class="previewBox abstract hidden"></div><div  id="rabs_S1876107017301207" class="previewBox rabstract hidden"></div><div  id="gabs_S1876107017301207" class="previewBox gabstract"><div id="abs" class="previewContent"><div><?xml version="1.0" encoding="UTF-8"?><div class="svAbstract" data-etype="ab"><div class="articleText"><div class="articleText_indent"><p class="paraText"><div id="fig0011" class="ImageScroller" style="height:157px"><img height="140" border="0" align="middle" width="301" style="vertical-align: bottom;" alt="image" title="image" src="http://ars.els-cdn.com/content/image/1-s2.0-S1876107017301207-fx1.jpg"/></div></div></div></div></div></div></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_18" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S1876107017301219" aria-labelledby="title_S1876107017301219" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S1876107017301219" href="http://www.sciencedirect.com/science/article/pii/S1876107017301219" class="cLink artTitle S_C_artTitle " data-docsubtype="fla" queryStr="?_rdoc=19&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_docanchor=&_ct=36&md5=bd33b25314569fb0a314aa94048b169e">Selective adsorption of CH<sub>3</sub>SH on cobalt-modified activated carbon with low oxygen concentration</a></h4><span class="articleTypeLabel">Original Research Article</span></li><li class="source "><i>Pages 156-163</i></li><li class="authors ">Langlang Wang, Xueqian Wang, Ping Ning, Wei Liu, Fei Wang, Yixing Ma</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=19&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017301219&_issn=18761070&_tab=afr&absLinks=y&md5=8091f3ff50d3ecc8f0fd59e0e4c5afb1" aria-describedby="title_S1876107017301219" aria-controls="abs_S1876107017301219" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a href="#" data-type="graphicalAbstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/graphicalAbstract?_rdoc=19&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017301219&_issn=18761070&_tab=afr&absLinks=y&md5=8091f3ff50d3ecc8f0fd59e0e4c5afb1" aria-describedby="title_S1876107017301219" aria-controls="gabs_S1876107017301219" aria-expanded="true"><span class="arrowDown"></span><span class="preTxt">Close graphical abstract</span></a></li><li><a href="#" data-type="researchAbstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/researchAbstract?_rdoc=19&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017301219&_issn=18761070&_tab=afr&absLinks=y&md5=8091f3ff50d3ecc8f0fd59e0e4c5afb1" aria-describedby="title_S1876107017301219" aria-controls="rabs_S1876107017301219" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Research highlights</span></a></li><li><a aria-describedby="title_S1876107017301219"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S1876107017301219&_ts=1494959358&md5=67d43bae59422a933231841d23763059"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+</ul><div  id="abs_S1876107017301219" class="previewBox abstract hidden"></div><div  id="rabs_S1876107017301219" class="previewBox rabstract hidden"></div><div  id="gabs_S1876107017301219" class="previewBox gabstract"><div id="abs" class="previewContent"><div><?xml version="1.0" encoding="UTF-8"?><div class="svAbstract" data-etype="ab"><div class="articleText"><div class="articleText_indent"><p class="paraText">Compared with CH<sub>3</sub>SH, the CH<sub>3</sub>SH breakthrough capacity of Co/AC in the presence of H<sub>2</sub>S or COS was reduced. Blank AC adsorption efficiency was clearly higher than Co/AC for H<sub>2</sub>S and COS, and H<sub>2</sub>S and COS were barely adsorbed by Co/AC. Therefore, Co/AC had a better selectivity for the removal of methyl mercaptan in the presence of H<sub>2</sub>S and COS, which was closely related to the different melt boiling point, physical adsorption and chemical adsorption.<div id="fig0014" class="ImageScroller" style="height:131px"><img height="114" border="0" align="middle" width="301" style="vertical-align: bottom;" alt="image" title="image" src="http://ars.els-cdn.com/content/image/1-s2.0-S1876107017301219-fx1.jpg"/></div></div></div></div></div></div></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_19" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S187610701730127X" aria-labelledby="title_S187610701730127X" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S187610701730127X" href="http://www.sciencedirect.com/science/article/pii/S187610701730127X" class="cLink artTitle S_C_artTitle " data-docsubtype="fla" queryStr="?_rdoc=20&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_docanchor=&_ct=36&md5=298a4bf2fae672a0f2fa632185d80156">Experimental and CFD modeling of diazinon pesticide removal using fixed bed column with Cu-modified zeolite nanoparticle</a></h4><span class="articleTypeLabel">Original Research Article</span></li><li class="source "><i>Pages 164-173</i></li><li class="authors ">Hossein Esfandian, Abdolraouf Samadi-Maybodi, Behnam Khoshandam, Mehdi Parvini</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=20&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S187610701730127X&_issn=18761070&_tab=afr&absLinks=y&md5=78c27b659abb7c5091a1b230b9059918" aria-describedby="title_S187610701730127X" aria-controls="abs_S187610701730127X" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a href="#" data-type="graphicalAbstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/graphicalAbstract?_rdoc=20&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S187610701730127X&_issn=18761070&_tab=afr&absLinks=y&md5=78c27b659abb7c5091a1b230b9059918" aria-describedby="title_S187610701730127X" aria-controls="gabs_S187610701730127X" aria-expanded="true"><span class="arrowDown"></span><span class="preTxt">Close graphical abstract</span></a></li><li><a href="#" data-type="researchAbstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/researchAbstract?_rdoc=20&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S187610701730127X&_issn=18761070&_tab=afr&absLinks=y&md5=78c27b659abb7c5091a1b230b9059918" aria-describedby="title_S187610701730127X" aria-controls="rabs_S187610701730127X" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Research highlights</span></a></li><li><a aria-describedby="title_S187610701730127X"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S187610701730127X&_ts=1494959358&md5=36ce5a5d32112c00023ba82eededf96a"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+</ul><div  id="abs_S187610701730127X" class="previewBox abstract hidden"></div><div  id="rabs_S187610701730127X" class="previewBox rabstract hidden"></div><div  id="gabs_S187610701730127X" class="previewBox gabstract"><div id="abs" class="previewContent"><div><?xml version="1.0" encoding="UTF-8"?><div class="svAbstract" data-etype="ab"><div class="articleText"><div class="articleText_indent"><p class="paraText"><div id="fig0010" class="ImageScroller" style="height:97px"><img height="80" border="0" align="middle" width="301" style="vertical-align: bottom;" alt="image" title="image" src="http://ars.els-cdn.com/content/image/1-s2.0-S187610701730127X-fx1.jpg"/></div></div></div></div></div></div></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_20" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S1876107017301335" aria-labelledby="title_S1876107017301335" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S1876107017301335" href="http://www.sciencedirect.com/science/article/pii/S1876107017301335" class="cLink artTitle S_C_artTitle " data-docsubtype="fla" queryStr="?_rdoc=21&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_docanchor=&_ct=36&md5=0e2bf353901aa1cbd020027f17f73d11">Impact of the annealing temperature on perovskite strontium doped neodymium manganites nanocomposites and their photocatalytic performances</a></h4><span class="articleTypeLabel">Original Research Article</span></li><li class="source "><i>Pages 174-182</i></li><li class="authors ">I.A. Abdel-Latif, Adel A. Ismail, M. Faisal, Atif M. Ali, A.E. Al-Salmi, A. Al-Hajry</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=21&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017301335&_issn=18761070&_tab=afr&absLinks=y&md5=0618b6df1911248964aa0216c5dc8959" aria-describedby="title_S1876107017301335" aria-controls="abs_S1876107017301335" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a href="#" data-type="graphicalAbstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/graphicalAbstract?_rdoc=21&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017301335&_issn=18761070&_tab=afr&absLinks=y&md5=0618b6df1911248964aa0216c5dc8959" aria-describedby="title_S1876107017301335" aria-controls="gabs_S1876107017301335" aria-expanded="true"><span class="arrowDown"></span><span class="preTxt">Close graphical abstract</span></a></li><li><a href="#" data-type="researchAbstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/researchAbstract?_rdoc=21&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017301335&_issn=18761070&_tab=afr&absLinks=y&md5=0618b6df1911248964aa0216c5dc8959" aria-describedby="title_S1876107017301335" aria-controls="rabs_S1876107017301335" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Research highlights</span></a></li><li><a aria-describedby="title_S1876107017301335"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S1876107017301335&_ts=1494959358&md5=7fd833fa807046ff37d5213892229eb6"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+</ul><div  id="abs_S1876107017301335" class="previewBox abstract hidden"></div><div  id="rabs_S1876107017301335" class="previewBox rabstract hidden"></div><div  id="gabs_S1876107017301335" class="previewBox gabstract"><div id="abs" class="previewContent"><div><?xml version="1.0" encoding="UTF-8"?><div class="svAbstract" data-etype="ab"><div class="articleText"><div class="articleText_indent"><p class="paraText"><div id="fig0008" class="ImageScroller" style="height:116px"><img height="99" border="0" align="middle" width="301" style="vertical-align: bottom;" alt="image" title="image" src="http://ars.els-cdn.com/content/image/1-s2.0-S1876107017301335-fx1.jpg"/></div></div></div></div></div></div></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_21" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S1876107017301505" aria-labelledby="title_S1876107017301505" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S1876107017301505" href="http://www.sciencedirect.com/science/article/pii/S1876107017301505" class="cLink artTitle S_C_artTitle " data-docsubtype="fla" queryStr="?_rdoc=22&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_docanchor=&_ct=36&md5=814039eb033040352fd786aca702ceda">Facile <span style='font-style: italic'>in situ</span> growth of photoactive β-Bi<sub>2</sub>O<sub>3</sub> films</a></h4><span class="articleTypeLabel">Original Research Article</span></li><li class="source "><i>Pages 183-188</i></li><li class="authors ">Yi Wang, Yang Long, Dun Zhang</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=22&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017301505&_issn=18761070&_tab=afr&absLinks=y&md5=d89410c13e5a5eb4122c601a745a6a4a" aria-describedby="title_S1876107017301505" aria-controls="abs_S1876107017301505" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a href="#" data-type="graphicalAbstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/graphicalAbstract?_rdoc=22&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017301505&_issn=18761070&_tab=afr&absLinks=y&md5=d89410c13e5a5eb4122c601a745a6a4a" aria-describedby="title_S1876107017301505" aria-controls="gabs_S1876107017301505" aria-expanded="true"><span class="arrowDown"></span><span class="preTxt">Close graphical abstract</span></a></li><li><a href="#" data-type="researchAbstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/researchAbstract?_rdoc=22&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017301505&_issn=18761070&_tab=afr&absLinks=y&md5=d89410c13e5a5eb4122c601a745a6a4a" aria-describedby="title_S1876107017301505" aria-controls="rabs_S1876107017301505" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Research highlights</span></a></li><li><a aria-describedby="title_S1876107017301505"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S1876107017301505&_ts=1494959358&md5=6cbcd18da2be49974d9ad51658a21a48"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+<li><a id ="title_S1876107017301505" href="http://www.sciencedirect.com/science/article/pii/S1876107017301505#MMCvFirst" class="mmcLinkSprite" cLink S_C_artTitle " data-docsubtype="fla" queryStr="?_rdoc=22&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_docanchor=&_ct=36&md5=814039eb033040352fd786aca702ceda"><span class="mmcTxt">Supplementary content</span></a></li></ul><div  id="abs_S1876107017301505" class="previewBox abstract hidden"></div><div  id="rabs_S1876107017301505" class="previewBox rabstract hidden"></div><div  id="gabs_S1876107017301505" class="previewBox gabstract"><div id="abs" class="previewContent"><div><?xml version="1.0" encoding="UTF-8"?><div class="svAbstract" data-etype="ab"><div class="articleText"><div class="articleText_indent"><p class="paraText">β-Bi<sub>2</sub>O<sub>3</sub> films with tunable photoelectrochemical property and oriented microstructure are fabricated by calcination of basic bismuth nitrate precursor films on the Cu surface synthesized using <em>in situ</em> growth method.<div id="fig0008" class="ImageScroller" style="height:98px"><img height="81" border="0" align="middle" width="301" style="vertical-align: bottom;" alt="image" title="image" src="http://ars.els-cdn.com/content/image/1-s2.0-S1876107017301505-fx1.jpg"/></div></div></div></div></div></div></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_22" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S1876107017301529" aria-labelledby="title_S1876107017301529" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S1876107017301529" href="http://www.sciencedirect.com/science/article/pii/S1876107017301529" class="cLink artTitle S_C_artTitle " data-docsubtype="fla" queryStr="?_rdoc=23&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_docanchor=&_ct=36&md5=c44728612505a83d6fbce967ea057337">Fabrication and water desalination performance of piperazine–polyamide nanocomposite nanofiltration membranes embedded with raw and oxidized MWCNTs</a></h4><span class="articleTypeLabel">Original Research Article</span></li><li class="source "><i>Pages 189-198</i></li><li class="authors ">Mohammad Reza Mahdavi, Mohammad Delnavaz, Vahid Vatanpour</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=23&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017301529&_issn=18761070&_tab=afr&absLinks=y&md5=9ea4b6124bf02bf6345f8f8cb59fa77d" aria-describedby="title_S1876107017301529" aria-controls="abs_S1876107017301529" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a href="#" data-type="graphicalAbstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/graphicalAbstract?_rdoc=23&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017301529&_issn=18761070&_tab=afr&absLinks=y&md5=9ea4b6124bf02bf6345f8f8cb59fa77d" aria-describedby="title_S1876107017301529" aria-controls="gabs_S1876107017301529" aria-expanded="true"><span class="arrowDown"></span><span class="preTxt">Close graphical abstract</span></a></li><li><a href="#" data-type="researchAbstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/researchAbstract?_rdoc=23&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017301529&_issn=18761070&_tab=afr&absLinks=y&md5=9ea4b6124bf02bf6345f8f8cb59fa77d" aria-describedby="title_S1876107017301529" aria-controls="rabs_S1876107017301529" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Research highlights</span></a></li><li><a aria-describedby="title_S1876107017301529"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S1876107017301529&_ts=1494959358&md5=bfe1fe867884674ed0bac4a5dd3a7ffa"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+</ul><div  id="abs_S1876107017301529" class="previewBox abstract hidden"></div><div  id="rabs_S1876107017301529" class="previewBox rabstract hidden"></div><div  id="gabs_S1876107017301529" class="previewBox gabstract"><div id="abs" class="previewContent"><div><?xml version="1.0" encoding="UTF-8"?><div class="svAbstract" data-etype="ab"><div class="articleText"><div class="articleText_indent"><p class="paraText"><div id="fig0010" class="ImageScroller" style="height:164px"><img height="147" border="0" align="middle" width="301" style="vertical-align: bottom;" alt="image" title="image" src="http://ars.els-cdn.com/content/image/1-s2.0-S1876107017301529-fx1.jpg"/></div></div></div></div></div></div></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_23" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S1876107017301554" aria-labelledby="title_S1876107017301554" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S1876107017301554" href="http://www.sciencedirect.com/science/article/pii/S1876107017301554" class="cLink artTitle S_C_artTitle " data-docsubtype="fla" queryStr="?_rdoc=24&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_docanchor=&_ct=36&md5=4249bf8aefee93156cc1144ca7aa9599">Photoelectrochemical performances of kesterite Ag<sub>2</sub>ZnSnSe<sub>4</sub> photoelectrodes in the salt-water and water solutions</a></h4><span class="articleTypeLabel">Original Research Article</span></li><li class="source "><i>Pages 199-208</i></li><li class="authors ">Kong-Wei Cheng</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=24&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017301554&_issn=18761070&_tab=afr&absLinks=y&md5=56db748b262ca14c8af670e477a7416e" aria-describedby="title_S1876107017301554" aria-controls="abs_S1876107017301554" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a href="#" data-type="graphicalAbstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/graphicalAbstract?_rdoc=24&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017301554&_issn=18761070&_tab=afr&absLinks=y&md5=56db748b262ca14c8af670e477a7416e" aria-describedby="title_S1876107017301554" aria-controls="gabs_S1876107017301554" aria-expanded="true"><span class="arrowDown"></span><span class="preTxt">Close graphical abstract</span></a></li><li><a href="#" data-type="researchAbstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/researchAbstract?_rdoc=24&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017301554&_issn=18761070&_tab=afr&absLinks=y&md5=56db748b262ca14c8af670e477a7416e" aria-describedby="title_S1876107017301554" aria-controls="rabs_S1876107017301554" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Research highlights</span></a></li><li><a aria-describedby="title_S1876107017301554"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S1876107017301554&_ts=1494959358&md5=5558c2bcd4bf99d7b1988490982cf6cd"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+<li><a id ="title_S1876107017301554" href="http://www.sciencedirect.com/science/article/pii/S1876107017301554#MMCvFirst" class="mmcLinkSprite" cLink S_C_artTitle " data-docsubtype="fla" queryStr="?_rdoc=24&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_docanchor=&_ct=36&md5=4249bf8aefee93156cc1144ca7aa9599"><span class="mmcTxt">Supplementary content</span></a></li></ul><div  id="abs_S1876107017301554" class="previewBox abstract hidden"></div><div  id="rabs_S1876107017301554" class="previewBox rabstract hidden"></div><div  id="gabs_S1876107017301554" class="previewBox gabstract"><div id="abs" class="previewContent"><div><?xml version="1.0" encoding="UTF-8"?><div class="svAbstract" data-etype="ab"><div class="articleText"><div class="articleText_indent"><p class="paraText">In this study, we prepared quaternary silver-zinc-tin-selenide samples on various substrates using the selenization of thermally evaporated silver-zinc-tin metal precursors. The sample with the [Zn]/[Sn] molar ratio of 1.42 has the maximum photo-enhancement current density of 5.69 and 11.12 mAcm<sup>−2</sup> at an applied bias of +1.0 V vs. an Ag/AgCl electrode in the 0.5 M K<sub>2</sub>SO<sub>4</sub> and 1 M NaCl aqueous solution, respectively.<div id="fig0008" class="ImageScroller" style="height:137px"><img height="120" border="0" align="middle" width="301" style="vertical-align: bottom;" alt="image" title="image" src="http://ars.els-cdn.com/content/image/1-s2.0-S1876107017301554-fx1.jpg"/></div></div></div></div></div></div></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_24" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S1876107017301797" aria-labelledby="title_S1876107017301797" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S1876107017301797" href="http://www.sciencedirect.com/science/article/pii/S1876107017301797" class="cLink artTitle S_C_artTitle " data-docsubtype="fla" queryStr="?_rdoc=25&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_docanchor=&_ct=36&md5=189e2a6c0c9f3a98705087eda057e24c">Influence of [Cu]/[Cu+Sn] molar ratios in p-type Cu–Sn–S photoelectrodes on their photoelectrochemical performances in water and salt–water solutions</a></h4><span class="articleTypeLabel">Original Research Article</span></li><li class="source "><i>Pages 209-219</i></li><li class="authors ">Kong-Wei Cheng</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=25&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017301797&_issn=18761070&_tab=afr&absLinks=y&md5=47d7bf4cdc666463fd6c4b1cb72d74c1" aria-describedby="title_S1876107017301797" aria-controls="abs_S1876107017301797" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a href="#" data-type="graphicalAbstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/graphicalAbstract?_rdoc=25&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017301797&_issn=18761070&_tab=afr&absLinks=y&md5=47d7bf4cdc666463fd6c4b1cb72d74c1" aria-describedby="title_S1876107017301797" aria-controls="gabs_S1876107017301797" aria-expanded="true"><span class="arrowDown"></span><span class="preTxt">Close graphical abstract</span></a></li><li><a href="#" data-type="researchAbstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/researchAbstract?_rdoc=25&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017301797&_issn=18761070&_tab=afr&absLinks=y&md5=47d7bf4cdc666463fd6c4b1cb72d74c1" aria-describedby="title_S1876107017301797" aria-controls="rabs_S1876107017301797" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Research highlights</span></a></li><li><a aria-describedby="title_S1876107017301797"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S1876107017301797&_ts=1494959358&md5=116442978a59df7abe2cc825d8072a2f"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+</ul><div  id="abs_S1876107017301797" class="previewBox abstract hidden"></div><div  id="rabs_S1876107017301797" class="previewBox rabstract hidden"></div><div  id="gabs_S1876107017301797" class="previewBox gabstract"><div id="abs" class="previewContent"><div><?xml version="1.0" encoding="UTF-8"?><div class="svAbstract" data-etype="ab"><div class="articleText"><div class="articleText_indent"><p class="paraText">Ternary copper–tin–sulfide thin films are prepared on various substrates by using the sulfurization of co-sputtering Cu–Sn metal precursors. The effect of the [Cu]/[Cu+Sn] molar ratio in samples on the structural and photoelectrochemical performances of Cu–Sn–S samples in various electrolytes is examined. The maximum photoelectrochemical performances of the samples in 0.5&#xA0;M K<sub>2</sub>SO<sub>4</sub> and 1&#xA0;M NaCl aqueous solutions are 0.55 and 0.34 mA/cm<sup>2</sup> at an external potential of −1.2&#xA0;V <em>versus</em> an Ag/AgCl reference electrode under light illumination with the light intensity of 100 mW/cm<sup>2</sup>, respectively.<div id="fig0009" class="ImageScroller" style="height:124px"><img height="107" border="0" align="middle" width="301" style="vertical-align: bottom;" alt="image" title="image" src="http://ars.els-cdn.com/content/image/1-s2.0-S1876107017301797-fx1.jpg"/></div></div></div></div></div></div></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_25" class="resultsView"></div><div class="subHeadsBlock heading1" ><h2 class="sectionH1">Materials Science and Technology</h2></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S1876107017300871" aria-labelledby="title_S1876107017300871" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S1876107017300871" href="http://www.sciencedirect.com/science/article/pii/S1876107017300871" class="cLink artTitle S_C_artTitle " data-docsubtype="fla" queryStr="?_rdoc=26&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_docanchor=&_ct=36&md5=723213f592fe4dbeb778adce5db0ac0a">An experimental study on optimum concentration of silver-water microfluid for enhancing heat transfer performance of a plate heat exchanger</a></h4><span class="articleTypeLabel">Original Research Article</span></li><li class="source "><i>Pages 220-227</i></li><li class="authors ">S.H. Pourhoseini, N. Naghizadeh</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=26&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017300871&_issn=18761070&_tab=afr&absLinks=y&md5=1508749b0958a4953ce6d364735ac600" aria-describedby="title_S1876107017300871" aria-controls="abs_S1876107017300871" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a href="#" data-type="graphicalAbstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/graphicalAbstract?_rdoc=26&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017300871&_issn=18761070&_tab=afr&absLinks=y&md5=1508749b0958a4953ce6d364735ac600" aria-describedby="title_S1876107017300871" aria-controls="gabs_S1876107017300871" aria-expanded="true"><span class="arrowDown"></span><span class="preTxt">Close graphical abstract</span></a></li><li><a href="#" data-type="researchAbstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/researchAbstract?_rdoc=26&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017300871&_issn=18761070&_tab=afr&absLinks=y&md5=1508749b0958a4953ce6d364735ac600" aria-describedby="title_S1876107017300871" aria-controls="rabs_S1876107017300871" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Research highlights</span></a></li><li><a aria-describedby="title_S1876107017300871"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S1876107017300871&_ts=1494959358&md5=69658ab488fd5abfed6e9e91ab45bba5"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+</ul><div  id="abs_S1876107017300871" class="previewBox abstract hidden"></div><div  id="rabs_S1876107017300871" class="previewBox rabstract hidden"></div><div  id="gabs_S1876107017300871" class="previewBox gabstract"><div id="abs" class="previewContent"><div><?xml version="1.0" encoding="UTF-8"?><div class="svAbstract" data-etype="ab"><div class="articleText"><div class="articleText_indent"><p class="paraText"><div id="fig0010" class="ImageScroller" style="height:127px"><img height="110" border="0" align="middle" width="301" style="vertical-align: bottom;" alt="image" title="image" src="http://ars.els-cdn.com/content/image/1-s2.0-S1876107017300871-fx1.jpg"/></div></div></div></div></div></div></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_26" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S1876107017300895" aria-labelledby="title_S1876107017300895" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S1876107017300895" href="http://www.sciencedirect.com/science/article/pii/S1876107017300895" class="cLink artTitle S_C_artTitle " data-docsubtype="fla" queryStr="?_rdoc=27&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_docanchor=&_ct=36&md5=bdb44cf2f70dcf8b965408b2fe6e9552">Extraction of bio-active compounds from Ethiopian plant material <span style='font-style: italic'>Rumex abyssinicus</span> (mekmeko) root—A study on kinetics, optimization, antioxidant and antibacterial activity</a></h4><span class="articleTypeLabel">Original Research Article</span></li><li class="source "><i>Pages 228-239</i></li><li class="authors ">Shegaw Ahmed Mohammed, Rames C. Panda, Balaraman Madhan, Berhanu Assefa Demessie</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=27&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017300895&_issn=18761070&_tab=afr&absLinks=y&md5=0dc950faafdf8c86229e9db2e2d2b6a8" aria-describedby="title_S1876107017300895" aria-controls="abs_S1876107017300895" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a href="#" data-type="graphicalAbstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/graphicalAbstract?_rdoc=27&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017300895&_issn=18761070&_tab=afr&absLinks=y&md5=0dc950faafdf8c86229e9db2e2d2b6a8" aria-describedby="title_S1876107017300895" aria-controls="gabs_S1876107017300895" aria-expanded="true"><span class="arrowDown"></span><span class="preTxt">Close graphical abstract</span></a></li><li><a href="#" data-type="researchAbstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/researchAbstract?_rdoc=27&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017300895&_issn=18761070&_tab=afr&absLinks=y&md5=0dc950faafdf8c86229e9db2e2d2b6a8" aria-describedby="title_S1876107017300895" aria-controls="rabs_S1876107017300895" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Research highlights</span></a></li><li><a aria-describedby="title_S1876107017300895"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S1876107017300895&_ts=1494959358&md5=c76ad3e94f46d8cdfae5b5da7b9281ee"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+<li><a id ="title_S1876107017300895" href="http://www.sciencedirect.com/science/article/pii/S1876107017300895#MMCvFirst" class="mmcLinkSprite" cLink S_C_artTitle " data-docsubtype="fla" queryStr="?_rdoc=27&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_docanchor=&_ct=36&md5=bdb44cf2f70dcf8b965408b2fe6e9552"><span class="mmcTxt">Supplementary content</span></a></li></ul><div  id="abs_S1876107017300895" class="previewBox abstract hidden"></div><div  id="rabs_S1876107017300895" class="previewBox rabstract hidden"></div><div  id="gabs_S1876107017300895" class="previewBox gabstract"><div id="abs" class="previewContent"><div><?xml version="1.0" encoding="UTF-8"?><div class="svAbstract" data-etype="ab"><div class="articleText"><div class="articleText_indent"><p class="paraText"><div id="fig0010" class="ImageScroller" style="height:148px"><img height="131" border="0" align="middle" width="301" style="vertical-align: bottom;" alt="image" title="image" src="http://ars.els-cdn.com/content/image/1-s2.0-S1876107017300895-fx1.jpg"/></div></div></div></div></div></div></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_27" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S1876107017300925" aria-labelledby="title_S1876107017300925" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S1876107017300925" href="http://www.sciencedirect.com/science/article/pii/S1876107017300925" class="cLink artTitle S_C_artTitle " data-docsubtype="fla" queryStr="?_rdoc=28&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_docanchor=&_ct=36&md5=bb9629cd77672dec77f79a4d8001e856">Anticorrosive superhydrophobic AZ61 Mg surface with peony-like microstructures</a></h4><span class="articleTypeLabel">Original Research Article</span></li><li class="source "><i>Pages 240-247</i></li><li class="authors ">Lingjie Li, Jianxin He, Jinglei Lei, Lei Liu, Xueping Zhang, Tao Huang, Nianbing Li, Fusheng Pan</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=28&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017300925&_issn=18761070&_tab=afr&absLinks=y&md5=cb0419f544eadf93fe813a4786c34ca9" aria-describedby="title_S1876107017300925" aria-controls="abs_S1876107017300925" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a href="#" data-type="graphicalAbstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/graphicalAbstract?_rdoc=28&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017300925&_issn=18761070&_tab=afr&absLinks=y&md5=cb0419f544eadf93fe813a4786c34ca9" aria-describedby="title_S1876107017300925" aria-controls="gabs_S1876107017300925" aria-expanded="true"><span class="arrowDown"></span><span class="preTxt">Close graphical abstract</span></a></li><li><a href="#" data-type="researchAbstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/researchAbstract?_rdoc=28&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017300925&_issn=18761070&_tab=afr&absLinks=y&md5=cb0419f544eadf93fe813a4786c34ca9" aria-describedby="title_S1876107017300925" aria-controls="rabs_S1876107017300925" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Research highlights</span></a></li><li><a aria-describedby="title_S1876107017300925"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S1876107017300925&_ts=1494959358&md5=fc80b845b2d5632920ce93ac47f0bfda"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+</ul><div  id="abs_S1876107017300925" class="previewBox abstract hidden"></div><div  id="rabs_S1876107017300925" class="previewBox rabstract hidden"></div><div  id="gabs_S1876107017300925" class="previewBox gabstract"><div id="abs" class="previewContent"><div><?xml version="1.0" encoding="UTF-8"?><div class="svAbstract" data-etype="ab"><div class="articleText"><div class="articleText_indent"><p class="paraText"><div id="fig0009" class="ImageScroller" style="height:217px"><img height="200" border="0" align="middle" width="253" style="vertical-align: bottom;" alt="image" title="image" src="http://ars.els-cdn.com/content/image/1-s2.0-S1876107017300925-fx1.jpg"/></div></div></div></div></div></div></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_28" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S1876107017300950" aria-labelledby="title_S1876107017300950" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S1876107017300950" href="http://www.sciencedirect.com/science/article/pii/S1876107017300950" class="cLink artTitle S_C_artTitle " data-docsubtype="fla" queryStr="?_rdoc=29&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_docanchor=&_ct=36&md5=de4e4856b6e92dfc6c229d2dffa7b2ac">Active corrosion protection of Mg-Al-PO<sub>4</sub><sup>3−</sup> LDH nanoparticle in silane primer coated with epoxy on mild steel</a></h4><span class="articleTypeLabel">Original Research Article</span></li><li class="source "><i>Pages 248-262</i></li><li class="authors ">E. Alibakhshi, E. Ghasemi, M. Mahdavian, B. Ramezanzadeh, S. Farashi</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=29&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017300950&_issn=18761070&_tab=afr&absLinks=y&md5=4ad1d911f48818603f28d1c184c99bd9" aria-describedby="title_S1876107017300950" aria-controls="abs_S1876107017300950" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a href="#" data-type="graphicalAbstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/graphicalAbstract?_rdoc=29&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017300950&_issn=18761070&_tab=afr&absLinks=y&md5=4ad1d911f48818603f28d1c184c99bd9" aria-describedby="title_S1876107017300950" aria-controls="gabs_S1876107017300950" aria-expanded="true"><span class="arrowDown"></span><span class="preTxt">Close graphical abstract</span></a></li><li><a href="#" data-type="researchAbstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/researchAbstract?_rdoc=29&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017300950&_issn=18761070&_tab=afr&absLinks=y&md5=4ad1d911f48818603f28d1c184c99bd9" aria-describedby="title_S1876107017300950" aria-controls="rabs_S1876107017300950" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Research highlights</span></a></li><li><a aria-describedby="title_S1876107017300950"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S1876107017300950&_ts=1494959358&md5=358f36a1bf71490e87164043b32436ee"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+</ul><div  id="abs_S1876107017300950" class="previewBox abstract hidden"></div><div  id="rabs_S1876107017300950" class="previewBox rabstract hidden"></div><div  id="gabs_S1876107017300950" class="previewBox gabstract"><div id="abs" class="previewContent"><div><?xml version="1.0" encoding="UTF-8"?><div class="svAbstract" data-etype="ab"><div class="articleText"><div class="articleText_indent"><p class="paraText"><div id="fig0012" class="ImageScroller" style="height:217px"><img height="200" border="0" align="middle" width="270" style="vertical-align: bottom;" alt="image" title="image" src="http://ars.els-cdn.com/content/image/1-s2.0-S1876107017300950-fx1.jpg"/></div></div></div></div></div></div></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_29" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S1876107017300962" aria-labelledby="title_S1876107017300962" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S1876107017300962" href="http://www.sciencedirect.com/science/article/pii/S1876107017300962" class="cLink artTitle S_C_artTitle " data-docsubtype="fla" queryStr="?_rdoc=30&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_docanchor=&_ct=36&md5=40b8b26a2eb89753dc0a67dfebe05177">Electrosynthesis of polypyrrole–nanodiamond composite film under ultrasound irradiation: Promotion for methanol electrooxidation by gold and Cu<sub>2</sub>O nanostructures</a></h4><span class="articleTypeLabel">Original Research Article</span></li><li class="source "><i>Pages 263-270</i></li><li class="authors ">Habib Ashassi-Sorkhabi, Babak Rezaei-Moghadam, Elnaz Asghari</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=30&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017300962&_issn=18761070&_tab=afr&absLinks=y&md5=076da782e4999059ecb90db0d3e13a62" aria-describedby="title_S1876107017300962" aria-controls="abs_S1876107017300962" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a href="#" data-type="graphicalAbstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/graphicalAbstract?_rdoc=30&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017300962&_issn=18761070&_tab=afr&absLinks=y&md5=076da782e4999059ecb90db0d3e13a62" aria-describedby="title_S1876107017300962" aria-controls="gabs_S1876107017300962" aria-expanded="true"><span class="arrowDown"></span><span class="preTxt">Close graphical abstract</span></a></li><li><a href="#" data-type="researchAbstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/researchAbstract?_rdoc=30&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017300962&_issn=18761070&_tab=afr&absLinks=y&md5=076da782e4999059ecb90db0d3e13a62" aria-describedby="title_S1876107017300962" aria-controls="rabs_S1876107017300962" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Research highlights</span></a></li><li><a aria-describedby="title_S1876107017300962"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S1876107017300962&_ts=1494959358&md5=4cd6a3823ba9dff4d3ac19a577805ff5"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+</ul><div  id="abs_S1876107017300962" class="previewBox abstract hidden"></div><div  id="rabs_S1876107017300962" class="previewBox rabstract hidden"></div><div  id="gabs_S1876107017300962" class="previewBox gabstract"><div id="abs" class="previewContent"><div><?xml version="1.0" encoding="UTF-8"?><div class="svAbstract" data-etype="ab"><div class="articleText"><div class="articleText_indent"><p class="paraText"><div id="fig0012" class="ImageScroller" style="height:217px"><img height="200" border="0" align="middle" width="269" style="vertical-align: bottom;" alt="image" title="image" src="http://ars.els-cdn.com/content/image/1-s2.0-S1876107017300962-fx1.jpg"/></div></div></div></div></div></div></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_30" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S1876107017300974" aria-labelledby="title_S1876107017300974" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S1876107017300974" href="http://www.sciencedirect.com/science/article/pii/S1876107017300974" class="cLink artTitle S_C_artTitle " data-docsubtype="fla" queryStr="?_rdoc=31&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_docanchor=&_ct=36&md5=7679d8e5f2af7bf32b02af543f88ba72">Electrochemical synthesis: Monoclinic Cu<sub>2</sub>Se nano-dendrites with high performance for supercapacitors</a></h4><span class="articleTypeLabel">Original Research Article</span></li><li class="source "><i>Pages 271-279</i></li><li class="authors ">S.K. Shinde, G.S. Ghodake, D.P. Dubal, Rahul V. Patel, R.G. Saratale, D.-Y. Kim, N.C. Maile, R.R. Koli, H.D. Dhaygude, V.J. Fulari</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=31&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017300974&_issn=18761070&_tab=afr&absLinks=y&md5=1d312a0875b2c8b480c4b63f038a1d1d" aria-describedby="title_S1876107017300974" aria-controls="abs_S1876107017300974" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a href="#" data-type="graphicalAbstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/graphicalAbstract?_rdoc=31&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017300974&_issn=18761070&_tab=afr&absLinks=y&md5=1d312a0875b2c8b480c4b63f038a1d1d" aria-describedby="title_S1876107017300974" aria-controls="gabs_S1876107017300974" aria-expanded="true"><span class="arrowDown"></span><span class="preTxt">Close graphical abstract</span></a></li><li><a href="#" data-type="researchAbstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/researchAbstract?_rdoc=31&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017300974&_issn=18761070&_tab=afr&absLinks=y&md5=1d312a0875b2c8b480c4b63f038a1d1d" aria-describedby="title_S1876107017300974" aria-controls="rabs_S1876107017300974" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Research highlights</span></a></li><li><a aria-describedby="title_S1876107017300974"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S1876107017300974&_ts=1494959358&md5=2437a34409972df880a302516a0780fe"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+</ul><div  id="abs_S1876107017300974" class="previewBox abstract hidden"></div><div  id="rabs_S1876107017300974" class="previewBox rabstract hidden"></div><div  id="gabs_S1876107017300974" class="previewBox gabstract"><div id="abs" class="previewContent"><div><?xml version="1.0" encoding="UTF-8"?><div class="svAbstract" data-etype="ab"><div class="articleText"><div class="articleText_indent"><p class="paraText">Electrochemical impedance spectroscopy with corresponding field emission scanning electron microscopy image of Cu<sub>2</sub>Se on Stainless steel (SS) deposited at different deposition potential (a) −0.65&#xA0;V/SCE, (b) −0.75&#xA0;V/SCE, (c) −0.85&#xA0;V/SCE<div id="fig0010" class="ImageScroller" style="height:225px"><img height="208" border="0" align="middle" width="301" style="vertical-align: bottom;" alt="image" title="image" src="http://ars.els-cdn.com/content/image/1-s2.0-S1876107017300974-fx1.jpg"/></div></div></div></div></div></div></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_31" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S1876107017301244" aria-labelledby="title_S1876107017301244" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S1876107017301244" href="http://www.sciencedirect.com/science/article/pii/S1876107017301244" class="cLink artTitle S_C_artTitle " data-docsubtype="fla" queryStr="?_rdoc=32&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_docanchor=&_ct=36&md5=9e69c156aa4e9e1ad49b3ae17ce8fe11">Flexible NO<sub>2</sub> gas sensors based on sheet-like hierarchical ZnO<sub>1−</sub><span style='font-style: italic'><sub>x</sub></span> coatings deposited on polypropylene papers by suspension flame spraying</a></h4><span class="articleTypeLabel">Original Research Article</span></li><li class="source "><i>Pages 280-286</i></li><li class="authors ">Xin Geng, Chao Zhang, Yifan Luo, Marc Debliquy</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=32&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017301244&_issn=18761070&_tab=afr&absLinks=y&md5=88bc4bbe5aba45952de0ffc705f5c7a8" aria-describedby="title_S1876107017301244" aria-controls="abs_S1876107017301244" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a href="#" data-type="graphicalAbstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/graphicalAbstract?_rdoc=32&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017301244&_issn=18761070&_tab=afr&absLinks=y&md5=88bc4bbe5aba45952de0ffc705f5c7a8" aria-describedby="title_S1876107017301244" aria-controls="gabs_S1876107017301244" aria-expanded="true"><span class="arrowDown"></span><span class="preTxt">Close graphical abstract</span></a></li><li><a href="#" data-type="researchAbstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/researchAbstract?_rdoc=32&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017301244&_issn=18761070&_tab=afr&absLinks=y&md5=88bc4bbe5aba45952de0ffc705f5c7a8" aria-describedby="title_S1876107017301244" aria-controls="rabs_S1876107017301244" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Research highlights</span></a></li><li><a aria-describedby="title_S1876107017301244"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S1876107017301244&_ts=1494959358&md5=e4ac27e8c3c428c09bf1e1f4d2cfa875"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+</ul><div  id="abs_S1876107017301244" class="previewBox abstract hidden"></div><div  id="rabs_S1876107017301244" class="previewBox rabstract hidden"></div><div  id="gabs_S1876107017301244" class="previewBox gabstract"><div id="abs" class="previewContent"><div><?xml version="1.0" encoding="UTF-8"?><div class="svAbstract" data-etype="ab"><div class="articleText"><div class="articleText_indent"><p class="paraText"><div id="fig0012" class="ImageScroller" style="height:209px"><img height="192" border="0" align="middle" width="301" style="vertical-align: bottom;" alt="image" title="image" src="http://ars.els-cdn.com/content/image/1-s2.0-S1876107017301244-fx1.jpg"/></div></div></div></div></div></div></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_32" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S1876107017301256" aria-labelledby="title_S1876107017301256" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S1876107017301256" href="http://www.sciencedirect.com/science/article/pii/S1876107017301256" class="cLink artTitle S_C_artTitle " data-docsubtype="fla" queryStr="?_rdoc=33&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_docanchor=&_ct=36&md5=06e770bd21c647263f52a7cc7a36dc14">Nanoplasmonic Au/Ag/Au nanorod arrays as SERS-active substrate for the detection of pesticides residue</a></h4><span class="articleTypeLabel">Original Research Article</span></li><li class="source "><i>Pages 287-291</i></li><li class="authors ">Kundan Sivashanmugan, Han Lee, Chiu-Hua Syu, Bernard Hao-Chih Liu, Jiunn-Der Liao</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=33&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017301256&_issn=18761070&_tab=afr&absLinks=y&md5=666ad29dcecaa47f4b7891cc73add491" aria-describedby="title_S1876107017301256" aria-controls="abs_S1876107017301256" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a href="#" data-type="graphicalAbstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/graphicalAbstract?_rdoc=33&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017301256&_issn=18761070&_tab=afr&absLinks=y&md5=666ad29dcecaa47f4b7891cc73add491" aria-describedby="title_S1876107017301256" aria-controls="gabs_S1876107017301256" aria-expanded="true"><span class="arrowDown"></span><span class="preTxt">Close graphical abstract</span></a></li><li><a href="#" data-type="researchAbstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/researchAbstract?_rdoc=33&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017301256&_issn=18761070&_tab=afr&absLinks=y&md5=666ad29dcecaa47f4b7891cc73add491" aria-describedby="title_S1876107017301256" aria-controls="rabs_S1876107017301256" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Research highlights</span></a></li><li><a aria-describedby="title_S1876107017301256"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S1876107017301256&_ts=1494959358&md5=dd661f637329636520c8e4c8a364d234"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+<li><a id ="title_S1876107017301256" href="http://www.sciencedirect.com/science/article/pii/S1876107017301256#MMCvFirst" class="mmcLinkSprite" cLink S_C_artTitle " data-docsubtype="fla" queryStr="?_rdoc=33&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_docanchor=&_ct=36&md5=06e770bd21c647263f52a7cc7a36dc14"><span class="mmcTxt">Supplementary content</span></a></li></ul><div  id="abs_S1876107017301256" class="previewBox abstract hidden"></div><div  id="rabs_S1876107017301256" class="previewBox rabstract hidden"></div><div  id="gabs_S1876107017301256" class="previewBox gabstract"><div id="abs" class="previewContent"><div><?xml version="1.0" encoding="UTF-8"?><div class="svAbstract" data-etype="ab"><div class="articleText"><div class="articleText_indent"><p class="paraText"><div id="fig0006" class="ImageScroller" style="height:187px"><img height="170" border="0" align="middle" width="301" style="vertical-align: bottom;" alt="image" title="image" src="http://ars.els-cdn.com/content/image/1-s2.0-S1876107017301256-fx1.jpg"/></div></div></div></div></div></div></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_33" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S1876107017301268" aria-labelledby="title_S1876107017301268" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S1876107017301268" href="http://www.sciencedirect.com/science/article/pii/S1876107017301268" class="cLink artTitle S_C_artTitle " data-docsubtype="fla" queryStr="?_rdoc=34&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_docanchor=&_ct=36&md5=e9961bce4f8e16a9fc1098d4d880b763">Fabrication and biological applications of luminescent polyamidoamine dendrimers with aggregation-induced emission feature</a></h4><span class="articleTypeLabel">Original Research Article</span></li><li class="source "><i>Pages 292-298</i></li><li class="authors ">Qiulan Lv, Meiying Liu, Ke Wang, Liucheng Mao, Dazhuang Xu, Guangjian Zeng, Shangdong Liang, Fengjie Deng, Xiaoyong Zhang, Yen Wei</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=34&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017301268&_issn=18761070&_tab=afr&absLinks=y&md5=c364139fd2ac9e99863d420e8c35572e" aria-describedby="title_S1876107017301268" aria-controls="abs_S1876107017301268" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a href="#" data-type="graphicalAbstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/graphicalAbstract?_rdoc=34&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017301268&_issn=18761070&_tab=afr&absLinks=y&md5=c364139fd2ac9e99863d420e8c35572e" aria-describedby="title_S1876107017301268" aria-controls="gabs_S1876107017301268" aria-expanded="true"><span class="arrowDown"></span><span class="preTxt">Close graphical abstract</span></a></li><li><a href="#" data-type="researchAbstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/researchAbstract?_rdoc=34&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017301268&_issn=18761070&_tab=afr&absLinks=y&md5=c364139fd2ac9e99863d420e8c35572e" aria-describedby="title_S1876107017301268" aria-controls="rabs_S1876107017301268" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Research highlights</span></a></li><li><a aria-describedby="title_S1876107017301268"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S1876107017301268&_ts=1494959358&md5=6c58e96c1c87fd246a17594fabf7b1a0"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+</ul><div  id="abs_S1876107017301268" class="previewBox abstract hidden"></div><div  id="rabs_S1876107017301268" class="previewBox rabstract hidden"></div><div  id="gabs_S1876107017301268" class="previewBox gabstract"><div id="abs" class="previewContent"><div><?xml version="1.0" encoding="UTF-8"?><div class="svAbstract" data-etype="ab"><div class="articleText"><div class="articleText_indent"><p class="paraText">Aggregation induced emission (AIE) active branched polymeric nanoparticles were fabricated via a facile one-step conjugation reaction between the amino groups of polyamidoamine dendrimers and ene group of AIE dye. <div id="fig0008" class="ImageScroller" style="height:192px"><img height="175" border="0" align="middle" width="301" style="vertical-align: bottom;" alt="image" title="image" src="http://ars.els-cdn.com/content/image/1-s2.0-S1876107017301268-fx1.jpg"/></div></div></div></div></div></div></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_34" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S1876107017301293" aria-labelledby="title_S1876107017301293" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S1876107017301293" href="http://www.sciencedirect.com/science/article/pii/S1876107017301293" class="cLink artTitle S_C_artTitle " data-docsubtype="fla" queryStr="?_rdoc=35&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_docanchor=&_ct=36&md5=c621e76557ec6c4261ff57af92dd2449">Adsorption and photocatalytic detoxification of diazinon using iron and nanotitania modified activated carbons</a></h4><span class="articleTypeLabel">Original Research Article</span></li><li class="source "><i>Pages 299-306</i></li><li class="authors ">Asaad F. Hassan, Hassan Elhadidy, A.M. Abdel-Mohsen</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=35&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017301293&_issn=18761070&_tab=afr&absLinks=y&md5=8a2cccc8aa2bcbabdf3d6d18c99f7f11" aria-describedby="title_S1876107017301293" aria-controls="abs_S1876107017301293" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a href="#" data-type="graphicalAbstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/graphicalAbstract?_rdoc=35&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017301293&_issn=18761070&_tab=afr&absLinks=y&md5=8a2cccc8aa2bcbabdf3d6d18c99f7f11" aria-describedby="title_S1876107017301293" aria-controls="gabs_S1876107017301293" aria-expanded="true"><span class="arrowDown"></span><span class="preTxt">Close graphical abstract</span></a></li><li><a href="#" data-type="researchAbstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/researchAbstract?_rdoc=35&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017301293&_issn=18761070&_tab=afr&absLinks=y&md5=8a2cccc8aa2bcbabdf3d6d18c99f7f11" aria-describedby="title_S1876107017301293" aria-controls="rabs_S1876107017301293" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Research highlights</span></a></li><li><a aria-describedby="title_S1876107017301293"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S1876107017301293&_ts=1494959358&md5=ea5d266da0db3fa97a38be59bd8377ad"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+</ul><div  id="abs_S1876107017301293" class="previewBox abstract hidden"></div><div  id="rabs_S1876107017301293" class="previewBox rabstract hidden"></div><div  id="gabs_S1876107017301293" class="previewBox gabstract"><div id="abs" class="previewContent"><div><?xml version="1.0" encoding="UTF-8"?><div class="svAbstract" data-etype="ab"><div class="articleText"><div class="articleText_indent"><p class="paraText"><div id="fig0007" class="ImageScroller" style="height:261px"><img height="244" border="0" align="middle" width="124" style="vertical-align: bottom;" alt="image" title="image" src="http://ars.els-cdn.com/content/image/1-s2.0-S1876107017301293-fx1.jpg"/></div></div></div></div></div></div></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_35" class="resultsView"></div><li class="detail"><ul class="article"><li class="selection"><input class="checkBox" type="checkbox" name="art" value=" 1-s2.0-S1876107017301347" aria-labelledby="title_S1876107017301347" style="padding-left:6px;"></li><li class="title "><h4><a id ="title_S1876107017301347" href="http://www.sciencedirect.com/science/article/pii/S1876107017301347" class="cLink artTitle S_C_artTitle " data-docsubtype="fla" queryStr="?_rdoc=36&_fmt=high&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_docanchor=&_ct=36&md5=960b5969a96932a66f4723cba20a8abc">Enhanced photocatalytic activity of BiOI synthesized in presence of EDTA</a></h4><span class="articleTypeLabel">Original Research Article</span></li><li class="source "><i>Pages 307-316</i></li><li class="authors ">J.M. Montoya-Zamora, A. Martínez-de la Cruz, E. López Cuéllar</li><li class="external "><div class="txt external "><ul class="extLinkBlock extLinkBlockJrnl"><li><a href="#" data-type="abstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/abstract?_rdoc=36&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017301347&_issn=18761070&_tab=afr&absLinks=y&md5=9e53a088c59316cfeb22e4fa6ae04ad7" aria-describedby="title_S1876107017301347" aria-controls="abs_S1876107017301347" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Abstract</span></a></li><li><a href="#" data-type="graphicalAbstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/graphicalAbstract?_rdoc=36&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017301347&_issn=18761070&_tab=afr&absLinks=y&md5=9e53a088c59316cfeb22e4fa6ae04ad7" aria-describedby="title_S1876107017301347" aria-controls="gabs_S1876107017301347" aria-expanded="true"><span class="arrowDown"></span><span class="preTxt">Close graphical abstract</span></a></li><li><a href="#" data-type="researchAbstract" role="button" class="absLink" data-url="http://www.sciencedirect.com/science/preview/researchAbstract?_rdoc=36&_origin=PublicationURL&_srch=hubEid(1-s2.0-S1876107017X00060)&_ct=36&_zone=rslt_list_item&_fmt=full&_pii=S1876107017301347&_issn=18761070&_tab=afr&absLinks=y&md5=9e53a088c59316cfeb22e4fa6ae04ad7" aria-describedby="title_S1876107017301347" aria-controls="rabs_S1876107017301347" aria-expanded="false"><span class="arrowSide"></span><span class="preTxt">Research highlights</span></a></li><li><a aria-describedby="title_S1876107017301347"  rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S1876107017301347&_ts=1494959358&md5=2d3ed646a25411e382f1662cba5d7dd0"><span class="pdfIconSmall">&nbsp;</span>Purchase PDF - $35.95</a></li>
+</ul><div  id="abs_S1876107017301347" class="previewBox abstract hidden"></div><div  id="rabs_S1876107017301347" class="previewBox rabstract hidden"></div><div  id="gabs_S1876107017301347" class="previewBox gabstract"><div id="abs" class="previewContent"><div><?xml version="1.0" encoding="UTF-8"?><div class="svAbstract" data-etype="ab"><div class="articleText"><div class="articleText_indent"><p class="paraText"><div id="fig0013" class="ImageScroller" style="height:218px"><img height="201" border="0" align="middle" width="301" style="vertical-align: bottom;" alt="image" title="image" src="http://ars.els-cdn.com/content/image/1-s2.0-S1876107017301347-fx1.jpg"/></div></div></div></div></div></div></div></div></li><li class="accessBlock colLast"><span class="dunsub_article_sci_dir sci_dir" title="Not entitled to full text" alt="Not entitled to full text">&nbsp;<span class="offscreen">Not entitled to full text</span></span></li></ul></li><div id="resultsView_36" class="resultsView"></div></ol></div></div>
+    
+
+
+    <input type="hidden" name="count" value="36">
+
+
+
+
+</div>
+</form>
+
+<script>prs.rt("pcr");</script>
+
+
+                      
+                        <div class="navigation top" aria-label="Pagination" role="navigation">
+                          <!-- Page Navigation -->
+<input type="hidden" name="bottomPaginationBoxChanged" value=""/>
+<input type="hidden" id="vectorNext" name="vectorNext" value=""/>
+<input type="hidden" id="vectorPrev" name="vectorPrev" value=""/>
+<div class="paginationBar">
+  
+  
+    Articles <b>1 - 36</b>
+  
+  </div>
+
+                        </div> 
+                        <div class="navigation" aria-label="Pagination" role="navigation">
+                          <!-- Page Navigation -->
+<input type="hidden" name="bottomPaginationBoxChanged" value=""/>
+<input type="hidden" id="vectorNext" name="vectorNext" value=""/>
+<input type="hidden" id="vectorPrev" name="vectorPrev" value=""/>
+<div class="paginationBar">
+  
+  
+    Articles <b>1 - 36</b>
+  
+  </div>
+
+                        </div>
+                      
+                      </div>
+                    </div> <!-- end of issueList -->
+                
+                    
+                <ul class="volumePage navigation">
+                
+                    
+                    <li>
+                    
+                    <a title="Previous volume/issue" class="ActionButton" href="/science/journal/18761070/74">&lt; Previous vol/iss</a>
+                    
+                    </li>
+                    <li>
+                    
+                      <a title="Next volume/issue" class="ActionButton" href="/science/journal/aip/18761070">Next vol/iss &gt;</a>
+                    
+                    </li>
+                    
+                
+                </ul>
+                <div style="clear:both"></div>
+            </div>
+            <!-- ECRED  -->
+
+<!-- ECRED -->
+
+
+ 
+            
+    
+
+ </div><!-- width100% -->
+</div><!-- sdHeader -->
+
+<!-- <div id="sdpa"></div> -->
+
+    
+       <div class="ccs-component">
+    
+        <div class="Footer" role="contentinfo"><div class="els-footer"><div class="els-footer-body"><a class="els-footer-elsevier" href="http://www.elsevier.com/" rel="nofollow" target="_blank"><span class="ccs-icon svg-wordmark-elsevier" aria-label="Elsevier"><span class="svg-text">Elsevier</span></span></a><div class="els-footer-content"><div class="els-footer-links"><a class="link-inherit" href="http://www.elsevier.com/solutions/sciencedirect" rel="nofollow" target="_blank">About ScienceDirect</a><wbr/><a class="link-inherit" href="/science/activateaccess" rel="nofollow" target="_blank">Remote access</a><wbr/><a class="link-inherit" href="/science?_ob=ShoppingCartURL&amp;_method=display&amp;_zone=TopNavBar&amp;_origin=publicationurl&amp;md5=f795ebb7043da9fdff66dbc72a1c68c8" rel="nofollow" target="_blank">Shopping cart</a><wbr/><a class="link-inherit" href="https://service.elsevier.com/app/contact/supporthub/sciencedirect/" rel="nofollow" target="_blank">Contact and support</a><wbr/><a class="link-inherit" href="https://www.elsevier.com/legal/elsevier-website-terms-and-conditions" rel="nofollow" target="_blank">Terms and conditions</a><wbr/><a class="link-inherit" href="http://www.elsevier.com/legal/privacy-policy" rel="nofollow" target="_blank">Privacy policy</a></div><div class="els-footer-cookie">Cookies are used by this site. For more information, visit the <a class="link-blue" href="https://www.elsevier.com/solutions/sciencedirect/support/cookies" rel="nofollow" target="_blank">cookies page</a>.</div><div class="els-footer-copyright">Copyright © <span class="copyright-year">2017</span> Elsevier B.V. or its licensors or contributors. ScienceDirect ® is a registered trademark of Elsevier B.V.</div></div></div><div class="els-footer-relx-group"><a class="els-footer-relx" href="http://www.relx.com/" rel="nofollow" target="_blank"><span class="ccs-icon svg-wordmark-relx-group" aria-label="RELX Group"><span class="svg-text">RELX Group</span></span></a></div></div></div> 
+       </div>
+
+
+<div style="display:none" id="leaderboard2"><script type="text/javascript">
+	
+googletag.cmd.push(function() {
+
+	
+	
+//Adslot 1 declaration
+		
+gptadslots[1]= googletag.defineSlot('/6053/els.sdguest/ISSN18761070', [[728,90]],'leaderboard2').addService(googletag.pubads());
+
+		
+//Adslot 2 declaration
+		
+gptadslots[2]= googletag.defineSlot('/6053/els.sdguest/ISSN18761070', [[160,600]],'skyscraper2').addService(googletag.pubads());
+
+		
+googletag.pubads().collapseEmptyDivs();
+		
+googletag.pubads().enableAsyncRendering();
+		
+googletag.enableServices();
+	
+});
+
+</script>
+
+<!-- End: GPT -->
+
+<!-- Beginning Async AdSlot 1 for Ad unit els.sdgust/ISSN18761070  ### size: [[728,90]] -->
+
+<!-- Adslot's refresh function: googletag.pubads().refresh([gptadslots[1]]) -->
+
+<script type='text/javascript'>
+
+  var lbZone = document.getElementById('leaderboard');
+  var lbContent = document.getElementById('leaderboard2');
+  if(lbZone && lbContent) {
+    lbZone.appendChild(lbContent);
+  }
+		
+googletag.cmd.push(function() { googletag.display('leaderboard2'); });
+	
+</script>
+
+<!-- End AdSlot 1 --></div>
+<div style="display:none" id="skyscraper2"><!-- Beginning Async AdSlot 2 for Ad unit els.sdgust/ISSN18761070  ### size: [[160,600]] -->
+
+<!-- Adslot's refresh function: googletag.pubads().refresh([gptadslots[2]]) -->
+
+<script type='text/javascript'>
+  var skyZone = document.getElementById('skyscraper');
+  var skyContent = document.getElementById('skyscraper2');
+  if(skyZone && skyContent) {
+    skyZone.appendChild(skyContent);
+  }
+		
+googletag.cmd.push(function() { googletag.display('skyscraper2'); });
+	
+</script>
+
+
+<!-- End AdSlot 2 --></div>
+
+<script>
+var SDM = new Object;
+SDM.si = new Object;
+SDM.si.sds = "15ca35a6e980a2655d735151b1affc1562f947ee228918015416fd4457a16fffc5d0ce9178bf7fe50094e8a655aea433";
+
+SDM.tid = "91355d62-3a65-11e7-a26a-00000aab0f6c";
+SDM.ep = new Object();
+SDM.ep.urlPrefix = "http://www.sciencedirect.com/science";
+SDM.ep.enableUsabillaMsg = "Y";
+SDM.ep.urlQualifier = "science";
+SDM.ieVersion="8";
+SDM.pageTransKey = "05/16/2017 14:29:16 EDT#1850_006#162500#95.30.38.0";
+SDM.pageType = "pubhome_j";
+SDM.ud = "12975512||C000228598|291352|GUEST";
+
+SDM.pf = new Object();
+SDM.pf.ddm = new Object();
+SDM.pf.ddm.endpoint = "";
+
+
+
+ 
+     SDM.isHome = false;
+ 
+ SDM.isSDTechHeader = true;
+
+
+
+
+SDPA.init();
+
+
+Ads.init();
+
+</script>
+
+<script type="text/javascript">/*{literal}<![CDATA[*/window.lightningjs||function(c){function g(b,d){d&&(d+=(/\?/.test(d)?"&":"?")+"lv=1");c[b]||function(){var i=window,h=document,j=b,g=h.location.protocol,l="load",k=0;(function(){function b(){a.P(l);a.w=1;c[j]("_load")}c[j]=function(){function m(){m.id=e;return c[j].apply(m,arguments)}var b,e=++k;b=this&&this!=i?this.id||0:0;(a.s=a.s||[]).push([e,b,arguments]);m.then=function(b,c,h){var d=a.fh[e]=a.fh[e]||[],j=a.eh[e]=a.eh[e]||[],f=a.ph[e]=a.ph[e]||[];b&&d.push(b);c&&j.push(c);h&&f.push(h);return m};return m};var a=c[j]._={};a.fh={};a.eh={};a.ph={};a.l=d?d.replace(/^\/\//,(g=="https:"?g:"http:")+"//"):d;a.p={0:+new Date};a.P=function(b){a.p[b]=new Date-a.p[0]};a.w&&b();i.addEventListener?i.addEventListener(l,b,!1):i.attachEvent("on"+l,b);var q=function(){function b(){return["<head></head><",c,' onload="var d=',n,";d.getElementsByTagName('head')[0].",d,"(d.",g,"('script')).",i,"='",a.l,"'\"></",c,">"].join("")}var c="body",e=h[c];if(!e)return setTimeout(q,100);a.P(1);var d="appendChild",g="createElement",i="src",k=h[g]("div"),l=k[d](h[g]("div")),f=h[g]("iframe"),n="document",p;k.style.display="none";e.insertBefore(k,e.firstChild).id=o+"-"+j;f.frameBorder="0";f.id=o+"-frame-"+j;/MSIE[ ]+6/.test(navigator.userAgent)&&(f[i]="javascript:false");f.allowTransparency="true";l[d](f);try{f.contentWindow[n].open()}catch(s){a.domain=h.domain,p="javascript:var d="+n+".open();d.domain='"+h.domain+"';",f[i]=p+"void(0);"}try{var r=f.contentWindow[n];r.write(b());r.close()}catch(t){f[i]=p+'d.write("'+b().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};a.l&&setTimeout(q,0)})()}();c[b].lv="1";return c[b]}var o="lightningjs",k=window[o]=g(o);k.require=g;k.modules=c}({});
+window.usabilla_live = lightningjs.require("usabilla_live", "//w.usabilla.com/11e800d34be0.js");
+/*]]>{/literal}*/
+if(typeof SDM != "undefined") {
+  if(SDM.ud) { usabilla_live("data", {"custom": {"ud":SDM.ud} }); }
+  if(SDM.pf&&SDM.pf.oa) {
+    if(SDM.pf.oa.item) { usabilla_live("data", {"custom": {"open_access":SDM.pf.oa.item} });}
+    if(SDM.pf.oa.archive) { usabilla_live("data", {"custom": {"open_archive":SDM.pf.oa.archive} });}
+  }
+  if(SDM.pm&&SDM.pm.mod_cid) {
+    usabilla_live("data", {"custom": {"refmod_article":true} });
+  }
+  else {usabilla_live("data", {"custom": {"refmod_article":false} });}
+}
+</script>
+<script>
+function tmp_removeCite() {
+    if ($('#cited_by_articles').length) {
+    if (SDM.pm != undefined) {
+        if (SDM.pm.issnisbn == '23528478') {
+            $('#cited_by_articles').hide();
+            } 
+        } 
+    }
+}
+
+function tmp_removeCiteCounter(c) {
+    if ($('#cited_by_articles').length) {
+        tmp_removeCite();
+    }
+    else if (c>30) {
+        return;
+    }
+    else {
+        c++;
+        setTimeout(function() {tmp_removeCiteCounter(c);}, 200);
+    }
+}
+tmp_removeCiteCounter(1);  
+</script>
+
+
+<script src="//assets.adobedtm.com/376c5346e33126fdb6b2dbac81e307cbacfd7935/satelliteLib-b7cfe8df39a4e5eec5536bba80e13f4b6fa0dd7c.js"></script>
+<script>
+
+
+var pageData=new Object;
+
+var page=new Object;
+page["businessUnit"]="ELS:RP:ST";
+page["isProduction"]="true";
+page["language"]="en";
+page["name"]="browse:journal";
+page["productName"]="SD";
+page["environment"]="prod";
+page["noTracking"]="false";
+page["loadTime"]="";
+page["loadTimestamp"]=Date.now().toString();
+page["type"]="pubhome_j";
+pageData["page"]=page;
+
+var visitor=new Object;
+visitor["accessType"]="ae:ANON-GUEST";
+visitor["accountId"]="ae:228598";
+visitor["accountName"]="ae:ScienceDirect Guests";
+
+visitor["industry"]="";
+visitor["ipAddress"]="95.30.38.0";
+visitor["loginStatus"]="";
+visitor["sisId"]="";
+
+visitor["userId"]="ae:12975512";
+pageData["visitor"]=visitor;
+
+
+
+function getPageLoadTime()
+{ 
+    returnValue = '';
+    if (typeof(performance) !== 'undefined' && typeof(performance.timing) == 'object')
+    {
+        timing = performance.timing;
+        startTime = timing.redirectStart || timing.fetchStart || timing.requestStart;
+        endTime = timing.domContentLoadedEventEnd || timing.domInteractive || timing.domComplete || timing.loadEventComplete;
+        if (startTime && endTime && startTime < endTime) returnValue = endTime - startTime;
+    }
+    return returnValue.toString();
+}
+
+$(document).ready(function()
+{
+    if( typeof(pageData) != 'undefined' && typeof(pageData["page"]) != 'undefined' && typeof(pageData["page"]["loadTime"]) != 'undefined' )
+    {
+        pageData["page"]["loadTime"]=getPageLoadTime();
+    }
+}
+);
+
+
+try { pageDataTracker.trackPageLoad(); }
+catch(e) { console.warn("There was an error loading or running Adobe DTM:\r\n ", e); }
+</script>
+
+
+
+<script src="//sdfestaticassets-us-east-1.sciencedirectassets.com/prod/ce6a74e3c87c96230cf658ad64ddc24394585c0c/client.js"></script>
+
+
+        </div>
+        
+    </div> 
+
+    <div style="clear:both"></div>
+    
+</div>
+<div id="appBackground"></div>
+<div id="appDialog" class="files">
+    <div id="header">
+     <div class="pdfSearchHeading"> Download PDFs
+    <span class="close" id="closeBtn" href = "#" title = "Close Search Results " alt="Close Search Results"><img src="http://cdn.els-cdn.com/sd/sci_dir/closeButton.png"></span>
+    </div></div>
+    <div id="contentBlk" class="view">
+        <div class="help_button" id="ddmMainHelp"><a class="ddmHelp" target="sdhelp" href="/science?_ob=HelpURL&_file=DM_main.htm&_btn=Y&_zone=TopNavBar&_origin=journal" title="Help (Opens new window)" onClick="var helpWin; helpWin=window.open('/science?_ob=HelpURL&_file=DM_main.htm&_btn=Y&_zone=TopNavBar&_origin=journal','sdhelp','scrollbars=yes,resizable=yes,directories=no,toolbar=no,menubar=no,status=no,width=984,height=738'); helpWin.focus(); return false">Help</a></div>
+        <div class="help_button" id="ddmNewformatHelp"><a class="ddmHelp" target="sdhelp" href="/science?_ob=HelpURL&_file=DM_newformat.htm&_btn=Y&_zone=TopNavBar&_origin=journal" title="Help (Opens new window)" onClick="var helpWin; helpWin=window.open('/science?_ob=HelpURL&_file=DM_newformat.htm&_btn=Y&_zone=TopNavBar&_origin=journal','sdhelp','scrollbars=yes,resizable=yes,directories=no,toolbar=no,menubar=no,status=no,width=984,height=738'); helpWin.focus(); return false">Help</a></div>
+        <div id="filesTemplate"></div>
+        <div id="namingTemplate"></div> 
+    </div>
+    <div class="footer"></div>
+</div>
+
+</body>
+</html>

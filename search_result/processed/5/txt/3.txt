@@ -1,0 +1,8 @@
+
+ScienceDirect - Forgotten username or password
+Forgotten username or password
+ Please enter your email address exactly as it was recorded in your personalprofile and we will email a link to
+reset your password.This feature is not available for email addresses associated with a third-party
+profilefor which we do not store a username and password.
+ Email Address:
+ | Cancel

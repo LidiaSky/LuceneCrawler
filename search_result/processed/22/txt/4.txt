@@ -1,0 +1,40 @@
+
+ A developed HPLC method for the determination of Alogliptin Benzoate and its potential impurities in bulk drug and tablets
+Screen reader users, click here to load entire articleThis page uses JavaScript to progressively load the article content as a user scrolls. Screen reader users, click the load entire article button to bypass dynamically loaded article content.
+ Please note that Internet Explorer version 8.x will not be supported as of January 1, 2016. Please refer to this blog post for more information.
+ Close
+ ScienceDirectJournalsBooksRegisterSign inSign in using your ScienceDirect credentialsUsernamePasswordRemember meForgotten username or password?Sign in via your institutionOpenAthensOther institutionHelpJournalsBooksRegisterSign inHelpcloseSign in using your ScienceDirect credentialsUsernamePasswordRemember meForgotten username or password?Sign in via your institutionOpenAthensOther institution
+ Download PDF
+ Opens in a new window. Article suggestions will be shown in a dialog on return to ScienceDirect.
+  
+ Help
+ Direct export
+  
+  
+ Export file
+  RIS (for EndNote, Reference Manager, ProCite)
+  BibTeX
+  Text
+  RefWorks Direct Export
+ Content
+   Citation Only
+   Citation and Abstract
+ Advanced search
+  
+ JavaScript is disabled on your browser.
+ Please enable JavaScript to use all the features on this page.
+ JavaScript is disabled on your browser. Please enable JavaScript to use all the features on this page. This page uses JavaScript to progressively load the article content as a user scrolls. Click the View full text link to bypass dynamically loaded article content. View full text
+ Asian Journal of Pharmaceutical SciencesVolume 10, Issue 2, April 2015, Pages 152–158
+ Open Access
+ Short CommunicationA developed HPLC method for the determination of Alogliptin Benzoate and its potential impurities in bulk drug and tablets Kun Zhanga, Panqin Mab, Wenna Jingc, Xiangrong Zhanga, , a School of Pharmacy, Shenyang Pharmaceutical University, No.103, Wenhua Road, Shenyang, 110016, Chinab Kangya of Ningxia Pharmaceuticals CO. LTD, No.57, Fuan West Lane, Yinchuan, 750003, Chinac School of Medical Devices, Shenyang Pharmaceutical University, No.103, Wenhua Road, Shenyang, 110016, ChinaReceived 22 April 2014, Revised 10 July 2014, Accepted 15 January 2015, Available online 16 February 2015AbstractAlogliptin (AGLT), active ingredient of Alogliptin Benzoate (AGLT-BZ), is a new dipeptidyl peptidase-4 (DPP-4) inhibitor for the treatment of type 2 diabetes. This study aimed to build a suitable method to determine the potential related substances in AGLT-BZ bulk drug and tablets. Seven related substances in Alogliptin Benzoate substances were synthetized and identified by 1H-NMR and ESI-MS. In addition, the impurities were detected by a gradient reverse-phase high performance liquid chromatography (RP-HPLC) with UV detection. The chromatographic system consisted of an Angilent Zobax SB-CN column (250 × 4.6 mm; 5 μm). The mobile phase consisted of water/acetonitrile/trifluoroacetic acid 1900:100:1 v/v/v (solution A) and acetonitrile/water/trifluoroacetic acid 1900:100:1 v/v/v (solution B) using a gradient program at a flow rate of 1.0 ml/min with 278 nm detection and an injection volume of 20 μl. Additionally, selectivity, the limit of quantitation (LOQ) and limit of detection (LOD), linearity, accuracy, precision and robustness were determined. Linearity was good over the concentration range 50–1000 ng/ml and the coefficient of determination (R2) were 0.9991–0.9998. RSD% of the determination of precision were <2% (n = 6). The method of RP-HPLC for the determination of impurities in AGLT-BZ was proved to be precise, accurate, robust and reliable. Three batches of self-made bulk drug and three dosages of commercial tablets were detected with this method.KeywordsAlogliptin benzoate; Impurity; HPLC; Bulk drug; Commercial tablets1. IntroductionRecent years, diabetes has been a serious disease affecting the patients around the world. According to International Diabetes Federation (IDF), there are totally 382 million diabetes patients in 2013. And this number will rise to 592 million by 2035 [1]. Type 2 diabetes is a chronic disease and progressive disease usually characterized by resistance of insulin and defunction of β-cell [2]; [3] ;  [4]. Dipeptidyl peptidase-4 (DPP-4) is an enzyme, which is widely distributed in living organisms and blood circulation and could inactivate endogenous glucagon-like peptide-1 (GLP-1), an insulin tropic hormones playing an important role in promoting insulin secretion, inhibiting glucagon secretion, delaying gastric emptying, enhancing satiety and moderating food intake [5]; [6]; [7]; [8] ;  [9].Alogliptin, active ingredient of 2-[6-[3(R)-Aminopiperidin-1-yl]-3-methyl-2,4-dioxo-1,2,3,4-tetrahydropyrimidin-1-ylmethyl] benzonitrile Benzoate, is a novel, potent and highly selective DPP-4 inhibitor [10]. It has been developed into a commodity firstly by Takeda Pharmaceutical Company Limited and on list in Japan and America in 2010 and 2013, respectively.Strict control of impurities is necessary for the manufacturing of drug products. These impurities may be present in the materials, formed as by-products during the process of production or appear as degradation products during storage. Both actual and potential impurities should be studied and detected by a reliable and convenient method. Though a method was referred to in a patent of Takeda, the practicability of this method has not been verified [11]. Few studies about the related substances of AGLT-BZ have been reported. It is necessary not only to find the potential impurities according to the drug characteristic and synthesis route shown in Fig. 1, but to find a convenient, accuracy and sensitive method to detect them. The impurities of AGLT-BZ studied in this paper were named as compounds A, B, C, D, E, F and G shown in Table 1, respectively.Fig. 1. The synthesis route of AGLT-BZ.Figure optionsDownload full-size imageDownload as PowerPoint slide
+ ElsevierAbout ScienceDirectRemote accessShopping cartContact and supportTerms and conditionsPrivacy policyCookies are used by this site. For more information, visit the cookies page.Copyright © 2017 Elsevier B.V. or its licensors or contributors. ScienceDirect ® is a registered trademark of Elsevier B.V.RELX Group
+  Recommended articles
+ No articles found.
+  Citing articles (0)
+ This article has not been cited.
+  Related book content
+ No articles found.
+  
+ Download PDFs
+ Help
+ Help

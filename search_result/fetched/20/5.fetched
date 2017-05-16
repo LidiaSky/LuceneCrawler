@@ -1,0 +1,1276 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:article="http://ogp.me/ns/article#"
+  xmlns:book="http://ogp.me/ns/book#"
+  xmlns:profile="http://ogp.me/ns/profile#"
+  xmlns:video="http://ogp.me/ns/video#"
+  xmlns:product="http://ogp.me/ns/product#"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="https://blog.sciencedirect.com/sites/default/themes/mythemes/acq_my_theme/images/elseviericon.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" type="application/rss+xml" title="Front page feed" href="https://blog.sciencedirect.com/rss.xml" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="https://blog.sciencedirect.com/" />
+<link rel="shortlink" href="https://blog.sciencedirect.com/" />
+<meta property="og:site_name" content="Elsevier ScienceDirect Blog" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://blog.sciencedirect.com/" />
+<meta property="og:title" content="Elsevier ScienceDirect Blog" />
+<meta property="og:description" content="Product news, events, and announcements for www.sciencedirect.com" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://blog.sciencedirect.com/" />
+<meta name="twitter:title" content="Elsevier ScienceDirect Blog" />
+<meta name="twitter:description" content="Product news, events, and announcements for www.sciencedirect.com" />
+  <title>Elsevier ScienceDirect Blog | Product news, events, and announcements for www.sciencedirect.com</title>
+  <style type="text/css" media="all">
+@import url("https://blog.sciencedirect.com/modules/system/system.base.css?oq1i5n");
+@import url("https://blog.sciencedirect.com/modules/system/system.menus.css?oq1i5n");
+@import url("https://blog.sciencedirect.com/modules/system/system.messages.css?oq1i5n");
+@import url("https://blog.sciencedirect.com/modules/system/system.theme.css?oq1i5n");
+</style>
+<style type="text/css" media="all">
+@import url("https://blog.sciencedirect.com/misc/ui/jquery.ui.core.css?oq1i5n");
+@import url("https://blog.sciencedirect.com/misc/ui/jquery.ui.theme.css?oq1i5n");
+@import url("https://blog.sciencedirect.com/misc/ui/jquery.ui.resizable.css?oq1i5n");
+@import url("https://blog.sciencedirect.com/misc/ui/jquery.ui.button.css?oq1i5n");
+@import url("https://blog.sciencedirect.com/misc/ui/jquery.ui.dialog.css?oq1i5n");
+@import url("https://blog.sciencedirect.com/profiles/gardens/modules/gardens/gardens_features/css/gardens_features.jquery.ui.dialog.css?oq1i5n");
+@import url("https://blog.sciencedirect.com/misc/ui/jquery.ui.autocomplete.css?oq1i5n");
+@import url("https://blog.sciencedirect.com/misc/ui/jquery.ui.datepicker.css?oq1i5n");
+@import url("https://blog.sciencedirect.com/misc/ui/jquery.ui.tabs.css?oq1i5n");
+</style>
+<style type="text/css" media="all">
+@import url("https://blog.sciencedirect.com/profiles/gardens/modules/contrib/comment_notify/comment_notify.css?oq1i5n");
+@import url("https://blog.sciencedirect.com/modules/comment/comment.css?oq1i5n");
+@import url("https://blog.sciencedirect.com/profiles/gardens/modules/contrib/date/date_api/date.css?oq1i5n");
+@import url("https://blog.sciencedirect.com/profiles/gardens/modules/contrib/date/date_popup/themes/datepicker.1.7.css?oq1i5n");
+@import url("https://blog.sciencedirect.com/profiles/gardens/modules/contrib/date/date_repeat_field/date_repeat_field.css?oq1i5n");
+@import url("https://blog.sciencedirect.com/modules/field/theme/field.css?oq1i5n");
+@import url("https://blog.sciencedirect.com/profiles/gardens/modules/contrib/mollom/mollom.css?oq1i5n");
+@import url("https://blog.sciencedirect.com/modules/node/node.css?oq1i5n");
+@import url("https://blog.sciencedirect.com/modules/search/search.css?oq1i5n");
+@import url("https://blog.sciencedirect.com/modules/user/user.css?oq1i5n");
+@import url("https://blog.sciencedirect.com/profiles/gardens/modules/contrib/views/css/views.css?oq1i5n");
+@import url("https://blog.sciencedirect.com/profiles/gardens/modules/contrib/media/modules/media_wysiwyg/css/media_wysiwyg.base.css?oq1i5n");
+</style>
+<style type="text/css" media="all">
+@import url("https://blog.sciencedirect.com/profiles/gardens/modules/contrib/ctools/css/ctools.css?oq1i5n");
+@import url("https://blog.sciencedirect.com/profiles/gardens/modules/gardens/gardens_features/gardens_features.css?oq1i5n");
+@import url("https://blog.sciencedirect.com/profiles/gardens/modules/gardens/gardens_features/gardens_features.jquery.ui.theme.css?oq1i5n");
+@import url("https://blog.sciencedirect.com/profiles/gardens/modules/gardens/gardens_features/plugins/formalize/assets/css/formalize.css?oq1i5n");
+</style>
+<style type="text/css" media="all">
+@import url("https://blog.sciencedirect.com/sites/default/themes/mythemes/acq_my_theme/defaults.css?oq1i5n");
+@import url("https://blog.sciencedirect.com/sites/default/themes/mythemes/acq_my_theme/style.css?oq1i5n");
+@import url("https://blog.sciencedirect.com/sites/default/themes/mythemes/acq_my_theme/palette.css?oq1i5n");
+@import url("https://blog.sciencedirect.com/sites/default/themes/mythemes/acq_my_theme/custom.css?oq1i5n");
+@import url("https://blog.sciencedirect.com/sites/default/themes/mythemes/acq_my_theme/advanced.css?oq1i5n");
+@import url("https://blog.sciencedirect.com/sites/default/themes/mythemes/acq_my_theme/font-families.css?oq1i5n");
+</style>
+
+<!--[if lte IE 8]>
+<style type="text/css" media="all">
+@import url("https://blog.sciencedirect.com/profiles/gardens/modules/gardens/gardens_features/css/ie/gardens_features.lte-ie-8.css?oq1i5n");
+</style>
+<![endif]-->
+  <script type="text/javascript" src="https://blog.sciencedirect.com/sites/default/files/js/js_Xjzh1hVfcgVAixhmmB6Go8TUMPOiprA-2vkC-oWXARQ.js"></script>
+<script type="text/javascript" src="https://blog.sciencedirect.com/sites/default/files/js/js_g3WiXMouL2tQ_-d6mDGQAe3X-sl_ulk0jkF7w9O8wkE.js"></script>
+<script type="text/javascript" src="https://blog.sciencedirect.com/sites/default/files/js/js_wqbkEdTADCQvU009W2K2R-vvLiKLz2dYgrXTmd-HfQQ.js"></script>
+<script type="text/javascript" src="https://blog.sciencedirect.com/sites/default/files/js/js_BVLg2gLBf71i5RaI6JhVP3OLgK_nv0bQO5RgN-_Hkic.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-18183175-4", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://blog.sciencedirect.com/sites/default/files/js/js_XutmQe7rD4N4ExC6b8eIw2ilcwHXwMgugQa4BmipBlw.js"></script>
+<script type="text/javascript" src="https://blog.sciencedirect.com/sites/default/files/js/js_gb5-zfguVW3epXOMkZ5C3a4M-3zM_n5NDttVPWcAMXg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"acq_my_theme","theme_token":"j83UHekMGoh40Xx9u_5lrnoI9lji0UMFrgOzCUCio_8","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/gardens\/modules\/contrib\/dialog\/jquery.xLazyLoader.js":1,"misc\/ui\/jquery.ui.core.min.js":1,"misc\/ui\/jquery.ui.widget.min.js":1,"misc\/ajax.js":1,"misc\/jquery.cookie.js":1,"profiles\/gardens\/modules\/gardens\/gardens_features\/plugins\/jquery.form.js":1,"misc\/ui\/jquery.ui.mouse.min.js":1,"misc\/ui\/jquery.ui.resizable.min.js":1,"misc\/ui\/jquery.ui.draggable.min.js":1,"misc\/ui\/jquery.ui.button.min.js":1,"misc\/ui\/jquery.ui.position.min.js":1,"misc\/ui\/jquery.ui.dialog.min.js":1,"profiles\/gardens\/modules\/contrib\/views\/js\/jquery.ui.dialog.patch.js":1,"misc\/ui\/jquery.ui.autocomplete.min.js":1,"misc\/ui\/jquery.ui.datepicker.min.js":1,"misc\/ui\/jquery.ui.tabs.min.js":1,"profiles\/gardens\/modules\/gardens\/gardens_features\/plugins\/Modernizr\/modernizr.js":1,"profiles\/gardens\/modules\/gardens\/gardens_features\/plugins\/formalize\/assets\/js\/jquery.formalize.min.js":1,"profiles\/gardens\/modules\/contrib\/dialog\/dialog.js":1,"profiles\/gardens\/modules\/contrib\/comment_notify\/comment_notify.js":1,"profiles\/gardens\/modules\/gardens\/gardens_features\/js\/gardens_features.ui-dialog.js":1,"profiles\/gardens\/libraries\/timeago\/jquery.timeago.js":1,"profiles\/gardens\/modules\/contrib\/timeago\/timeago.js":1,"profiles\/gardens\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"profiles\/gardens\/modules\/gardens\/gardens_features\/js\/gardens_features.js":1,"sites\/default\/themes\/mythemes\/acq_my_theme\/local.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.resizable.css":1,"misc\/ui\/jquery.ui.button.css":1,"misc\/ui\/jquery.ui.dialog.css":1,"profiles\/gardens\/modules\/gardens\/gardens_features\/css\/gardens_features.jquery.ui.dialog.css":1,"misc\/ui\/jquery.ui.autocomplete.css":1,"misc\/ui\/jquery.ui.datepicker.css":1,"misc\/ui\/jquery.ui.tabs.css":1,"profiles\/gardens\/modules\/contrib\/comment_notify\/comment_notify.css":1,"modules\/comment\/comment.css":1,"profiles\/gardens\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/gardens\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"profiles\/gardens\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"profiles\/gardens\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/gardens\/modules\/contrib\/views\/css\/views.css":1,"profiles\/gardens\/modules\/contrib\/media\/modules\/media_wysiwyg\/css\/media_wysiwyg.base.css":1,"profiles\/gardens\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/gardens\/modules\/gardens\/gardens_features\/gardens_features.css":1,"profiles\/gardens\/modules\/gardens\/gardens_features\/gardens_features.jquery.ui.theme.css":1,"profiles\/gardens\/modules\/gardens\/block_everything\/block_everything.css":1,"profiles\/gardens\/modules\/gardens\/gardens_features\/plugins\/formalize\/assets\/css\/formalize.css":1,"sites\/default\/themes\/mythemes\/acq_my_theme\/defaults.css":1,"sites\/default\/themes\/mythemes\/acq_my_theme\/style.css":1,"sites\/default\/themes\/mythemes\/acq_my_theme\/palette.css":1,"sites\/default\/themes\/mythemes\/acq_my_theme\/custom.css":1,"sites\/default\/themes\/mythemes\/acq_my_theme\/advanced.css":1,"sites\/default\/themes\/mythemes\/acq_my_theme\/font-families.css":1,"profiles\/gardens\/modules\/gardens\/gardens_features\/css\/ie\/gardens_features.lte-ie-8.css":1}},"timeago":{"refreshMillis":60000,"allowFuture":true,"localeTitle":false,"cutoff":0,"strings":{"prefixAgo":null,"prefixFromNow":null,"suffixAgo":"ago","suffixFromNow":"from now","seconds":"less than a minute","minute":"about a minute","minutes":"%d minutes","hour":"about an hour","hours":"about %d hours","day":"a day","days":"%d days","month":"about a month","months":"%d months","year":"about a year","years":"%d years","wordSeparator":" "}},"gardensFeatures":{"userIsAnonymous":true,"dialogUserEnabled":true,"isSMB":false,"siteFactoryProductPage":"https:\/\/www.acquia.com\/products-services\/acquia-cloud-site-factory"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html front not-logged-in no-sidebars page-frontpage theme-markup-2 body-layout-fixed-cb" >
+  <div id="skip-to-content">
+    <a href="#skip-to-content-target">Skip directly to content</a>
+  </div>
+
+  <!--[if IE ]>
+  <div id="gardens_ie">
+  <![endif]-->
+  
+  <!--[if IE 8]>
+  <div id="gardens_ie8">
+  <![endif]-->
+  
+  <!--[if IE 7]>
+  <div id="gardens_ie7">
+  <![endif]-->
+  
+  <!--[if lt IE 7]>
+  <div id="gardens_ie-deprecated">
+  <![endif]-->
+
+    
+<div id="page" class="page clearfix tb-terminal">
+
+  <div id="page-deco-top" class="deco-page-top deco-page deco-top deco tb-scope tb-scope-prefer">
+    <div class="width deco-width inner tb-terminal">
+      <div class="layer-a layer"></div>
+      <div class="layer-b layer"></div>
+      <div class="layer-c layer"></div>
+      <div class="layer-d layer"></div>
+    </div>
+  </div>
+  
+  <div id="page-deco-bottom" class="deco-page-bottom deco-page deco-bottom deco tb-scope tb-scope-prefer">
+    <div class="width deco-width inner tb-terminal">
+      <div class="layer-a layer"></div>
+      <div class="layer-b layer"></div>
+      <div class="layer-c layer"></div>
+      <div class="layer-d layer"></div>
+    </div>
+  </div>
+    
+  <div class="page-width tb-scope">
+    <div class="lining tb-terminal"> <!-- Broken out of .page-width to avoid update issues with margin: 0 auto being undone -->
+    
+      <div id="header" class="wrapper-header wrapper clearfix tb-scope">
+      
+        <div id="header-deco-top" class="deco-header-top deco-header deco-top deco tb-scope tb-scope-prefer">
+          <div class="width deco-width inner tb-terminal">
+            <div class="layer-a layer"></div>
+            <div class="layer-b layer"></div>
+            <div class="layer-c layer"></div>
+            <div class="layer-d layer"></div>
+          </div>
+        </div>
+        
+        <div id="header-deco-bottom" class="deco-header-bottom deco-header deco-bottom deco tb-scope tb-scope-prefer">
+          <div class="width deco-width inner tb-terminal">
+            <div class="layer-a layer"></div>
+            <div class="layer-b layer"></div>
+            <div class="layer-c layer"></div>
+            <div class="layer-d layer"></div>
+          </div>
+        </div>
+      
+                  <div id="preheader" class="stack-preheader stack-pre stack col-align-last-right horizontal clearfix tb-scope">
+            <div class="stack-width inset-1 inset tb-terminal">
+              <div class="inset-2 inset tb-terminal">
+                <div class="inset-3 inset tb-terminal">
+                  <div class="inset-4 inset tb-terminal">
+    
+                                              
+                      <div class="box col-2 clearfix tb-terminal">
+                    
+                                                  <div class="col-first col left tb-height-balance tb-terminal">
+                            <div id="preheader-first-region" class="tb-region tb-scope">
+                                <div class="region region-preheader-first">
+    
+<div id="block-block-26" class="block block-block block-none clearfix">
+  <div class="inner tb-terminal">
+    <div class="top"><div class="top-inset-1 tb-terminal"><div class="top-inset-2 tb-terminal"></div></div></div>
+  
+    <div class="middle tb-terminal">
+        
+            
+            
+              
+      <div class="content">
+        <p><!-- Go to www.addthis.com/dashboard to customize your tools --><script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-536d030a2e129373" async="async"></script></p>      </div>
+      
+    </div>
+    
+    <div class="bottom"><div class="bottom-inset-1 tb-terminal"><div class="bottom-inset-2 tb-terminal"></div></div></div>
+  </div>
+</div>
+  </div>
+                            </div>
+                          </div> <!-- /#preheader-first-region -->
+                                                  
+                                                  <div class="col-second col left last tb-height-balance tb-terminal">
+                            <div id="preheader-second-region" class="tb-region tb-scope">
+                                <div class="region region-preheader-second">
+    
+<div id="block-block-11" class="block block-block block-none clearfix">
+  <div class="inner tb-terminal">
+    <div class="top"><div class="top-inset-1 tb-terminal"><div class="top-inset-2 tb-terminal"></div></div></div>
+  
+    <div class="middle tb-terminal">
+        
+            
+            
+              
+      <div class="content">
+        <p style="text-align: right;"><a href="http://www.sciencedirect.com/" target="_blank">www.ScienceDirect.com</a> | <a href="http://top25.sciencedirect.com/" target="_blank">Top25 Articles</a> | <a href="http://www.elsevier.com/sciencedirect/" target="_blank">About</a> | <a href="http://www.elsevier.com/online-tools/sciencedirect/support-and-contact/" target="_blank">Sales &amp; Support</a></p>      </div>
+      
+    </div>
+    
+    <div class="bottom"><div class="bottom-inset-1 tb-terminal"><div class="bottom-inset-2 tb-terminal"></div></div></div>
+  </div>
+</div>
+  </div>
+                            </div>
+                          </div> <!-- /#preheader-second-region -->
+                                              
+                                            
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+                
+                  <div id="header-inner" class="stack-header-inner stack clearfix tb-scope">
+            <div class="stack-width inset-1 inset tb-terminal tb-header-inner-1">
+              <div class="inset-2 inset tb-terminal tb-header-inner-2">
+                <div class="inset-3 inset tb-terminal">
+                  <div class="inset-4 inset tb-terminal">
+                    <div class="box col-4 clearfix tb-terminal">
+       
+                                              <div class=" col-c tb-primary tb-height-balance tb-terminal">
+                          <div id="header-region" class="tb-region tb-scope">
+                              <div class="region region-header">
+    <div class="page-element logo-wrapper"><a href="/" rel="home" id="logo" class="logo"><img typeof="foaf:Image" src="https://blog.sciencedirect.com/sites/default/themes/mythemes/acq_my_theme/images/sd-blog.gif" alt="Home" title="Home" /></a></div>  </div>
+                          </div>
+                        </div>
+                      
+                                          </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+                
+        <!-- Navigation --> 
+         
+          <div id="navigation" class="stack-navigation stack horizontal pulldown clearfix tb-scope">
+            <div class="stack-width inset-1 inset tb-terminal">
+              <div class="inset-2 inset tb-terminal">
+                <div class="inset-3 inset tb-terminal">
+                  <div class="inset-4 inset tb-terminal">
+                    <div class="box col-1 clearfix tb-terminal">
+                      <div id="navigation-region" class="col tb-region tb-scope tb-height-balance">
+                          <div class="region region-navigation">
+    
+<div id="block-system-main-menu" class="block block-system block-menu block-none clearfix">
+  <div class="inner tb-terminal">
+    <div class="top"><div class="top-inset-1 tb-terminal"><div class="top-inset-2 tb-terminal"></div></div></div>
+  
+    <div class="middle tb-terminal">
+        
+            
+            
+              
+      <div class="content">
+        <ul class="menu"><li class="first leaf level-1 menu-link-2571"><a href="/posts" title="">All Posts</a></li>
+<li class="last leaf level-1 menu-link-3901"><a href="/releases" title="Recent improvements and fixes affecting www.sciencedirect.com">Release Notes</a></li>
+</ul>      </div>
+      
+    </div>
+    
+    <div class="bottom"><div class="bottom-inset-1 tb-terminal"><div class="bottom-inset-2 tb-terminal"></div></div></div>
+  </div>
+</div>
+  </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+                
+      </div> <!-- /#header -->
+      
+      <div id="content" class="wrapper-content wrapper clearfix tb-scope">
+        <div class="wrapper-1 tb-terminal tb-content-wrapper-1">
+      
+          <div id="content-deco-top" class="deco-content-top deco-content deco-top deco tb-scope tb-scope-prefer">
+            <div class="width deco-width inner tb-terminal">
+              <div class="layer-a layer"></div>
+              <div class="layer-b layer"></div>
+              <div class="layer-c layer"></div>
+              <div class="layer-d layer"></div>
+            </div>
+          </div>
+          
+          <div id="content-deco-bottom" class="deco-content-bottom deco-content deco-bottom deco tb-scope tb-scope-prefer">
+            <div class="width deco-width inner tb-terminal">
+              <div class="layer-a layer"></div>
+              <div class="layer-b layer"></div>
+              <div class="layer-c layer"></div>
+              <div class="layer-d layer"></div>
+            </div>
+          </div>
+        
+                    
+                        
+                  
+          
+             
+          <div id="content-inner" class="stack-content-inner stack clearfix tb-scope">
+            <div class="stack-width inset-1 inset tb-terminal">
+              <div class="inset-2 inset tb-terminal">
+                <div class="inset-3 inset tb-terminal">
+                  <div class="inset-4 inset tb-terminal">
+                    <div class="box clearfix tb-terminal tb-preview-shuffle-regions">
+                      
+                                            
+                                                      <div id="sidebar-b" class="col-b sidebar right tb-height-balance tb-region tb-scope tb-sidebar tb-right">
+                                  <div class="region region-sidebar-b">
+    
+<div id="block-search-form" class="block block-search block-Search-this-Blog clearfix">
+  <div class="inner tb-terminal">
+    <div class="top"><div class="top-inset-1 tb-terminal"><div class="top-inset-2 tb-terminal"></div></div></div>
+  
+    <div class="middle tb-terminal">
+        
+            
+              <h2>Search this Blog</h2>
+            
+              
+      <div class="content">
+        <form action="/" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions--2"><input type="submit" id="edit-submit--2" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-xGa0yK9BLInYiVE_nk1jOhoZf4E2vesKbrJXH44qVLY" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>      </div>
+      
+    </div>
+    
+    <div class="bottom"><div class="bottom-inset-1 tb-terminal"><div class="bottom-inset-2 tb-terminal"></div></div></div>
+  </div>
+</div>
+
+<div id="block-block-21" class="block block-block block-none clearfix">
+  <div class="inner tb-terminal">
+    <div class="top"><div class="top-inset-1 tb-terminal"><div class="top-inset-2 tb-terminal"></div></div></div>
+  
+    <div class="middle tb-terminal">
+        
+            
+            
+              
+      <div class="content">
+        <div><h2>Get our Newsletter</h2><p><a href="/subscribe"><div class="media media-element-container media-media_original"><div id="file-456" class="file file-image file-image-png">
+
+        <h2 class="element-invisible"><a href="/file/456">subscribe-sd.png</a></h2>
+    
+  
+  <div class="content">
+    <img alt="" class="media-image" height="30" style="width: 174px; height: 30px;" width="174" typeof="foaf:Image" src="https://blog.sciencedirect.com/sites/default/files/201408/subscribe-sd.png" title="" />  </div>
+
+  
+</div>
+</div></a></p><h2>Follow ScienceDirect</h2><div align="left" class="addthis_vertical_follow_toolbox"> </div></div>      </div>
+      
+    </div>
+    
+    <div class="bottom"><div class="bottom-inset-1 tb-terminal"><div class="bottom-inset-2 tb-terminal"></div></div></div>
+  </div>
+</div>
+
+<div id="block-block-6" class="block block-block block-Tweets-from-sciencedirect clearfix">
+  <div class="inner tb-terminal">
+    <div class="top"><div class="top-inset-1 tb-terminal"><div class="top-inset-2 tb-terminal"></div></div></div>
+  
+    <div class="middle tb-terminal">
+        
+            
+              <h2>Tweets from @sciencedirect</h2>
+            
+              
+      <div class="content">
+        <p><a class="twitter-timeline" data-widget-id="572508827422318592" href="https://twitter.com/sciencedirect">Tweets by @sciencedirect</a> <script>
+<!--//--><![CDATA[// ><!--
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+//--><!]]>
+</script></p>      </div>
+      
+    </div>
+    
+    <div class="bottom"><div class="bottom-inset-1 tb-terminal"><div class="bottom-inset-2 tb-terminal"></div></div></div>
+  </div>
+</div>
+
+<div id="block-views-terms-block-1" class="block block-views clearfix">
+  <div class="inner tb-terminal">
+    <div class="top"><div class="top-inset-1 tb-terminal"><div class="top-inset-2 tb-terminal"></div></div></div>
+  
+    <div class="middle tb-terminal">
+        
+            
+              <h2>Top Categories</h2>
+            
+              
+      <div class="content">
+        <div class="view view-terms view-id-terms view-display-id-block_1 view-dom-id-3318491ffe9f31c9672042963835a9a2">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <span class="views-field views-field-name">        <span class="field-content"><a href="/topics/sciencedirect">ScienceDirect (39)</a></span>  </span></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <span class="views-field views-field-name">        <span class="field-content"><a href="/topics/search">Search (7)</a></span>  </span></li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <span class="views-field views-field-name">        <span class="field-content"><a href="/topics/mendeley">Mendeley (5)</a></span>  </span></li>
+          <li class="views-row views-row-4 views-row-even">  
+  <span class="views-field views-field-name">        <span class="field-content"><a href="/topics/open-access">Open Access (5)</a></span>  </span></li>
+          <li class="views-row views-row-5 views-row-odd views-row-last">  
+  <span class="views-field views-field-name">        <span class="field-content"><a href="/topics/research-success">Research Success (3)</a></span>  </span></li>
+      </ul></div>    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/topics">
+    see all  </a>
+</div>
+  
+  
+  
+</div>      </div>
+      
+    </div>
+    
+    <div class="bottom"><div class="bottom-inset-1 tb-terminal"><div class="bottom-inset-2 tb-terminal"></div></div></div>
+  </div>
+</div>
+
+<div id="block-views-news-block-2" class="block block-views clearfix">
+  <div class="inner tb-terminal">
+    <div class="top"><div class="top-inset-1 tb-terminal"><div class="top-inset-2 tb-terminal"></div></div></div>
+  
+    <div class="middle tb-terminal">
+        
+            
+              <h2>Popular posts</h2>
+            
+              
+      <div class="content">
+        <div class="view view-news view-id-news view-display-id-block_2 view-dom-id-961f91d575c8927a5dde67ce01d664ed">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/posts/articles-in-press-added-to-sciencedirect-journal-alerts">Articles-in-Press added to ScienceDirect journal alerts</a></span>  </span></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/posts/standing-on-the-shoulders-of-giants-sharing-research-responsibly">Standing on the shoulders of giants: sharing research responsibly</a></span>  </span></li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/posts/new-sciencedirect-alert-options-and-more-in-may">New ScienceDirect Alert Options and More in May</a></span>  </span></li>
+          <li class="views-row views-row-4 views-row-even">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/posts/academic-sharing-what-is-elsevier-doing-about-this">Academic sharing – what is Elsevier doing about this?</a></span>  </span></li>
+          <li class="views-row views-row-5 views-row-odd views-row-last">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/posts/have-you-heard-spread-the-word-about-upgrading-your-browser">Have you heard? Spread the word about upgrading your browser</a></span>  </span></li>
+      </ul></div>    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/posts">
+    see all  </a>
+</div>
+  
+  
+  
+</div>      </div>
+      
+    </div>
+    
+    <div class="bottom"><div class="bottom-inset-1 tb-terminal"><div class="bottom-inset-2 tb-terminal"></div></div></div>
+  </div>
+</div>
+
+<div id="block-views-news-block-1" class="block block-views block-Recent-Posts clearfix">
+  <div class="inner tb-terminal">
+    <div class="top"><div class="top-inset-1 tb-terminal"><div class="top-inset-2 tb-terminal"></div></div></div>
+  
+    <div class="middle tb-terminal">
+        
+            
+              <h2>Recent Posts</h2>
+            
+              
+      <div class="content">
+        <div class="view view-news view-id-news view-display-id-block_1 view-dom-id-eb3faf69fde95bfc96356ed8c7c07689">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/posts/are-you-saving-money-are-you-productive-are-you-using-sciencedirect">Are you saving money? Are you productive? Are you using ScienceDirect?</a></span>  </span></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/posts/sincerely-your-sciencedirect-team">Sincerely, Your ScienceDirect Team</a></span>  </span></li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/posts/update-your-browser-for-better-and-more-secure-searching-on-sciencedirect">Update your browser for better – and more secure – searching on ScienceDirect</a></span>  </span></li>
+          <li class="views-row views-row-4 views-row-even">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/posts/how-old-is-too-old-no-matter-the-age-the-science-matters"> How old is too old? No matter the age, the science matters</a></span>  </span></li>
+          <li class="views-row views-row-5 views-row-odd views-row-last">  
+  <span class="views-field views-field-title">        <span class="field-content"><a href="/posts/discover-more-5-tips-for-better-searching-on-sciencedirect">Discover more: 5 tips for better searching on ScienceDirect</a></span>  </span></li>
+      </ul></div>    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/posts">
+    see all  </a>
+</div>
+  
+  
+  
+</div>      </div>
+      
+    </div>
+    
+    <div class="bottom"><div class="bottom-inset-1 tb-terminal"><div class="bottom-inset-2 tb-terminal"></div></div></div>
+  </div>
+</div>
+  </div>
+                              </div>
+                              
+                                                
+                       <!-- end sidebars -->
+                      
+                      <div id="main" class="col-c tb-height-balance tb-region tb-scope tb-primary">
+                                                <div class="pane">
+                          <a id="skip-to-content-target" class="skip-to-link" title="Target of skip-to-content link"></a>
+                                                                                                                                    <div class="tabs"></div>
+                                                                                                                                    <div id="content-area" class="content-area">  <div class="region region-content">
+    
+<div id="block-system-main" class="block block-system clearfix">
+  <div class="inner tb-terminal">
+    <div class="top"><div class="top-inset-1 tb-terminal"><div class="top-inset-2 tb-terminal"></div></div></div>
+  
+    <div class="middle tb-terminal">
+        
+            
+            
+              
+      <div class="content">
+        <div class="view view-frontpage view-id-frontpage view-display-id-page view-dom-id-0cd143cd2b7cacf3aa7843a2060b0b90">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    <div id="node-507" class="node node-blog node-promoted odd clearfix" about="/posts/are-you-saving-money-are-you-productive-are-you-using-sciencedirect" typeof="sioc:Post sioct:BlogPost">
+
+  
+    
+  <div class="float-overflow tb-terminal">
+              <h2 class="blog-header"><a href="/posts/are-you-saving-money-are-you-productive-are-you-using-sciencedirect">Are you saving money? Are you productive? Are you using ScienceDirect?</a></h2>
+        <span property="dc:title" content="Are you saving money? Are you productive? Are you using ScienceDirect?" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+          <div class="meta">
+        <div class="submitted">Submitted by <span class="username"><span rel="sioc:has_creator"><span class="username" xml:lang="" typeof="sioc:UserAccount" property="foaf:name" datatype="">Anonymous (not verified)</span></span></span> </div>
+        <div class="created">on <span class="date"><span property="dc:date dc:created" content="2017-02-01T10:32:07+00:00" datatype="xsd:dateTime">1 February 2017 - 10:32am</span></span></div>
+      </div>
+    
+    <div class="content">
+      <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p> </p>
+
+<p><div class="media media-element-container media-media_original"><div id="file-1006" class="file file-image file-image-jpeg">
+
+        <h2 class="element-invisible"><a href="/file/1006">image2.jpg</a></h2>
+    
+  
+  <div class="content">
+    <img alt="" class="media-image" style="width: 350px; height: 249px; float: right; margin-left:20px;" typeof="foaf:Image" src="https://blog.sciencedirect.com/sites/default/files/image2_0.jpg" title="" />  </div>
+
+  
+</div>
+</div></p>
+
+<p>Driving innovation while balancing commercial demands can be a challenge in supporting R&amp;D and product development. Corporate researchers tell us that they are under pressure to:</p>
+
+<ul><li>Create new ideas and demonstrate commercial viability of products</li><li>Shorten the time required to make R&amp;D investment go/no-go decisions and meet project milestones</li><li>Reduce R&amp;D costs and expensive testing of new ideas</li></ul>
+
+<p>For corporate researchers in particular, ScienceDirect enables you to meet these challenges by connecting you to the latest scientific developments so you can make better decisions, more quickly and confidently.</p>
+
+<p><strong>In an independent study conducted in 2016, 88% of corporate researchers report that ScienceDirect saves them time.</strong></p>
+
+<p>Here are just a few examples to show how ScienceDirect saves time and helps advance the work of your industry colleagues.</p>
+
+<p><strong>Find out what other researchers have already done, so you won’t need to repeat it. </strong>A researcher in pharma R&amp;D management needed to gather data and test conditions for existing ion channel blockers to support in vitro screening efforts. ScienceDirect expedited compilation of a dataset of over 30 compounds blocking the target channel. Quick access to the existing data saved several months of time and made it possible to develop the SAR to inform the design of new ion channel blocker drug candidates.</p>
+
+<p><strong>Gain access to ideas in other disciplines/markets that inspire innovation and solutions.</strong> A researcher in pharma technical management faced a problem with long-term changes in a product’s performance. ScienceDirect enabled the researcher to locate multiple articles supporting a possible mechanism and to design experiments to confirm it. By applying knowledge from non-pharmaceutical studies, a raw material aging mechanism was identified, salvaging the product launch and saving over $20 million dollars.</p>
+
+<p><strong>Make sure you don’t overlook critical information supporting your research.</strong> A biotech engineering project manager needed to keep up-to-date regarding developments in plant biology research. ScienceDirect streamlined the research methodology, making it easy to identify relevant articles and publications. This knowledge supported improvement of project strategies and helped drive an effective go/no-go decision, resulting in a successful product patent.</p>
+
+<p>How will you be inspired to use ScienceDirect? Check out the <a href="https://www.elsevier.com/__data/assets/pdf_file/0003/260895/ScienceDirect-Maximizing-Investments-and-Accelerating-the-Journey-to-Research-Innovation.pdf">2016 global study by Martin Akel &amp; Associates</a> to see how other corporate researchers benefit from ScienceDirect. Maybe you’ll discover a new way to drive your projects forward faster.</p>
+
+<p><em>Contributed by Muriel Spoorenberg, Solution Marketing Manager - ScienceDirect, R&amp;D Solutions </em></p></div></div></div>    </div>
+    
+          <div class="tags">
+        <div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/topics/research-productivity" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">research productivity</a></div><div class="field-item odd"><a href="/topics/research-development" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">research &amp; development</a></div></div></div>      </div>
+        
+        
+  </div>
+
+  
+  
+</div>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+    <div id="node-506" class="node node-blog node-promoted even clearfix" about="/posts/sincerely-your-sciencedirect-team" typeof="sioc:Post sioct:BlogPost">
+
+  
+    
+  <div class="float-overflow tb-terminal">
+              <h2 class="blog-header"><a href="/posts/sincerely-your-sciencedirect-team">Sincerely, Your ScienceDirect Team</a></h2>
+        <span property="dc:title" content="Sincerely, Your ScienceDirect Team" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+          <div class="meta">
+        <div class="submitted">Submitted by <span class="username"><span rel="sioc:has_creator"><span class="username" xml:lang="" about="/users/kira-cooper" typeof="sioc:UserAccount" property="foaf:name" datatype="">Kira Cooper</span></span></span> </div>
+        <div class="created">on <span class="date"><span property="dc:date dc:created" content="2016-12-13T12:13:00+00:00" datatype="xsd:dateTime">13 December 2016 - 12:13pm</span></span></div>
+      </div>
+    
+    <div class="content">
+      <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><div class="media media-element-container media-media_original"><div id="file-1005" class="file file-image file-image-jpeg">
+
+        <h2 class="element-invisible"><a href="/file/1005">happyholidays.jpg</a></h2>
+    
+  
+  <div class="content">
+    <img alt="" class="media-image" height="350" width="650" typeof="foaf:Image" src="https://blog.sciencedirect.com/sites/default/files/happyholidays.jpg" title="" />  </div>
+
+  
+</div>
+</div></p>
+
+<p>We’re taking a break for the winter holidays, and hope you are too. We’ll return in January 2017 with new posts about ScienceDirect news, tips and information worth sharing. Until then, stay in touch with ScienceDirect on Twitter <a href="http://communications.elsevier.com/r/?id=h34bd35fd,11be0ae6,11be0c39&amp;utm_campaign=ScienceDirect%20Newsletter%20-%202016&amp;utm_campaignPK=176444479&amp;utm_term=OP20255&amp;utm_content=297667302&amp;utm_source=68&amp;BID=884815357&amp;utm_medium=email&amp;SIS_ID=0&amp;dgcid=Newsletters%20%26%20Alerts_email_ScienceDirect%20Newsletter%20-%202016">@sciencedirect.com</a> and <a href="http://communications.elsevier.com/r/?id=h34bd35fd,11be0ae6,11be0c3a&amp;utm_campaign=ScienceDirect%20Newsletter%20-%202016&amp;utm_campaignPK=176444479&amp;utm_term=OP20255&amp;utm_content=297667302&amp;utm_source=68&amp;BID=884815357&amp;utm_medium=email&amp;SIS_ID=0&amp;dgcid=Newsletters%20%26%20Alerts_email_ScienceDirect%20Newsletter%20-%202016">Facebook</a>. (P.S. To our Southern Hemisphere friends, enjoy the sunshine.)</p>
+
+<p> </p></div></div></div>    </div>
+    
+          <div class="tags">
+        <div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/topics/holiday-greetings" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">holiday greetings</a></div></div></div>      </div>
+        
+        
+  </div>
+
+  
+  
+</div>
+  </div>
+  <div class="views-row views-row-3 views-row-odd">
+    <div id="node-505" class="node node-blog node-promoted odd clearfix" about="/posts/update-your-browser-for-better-and-more-secure-searching-on-sciencedirect" typeof="sioc:Post sioct:BlogPost">
+
+  
+    
+  <div class="float-overflow tb-terminal">
+              <h2 class="blog-header"><a href="/posts/update-your-browser-for-better-and-more-secure-searching-on-sciencedirect">Update your browser for better – and more secure – searching on ScienceDirect</a></h2>
+        <span property="dc:title" content="Update your browser for better – and more secure – searching on ScienceDirect" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+          <div class="meta">
+        <div class="submitted">Submitted by <span class="username"><span rel="sioc:has_creator"><span class="username" xml:lang="" about="/users/kira-cooper" typeof="sioc:UserAccount" property="foaf:name" datatype="">Kira Cooper</span></span></span> </div>
+        <div class="created">on <span class="date"><span property="dc:date dc:created" content="2016-11-30T07:56:29+00:00" datatype="xsd:dateTime">30 November 2016 - 7:56am</span></span></div>
+      </div>
+    
+    <div class="content">
+      <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><a href="https://blog.sciencedirect.com/posts/have-you-heard-spread-the-word-about-upgrading-your-browser">Last year</a>, we announced that ScienceDirect would no longer support Internet Explorer 8 (IE8) at the start of this year. Now, we announce that effective January 1, 2017, ScienceDirect will no longer support Internet Explorer 9 (IE9). We are making gradual changes to IE support following <a href="http://blogs.msdn.com/b/ie/archive/2014/08/07/stay-up-to-date-with-internet-explorer.aspx?utm_medium=referral&amp;utm_source=pulsenews">Microsoft’s announcement earlier this year about its official discontinuation</a> of Internet Explorer 8, 9 and 10 (more information can be found on <a href="https://support.microsoft.com/en-us/lifecycle?p1=13418">Microsoft’s support page</a>).</p>
+
+<p style="margin-left:1.5pt;">To continue to make the most of your <a href="http://goo.gl/S62Ze9">ScienceDirect search</a> and discovery experience, we recommend you use the latest versions of the following browsers:</p>
+
+<ul><li>Google Chrome</li><li>Mozilla Firefox</li><li>Internet Explorer version 10 or higher</li></ul>
+
+<p style="margin-left:1.5pt;">We like to keep current so ScienceDirect automatically updates to support the latest versions of Chrome and Firefox upon their release (but please note that we do not support Beta or test versions of these browsers).</p>
+
+<p style="margin-left:1.5pt;">For best results, we recommend you set the following browser preferences:</p>
+
+<ul><li><strong>JavaScript: </strong>To access many ScienceDirect features, JavaScript must be enabled for your browser.</li><li><strong>Cookies: </strong>To sign on, cookies must be enabled for your browser. Using cookies lets us provide a more secure method of authenticating your login ID and password.</li><li><strong>Browser Cache: </strong>We recommend setting your browser to “cache (store) page” automatically so images do not have to download every time you visit a page on ScienceDirect.</li></ul>
+
+<p style="margin-left:1.5pt;">Get more advice about browser requirements and preferences from our Help files, only a click away on every ScienceDirect page:</p>
+
+<p style="margin-left:1.5pt;"><div class="media media-element-container media-media_original"><div id="file-1004" class="file file-image file-image-jpeg">
+
+        <h2 class="element-invisible"><a href="/file/1004">sd-blogpost.jpg</a></h2>
+    
+  
+  <div class="content">
+    <img alt="" class="media-image" height="691" width="650" typeof="foaf:Image" src="https://blog.sciencedirect.com/sites/default/files/sd-blogpost.jpg" title="" />  </div>
+
+  
+</div>
+</div></p>
+
+<p style="margin-left:1.5pt;">Launch your preferred browser and discover more on <a href="http://goo.gl/S62Ze9">ScienceDirect</a> today.</p>
+
+<p style="margin-left:1.5pt;">Never miss out on the latest ScienceDirect news and information. To stay informed about browsers supported by ScienceDirect, improvements we’re planning and more, <a href="https://communications.elsevier.com/webApp/els_doubleOptInWA?do=0&amp;srv=els_science_direct&amp;sid=68&amp;uif=0&amp;uvis=3">sign up for our free newsletter</a> and follow us on Twitter <a href="https://twitter.com/sciencedirect">@sciencedirect</a> and <a href="https://www.facebook.com/Elsevier.ScienceDirect/">Facebook</a>.</p>
+
+<p><em>With thanks to Nicolai Humphreys, ScienceDirect Product Manager</em></p></div></div></div>    </div>
+    
+          <div class="tags">
+        <div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/topics/browsers" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">browsers</a></div><div class="field-item odd"><a href="/topics/search" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Search</a></div></div></div>      </div>
+        
+        
+  </div>
+
+  
+  
+</div>
+  </div>
+  <div class="views-row views-row-4 views-row-even">
+    <div id="node-504" class="node node-blog node-promoted even clearfix" about="/posts/how-old-is-too-old-no-matter-the-age-the-science-matters" typeof="sioc:Post sioct:BlogPost">
+
+  
+    
+  <div class="float-overflow tb-terminal">
+              <h2 class="blog-header"><a href="/posts/how-old-is-too-old-no-matter-the-age-the-science-matters"> How old is too old? No matter the age, the science matters</a></h2>
+        <span property="dc:title" content=" How old is too old? No matter the age, the science matters" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+          <div class="meta">
+        <div class="submitted">Submitted by <span class="username"><span rel="sioc:has_creator"><span class="username" xml:lang="" about="/users/kira-cooper" typeof="sioc:UserAccount" property="foaf:name" datatype="">Kira Cooper</span></span></span> </div>
+        <div class="created">on <span class="date"><span property="dc:date dc:created" content="2016-10-27T12:30:31+00:00" datatype="xsd:dateTime">27 October 2016 - 12:30pm</span></span></div>
+      </div>
+    
+    <div class="content">
+      <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><figure style="float:right;"><a href="https://www.elsevier.com/about/company-information/history/the-elsevier-heritage-collection" target="_blank"><div class="media media-element-container media-media_original"><div id="file-1003" class="file file-image file-image-jpeg">
+
+        <h2 class="element-invisible"><a href="/file/1003">herritage3.jpg</a></h2>
+    
+  
+  <div class="content">
+    <img alt="Courtesy of the Elsevier Heritage Collection" class="media-image" height="226" style="width: 300px; height: 226px;" width="300" typeof="foaf:Image" src="https://blog.sciencedirect.com/sites/default/files/herritage3.jpg" title="" /></div>
+
+  
+</div>
+</div></a><figcaption>Courtesy of the Elsevier Heritage Collection</figcaption></figure><p><em>“I have met young scholars who are not familiar with earlier literature and they think that older works are not as good as newer ones. That is simply not true. Many old scientific papers were very well-written, applied the same scientific rigour, and their processes were just as valid as today’s experiments. They can be very valuable to any researcher.”</em><br />–<strong>Iain Clarke</strong>, Professor and head of the Department of Physiology at the Faculty of Medicine, Nursing &amp; Health Sciences, Monash University, Australia</p><p>Who says science gets old? You can’t possibly believe that – do you want someone to think at some point that your research is old? Of course you don’t. It’s wise not to believe books and journal articles that are 10, 20, 30 or more years old are, well, old. The lessons of science have much to teach us, as Professor Clarke so clearly states.</p><p>Reading the history and developments of a particular science is time well spent. Whether you call it a literature review, a literature survey or prior art, there are huge benefits to making time to “search the stacks.” Consider these three reasons:</p><ol><li><strong>You’ll develop a rich, full and comprehensive body of knowledge.</strong> Reading the older stuff shows that you’ve done your homework. You’ll avoid repeating work that has already been done. You’ll demonstrate what is already known about a topic, show how extensive the research that has already been done is, and show the gap your own research intends to fill. Knowing what, and who, came before is where you begin to (or further) establish your own expertise.</li><li><strong>You’ll discover supporting research from other disciplines that you might not have known about.</strong> References to foundational literature in the books and articles you read may open vistas to other disciplines that influenced the original work. These references may lead you to look for collaborators outside of your own domain expertise, ensuring you have a multidisciplinary view to your project.</li><li><strong>It’s good practice.</strong> Knowing how to get a solid grounding in your field through a literature review is important for a career in either academia or industry. Honing this skill shows you are resourceful and thorough. And by reading all the published literature you can discover on your chosen topic, you’ll begin to recognize well-written discourse, which, in turn, may influence your own approach to writing or communicating about your work.</li></ol><p>Need more than just our word for it? Read our <a href="https://www.elsevier.com/solutions/sciencedirect/resource-library/nested-components/search-page?queries_categories_query_posted=1&amp;queries_categories_query%5B%5D=White+Papers+%26+Case+Studies&amp;current_result_page=1&amp;results_per_page=0&amp;submitted_search_category=&amp;mode=&amp;search_page_81885_submit_button=Submit" target="_blank">Pre-1995 Backfiles Case Study 4-part series</a> where a range of experts, including Professor Clarke, weigh in on the value of scientific literature written 20 or more years ago. And if you get stuck or don’t know where to begin, stay calm. Call, text, email or visit your library or information center. Librarians and information professionals are experts at literature surveys. They can guide you through the steps to doing a thorough review, as well as assist with the various resources they have available for your use.</p><p>It’s time to get started. Try a <a href="http://goo.gl/S62Ze9" target="_blank">search on ScienceDirect</a> today and discover years’ worth of science to inspire your own growing body of knowledge. Your research will thank you.</p></div></div></div>    </div>
+    
+          <div class="tags">
+        <div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/topics/literature-review" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">literature review</a></div><div class="field-item odd"><a href="/topics/literature-survey" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">literature survey</a></div><div class="field-item even"><a href="/topics/prior-art" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">prior art</a></div><div class="field-item odd"><a href="/topics/foundational-science" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">foundational science</a></div><div class="field-item even"><a href="/topics/backfiles" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">backfiles</a></div></div></div>      </div>
+        
+        
+  </div>
+
+  
+  
+</div>
+  </div>
+  <div class="views-row views-row-5 views-row-odd">
+    <div id="node-503" class="node node-blog node-promoted odd clearfix" about="/posts/discover-more-5-tips-for-better-searching-on-sciencedirect" typeof="sioc:Post sioct:BlogPost">
+
+  
+    
+  <div class="float-overflow tb-terminal">
+              <h2 class="blog-header"><a href="/posts/discover-more-5-tips-for-better-searching-on-sciencedirect">Discover more: 5 tips for better searching on ScienceDirect</a></h2>
+        <span property="dc:title" content="Discover more: 5 tips for better searching on ScienceDirect" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+          <div class="meta">
+        <div class="submitted">Submitted by <span class="username"><span rel="sioc:has_creator"><span class="username" xml:lang="" about="/users/kira-cooper" typeof="sioc:UserAccount" property="foaf:name" datatype="">Kira Cooper</span></span></span> </div>
+        <div class="created">on <span class="date"><span property="dc:date dc:created" content="2016-09-28T08:57:28+00:00" datatype="xsd:dateTime">28 September 2016 - 8:57am</span></span></div>
+      </div>
+    
+    <div class="content">
+      <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Discovery is at the heart of what you do. Whether you’re a student, a teacher or a researcher, you’re driven to discover information that you don’t yet know about in order to move to the next phase of your work: complete an assignment, update a course syllabus, refine your research direction or add to your paper’s bibliography.</p>
+
+<p>Discovering publications is one of the reasons why you use ScienceDirect. To get to discovery, we want you to have a successful search experience. To help you along, here are our top tips for a better search query on ScienceDirect:</p>
+
+<ul><li>Search terms are not case-sensitive. Using all lowercase, all uppercase or a mix of capital and lowercase letters will not affect your query.</li><li>Entering a singular noun will also search for plural noun forms and possessives. For example:<ul><li>Method also finds methods and method’s</li><li>Criterion also finds criteria</li></ul></li><li>Entering search terms using either US or UK spellings will automatically search for both spelling variations. For example:<ul><li>Behavior also finds behaviour</li></ul></li><li>Multiple words set off by spaces will search for documents or images that include both words.</li><li>You can use either quotation marks or curly brackets to search for a word or phrase, but the results will differ in these ways:<ul><li>Searches in quotation marks, such as “colour code,” will be fuzzy searches. Our search engine will search for singular and plural nouns, as well as US and UK spellings, and will allow wildcards and ignore symbols and punctuation.</li><li>Searches in curly brackets, such as {colour code}, will be exact searches. Our search engine will look only for that exact phrase, including symbols and punctuation.</li></ul></li></ul>
+
+<p style="margin-left:1.5pt;">Prefer to start simple? Use the <a href="http://www.sciencedirect.com/">ScienceDirect home page</a>. Need more refinement options? Go to our <a href="http://www.sciencedirect.com/science/search">Advanced search</a> or <a href="http://www.sciencedirect.com/science?_ob=MiamiSearchURL&amp;_method=requestForm&amp;_temp=all_boolSearch.tmpl&amp;md5=052b06d957a9d8c82e07acf1d7eef1b7">Expert search</a> pages. We also suggest you turn on Search history (located on Advanced and Expert search pages) so that ScienceDirect can recall your previous searches the next time you visit. And you can always refer to additional Search tips via the Help button on any ScienceDirect page for our full range of search tips so you get the most from your ScienceDirect search experience:</p>
+
+<p style="margin-left:1.5pt;"><div class="media media-element-container media-media_original"><div id="file-1000" class="file file-image file-image-jpeg">
+
+        <h2 class="element-invisible"><a href="/file/1000">image1.jpg</a></h2>
+    
+  
+  <div class="content">
+    <img alt="" class="media-image" height="139" width="600" typeof="foaf:Image" src="https://blog.sciencedirect.com/sites/default/files/image1.jpg" title="" />  </div>
+
+  
+</div>
+</div></p>
+
+<p style="margin-left:1.5pt;"><div class="media media-element-container media-media_original"><div id="file-1001" class="file file-image file-image-jpeg">
+
+        <h2 class="element-invisible"><a href="/file/1001">image2.jpg</a></h2>
+    
+  
+  <div class="content">
+    <img alt="" class="media-image" height="293" width="600" typeof="foaf:Image" src="https://blog.sciencedirect.com/sites/default/files/image2.jpg" title="" />  </div>
+
+  
+</div>
+</div></p>
+
+<p style="margin-left:1.5pt;">Try a new search today and discover how easily you can improve the relevancy of your query results on ScienceDirect. Have your own search tip to share? We invite you to share it on Twitter <a href="https://twitter.com/sciencedirect">@sciencedirect</a> and <a href="https://www.facebook.com/Elsevier.ScienceDirect/">Facebook</a>.</p>
+
+<p style="margin-left:1.5pt;">We’ll have more to share about improvements to search on ScienceDirect in the coming months. <a href="https://communications.elsevier.com/webApp/els_doubleOptInWA?do=0&amp;srv=els_science_direct&amp;sid=68&amp;uif=0&amp;uvis=3">Sign up for our free Newsletter</a> and you’ll never miss out on the latest ScienceDirect news and information.</p>
+
+<p><em>With thanks to Kalyan Ram, ScienceDirect Senior Product Manager, and Saskia van Acker, Search Product Manager</em></p></div></div></div>    </div>
+    
+          <div class="tags">
+        <div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/topics/search" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Search</a></div><div class="field-item odd"><a href="/topics/search-tips" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">search tips</a></div><div class="field-item even"><a href="/topics/search-help" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">search help</a></div></div></div>      </div>
+        
+        
+  </div>
+
+  
+  
+</div>
+  </div>
+  <div class="views-row views-row-6 views-row-even">
+    <div id="node-502" class="node node-blog node-promoted even clearfix" about="/posts/standing-on-the-shoulders-of-giants-sharing-research-responsibly" typeof="sioc:Post sioct:BlogPost">
+
+  
+    
+  <div class="float-overflow tb-terminal">
+              <h2 class="blog-header"><a href="/posts/standing-on-the-shoulders-of-giants-sharing-research-responsibly">Standing on the shoulders of giants: sharing research responsibly</a></h2>
+        <span property="dc:title" content="Standing on the shoulders of giants: sharing research responsibly" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+          <div class="meta">
+        <div class="submitted">Submitted by <span class="username"><span rel="sioc:has_creator"><span class="username" xml:lang="" about="/users/kira-cooper" typeof="sioc:UserAccount" property="foaf:name" datatype="">Kira Cooper</span></span></span> </div>
+        <div class="created">on <span class="date"><span property="dc:date dc:created" content="2016-08-31T13:27:29+00:00" datatype="xsd:dateTime">31 August 2016 - 1:27pm</span></span></div>
+      </div>
+    
+    <div class="content">
+      <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>New discoveries have long been built upon the work of others. It was, after all, Sir Isaac Newton who famously said, “If I have seen further than others, it is by standing upon the shoulders of giants.”</p>
+
+<p>To continue to empower knowledge and advance science, it is important to share publications. Sharing responsibly means knowing what you may share and where, which is not the same for every publication. We at Elsevier have developed tools and information on <a href="http://goo.gl/S62Ze9">ScienceDirect</a> to support you with ways to responsibly share scholarly publications.</p>
+
+<p>When you click to download a publication from ScienceDirect, you’ll occasionally see a message pop up. The message may be refreshed from time to time, but it will typically be similar to the following:</p>
+
+<p><div class="media media-element-container media-media_original"><div id="file-995" class="file file-image file-image-png">
+
+        <h2 class="element-invisible"><a href="/file/995">1.png</a></h2>
+    
+  
+  <div class="content">
+    <img alt="" class="media-image" height="105" width="365" typeof="foaf:Image" src="https://blog.sciencedirect.com/sites/default/files/1.png" title="" />  </div>
+
+  
+</div>
+</div></p>
+
+<p>Clicking on the button will take you to our new <a href="http://help.sciencedirect.com/flare/Content/sharing_pubs.htm">Sharing publications page on our help files</a> (found within the “Journal and book publications” tab as shown below):</p>
+
+<p><div class="media media-element-container media-media_original"><div id="file-996" class="file file-image file-image-png">
+
+        <h2 class="element-invisible"><a href="/file/996">2.png</a></h2>
+    
+  
+  <div class="content">
+    <img alt="" class="media-image" height="196" width="600" typeof="foaf:Image" src="https://blog.sciencedirect.com/sites/default/files/2.png" title="" />  </div>
+
+  
+</div>
+</div></p>
+
+<p>All you need to know about responsible sharing can be found here. ScienceDirect facilitates sharing scholarly information responsibly, whether you use the Digital Object Identifier (DOI) link or when you need to share the full text. And if you have questions about sharing a publication from ScienceDirect responsibly, see the chart below and visit our <a href="https://www.elsevier.com/about/company-information/policies/copyright/permissions">Permissions</a> page on Elsevier.com.</p>
+
+<h2>Responsible sharing overview</h2>
+
+<p><a href="https://blog.sciencedirect.com/sites/default/files/3_0.png"><div class="media media-element-container media-media_original"><div id="file-999" class="file file-image file-image-png">
+
+        <h2 class="element-invisible"><a href="/file/999">3-2.png</a></h2>
+    
+  
+  <div class="content">
+    <img alt="" class="media-image" height="509" width="720" typeof="foaf:Image" src="https://blog.sciencedirect.com/sites/default/files/3-2.png" title="" />  </div>
+
+  
+</div>
+</div></a></p>
+
+<p>Your need to collaborate and conduct research across departments, disciplines or institutions has never been greater, and we understand that absorbing all the guidelines from various publishers can seem daunting. Elsevier’s ScienceDirect Team continues to work hard to make this process as seamless as possible for you while ensuring that you can trust a publication’s authenticity for furthering your own work or studies; for you are indeed standing on the shoulders of giants.</p>
+
+<p> </p>
+
+<p><div class="media media-element-container media-media_original"><div id="file-998" class="file file-image file-image-jpeg">
+
+        <h2 class="element-invisible"><a href="/file/998">stevewatson.jpg</a></h2>
+    
+  
+  <div class="content">
+    <img alt="" class="media-image" height="150" style="width: 110px; height: 150px; float: right;" width="110" typeof="foaf:Image" src="https://blog.sciencedirect.com/sites/default/files/stevewatson.jpg" title="" />  </div>
+
+  
+</div>
+</div><em>This post was contributed by Steve Watson, Head of Open Access &amp; Customer Segmentation for ScienceDirect, Amsterdam.</em></p></div></div></div>    </div>
+    
+          <div class="tags">
+        <div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/topics/responsible-sharing" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">responsible sharing</a></div><div class="field-item odd"><a href="/topics/doi-link" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">DOI link</a></div><div class="field-item even"><a href="/topics/full-text" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">full text</a></div><div class="field-item odd"><a href="/topics/permissions" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">permissions</a></div></div></div>      </div>
+        
+        
+  </div>
+
+  
+  
+</div>
+  </div>
+  <div class="views-row views-row-7 views-row-odd">
+    <div id="node-501" class="node node-blog node-promoted odd clearfix" about="/posts/gotta-catch-a-cache-celebrate-the-original-location-based-mobile-game-this-weekend" typeof="sioc:Post sioct:BlogPost">
+
+  
+    
+  <div class="float-overflow tb-terminal">
+              <h2 class="blog-header"><a href="/posts/gotta-catch-a-cache-celebrate-the-original-location-based-mobile-game-this-weekend">Gotta catch a cache: Celebrate the original location-based mobile game this weekend</a></h2>
+        <span property="dc:title" content="Gotta catch a cache: Celebrate the original location-based mobile game this weekend" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+          <div class="meta">
+        <div class="submitted">Submitted by <span class="username"><span rel="sioc:has_creator"><span class="username" xml:lang="" about="/users/kira-cooper" typeof="sioc:UserAccount" property="foaf:name" datatype="">Kira Cooper</span></span></span> </div>
+        <div class="created">on <span class="date"><span property="dc:date dc:created" content="2016-08-17T12:35:28+00:00" datatype="xsd:dateTime">17 August 2016 - 12:35pm</span></span></div>
+      </div>
+    
+    <div class="content">
+      <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><div class="media media-element-container media-media_original"><div id="file-994" class="file file-image file-image-png">
+
+        <h2 class="element-invisible"><a href="/file/994">igd.png</a></h2>
+    
+  
+  <div class="content">
+    <img alt="" class="media-image" height="405" style="width: 205px; height: 205px; float: right;" width="405" typeof="foaf:Image" src="https://blog.sciencedirect.com/sites/default/files/igd.png" title="" />  </div>
+
+  
+</div>
+</div>Pokémon Go has gotten all the attention lately. But this coming Saturday, August 20, ScienceDirect invites you to celebrate the granddaddy of GPS-based games, geocaching, in honor of <a href="https://www.geocaching.com/play">International Geocaching Day</a>.</p>
+
+<p>Geocaching and its underlying technologies touch on a wide variety of disciplines. <a href="http://goo.gl/S62Ze9">On ScienceDirect</a>, you can discover publications about “geocaching” in computer science, urban planning, forestry, behavioral sciences, education, outdoor recreation, ecology, geology, geography, engineering and even astronautics. You’ll get 70 search results using the search term “geocaching” (ScienceDirect search hint: use curly brackets { } instead of quotation marks for exact searches). Add “GPS” <em>OR</em> “global positioning satellites” to your search query and results expand to nearly 53,000 journal articles and book chapters, including over 1,800 open access articles.</p>
+
+<p>So take a break from your reading, writing, reviewing or research by grabbing your smartphone, heading outside and using your GPS to search for one (or more) of the over two million geocache sites located around the world. There’s sure to be one near you. Locating a geocache might not be as easy as doing a <a href="https://blog.sciencedirect.com/posts/what-you-should-know-about-search-on-sciencedirect">search on ScienceDirect</a>, but you’ll be glad for the fresh air and exercise to help reinvigorate you when you do get back to your work ... It’ll still be there when you return, we promise.</p></div></div></div>    </div>
+    
+          <div class="tags">
+        <div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/topics/search" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Search</a></div><div class="field-item odd"><a href="/topics/multidisciplinarity" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">multidisciplinarity</a></div><div class="field-item even"><a href="/topics/journal-articles" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">journal articles</a></div><div class="field-item odd"><a href="/topics/books" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Books</a></div><div class="field-item even"><a href="/topics/open-access-articles" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">open access articles</a></div></div></div>      </div>
+        
+        
+  </div>
+
+  
+  
+</div>
+  </div>
+  <div class="views-row views-row-8 views-row-even">
+    <div id="node-500" class="node node-blog node-promoted even clearfix" about="/posts/we-ve-changed-our-top-25-0" typeof="sioc:Post sioct:BlogPost">
+
+  
+    
+  <div class="float-overflow tb-terminal">
+              <h2 class="blog-header"><a href="/posts/we-ve-changed-our-top-25-0">We’ve changed our Top 25</a></h2>
+        <span property="dc:title" content="We’ve changed our Top 25" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+          <div class="meta">
+        <div class="submitted">Submitted by <span class="username"><span rel="sioc:has_creator"><span class="username" xml:lang="" about="/users/kira-cooper" typeof="sioc:UserAccount" property="foaf:name" datatype="">Kira Cooper</span></span></span> </div>
+        <div class="created">on <span class="date"><span property="dc:date dc:created" content="2016-08-10T08:51:04+00:00" datatype="xsd:dateTime">10 August 2016 - 8:51am</span></span></div>
+      </div>
+    
+    <div class="content">
+      <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p style="line-height:20.8px;">We now have new ways for you to discover popular articles and recent publications on <a href="http://goo.gl/S62Ze9">ScienceDirect</a> in your major field of research. On the <a href="https://blog.sciencedirect.com/posts/have-you-noticed-sciencedirect-has-a-new-homepage">new ScienceDirect homepage</a>, simply scroll to one of the four major subject areas to quickly see what’s trending in:</p>
+
+<ul style="line-height:20.8px;"><li>Physical Sciences and Engineering</li><li>Life Sciences</li><li>Health Sciences</li><li>Social Sciences and Humanities</li></ul>
+
+<p style="line-height:20.8px;"><div class="media media-element-container media-media_original"><div id="file-992" class="file file-image file-image-png">
+
+        <h2 class="element-invisible"><a href="/file/992">01-image.png</a></h2>
+    
+  
+  <div class="content">
+    <img alt="" class="media-image" height="396" width="410" typeof="foaf:Image" src="https://blog.sciencedirect.com/sites/default/files/01-image.png" title="" />  </div>
+
+  
+</div>
+</div></p>
+
+<p style="line-height:20.8px;">Popular Articles and Recent Publications can help you stay more informed about what’s new and trending in your chosen field. And for even easier ways of staying up-to-date, sign up to receive email alerts matched to your information needs. ScienceDirect offers three kinds of alerts:</p>
+
+<ul style="line-height:20.8px;"><li>Alerts from your favorite Elsevier journals and book series so you can stay informed when new articles or new volumes become available</li><li>Topic alerts when new articles pertaining to a specific area of interest are available on ScienceDirect</li><li>Search alerts when a stored search on ScienceDirect retrieves new results for you</li></ul>
+
+<p style="line-height:20.8px;">From your sign in, go to “Manage my alerts” then sign up for the alerts you want to receive.</p>
+
+<p style="color:rgb(0,0,0);font-family:Verdana, Arial, Helvetica, sans-serif;font-size:11px;line-height:normal;"><div class="media media-element-container media-media_original"><div id="file-993" class="file file-image file-image-png">
+
+        <h2 class="element-invisible"><a href="/file/993">02-image.png</a></h2>
+    
+  
+  <div class="content">
+    <img alt="" class="media-image" height="323" width="440" typeof="foaf:Image" src="https://blog.sciencedirect.com/sites/default/files/02-image.png" title="" />  </div>
+
+  
+</div>
+</div></p>
+
+<p style="line-height:20.8px;">For more ways to stay more informed, <a href="https://communications.elsevier.com/webApp/els_doubleOptInWA?do=0&amp;srv=els_science_direct&amp;sid=68&amp;uif=0&amp;uvis=3">subscribe</a> to the ScienceDirect Newsletter and follow us on Twitter <a href="https://twitter.com/sciencedirect">@sciencedirect</a>.</p></div></div></div>    </div>
+    
+          <div class="tags">
+        <div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/topics/popular-articles" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">popular articles</a></div><div class="field-item odd"><a href="/topics/recent-publications" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">recent publications</a></div><div class="field-item even"><a href="/topics/alerts" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Alerts</a></div><div class="field-item odd"><a href="/topics/journals" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">journals</a></div><div class="field-item even"><a href="/topics/book-series" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">book series</a></div></div></div>      </div>
+        
+        
+  </div>
+
+  
+  
+</div>
+  </div>
+  <div class="views-row views-row-9 views-row-odd">
+    <div id="node-498" class="node node-blog node-promoted odd clearfix" about="/posts/get-a-jump-on-reading-the-latest-research-with-articles-in-press" typeof="sioc:Post sioct:BlogPost">
+
+  
+    
+  <div class="float-overflow tb-terminal">
+              <h2 class="blog-header"><a href="/posts/get-a-jump-on-reading-the-latest-research-with-articles-in-press">Get a jump on reading the latest research with Articles in Press</a></h2>
+        <span property="dc:title" content="Get a jump on reading the latest research with Articles in Press" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+          <div class="meta">
+        <div class="submitted">Submitted by <span class="username"><span rel="sioc:has_creator"><span class="username" xml:lang="" about="/users/kira-cooper" typeof="sioc:UserAccount" property="foaf:name" datatype="">Kira Cooper</span></span></span> </div>
+        <div class="created">on <span class="date"><span property="dc:date dc:created" content="2016-07-21T07:29:47+00:00" datatype="xsd:dateTime">21 July 2016 - 7:29am</span></span></div>
+      </div>
+    
+    <div class="content">
+      <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p style="line-height:20.8px;">Articles in Press on <a href="http://goo.gl/S62Ze9">ScienceDirect </a>are articles that have been accepted for publication in Elsevier journals but have not yet been assigned to specific issues. They’re a great way to read about the latest developments in your research area before articles are officially published.</p>
+
+<p style="line-height:20.8px;">You’ll find three types of Articles in Press on ScienceDirect:</p>
+
+<ol style="line-height:20.8px;"><li><p>Accepted manuscripts – Accepted manuscripts are articles that have been peer reviewed and accepted for publication by a journal’s Editorial Board, but have not yet been copyedited or formatted in the relevant journal’s house style. In your search results, you’ll see these articles identified in red, like this:<br /><div class="media media-element-container media-media_original"><div id="file-991" class="file file-image file-image-jpeg">
+
+        <h2 class="element-invisible"><a href="/file/991">1.jpg</a></h2>
+    
+  
+  <div class="content">
+    <img alt="" class="media-image" height="87" width="719" typeof="foaf:Image" src="https://blog.sciencedirect.com/sites/default/files/1.jpg" title="" />  </div>
+
+  
+</div>
+</div><br /><br /><span style="font-size:11pt;line-height:16.8667px;font-family:Calibri, sans-serif;">And on the article page, like this:</span><br /><div class="media media-element-container media-media_original"><div id="file-987" class="file file-image file-image-jpeg">
+
+        <h2 class="element-invisible"><a href="/file/987">2.jpg</a></h2>
+    
+  
+  <div class="content">
+    <img alt="" class="media-image" height="427" width="733" typeof="foaf:Image" src="https://blog.sciencedirect.com/sites/default/files/2.jpg" title="" />  </div>
+
+  
+</div>
+</div></p></li><li><p><span style="font-size:11pt;line-height:16.8667px;font-family:Calibri, sans-serif;">Uncorrected proofs – </span><span style="font-size:11pt;line-height:16.8667px;font-family:Calibri, sans-serif;">Uncorrected proofs have been copyedited and formatted, but are not finalized and may still be corrected by the authors, so the text could change before final publication. You’ll see them listed in your search results like this:</span><br /><br /><div class="media media-element-container media-media_original"><div id="file-988" class="file file-image file-image-png">
+
+        <h2 class="element-invisible"><a href="/file/988">3.png</a></h2>
+    
+  
+  <div class="content">
+    <img alt="" class="media-image" height="135" width="906" typeof="foaf:Image" src="https://blog.sciencedirect.com/sites/default/files/3.png" title="" />  </div>
+
+  
+</div>
+</div></p></li><li><p><span style="font-size:11pt;line-height:16.8667px;font-family:Calibri, sans-serif;">Corrected proofs – Corrected proofs contain authors' corrections and may or may not have a specific issue and page numbers assigned.</span><br /><br /><div class="media media-element-container media-media_original"><div id="file-989" class="file file-image file-image-png">
+
+        <h2 class="element-invisible"><a href="/file/989">4.png</a></h2>
+    
+  
+  <div class="content">
+    <img alt="" class="media-image" height="105" width="900" typeof="foaf:Image" src="https://blog.sciencedirect.com/sites/default/files/4.png" title="" />  </div>
+
+  
+</div>
+</div></p></li></ol>
+
+<p style="line-height:20.8px;"><span style="font-size:11pt;line-height:16.8667px;font-family:Calibri, sans-serif;color:#000000;">You’ll also find Articles in Press in the Journal and Book Series alerts section of the alerts page. Under the Content view column, click on the<span class="apple-converted-space"> </span><b>Articles in Press </b>link. A list of Articles in Press will display.</span></p>
+
+<p style="line-height:20.8px;"><div class="media media-element-container media-media_original"><div id="file-990" class="file file-image file-image-jpeg">
+
+        <h2 class="element-invisible"><a href="/file/990">5.jpg</a></h2>
+    
+  
+  <div class="content">
+    <img alt="" class="media-image" height="692" width="800" typeof="foaf:Image" src="https://blog.sciencedirect.com/sites/default/files/5.jpg" title="" />  </div>
+
+  
+</div>
+</div></p>
+
+<p style="line-height:20.8px;"> </p>
+
+<p style="line-height:20.8px;">To make sure you don’t miss out on the latest information in your areas of interest, sign onto ScienceDirect and set up journal or book series alerts today; be sure to check the Articles in Press box and you’ll never miss the newest research impacting your field. One of many ways that ScienceDirect keeps you more informed.</p>
+
+<p style="line-height:20.8px;">Keywords: ScienceDirect, articles, articles in press, new research</p></div></div></div>    </div>
+    
+          <div class="tags">
+        <div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/topics/sciencedirect" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">ScienceDirect</a></div><div class="field-item odd"><a href="/topics/articles" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">articles</a></div><div class="field-item even"><a href="/topics/articles-in-press" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">articles in press</a></div><div class="field-item odd"><a href="/topics/new-research" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">new research</a></div></div></div>      </div>
+        
+        
+  </div>
+
+  
+  
+</div>
+  </div>
+  <div class="views-row views-row-10 views-row-even views-row-last">
+    <div id="node-486" class="node node-blog node-promoted even clearfix" about="/posts/cyanobacteria-cancer-and-renewable-fuel-the-many-faces-of-curacin-a-0" typeof="sioc:Post sioct:BlogPost">
+
+  
+    
+  <div class="float-overflow tb-terminal">
+              <h2 class="blog-header"><a href="/posts/cyanobacteria-cancer-and-renewable-fuel-the-many-faces-of-curacin-a-0">Cyanobacteria, Cancer and Renewable Fuel: The many faces of curacin A</a></h2>
+        <span property="dc:title" content="Cyanobacteria, Cancer and Renewable Fuel: The many faces of curacin A" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+          <div class="meta">
+        <div class="submitted">Submitted by <span class="username"><span rel="sioc:has_creator"><span class="username" xml:lang="" about="/users/andrea-cowan" typeof="sioc:UserAccount" property="foaf:name" datatype="">Andrea Cowan</span></span></span> </div>
+        <div class="created">on <span class="date"><span property="dc:date dc:created" content="2016-05-26T17:39:45+00:00" datatype="xsd:dateTime">26 May 2016 - 5:39pm</span></span></div>
+      </div>
+    
+    <div class="content">
+      <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><a href="http://blog.sciencedirect.com/sites/g/files/g1381516/f/201605/R_D%20Solutions_Value_of_Interdisciplinary_Research_Curacin.pdf"><div class="media media-element-container media-full"><div id="file-961" class="file file-image file-image-jpeg">
+
+        <h2 class="element-invisible"><a href="/file/961">CuracinA.JPG</a></h2>
+    
+  
+  <div class="content">
+    <img alt="Curacin A research graphic" class="media-image" height="243" style="width: 480px; height: 243px;" width="480" typeof="foaf:Image" src="https://blog.sciencedirect.com/sites/default/files/201605/CuracinA.JPG" />  </div>
+
+  
+</div>
+</div></a></p>
+
+<p>The Gerwick Laboratory, a multidisciplinary marine biomedical research facility, is very active in the research and discovery of useful compounds produced by marine algae. One of the most promising compounds discovered to date is curacin A.</p>
+
+<blockquote><p>“Curacin A has, on the one hand, a deceptively simple looking structure, but it has many, many things to teach us about how molecules are put together by nature.”</p><p> - William H. Gerwick, Ph.D., Gerwick Laboratory</p></blockquote>
+
+<p>A better understanding of curacin A’s structure has led to advancements in the biofuel arena and scientists have also been able to develop a synthesized version of curacin A (more stable than the natural version) which is being used to treat cancer.</p>
+
+<p>Once again, a multi-disciplinary approach to research offers scientists the opportunity to:</p>
+
+<blockquote><p>“reach into one field, pull a technology or concept, and apply it in a new and unique way in another area of science” asserts Gerwick.</p></blockquote>
+
+<p>To better understand the research that is being presented, <a href="http://goo.gl/RRZzFH">ScienceDirect</a> offers researchers a number of features, including figures, tables and featured author videos so that scientists can not only read the full-text article but also benefit from visual displays of information and in some cases, hear from the authors themselves on their research, methodology and key findings.</p>
+
+<p>Learn more about <a href="https://www.elsevier.com/books-and-journals/content-innovation">content innovations on ScienceDirect</a>.</p>
+
+<p>Read the <a href="https://blog.sciencedirect.com/sites/default/files/201605/R_D%20Solutions_Value_of_Interdisciplinary_Research_Curacin.pdf">complete white paper</a> about curacin A</p>
+
+<p>Tweet <a href="https://twitter.com/sciencedirect">@sciencedirect</a> with a link to a video or message about your own latest research.</p>
+
+<p><div class="media media-element-container media-full"><div id="file-956" class="file file-image file-image-jpeg">
+
+        <h2 class="element-invisible"><a href="/file/956">JvdB.jpg</a></h2>
+    
+  
+  <div class="content">
+    <img alt="" class="media-image" height="150" width="110" typeof="foaf:Image" src="https://blog.sciencedirect.com/sites/default/files/201605/JvdB.jpg" />  </div>
+
+  
+</div>
+</div></p>
+
+<p>This post and white paper were contributed by Jennifer Van den Brink, Corporate Marketing Manager, Elsevier, Amsterdam</p></div></div></div>    </div>
+    
+          <div class="tags">
+        <div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/topics/sciencedirect" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">ScienceDirect</a></div><div class="field-item odd"><a href="/topics/research-success" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Research Success</a></div><div class="field-item even"><a href="/topics/content-innovation" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">content innovation</a></div></div></div>      </div>
+        
+        
+  </div>
+
+  
+  
+</div>
+  </div>
+    </div>
+  
+      <h2 class="element-invisible">Pages</h2><div class="item-list"><ul class="pager"><li class="pager-current first">1</li>
+<li class="pager-item"><a title="Go to page 2" href="/frontpage?page=1">2</a></li>
+<li class="pager-item"><a title="Go to page 3" href="/frontpage?page=2">3</a></li>
+<li class="pager-item"><a title="Go to page 4" href="/frontpage?page=3">4</a></li>
+<li class="pager-item"><a title="Go to page 5" href="/frontpage?page=4">5</a></li>
+<li class="pager-item"><a title="Go to page 6" href="/frontpage?page=5">6</a></li>
+<li class="pager-item"><a title="Go to page 7" href="/frontpage?page=6">7</a></li>
+<li class="pager-item"><a title="Go to page 8" href="/frontpage?page=7">8</a></li>
+<li class="pager-next"><a title="Go to next page" href="/frontpage?page=1">next ›</a></li>
+<li class="pager-last last"><a title="Go to last page" href="/frontpage?page=7">last »</a></li>
+</ul></div>  
+  
+  
+  
+  
+</div>      </div>
+      
+    </div>
+    
+    <div class="bottom"><div class="bottom-inset-1 tb-terminal"><div class="bottom-inset-2 tb-terminal"></div></div></div>
+  </div>
+</div>
+  </div>
+</div>
+                                                  </div>
+                      </div>
+                      
+                    </div> <!-- /.box tb-terminal -->
+                  </div>
+                </div>
+              </div>
+            </div>
+            
+          </div> <!-- /#main -->
+        
+        </div>
+      </div> <!-- /#content -->
+        
+            
+    </div> <!-- /.lining -->
+  </div> <!-- /.page-width -->
+</div> <!-- /#page -->
+    
+ 
+  <div id="copyright" class="stack-copyright stack page clearfix tb-region tb-scope">
+    <div class="page-width inner">
+      <div class="stack-width">
+        <div class="box">
+            <div class="region region-copyright">
+    
+<div id="block-block-51" class="block block-block block-none clearfix">
+  <div class="inner tb-terminal">
+    <div class="top"><div class="top-inset-1 tb-terminal"><div class="top-inset-2 tb-terminal"></div></div></div>
+  
+    <div class="middle tb-terminal">
+        
+            
+            
+              
+      <div class="content">
+        <table border="0" cellpadding="4" cellspacing="0" style="width: 100%;"><thead><tr><th scope="col" style="text-align: left; vertical-align: baseline; width: 22%;"><h2>About ScienceDirect</h2></th><th scope="col" style="text-align: left; vertical-align: baseline; width: 22%;"><h2>About this Blog</h2></th><th scope="col" style="text-align: left; vertical-align: baseline; width: 22%;"><h2>Related Websites</h2></th><th scope="col" style="text-align: left; vertical-align: baseline; width: 34%;"><h2>Connect with ScienceDirect</h2></th></tr></thead><tbody><tr><td style="text-align: left; vertical-align: top; width: 22%;"><p><a href="http://www.elsevier.com/sciencedirect" target="_blank">About ScienceDirect</a></p><p><a href="http://www.elsevier.com/solutions/sciencedirect/support" target="_blank">Sales &amp; Customer Support</a></p><p><a href="http://www.sciencedirect.com/science/contactus" target="_blank">Product Support</a></p><p><a href="http://help.sciencedirect.com/flare/Content/tutorials/sd_menu.html" target="_blank">Online Tutorials</a></p><p><a href="http://top25.sciencedirect.com" target="_blank">Top25 Hottest Articles</a></p></td><td style="text-align: left; vertical-align: top; width: 22%;"><p><a href="http://www.elsevier.com/legal/elsevier-website-terms-and-conditions" target="_blank">Terms &amp; Conditions</a></p><p><a href="http://www.elsevier.com/legal/privacy-policy" target="_blank">Privacy Policy</a></p><p><a href="mailto:sdwebteam@elsevier.com">Questions &amp; Comments</a></p><p><a href="/sitemap.xml" target="_blank">Site Map</a></p></td><td style="text-align: left; vertical-align: top; width: 22%;"><p><a href="http://www.elsevier.com">www.elsevier.com</a></p><p><a href="http://blog.engineeringvillage.com">blog.engineeringvillage.com</a></p><p><a href="http://www.scopus.com">blog.scopus.com</a></p><p><a href="http://www.mendeley.com/">www.mendeley.com</a></p><p><a href="http://www.elsevier.com/elsevier-websites" target="_blank">See all Elsevier websites</a></p></td><td style="text-align: left; vertical-align: top; width: 34%;"><p><a href="https://communications.elsevier.com/webApp/els_doubleOptInWA?do=0&amp;srv=els_science_direct&amp;sid=68&amp;uif=0&amp;uvis=3" target="_blank">Get our newsletter</a></p><!-- Go to www.addthis.com/dashboard to customize your tools --><div class="addthis_horizontal_follow_toolbox"> </div></td></tr><tr><td style="text-align: left; vertical-align: baseline; width: 22%;"><a href="http://www.elsevier.com/" target="_blank"><div class="media media-element-container media-media_original"><div id="file-526" class="file file-image file-image-png">
+
+        <h2 class="element-invisible"><a href="/file/526">elsevier-tree.png</a></h2>
+    
+  
+  <div class="content">
+    <img alt="" class="media-image" height="73" style="width: 66px; height: 73px;" width="66" typeof="foaf:Image" src="https://blog.sciencedirect.com/sites/default/files/201502/elsevier-tree.png" title="" /></div>
+
+  
+</div>
+</div></a></td><td style="text-align: left; vertical-align: baseline; width: 22%;"> </td><td style="text-align: left; vertical-align: baseline; width: 22%;"> </td><td style="vertical-align: baseline; width: 34%; text-align: right;">Copyright © 2017 <a href="http://www.elsevier.com/" id="item-167">Elsevier B.V.</a></td></tr></tbody></table>      </div>
+      
+    </div>
+    
+    <div class="bottom"><div class="bottom-inset-1 tb-terminal"><div class="bottom-inset-2 tb-terminal"></div></div></div>
+  </div>
+</div>
+  </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <!--[if IE ]>
+  </div>
+  <![endif]-->
+  
+  <!--[if IE 8]>
+  </div>
+  <![endif]-->
+  
+  <!--[if IE 7]>
+  </div>
+  <![endif]-->
+  
+  <!--[if lt IE 7]>
+  </div>
+  <![endif]-->
+</body>
+</html>

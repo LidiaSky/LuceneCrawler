@@ -1,0 +1,806 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+    
+<script async src="//cdn.optimizely.com/js/269842467.js"></script>
+
+
+
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5P8J8X"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5P8J8X');</script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta name="author" content="Elsevier">
+    <meta name="google-site-verification" content="0-8Ig3YtfzbeUxQdZ-TM_y8P_se41D4JrW3e0o8xgdk" />
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="msapplication-TileImage" content="//design.elsevier.com/dist/favicons/mstile-144x144.png"> 
+    <meta name="referrer" content="unsafe-url"> 
+    
+    <link href="https://www.elsevier.com/solutions/reaxys" rel="canonical"/>    
+<!-- General //-->
+
+<!-- Details //-->
+<meta name="description" content="Reaxys provides the shortest path to relevant chemistry literature and data for those working in organic chemistry, medicinal chemistry." />
+<meta name="robots" content="index, follow, noodp" />
+
+<!-- Functionality Related //-->
+<meta name="link.url" content="" />
+<meta name="display.thumbnail" content="Yes" />
+<meta name="published date" content="01-01-2015" />
+<meta name="published.date" content="2015-03-03 18:50:52" />
+<meta name="main.site.asset" content="" />
+
+<!-- Canonical URL //-->
+<meta name="Canonical.URL" content="https://www.elsevier.com/solutions/reaxys" />
+
+<!-- JS Includes //-->
+<meta name="NeoLane" content="" />
+
+<!-- Hero //-->
+<meta name="Hero.image" content="521" />
+
+<!-- Secondary Navigation //-->
+<meta name="secondaryNavigationOn" content="Yes" />
+<meta name="secondaryNavigationInclude" content="Yes" />
+
+<!-- Breadcrumbs //-->
+<meta name="breadcrumbsChildPagesOn" content="Yes" />
+<meta name="breadcrumbsDisable" content="Disable" />
+
+<!-- Site Catalyst //-->
+<meta name="SC.pageType" content="NP-GP" />
+
+<!-- Content Owner //-->
+
+<!-- Product footer //-->
+<meta name="product.footer" content="274837" />
+
+<!-- Survey //-->
+
+<!-- Configuration //-->
+<meta name="SurveyDefault" content="Yes" />
+<meta name="SurveyDeactivate" content="No" />
+<meta name="SurveyUrl" content="" />
+<meta name="SurveyStartDate" content="1420070400" />
+<meta name="SurveyEndDate" content="1420070400" />
+<meta name="SurveyFrequency" content="" />
+<meta name="SurveyTargetUsers" content="100" />
+<meta name="SurveyCookieName" content="survey" />
+
+    <link rel="apple-touch-icon" sizes="57x57" href="https://cdn.elsevier.io/verona/includes/favicons/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://cdn.elsevier.io/verona/includes/favicons/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://cdn.elsevier.io/verona/includes/favicons/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://cdn.elsevier.io/verona/includes/favicons/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="60x60" href="https://cdn.elsevier.io/verona/includes/favicons/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://cdn.elsevier.io/verona/includes/favicons/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://cdn.elsevier.io/verona/includes/favicons/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://cdn.elsevier.io/verona/includes/favicons/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://cdn.elsevier.io/verona/includes/favicons/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="https://cdn.elsevier.io/verona/includes/favicons/favicon-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="https://cdn.elsevier.io/verona/includes/favicons/favicon-160x160.png" sizes="160x160">
+<link rel="icon" type="image/png" href="https://cdn.elsevier.io/verona/includes/favicons/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="https://cdn.elsevier.io/verona/includes/favicons/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="https://cdn.elsevier.io/verona/includes/favicons/favicon-32x32.png" sizes="32x32">    <title>Chemistry data and literature - Reaxys | Elsevier</title>    <meta name="last-modified-date" content='2017-04-07 12:04:20'>    <link rel="stylesheet" href="https://cdn.elsevier.io/verona/ui/1.11.21/mercutio.min.css">
+<!--<link rel="stylesheet" href="https://cdn.elsevier.io/verona/ui/1.11.10/mercutio.min.css">-->
+<link rel="stylesheet" href="https://cdn.elsevier.io/matrix/ui/1.6.26/matrix.min.css">
+<style>
+    .header-fixed header[role=banner].faded {
+        background: #fff;
+    }
+</style>
+    
+    
+    
+    
+       
+     
+
+
+<script src="https://cdn.elsevier.io/verona/includes/vendor/jquery-2.1.4/jquery.min.js"></script>
+<script  src="https://cdn.elsevier.io/verona/includes/vendor/foundation-5.5.1/foundation.min.js"></script>
+<script  src="https://cdn.elsevier.io/verona/ui/1.11.21/mercutio.js"></script><script>
+jQuery(document).ready(function($) {
+    $(document)
+        .mercutio([ 
+            'core/jquery-ui',
+            'core/modernizr',
+            'extensions/NProgress',
+            'extensions/kubrickology',
+            'extensions/lightbox',
+            'extensions/accessibility',
+            'extensions/prism'
+        ], function(){
+            $(document)
+                .kubrickology();
+            $(document)
+                .foundation(
+                    'reflow',
+                    'topbar', 
+                    'accordion', 
+                    'offcanvas',
+                    { scrolltop: false }
+            );
+        }
+    );
+});
+</script><script>
+    //MOVE <=IE8 USERS
+    if(navigator.userAgent.match(/msie [6-8]/i) ){
+       window.location="/browser-outdated";
+    }
+</script><script defer src="https://cdn.elsevier.io/matrix/ui/1.6.26/scripts-top.min.js"></script>
+<script  src="//assets.adobedtm.com/376c5346e33126fdb6b2dbac81e307cbacfd7935/satelliteLib-203157332f7df01b28142e8c867d6813bc4995aa.js"></script>
+<script type="text/javascript">
+var pageData = null;
+</script>
+
+
+<!--
+  Running Squiz Matrix
+  Developed by Squiz - http://www.squiz.net
+  Squiz, Squiz Matrix, MySource, MySource Matrix and Squiz.net are registered Trademarks of Squiz Pty Ltd
+  Page generated: 16 May 2017 12:19:44
+-->
+
+
+</head>
+<body class="">
+    <a id="top"></a>
+    <div class="accessibility-link" tabindex="1">
+        <a class="accessibility-link-skip" title="Skip to content" href="#maincontent">Skip to content</a>  
+    </div>
+    <div class="off-canvas-wrap" data-offcanvas>
+        <div class="inner-wrap">
+            
+            <div class="header-container header-fixed">
+                <link rel="stylesheet" type="text/css" href="https://checkout.elsevier.com/stylesheets/cart_widget.css">
+<header role="banner">
+  <a class="elsevier-wordmark els_link-image" href="/" title="Homepage" tabindex="1">
+    <img src="https://cdn.elsevier.io/verona/includes/svg/ns-logo.svg" class="ns-tree hide-for-small" alt="elsevier non solus tree">
+    <img width="140" class="elsevier-wordmark-img" height="27" src="https://cdn.elsevier.io/verona/includes/svg/wordmark-elsevier.svg" alt="Elsevier Wordmark">
+  </a>
+  <a href="#" class="main-ui-item main-ui-item-menu js-header-menu-toggle-open" tabindex="4">
+    <span class="main-ui-icon">
+      <img src="https://cdn.elsevier.io/verona/includes/svg/icon-menu-hamburger-sized.svg" alt="Menu">
+    </span>
+    <span class="main-ui-text hide-for-small-only">Menu</span>
+  </a>
+  <div class="shopping-cart-content-container inline right">
+      <div class="shopping-cart-container">
+        <div class="main-ui-item main-ui-item-cart" tabindex="3" role="button">
+            <span class="main-ui-icon">
+                <img class="lightbox-is-image shopping-cart-icon" src="https://cdn.elsevier.io/verona/includes/svg/icon-shopping-cart-sized.svg" alt="Shopping Cart">
+            </span>
+            <span class="main-ui-text hide-for-small-only">Cart</span>
+            <span class="shopping-cart-count start">0</span>
+        </div>
+      </div>
+      <div class="shopping-cart-dropdown-container">
+        <ul class="shopping-cart-dropdown">
+          <li class="dd-view-cart"><a href="https://checkout.elsevier.com/cart" tabindex="3"><span class="icon-standalone-cart"></span> View Cart</a></li>
+          <li class="dd-login-register"><a href="https://checkout.elsevier.com/auth" tabindex="3"><span class="icon-standalone-login"></span> Register/Login</a></li>
+          <li class="dd-account hide"><a href="https://checkout.elsevier.com/account" tabindex="3"><span class="icon-standalone-user"></span> Account</a></li>
+          <li class="dd-help"><a href="https://service.elsevier.com/app/home/supporthub/ecommerce" target="_blank" tabindex="3"><span class="icon-standalone-help"></span> Help and Contact</a></li>
+          <li class="dd-logout hide"><a href="https://checkout.elsevier.com/logout" tabindex="3"><span class="icon-standalone-logout"></span> Logout</a></li>
+        </ul>
+      </div>
+  </div>
+  <div id="js-wrapper-search-link" class="container-form-search js-header-search-link">
+    <a class="main-ui-item main-ui-item-search bigsearch-toggle right" href="#" tabindex="2">
+        <span class="main-ui-icon bigsearch-toggle-icon">
+            <img src="//cdn.elsevier.io/verona/includes/svg/icon-magnify-glass-sized.svg" alt="Icon search menu toggle">
+        </span>
+        <span class="main-ui-text hide-for-small-only">Search</span>
+    </a>
+  </div>
+</header>
+
+<div class="modal"></div>
+
+<!-- Cart Widget JS/CSS -->
+<script>var ECOMM_CART_URL="https://checkout.elsevier.com/api/cart";</script>
+<script src="https://checkout.elsevier.com/javascripts/cart_widget.js"></script>
+<script src="https://checkout.elsevier.com/javascripts/promotions.js"></script>                <div class="standout bigsearch-area hide ">
+ <div class="row row-tight row-bigsearch">
+  <form id="js-bigsearch" class="bigsearch-form form-full-width" role="search" action="/search-results" method="get">
+   <div class="columns medium-12">
+    <input id="search" name="query" placeholder="Search for books, journals or webpages..." class="bigsearch-input" type="search">
+    <button class="search-form-button" aria-label="Search"><span>Search</span></button>
+   </div>
+   <div class="columns medium-12">
+
+     <div class="form-field-horz label-horz-multiple">
+      <p>Search in:</p>
+     </div>
+     <div class="form-field-horz">
+      <input id="search-radio-all" class="bigsearch-radiobutton" name="labels" type="radio" value="all" checked>
+      <label for="search-radio-all" class="r-label">All</label>
+     </div>
+     <div class="form-field-horz">
+      <input id="search-radio-webpages" class="bigsearch-radiobutton" name="labels" type="radio" value="pages">
+      <label for="search-radio-webpages" class="r-label">Webpages</label>
+     </div>
+     <div class="form-field-horz">
+      <input id="search-radio-books" class="bigsearch-radiobutton" name="labels" type="radio" value="books">
+      <label for="search-radio-books" class="r-label">Books</label>
+     </div>
+     <div class="form-field-horz">
+      <input id="search-radio-journals" class="bigsearch-radiobutton" name="labels" type="radio" value="journals">
+      <label for="search-radio-journals" class="r-label">Journals</label>
+     </div>
+     <!--div class="form-field-horz">
+       <input id="search-radio-connect" class="bigsearch-radiobutton" name="labels" type="radio" value="connect">
+       <label for="search-radio-connect" class="r-label">Elsevier Connect</label>
+     </div-->
+
+    </div>
+   </form>
+  </div>
+</div>            </div>
+            <main role="main" id="maincontent">
+              <section class="hero" style="background-image:url(https://www.elsevier.com/__data/assets/image/0008/69893/Reaxys_hero_banner.jpg);">
+ <div class="row collapse fullWidth">
+  <div class="columns small-12 medium-7 large-4 xlarge-3 hero-standout hero-standout-cta" style="background-image:url(https://www.elsevier.com/__data/assets/image/0008/67958/illustration_WOR_full-zoom1.jpg);">
+   <div class="hero-standout-content"><p class="wordmark-product">Reaxys<sup>®</sup><br />The shortest path to chemistry research answers</p>
+<h1>Reaxys retrieves literature, compound properties and chemical reaction data faster than any other solution.</h1>
+
+<a class="cta-primary cta-white" href="https://www.elsevier.com/solutions/reaxys/contact-sales">Get started</a>
+
+<a class="cta-tertiary cta-white" href="
+https://www.reaxys.com/reaxys/session.do
+">
+Login to Reaxys
+</a>
+
+   </div><!-- END .hero-standout-content -->
+  </div><!-- END .hero-standout hero-standout-orientation -->
+ </div><!-- END .row -->
+</section>              
+                            
+
+                                          
+              
+                                                            
+                  <nav id="secondary-nav" aria-label="secondary"><div class="row">
+  <ul class="not-enum">
+        <li>
+        <a data-id="208579" data-globals-id="2033" title="How Reaxys works" href="https://www.elsevier.com/solutions/reaxys/how-reaxys-works">How Reaxys works</a>
+    </li>
+    <li>
+        <a data-id="208404" data-globals-id="2033" title="Who we serve" href="https://www.elsevier.com/solutions/reaxys/who-we-serve">Who we serve</a>
+    </li>
+    <li>
+        <a data-id="209246" data-globals-id="2033" title="Customer stories" href="https://www.elsevier.com/solutions/reaxys/customer-stories">Customer stories</a>
+    </li>
+    <li>
+        <a data-id="208537" data-globals-id="2033" title="What's new?" href="https://www.elsevier.com/solutions/reaxys/whats-new">What's new?</a>
+    </li>
+    <li>
+        <a data-id="5093" data-globals-id="2033" title="Learn &amp; support" href="https://www.elsevier.com/solutions/reaxys/learn-and-support">Learn &amp; support</a>
+    </li>
+
+  </ul>
+</div></nav>                
+              
+<div id="cssmodule3content">
+<style>
+      .progressBar {
+      max-height: 100%;
+      color: #fff;
+      text-align: right;
+      width: 40%;
+      padding: 1%;
+      }
+       #bar_chart figcaption {
+           max-width: 52.41em !important;
+       }
+       .bgd-orange {
+           background-color: #e9711c;
+       }
+       .bgd-grey{
+           background-color: #dcdcdc;
+           color: #000;
+           margin: 1% 0;
+       }
+       .bgd-blue{
+           background-color: #007398;
+       }
+       .trans-orange {
+           transition: width 2s ease-out;
+           width: 50%;
+       }
+       .trans-grey {
+           transition: width 2s ease-out;
+           width: 70%;
+       }
+       .trans-blue {
+           transition: width 2s ease-out;
+           width: 100%;
+       }
+    
+   </style>
+</div>
+<script src="https://cdn.optimizely.com/js/269842467.js"></script>
+<div><input type="hidden" id="prod_name" name="product_name" value="Reaxys"></div>
+<div class="row row-tight" id="module1intro">
+<div class="large-12 columns"><h2>Take the shortest path from chemistry question to answer</h2><p class="intro"><br /><a href="https://www.elsevier.com/solutions/reaxys/how-reaxys-works">Reaxys offers a highly intuitive interface and robust database</a> to help leading chemists retrieve relevant chemical literature, patent information, valid compound properties and experimental procedures in half the time.</p></div>
+</div>
+<div class="row row-tight">
+<div class="large-6 columns" id="module2contents">
+<p>Designed to support the full range of chemistry research, including pharmaceutical development, environmental health &amp; safety work and material science, Reaxys puts every scientist, from novice to expert, on the shortest path to answers.</p><p style="margin-bottom:0px"><br /> With powerful search options and instant access to expertly curated chemical data, Reaxys helps chemists and researchers:</p>
+</div>
+
+<div class="large-6 columns" id="module2video">
+<div style="display: block; position: relative; max-width: 100%;"><div style="padding-top: 56.25%;"><video data-video-id="5176178048001"
+data-account="35121347001"
+data-player="e9ed695d-5eef-4304-8293-1f5f7f5d9b2f"
+data-embed="default"
+data-application-id
+class="video-js"
+controls
+style="width: 100%; height: 100%; position: absolute; top: 0px; bottom: 0px; right: 0px; left: 0px;"></video>
+<script src="//players.brightcove.net/35121347001/e9ed695d-5eef-4304-8293-1f5f7f5d9b2f_default/index.min.js"></script></div></div>
+</div>
+</div><!--End .row--><div class="article-content"><div class="row row-tight">
+    <div class="large-6 columns">
+        <ul><li>Discover <strong>chemical structures, properties and reactions</strong></li><li>Find relevant <strong>chemistry literature and patents</strong> with ease</li><li>Construct queries with <strong>streamlined, intuitive interfaces</strong></li></ul>
+    </div>
+    <div class="large-6 columns">
+        <ul><li>Assess <strong>compound synthesis and purchase options</strong></li><li><strong>Share research data</strong> within and outside an organization or institution</li><li>Compare <strong>in-house and published</strong> experimental data</li></ul>
+    </div>
+</div> </div><div class="article-content"><div class="row row-tight">
+    <div class="large-6 columns">
+        <p>Ready to take the next step? <br /><a href="https://www.elsevier.com/solutions/reaxys/contact-sales" class="cta-tertiary">Contact us</a></p>
+    </div>
+    <div class="large-6 columns">
+        <p><br /><a href="https://chemsearch.elsevier.com/" class="cta-tertiary">Demo Reaxys on the ChemSearch Challenge</a></p>
+    </div>
+</div> </div><section style="background: url('https://www.elsevier.com/__data/assets/image/0006/283299/CRMKT-2502-promo-module-CSC.jpg') center center/cover no-repeat; color:#fff"><div class="row row-tight"><!--background-translucent --><div class="large-12 columns"><p style="margin-bottom:0"><br /><a href="https://chemsearch.elsevier.com/"><img src="https://www.elsevier.com/__data/assets/image/0018/283302/csc-logo.png" alt="CSC logo - Reaxys | Elsevier Solutions" /></a></p></div><div class="large-7 columns"><h2 id="ReactionFlash&trade;" style="color:#fff">Let the games begin!<br /> Chemists, get your game on!</h2><p><br /><a href="https://chemsearch.elsevier.com/">Join the ChemSearch Challenge</a> and compete with thousands of chemists from research, education and industry fields to see who can achieve the fastest route to finding answers.<br /><a href="https://chemsearch.elsevier.com" class="cta-secondary">Join the ChemSearch Challenge</a></p></div><div class="large-5 columns"><p><a href="https://chemsearch.elsevier.com/"><img src="https://www.elsevier.com/__data/assets/image/0005/283307/ChemSearch_Webinar-laptop2.png" alt="CSC laptop - Reaxys | Elsevier Solutions" /></a></p></div></div><!--End .row--><hr /></section>
+<div class="row row-tight" id="whitespace">
+
+</div>
+<div id="ChemSearchChallenge17"><div class="article-content"><div class="row row-tight">
+    <div class="large-6 columns">
+        <h2>How strong is your chemistry game?<br /> Join and experience the new Reaxys</h2><p style="margin-bottom:0px">Through a series of real-world challenges, the <a href="https://chemsearch.elsevier.com/" target="_blank">ChemSearch Challenge 2017</a> supports students to actively build conceptual understanding, critical thinking and creative problem solving skills in a fun, worldwide competition.<br /><a href="https://attendee.gotowebinar.com/register/5834031068421286913" class="cta-tertiary" style="margin-bottom:0px">Register for the webinar</a><br /><a href="https://www.elsevier.com/promo/rd-solutions/reaxys/how-strong-is-your-chemistry-game?utm_EC&amp;utm_source=CSCspring&amp;dgcid=CM_EM_100000408" class="cta-tertiary"> Learn more</a></p>
+    </div>
+    <div class="large-6 columns">
+        <p style="margin-bottom:0px"><a href="https://attendee.gotowebinar.com/register/5834031068421286913"><img src="https://www.elsevier.com/__data/assets/image/0005/276602/ChemSearch_Webinar-laptop.png" alt="How strong is your chemistry game? - Reaxys | Elsevier" /></a></p>
+    </div>
+</div> </div>
+<div class="row row-no-padding" id="module3disclaimer">
+<div class="large-12 columns"><p>All webinar viewers will be entered for a chance to win an onsite #ChemSearch17 event at their institution.*</p><p>*Drawing Friday, April 28</p></div>
+</div>
+</div><!--End AnchorLink-->
+<section class="standout" id="module3standout">
+<div class="row row-tight"><div class="large-12 columns"><h2>Solve chemistry research problems in half the time with Reaxys</h2><div id="bar_chart"><br /><div class="progressBar bgd-orange"><strong><span style="float: left !important"> Users of Reaxys</span>4:51h&nbsp;&nbsp;&nbsp;</strong></div><div class="progressBar bgd-grey"><strong><span style="float: left !important"> Users of leading competitive solution</span>11:00h&nbsp;&nbsp;&nbsp;</strong></div><div class="progressBar bgd-blue"><strong><span style="float: left"> Users of all other solutions</span>13:09h&nbsp;&nbsp;&nbsp;</strong></div><figure><!----><figcaption><strong>Source:</strong> Based on ~1,700 players competing to solve the same set of research problems during 2015 ChemSearch Challenge. Data shown is average time (minutes and seconds). </figcaption></figure></div></div></div><!--End .row--><div class="row row-tight"><div class="large-6 columns"><p>With Reaxys, research complexity and inefficiency are replaced with the freedom to discover, innovate and drive chemistry research forward.</p><p>Reaxys helps organizations by enabling chemists to:</p><ul><li><strong>Work faster:</strong> When nearly 1,700 users competed to solve the same set of chemistry research problems during the 2015 ChemSearch Challenge, a multi-week online competition for chemists. Reaxys users performed twice as fast as users of other chemistry research solutions.</li></ul></div><div class="large-6 columns"><ul><li><strong>More easily find relevant data:</strong> Reaxys' smart indexing and streamlined user interface enables even novice or occassional users to retrieve precise data points from within peer reviewed articles, search patents and assess synthesis and property data.</li><li><strong>Explore and discover more:</strong> Reaxys lets users easily control their search results views and see possibilities they may not have considered otherwise.</li></ul><p>See how Reaxys can benefit your organization today.</p><p><a href="https://www.elsevier.com/solutions/reaxys/customer-stories" class="cta-tertiary">View our customer stories</a></p></div></div><!--End .row-->
+</section>
+
+<div class="row row-tight" id="whitespace">
+
+</div>
+<div class="article-content"><div class="row row-tight">
+    <div class="large-12 columns">
+    <h2>What Our Customers Say</h2>
+    </div>
+</div></div><div class="article-content"><div class="row row-tight">
+    <div class="large-6 columns">
+        <blockquote> "Reaxys provides chemical reaction information in such a way that researchers can use it directly in an experimental setting." <cite><strong>Prof. Keiji Hirose</strong>, Associate Professor at Osaka University </cite></blockquote><p><a href="https://www.elsevier.com/__data/assets/pdf_file/0004/58189/R_D-Solutions_RX_Case-Study_Prof-Hirose_DIGITAL.pdf" target="_blank">Read Professor Keiji Hirose's story</a> (PDF, 600kb)</p>
+    </div>
+    <div class="large-6 columns">
+        <blockquote> "...Reaxys and Reaxys Medicinal Chemistry are perfect for our needs &mdash; they give us medicinal chemistry data with compound synthesis and methodology information." <cite><strong>Dr. Bel Mekonnen</strong>, CEO of Hager Biosciences </cite></blockquote><p><br /><a href="https://www.elsevier.com/__data/assets/pdf_file/0006/58209/R_D_Solutions_Reaxys_Case_Study_Hager_Web.pdf" target="_blank">Read Dr. Bel Mekonnen's story</a> (PDF, 450kb)</p>
+    </div>
+</div> </div>
+<div class="row row-tight" id="divider">
+<div class="large-12 columns"><hr /></div>
+</div>
+<div class="article-content"><div class="content-strip">
+
+    <div class="container">
+                
+                
+                 <div class="row row-tight">
+            <div class="large-4 columns">
+                <h3>Insights and voices for the future of chemistry</h3><p class="text-center"><a href="http://reaxyschem.elsevier.com/"><img src="https://www.elsevier.com/__data/assets/image/0008/276938/img-laptop-541x272.jpg" alt="Insights and voices for the future of chemistry - Reaxys | Elsevier" /></a></p><p>Our new Education &amp; Research resource portal brings you videos, articles, infographics and more on hot topics like active learning, diversity &amp; inclusion, and career planning.</p><p><a href="http://reaxyschem.elsevier.com/" class="cta-tertiary">Visit the portal</a></p>
+            </div>
+            <div class="large-4 columns">
+                <h3>Green &amp; Sustainable Energy Conference</h3><p class="text-center"><a href="http://www.greensuschemconf.com/industry-viewpoints.asp"><img src="https://www.elsevier.com/__data/assets/image/0008/282887/greenchemistry.jpg" alt="Green &amp; Sustainable Energy Conference - Reaxys | Elsevier" /></a></p><p>Elsevier will host an <q> Executive Roundtable </q> , bringing together a diverse group of experts and thought-leaders to offer their perspectives on a current industry theme.<br /><em>14 - 17 May 2017 | Hotel Intercontinental Berlin, Germany</em></p><p><a href="http://www.greensuschemconf.com/industry-viewpoints.asp" class="cta-tertiary">Learn more about this roundtable</a></p>
+            </div>
+            <div class="large-4 columns">
+                <h3>Teaching chemistry information literacy</h3><p class="text-center"><a href="https://www.elsevier.com/promo/rd-solutions/reaxys/chemistry-information-literacy-assessment"><img src="https://www.elsevier.com/__data/assets/image/0008/276425/reaxys-541x272.jpg" alt="Teaching chemistry information literacy - Reaxys | Elsevier" /></a></p><p>Chemistry faculty and librarians: Are you doing enough to prepare future chemists for their future careers in research, education and industry?</p><p><a href="https://www.elsevier.com/promo/rd-solutions/reaxys/chemistry-information-literacy-assessment" class="cta-tertiary">Take the free assessment</a></p>
+            </div>
+        </div>
+                
+         </div>
+</div></div><div class="row">
+<div class="large-6 columns" id="module6content2">
+<h2>Reaxys fact sheet</h2><p><br /> Reaxys provides powerful search options to give researchers total control of their search, ensuring only the most relevant answers to their chemistry questions.</p><p><a href="https://www.elsevier.com/__data/assets/pdf_file/0005/91616/RDS_FactSheet_Reaxys_Oct_2016-WEB.pdf" rel="nofollow" target="_blank">Download the Reaxys Fact Sheet</a> (PDF, 2.1mb)</p><hr /><h2>The new Reaxys is here</h2><p>It includes a streamlined user interface, critical patents and literature, a powerful layer of indexing &amp; data excerption, and easier integration with existing informatics environments.</p><p><a href="https://www.elsevier.com/promo/rd-solutions/reaxys/the-new-reaxys" class="cta-tertiary">Discover the new Reaxys</a></p>
+</div>
+
+<div class="large-6 columns" id="module6twitter">
+<a class="twitter-timeline" href="https://twitter.com/Reaxys" rel="nofollow" data-widget-id="598771431279882240">Tweets by @Reaxys</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</div>
+</div><!--End .row--><script>
+      function targetVisible($element, visible) {
+        var pageTop = $(window).scrollTop(),
+          pageBottom = pageTop + $(window).height(),
+          elementTop = $element.offset().top,
+          elementBottom = elementTop + $element.height();   
+          
+         if (visible === true) {
+            return ((pageTop < elementTop) && (pageBottom > elementBottom));
+         } 
+         else {
+            return ((elementTop <= pageBottom) && (elementBottom >= pageTop));
+         }  
+          
+      }
+      var count = 0;
+      var $element = $("#bar_chart");
+      $( window ).on( "scroll", function( event ) {
+
+          if (targetVisible( $element, false) === true && count == 0) {
+                  $('.bgd-orange').addClass("trans-orange");
+                  $('.bgd-grey').addClass("trans-grey");
+                  $('.bgd-blue').addClass("trans-blue");
+                  count++;
+          }
+          else {
+              $( this ).off( "scroll", event );
+          }
+      }); 
+</script>
+
+                <div class="fixed-side-links side-bottom"> 
+                  <div class="row row-back-to-top"> 
+                    <div class="columns large-12"> 
+                      <a class="back-to-top right" href="#top" title="Back to the top of the page"><!--span class="back-to-top-text">Back to top</span--></a>
+                    </div><!-- .columns large-12 -->
+                  </div><!-- .row .row-back-to-top -->
+                </div><!-- .fixed-side-links .side-bottom -->
+
+            </main>
+
+               
+               <!--noindex-->
+
+               <aside class="primary-menu">
+               <div class="spine-section">
+                    <div class="main-ui-item main-ui-item-menu js-close-primary-menu" tabindex="5" role="button">
+                        <span class="main-ui-icon">
+                            <img src="https://cdn.elsevier.io/verona/includes/svg/icon-menu-hamburger-white-sized.svg" alt="Close menu" />
+                        </span>
+                        <span class="main-ui-text hide-for-small-only">Close</span>
+                    </div>
+                </div>
+                <div class="spine-section">    
+                    <nav class="main-navigation" role="navigation" aria-label="primary">
+
+                        
+                        		
+                        <!--  BEGIN LEVEL 1 -->
+                        
+                            <ul class="spine-level-1">
+                                <li><a href='https://www.elsevier.com' tabindex="5">Home</a></li>
+                                                                    <li class="">
+                                        <a href="https://www.elsevier.com/about" tabindex="5">
+                                            About                                        </a>
+                                        		                                    </li>
+                                                                    <li class="">
+                                        <a href="https://www.elsevier.com/books-and-journals" tabindex="5">
+                                            Books and Journals                                        </a>
+                                        		                                    </li>
+                                                                    <li class="">
+                                        <a href="https://www.elsevier.com/authors" tabindex="5">
+                                            Authors                                        </a>
+                                        		                                    </li>
+                                                                    <li class="">
+                                        <a href="https://www.elsevier.com/editors" tabindex="5">
+                                            Editors                                        </a>
+                                        		                                    </li>
+                                                                    <li class="">
+                                        <a href="https://www.elsevier.com/librarians" tabindex="5">
+                                            Librarians                                        </a>
+                                        		                                    </li>
+                                                                    <li class="">
+                                        <a href="https://www.elsevier.com/reviewers" tabindex="5">
+                                            Reviewers                                        </a>
+                                        		                                    </li>
+                                                                    <li class="">
+                                        <a href="https://www.elsevier.com/research-platforms" tabindex="5">
+                                            Research Platforms                                        </a>
+                                        		                                    </li>
+                                                                    <li class="">
+                                        <a href="https://www.elsevier.com/research-intelligence" tabindex="5">
+                                            Research Intelligence                                        </a>
+                                        		                                    </li>
+                                                                    <li class="">
+                                        <a href="https://www.elsevier.com/rd-solutions" tabindex="5">
+                                            R&amp;D Solutions                                        </a>
+                                        		                                    </li>
+                                                                    <li class="">
+                                        <a href="https://www.elsevier.com/clinical-solutions" tabindex="5">
+                                            Clinical Solutions                                        </a>
+                                        		                                    </li>
+                                                                    <li class="">
+                                        <a href="https://www.elsevier.com/education" tabindex="5">
+                                            Education Solutions                                        </a>
+                                        		                                    </li>
+                                                                    <li class="child-active">
+                                        <a href="https://www.elsevier.com/solutions" tabindex="5">
+                                            All Solutions                                        </a>
+                                        		                                    </li>
+                                                                    <li class="">
+                                        <a href="https://www.elsevier.com/elsevier-store-ii" tabindex="5">
+                                            Shop Books and Journals                                        </a>
+                                        		                                    </li>
+                                                                    <li class="">
+                                        <a href="https://www.elsevier.com/author-webshop" tabindex="5">
+                                            Author Webshop                                        </a>
+                                        		                                    </li>
+                                                                    <li class="">
+                                        <a href="https://www.elsevier.com/elsevier-connect" tabindex="5">
+                                            Elsevier Connect                                        </a>
+                                        		                                    </li>
+                                                                    <li class="">
+                                        <a href="https://www.elsevier.com/support-center" tabindex="5">
+                                            Support Center                                        </a>
+                                        		                                    </li>
+                                                            </ul>
+                                            </nav>
+                </div>
+            </aside>
+
+        
+        
+        
+<footer class="footer-product fat-footer">
+ <section class="top">
+  <div class="row">
+    <div class="large-12 columns">
+                <ul class="accordion" data-accordion role="tablist"> 
+                    <!-- col 1 product info -->
+                    <li class="accordion-navigation"> 
+                        <a href="#footer-product-info" id="footer-solutions-heading" class="hide-for-large-up" role="tab" aria-controls="footer-product-info">
+                            <p class="heading">Solution info<span class="open-icon"></span></p>
+                        </a>
+                        <div id="footer-product-info" class="content" role="tabpanel" aria-labelledby="footer-product-info-heading">
+                                                        <ul class="first"> 
+                                <li>
+                                                                <p><img src="https://www.elsevier.com/__data/assets/image/0018/55503/reaxys-logo.png" alt="wordmark" height="50"></p>
+                                </li>
+                                <li>
+                                                                <a href="https://www.elsevier.com/solutions/reaxys/contact-sales" class="cta-secondary">Contact sales</a>
+                                </li> 
+                            </ul>
+                                                                                </div>
+                    </li> 
+                    <!-- col 2 ADDITIONAL CONDITION ADDED TO TEST REMOVING GREY SPACE IF MAX # LINKS NOT USED IN COLUMN-->
+                    <li class="accordion-navigation"> 
+                        <a href="#footer-product-stayintouch" id="footer-researchers-heading" class="hide-for-large-up" role="tab" aria-controls="footer-product-stayintouch">
+                            <p class="heading">Industry Insights & Blogs<span class="open-icon"></span></p> 
+                        </a>
+                        <p class="heading show-for-large-up">Industry Insights & Blogs</p> 
+                        <div id="footer-product-stayintouch" class="content" role="tabpanel" aria-labelledby="footer-stayintouch-heading">
+                            <ul>
+                                <li>
+                                                                    <a href="https://www.elsevier.com/rd-solutions/industry-insights?rootid=54168">Pharma Insights</a>
+                                                                </li>
+                                <li>
+                                                                    <a href="http://pharma.elsevier.com/">Pharma R&D Today</a>
+                                                                </li>
+                                <li>
+                                                                    <a href="https://www.elsevier.com/rd-solutions/industry-insights?rootid=54715">Chemicals Insights</a>
+                                                                </li>
+                                <li>
+                                                                    <a href="https://chemical-materials.elsevier.com/">Chemicals & Materials Now!</a>
+                                                                </li>
+                                <li>
+                                                                    <a href="https://www.elsevier.com/solutions/reaxys/newsletter">Reaxys Newsletter</a>
+                                                                    </li>
+                            </ul>
+                        </div>
+                    </li>
+                    <!-- col 3 -->
+                    <li class="accordion-navigation"> 
+                        <a href="#footer-product-elsevier" id="footer-elsevier-support" class="hide-for-large-up" role="tab" aria-controls="footer-product-elsevier">
+                        <!--<a href="#footer-support" id="footer-elsevier-support" class="hide-for-large-up" role="tab" aria-controls="footer-support">-->
+                        <p class="heading">ReactionFlash™ App<span class="open-icon"></span></p> 
+                        </a>  
+                        <p class="heading show-for-large-up">ReactionFlash™ App</p> 
+                        <div id="footer-product-elsevier" class="content" role="tabpanel" aria-labelledby="footer-elsevier-heading">
+                            <ul>
+                                <li>
+                                                                    <a href="https://itunes.apple.com/ch/app/reactionflash/id432080813?l=en&mt=8">Download on the App Store</a>
+                                                                    </li>
+                                <li>
+                                                                    <a href="https://play.google.com/store/apps/details?id=ch.reaxys.reactionflash">Get it on Google Play</a>
+                                                                    </li>
+                                <li>
+                                                                                                    </li>
+                                <li>
+                                                                                                    </li>
+                                <li>
+                                                                                                    </li>
+                            </ul>
+                        </div>
+                    </li>
+                </ul>
+                <!-- col 4 social media-->
+                <div class="footer-social">
+                        <p class="heading show-for-large-up" >Follow Reaxys</p>
+                        <div class="social-share">
+                            
+                            <a target="_blank" class="svg-icon-social" href="https://www.facebook.com/pages/Reaxys/375957583285"><img alt="Facebook" src="https://cdn.elsevier.io/verona/includes/svg/icon-social-facebook.svg"/></a> 
+                            
+                            <a target="_blank" class="svg-icon-social" href="https://www.linkedin.com/company/reaxys"><img alt="LinkedIn" src="https://cdn.elsevier.io/verona/includes/svg/icon-social-linkedin.svg"/></a>
+                            
+                            <a target="_blank" class="svg-icon-social" href="https://twitter.com/Reaxys"><img alt="Twitter" src="https://cdn.elsevier.io/verona/includes/svg/icon-social-twitter.svg"/></a>
+                            
+                            
+                        </div>
+                    </div>
+               </li>
+             </div>
+        </div>
+    </div>
+</section>
+</footer>
+        
+            <!--endnoindex-->
+
+         <footer class="footer-main fat-footer"> 
+    <section class="top"> 
+        <div class="row"> 
+            <div class="large-12 columns"> 
+                <ul class="accordion" data-accordion role="tablist"> 
+                    <li class="accordion-navigation"> 
+                        <a href="#footer-solutions" id="footer-solutions-heading" class="hide-for-large-up" role="tab" aria-controls="footer-solutions"> 
+                            <p class="heading">Solutions<span class="open-icon"></span></p> 
+                        </a> 
+                        <p class="heading show-for-large-up">Solutions</p> 
+                        <div id="footer-solutions" class="content" role="tabpanel" aria-labelledby="footer-solutions-heading"> 
+                            <ul class="first"> 
+                                <li><a href="//www.elsevier.com/solutions/scopus" title="Scopus">Scopus</a></li> 
+                                <li><a href="//www.elsevier.com/solutions/sciencedirect" title="ScienceDirect">ScienceDirect</a></li> 
+                                <li><a href="//www.elsevier.com/solutions/mendeley" title="Mendeley">Mendeley</a></li> 
+                                <li><a href="//evolve.elsevier.com/" title="Evolve" rel="external" target="_blank">Evolve</a></li> 
+                                <li><a href="//www.elsevier.com/solutions/knovel-engineering-information" title="Knovel">Knovel</a></li> 
+                                <li><a href="//www.elsevier.com/solutions/reaxys" title="Reaxys">Reaxys</a></li> 
+                                <li><a href="//www.clinicalkey.com/" title="Clinical Key" rel="external" target="_blank">Clinical Key</a></li> 
+                            </ul> 
+                        </div> 
+                    </li> 
+                    <li class="accordion-navigation"> 
+                        <a href="#footer-researchers" id="footer-researchers-heading" class="hide-for-large-up" role="tab" aria-controls="footer-researchers"> 
+                            <p class="heading">Researchers<span class="open-icon"></span></p> 
+                        </a> 
+                        <p class="heading show-for-large-up">Researchers</p> 
+                        <div id="footer-researchers" class="content" role="tabpanel" aria-labelledby="footer-researchers-heading"> 
+                            <ul> 
+                                <li><a href="//www.elsevier.com/authors/journal-authors/submit-your-paper" title="Submit your paper">Submit your paper</a></li> 
+                                <li><a href="//www.elsevier.com/books-and-journals" title="Find Books & Journals">Find books &amp; journals</a></li> 
+                                <li><a href="//www.elsevier.com/authors" title="visit Author Hub">Visit Author Hub</a></li> 
+                                <li><a href="//www.elsevier.com/editors" title="visit Editor Hub">Visit Editor Hub</a></li> 
+                                <li><a href="//www.elsevier.com/librarians" title="visit Librarian Hub">Visit Librarian Hub</a></li> 
+                                <li><a href="//www.elsevier.com/reviewers" title="visit Reviewer Hub">Visit Reviewer Hub</a></li>
+                                <li><a href="//service.elsevier.com/" title="Support center" target="_blank">Support center</a></li>
+                            </ul> 
+                        </div> 
+                    </li> 
+                    <li class="accordion-navigation"> 
+                        <a href="#footer-elsevier" id="footer-elsevier-heading" class="hide-for-large-up" role="tab" aria-controls="footer-elsevier"> 
+                            <p class="heading">Elsevier<span class="open-icon"></span></p> 
+                        </a> 
+                        <p class="heading show-for-large-up">Elsevier</p> 
+                        <div id="footer-elsevier" class="content" role="tabpanel" aria-labelledby="footer-elsevier-heading"> 
+                            <ul> 
+                                <li><a href="//www.elsevier.com/about/our-business" title="Our business">Our business</a></li>
+                                <li><a href="//www.elsevier.com/about/newsroom" title="Newsroom">Newsroom</a></li> 
+                                <li><a href="//www.elsevier.com/about/press-releases" title="Press releases">Press releases</a></li>
+                                <li><a href="//www.elsevier.com/contact" title="Contact">Contact</a></li>     
+                                <li><a href="//www.elsevier.com/events" title="Events">Events</a></li> 
+                                <li><a href="//www.elsevier.com/advertisers" title="Advertising">Advertising</a></li> 
+                                <li><a href="//www.elsevier.com/publisher-relations" title="Publisher relations">Publisher relations</a></li> 
+                            </ul> 
+                        </div> 
+                    </li> 
+                    <li class="accordion-navigation last"> 
+                        <a href="#footer-website" id="footer-website-heading" class="hide-for-large-up" role="tab" aria-controls="footer-website"> 
+                            <p class="heading">Website<span class="open-icon"></span></p> 
+                        </a> 
+                        <p class="heading show-for-large-up" >Website</p> 
+                        <div id="footer-website" class="content" role="tabpanel" aria-labelledby="footer-website-heading"> 
+                            <ul> 
+                                <li><a href="//www.elsevier.com/sitemap" title="Sitemap">Sitemap</a></li> 
+                                <li><a href="//www.elsevier.com/feedback" title="Website Feedback">Website feedback</a></li> 
+                            </ul> 
+                        </div> 
+                    </li> 
+                </ul> 
+                <div class="footer-social"> 
+                    <span class="heading">Follow Elsevier</span> 
+                    <div class="social-share"> 
+                        <a href="https://www.facebook.com/ElsevierConnect" class="svg-icon-social" target="_blank" title="Icon social media facebook"> 
+                            <img alt="Icon social media facebook" src="https://cdn.elsevier.io/verona/includes/svg/icon-social-facebook.svg"> 
+                        </a> 
+                        <a href="https://www.linkedin.com/company/elsevier" class="svg-icon-social" target="_blank" title="Icon social media linkedin"> 
+                            <img alt="Icon social media linkedin" src="https://cdn.elsevier.io/verona/includes/svg/icon-social-linkedin.svg"> 
+                        </a> 
+                        <a href="https://twitter.com/ElsevierConnect" class="svg-icon-social" target="_blank" title="Icon social media twitter"> 
+                            <img alt="Icon social media twitter" src="https://cdn.elsevier.io/verona/includes/svg/icon-social-twitter.svg"> 
+                        </a> 
+                         <a href="https://www.youtube.com/c/elsevier/" class="svg-icon-social" target="_blank"> 
+                            <img alt="Icon social media youtube" src="https://cdn.elsevier.io/verona/includes/svg/icon-social-youtube.svg"> 
+                        </a>  
+                    </div> 
+                </div> 
+            </div> 
+        </div> 
+    </section> 
+    <section class="bottom"> 
+    <div class="row">
+        <div class="large-2 columns show-for-large-up">
+            <a href="https://www.elsevier.com" class="els_link-image"> 
+                <img src="https://www.elsevier.com/__data/assets/file/0003/278661/ELS_NS_Logo_2C_RGB.svg" width="85" height="94" class="nonsolus-logo" style="background: white" alt="Elsevier logo">
+            </a>    
+        </div>    
+        <div class="large-7 columns">
+            <p>Copyright &copy; 2017 Elsevier, except certain content provided by third party</p>
+            <p>Cookies are used by this site. To decline or learn more, visit our <a href="//www.elsevier.com/legal/use-of-cookies" title="Cookies" target="_blank">Cookies</a> page.</p>
+            <p><a href="//www.elsevier.com/legal/elsevier-website-terms-and-conditions" title="Terms and Conditions" target="_blank">Terms and Conditions</a>
+                    <a href="//www.elsevier.com/legal/privacy-policy" class="els-document-link" title="Privacy Policy" target="_blank">Privacy Policy</a></p>
+        </div>
+        <div class="large-5 columns hide-for-large-up">
+            <a href="https://www.elsevier.com" class="els_link-image"> 
+                <img src="https://www.elsevier.com/__data/assets/file/0003/278661/ELS_NS_Logo_2C_RGB.svg" width="85" height="94" class="nonsolus-logo" style="background: white" alt="Elsevier logo">
+            </a>  
+            <a title="Go to RELX Group Homepage" href="http://www.reedelsevier.com/" class="els_link-image"> 
+                <img width="150" alt="RELX Group Wordmark" src="https://cdn.elsevier.io/verona/includes/svg/logo-relxgroup.svg"> 
+            </a> 
+        </div>
+        <div class="large-3 columns show-for-large-up"> 
+            <a title="Go to RELX Group Homepage" href="http://www.reedelsevier.com/" class="els_link-image"> 
+                <img width="150" alt="RELX Group Wordmark" src="https://cdn.elsevier.io/verona/includes/svg/logo-relxgroup.svg"> 
+            </a> 
+        </div> 
+    </div>
+    </section> 
+</footer>        </div>
+    </div>
+
+<script  src="https://cdn.elsevier.io/matrix/ui/1.6.26/vendor.min.js"></script>
+<script  src="https://cdn.elsevier.io/matrix/ui/1.6.26/scripts-bottom.min.js"></script>
+<div id="surveyPopup" class="survey-trigger" style="display:none;">
+<script>
+   surveyOptions = {
+      startDate: 1380622914,
+      endDate: 1609373814,
+      frequency: '',
+      url: 'https://survey.confirmit.com/wix2/p2683244022.aspx',
+      inactive: 'No',
+      target: 0.1,
+      cookieName: 'survey'
+  }
+  
+  $(function(){
+      surveyInit(surveyOptions);
+  })
+</script> 
+
+<p>Elsevier.com visitor survey</p>
+<p>We are always looking for ways to improve customer experience on Elsevier.com. <br />
+We would like to ask you for a <b>moment of your time</b> to fill in a short questionnaire, <b>at the end of your visit</b>. <br /> 
+<br/> 
+If you decide to participate, a new browser window will open and remain open until you have<br /> completed your visit to this website. <br /><br /> Thanks in advance for your time.</p>
+<a class="survey-accept cta-primary lightbox" href="http://survey.confirmit.com/wix2/p2683244022.aspx" rel="nofollow">Accept</a>&nbsp;<a class="survey-decline cta-primary">Decline</a></div>
+
+
+</body>
+</html>

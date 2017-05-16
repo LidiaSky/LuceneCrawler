@@ -1,0 +1,127 @@
+<HTML>
+<!--
+<script>
+ var JDM=new Object;
+JDM.dac=new Object;
+JDM.pm=new Object;
+JDM.ep=new Object;
+JDM.pf = new Object;
+JDM.pf.dc = new Object;
+JDM.pf.dc.respObj = '';
+JDM.pf.dc.retry = 5;
+JDM.pf.dc.retryDelay = 300;
+JDM.pf.dc.retryFactor = 1.0;
+JDM.pf.crawler = false;
+JDM.pm.cid = '';
+JDM.pm.issn = '11257865';
+JDM.pm.allowVIA = '';
+JDM.pm.contentType = '';
+JDM.pm.newStructure = false;
+JDM.ep.urlPrefix = "http://www.sciencedirect.com/science";
+</script> -->
+<META content="text/html; charset=UTF-8">
+<META content="IE=edge">
+<!-- Start: GPT Async -->
+<!-- TRANSKEY: 05/16/2017 14:30:05 EDT#2846_002#99923#95.30.38.0 -->
+<META name="robots" content="NOARCHIVE">
+<META name="robots" content="noodp">
+<META name="robots" content="noydir">
+<!--[if IE 7]>
+<link rel="stylesheet" Title="Default Styles" href="http://cdn.els-cdn.com/sd/css/css_gen_ie7_v01_1704R5.css" type="text/css">
+<![endif]-->
+<!--[if lte IE 6]>
+<link rel="stylesheet" Title="Default Styles" href="http://cdn.els-cdn.com/sd/css/css_gen_ie6_v01_1704R5.css" type="text/css">
+<![endif]-->
+<!--[if lt IE 9]>
+<link rel="stylesheet" Title="Default Styles" href="http://cdn.els-cdn.com/sd/css/css_gen_ielt9_1704R5.css" type="text/css">
+<![endif]-->
+<!--[if lt IE 7]>
+<script src="http://ie7-js.googlecode.com/svn/version/2.0(beta3)/IE7.js"
+ type="text/javascript">
+</script>
+<script src="http://ie7-js.googlecode.com/svn/version/2.0(beta3)/IE7-squish.js"
+ type="text/javascript">
+</script>
+<![endif]-->
+ <!-- if not logged in -->
+<META name="description" content="The online version of Dendrochronologia at ScienceDirect.com, the world's leading platform for high quality peer-reviewed full-text journals.">
+<!-- static const char journaltmpl_sccsId[] = "@(#)journal.tmpl 3.1.2.1 11/18/99 17:52:55 - Retrieved: 12/15/99 12:27:24"; -->
+ <TITLE>Dendrochronologia | Vol 43, Pgs 1-80, (April 2017) | ScienceDirect.com</TITLE>
+<BODY>
+<!-- Google Tag Manager -->
+<!-- End Google Tag Manager -->
+ <A href="#main_content">Skip to Main content</A>
+<!-- ************* For A/B testing FAST and SOLR Proxy ***************** -->
+<!-- *************End for A/B testing FAST and SOLR Proxy *****************-->
+ Please note that Internet Explorer version 8.x will not be supported as of January 1, 2016. Please refer to <A href="http://blog.sciencedirect.com/posts/have-you-heard-spread-the-word-about-upgrading-your-browser"> this blog post</A> for more information.
+ <A>Close</A>
+ <A href="/">ScienceDirect</A><A href="/science/journals">Journals</A><A href="/science/bookbshsrw">Books</A><A href="https://www.sciencedirect.com/user/register?returnURL=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Fjournal%2F11257865%2F43">Register</A><A href="https://www.sciencedirect.com/user/login?returnURL=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Fjournal%2F11257865%2F43">Sign in</A>Sign in using your ScienceDirect credentialsUsernamePasswordRemember me<A rel="nofollow" href="/science?_ob=ReminderURL&_method=display&md5=4a97631c25ac81c09ad2f961106e9da2">Forgotten username or password?</A>Sign in via your institution<A rel="nofollow" href="https://auth.elsevier.com/ShibAuth/institutionLogin?entityID=https%3A%2F%2Fidp.eduserv.org.uk%2Fopenathens&appReturnURL=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Fjournal%2F11257865%2F43">OpenAthens</A><A rel="nofollow" href="/science/externallogin">Other institution</A><A href="/science?_ob=HelpURL&_file=jnl_bk_homepage.htm&_btn=Y">Help</A><A href="/science/journals">Journals</A><A href="/science/bookbshsrw">Books</A><A href="https://www.sciencedirect.com/user/register?returnURL=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Fjournal%2F11257865%2F43">Register</A><A href="https://www.sciencedirect.com/user/login?returnURL=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Fjournal%2F11257865%2F43">Sign in</A><A href="/science?_ob=HelpURL&_file=jnl_bk_homepage.htm&_btn=Y">Help</A><A href="#">close</A>Sign in using your ScienceDirect credentialsUsernamePasswordRemember me<A rel="nofollow" href="/science?_ob=ReminderURL&_method=display&md5=4a97631c25ac81c09ad2f961106e9da2">Forgotten username or password?</A>Sign in via your institution<A rel="nofollow" href="https://auth.elsevier.com/ShibAuth/institutionLogin?entityID=https%3A%2F%2Fidp.eduserv.org.uk%2Fopenathens&appReturnURL=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Fjournal%2F11257865%2F43">OpenAthens</A><A rel="nofollow" href="/science/externallogin">Other institution</A>
+ <A></A>
+ <A href="http://www.sciencedirect.com/science/search">Advanced search</A>
+<!--header-->
+<A></A>
+ &nbsp;
+ <!-- Common to journal and refwork title and related information -->
+ <A href="http://www.tree-ring.org/">
+ </A>
+ Dendrochronologia
+ Supports Open Access
+ <A href="http://www.elsevier.com/locate/issn/11257865">About this Journal</A>
+ <A href="http://www.sciencedirect.com/science/journal/11257865/41">Sample Issue Online</A>
+ <A href="http://ees.elsevier.com/issn/11257865">Submit your Article</A>
+ <A href="/science?_ob=RSSURL&_method=setup&_cid=273241&md5=a4b040461a725534593de2742f74e424"> Get new article feed</A>
+ <A href="/science?_ob=RSSURL&_method=setup&oa=1&_cid=273241&md5=a4b040461a725534593de2742f74e424"> Get new Open Access article feed</A>
+ <A href="">
+ </A>
+ Your selection(s) could not be saved due to an internal error. Please try again.
+ Added to Favorites [<A href="/science?_ob=PublicationURL&addFavorite=2&_cid=273241&_pubType=J&_auth=y&md5=aebb1d01c6825d6cc42550a551802a98">remove</A>]
+ <A href="/science?_ob=PublicationURL&addFavorite=2&_cid=273241&_pubType=J&_auth=y&md5=aebb1d01c6825d6cc42550a551802a98">
+ Add to Favorites
+ </A>
+ <P>Copyright &copy; 2017 Elsevier GmbH. All rights reserved</P>
+ <A href="http://www.tree-ring.org">Association for Tree-Ring-Research</A> and <A href="http://www.treeringsociety.org">Tree-Ring Society</A>
+ JavaScript is disabled on your browser. Please enable JavaScript to use all the features on this page.
+ Dendrochronologia<BR>Volume 43, Pages 1-80 (April 2017)
+ <BR><B>SI: Dendroarchaeology</B>Edited by Steve Nash and Carolyn Copenheaver
+ <A href="/science/journal/11257865/42">&lt; Previous vol/iss</A>
+ <A href="/science/journal/11257865/44">Next vol/iss &gt;</A>
+ <A href="/science/journal/aip/11257865">Articles in Press</A><A href="/science/journal/11257865/open-access"> Open Access articles</A><A></A><A href="/science/journal/11257865/44">&nbsp;CloseVolumes 41 - 44 (2017)</A><A href="/science/journal/11257865/44">Volume 44</A><BR>In Progress (June 2017)&nbsp;Not entitled to full textVolume 43 - selected<BR>pp. 1-80 (April 2017)<BR>SI: Dendroarchaeology&nbsp;Not entitled to full text<A href="/science/journal/11257865/42">Volume 42</A><BR>pp. 1-118 (March 2017)&nbsp;Not entitled to full text<A href="/science/journal/11257865/41">Volume 41</A><BR>pp. 1-78 (January 2017)<BR>Asian Dendrochronology Association (ADA) 2015&nbsp;Entitled to full text<A href="/science/journal/11257865/40">&nbsp;OpenVolumes 31 - 40 (2013 - 2016)</A><A href="/science/journal/11257865/30">&nbsp;OpenVolumes 21 - 30 (2003 - 2012)</A><A href="/science/journal/11257865/20">&nbsp;OpenVolume 20 (2002)</A>
+ <!-- volumeIssueData -->
+ Download and Export 0 checked results&nbsp; <A href="javascript:;">Export citations</A> <A href="/science?_ob=HelpURL&_file=art_export.htm&_btn=Y&_zone=TopNavBar&_origin=journal">Help</A>Direct export &nbsp;&nbsp;Export file&nbsp;RIS (for EndNote, Reference Manager, ProCite)&nbsp;BibTeX&nbsp;Text&nbsp;RefWorks Direct ExportContent&nbsp;Citations Only&nbsp;Citations and Abstracts<BR><A href="#"> &nbsp; All access types &nbsp; </A> All access types Open Access articlesOpen Archive articles<A href="http://www.sciencedirect.com/science/article/pii/S1125786517300632">Inside Front Cover - Editorial Board Page/Cover image legend if applicable</A><I>Page IFC</I><A rel="nofollow" href="/science/article/pii/S1125786517300632/pdfft?md5=0386fd587d59000754224a583013576f&pid=1-s2.0-S1125786517300632-main.pdf">&nbsp;PDF (24 K)</A>
+&nbsp;Entitled to full text<A href="http://www.sciencedirect.com/science/article/pii/S112578651730053X">Revival of dendroarchaeology in the Eastern United States</A><I>Pages 1-3</I>Stephen E. Nash, Carolyn A. Copenheaver<A rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S112578651730053X&_ts=1494959411&md5=4a87a671ac3145ffa13535511322a926">&nbsp;Purchase PDF - $41.95</A>
+&nbsp;Not entitled to full text<A href="http://www.sciencedirect.com/science/article/pii/S1125786516301503">Dendrochronological dating of the Warner House and barn (20LV334), Livingston County, Michigan, USA</A>Original Research Article<I>Pages 4-11</I>Maegen L. Rochner, Hudson W. Kelley, Christopher S. Wilson, Tim Bennett, Henri D. Grissino-Mayer<A href="#">Abstract</A><A rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S1125786516301503&_ts=1494959411&md5=897d9d33dfd825d6aa4a3f2e935f22f1">&nbsp;Purchase PDF - $41.95</A>
+&nbsp;Not entitled to full text<A href="http://www.sciencedirect.com/science/article/pii/S1125786516301552">A dendrochronological evaluation of three historic pioneer cabins at Spring Mill Village, Indiana</A>Original Research Article<I>Pages 12-19</I>Trevis J. Matheus, Justin T. Maxwell, Joshua Oliver, Michael Thornton, Michael Hess, Grant L. Harley<A href="#">Abstract</A><A rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S1125786516301552&_ts=1494959411&md5=196c772cb189426eb1fe1706e9244730">&nbsp;Purchase PDF - $41.95</A>
+<A href="http://www.sciencedirect.com/science/article/pii/S1125786516301552#MMCvFirst">Supplementary content</A>&nbsp;Not entitled to full text<A href="http://www.sciencedirect.com/science/article/pii/S112578651730019X">Precision dating of Cook&rsquo;s Mill, a Civil War era structure in West Virginia</A>Original Research Article<I>Pages 20-26</I>Shawn W. Cockrell, Kristen K. de Graauw, Alfred M. Ziegler, Amy E. Hessl<A href="#">Abstract</A><A rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S112578651730019X&_ts=1494959411&md5=00cf7be49b4f45a813034d4398f90036">&nbsp;Purchase PDF - $41.95</A>
+&nbsp;Not entitled to full text<A href="http://www.sciencedirect.com/science/article/pii/S1125786516301746">Dendrochronological dating of the Graves Mill grist mill, Madison County, Virginia, USA</A>Original Research Article<I>Pages 27-32</I>Daniel L. Druckenbrod, Lauren A. Stachowiak, Elizabeth A. Schneider, Douglas M. Graves, Henri D. Grissino-Mayer<A href="#">Abstract</A><A rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S1125786516301746&_ts=1494959411&md5=4ba8c5d3d52d26f3796f8844a6ee0502">&nbsp;Purchase PDF - $41.95</A>
+<A href="http://www.sciencedirect.com/science/article/pii/S1125786516301746#MMCvFirst">Supplementary content</A>&nbsp;Not entitled to full text<A href="http://www.sciencedirect.com/science/article/pii/S1125786516300996">Tree-ring dating of timbers from Sabine Hill, home of General Nathaniel Taylor, Elizabethton, Tennessee, USA</A>Original Research Article<I>Pages 33-40</I>Henri D. Grissino-Mayer, Elizabeth A. Schneider, Maegen L. Rochner, Lauren A. Stachowiak, Meagan E. Dennison<A href="#">Abstract</A><A rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S1125786516300996&_ts=1494959411&md5=02a9002e8473bce3feefb14e862e7acf">&nbsp;Purchase PDF - $41.95</A>
+&nbsp;Not entitled to full text<A href="http://www.sciencedirect.com/science/article/pii/S1125786517300036">Dendroarchaeology at the Tipton-Haynes State Historic Site: Contextualizing the landscape of an Upland South farmstead in East Tennessee, USA</A>Original Research Article<I>Pages 41-49</I>Daniel W.H. Brock, Barbara J. Heath, Henri D. Grissino-Mayer<A href="#">Abstract</A><A rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S1125786517300036&_ts=1494959411&md5=4578148ad16d5b0b4a2c109fd0b2ab96">&nbsp;Purchase PDF - $41.95</A>
+&nbsp;Not entitled to full text<A href="http://www.sciencedirect.com/science/article/pii/S1125786516301643">Construction history of the Deason House, Jones County, Mississippi</A>Original Research Article<I>Pages 50-58</I>Grant L. Harley, Justin T. Maxwell, David Holt, Christopher B. Speagle<A href="#">Abstract</A><A rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S1125786516301643&_ts=1494959411&md5=de704784a2510657fafa77c7a0e6100f">&nbsp;Purchase PDF - $41.95</A>
+&nbsp;Not entitled to full text<A href="http://www.sciencedirect.com/science/article/pii/S112578651730022X">The search for Fort Armstrong: Dendroarchaeology of the Williamson &ldquo;Snow Hill&rdquo; Plantation, Cherokee County, Alabama, U.S.A.</A>Original Research Article<I>Pages 59-65</I>Matthew D. Therrell, Bouran S. Mozayen, Matthew D. Gage<A href="#">Abstract</A><A rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S112578651730022X&_ts=1494959411&md5=5e20bec4753eae9b21e86bc5c0c19527">&nbsp;Purchase PDF - $41.95</A>
+&nbsp;Not entitled to full text<A href="http://www.sciencedirect.com/science/article/pii/S1125786516301096">An attempt to dendrochronologically date house features at the King site (9FL5), a 16th century Late Mississippian town in northwestern Georgia, USA</A>Original Research Article<I>Pages 66-73</I>Henri D. Grissino-Mayer, David J. Hally<A href="#">Abstract</A><A rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S1125786516301096&_ts=1494959411&md5=f41deeee6fe47e28ecb64a4eb13cf800">&nbsp;Purchase PDF - $41.95</A>
+&nbsp;Not entitled to full text<A href="http://www.sciencedirect.com/science/article/pii/S1125786517300309">The historical dendroarchaeology of the Green Hotel, Cave Spring, Georgia, U.S.A.</A>Original Research Article<I>Pages 74-80</I>Georgina G. DeWeese, Henri D. Grissino-Mayer, W. Jeff Bishop<A href="#">Abstract</A><A rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S1125786517300309&_ts=1494959411&md5=9b847571287472d05c9bb397c19420bd">&nbsp;Purchase PDF - $41.95</A>
+&nbsp;Not entitled to full text<A href="http://www.sciencedirect.com/science/article/pii/S112578651730067X">Back Matter - Filler advert</A><I>Page I</I><A rel="nofollow" href="/science?_ob=ShoppingCartURL&_method=add&_eid=1-s2.0-S112578651730067X&_ts=1494959411&md5=6304ae88d47cb81ff315899eeb23fc38">&nbsp;Purchase PDF - $41.95</A>
+&nbsp;Not entitled to full text
+ <!-- Page Navigation -->
+ Articles <B>1 - 13</B>
+ <!-- Page Navigation -->
+ Articles <B>1 - 13</B>
+ <!-- end of issueList -->
+ <A href="/science/journal/11257865/42">&lt; Previous vol/iss</A>
+ <A href="/science/journal/11257865/44">Next vol/iss &gt;</A>
+ <!-- ECRED -->
+<!-- ECRED -->
+ <!-- width100% -->
+<!-- sdHeader -->
+<!-- <div id="sdpa"></div> -->
+ <A href="http://www.elsevier.com/" rel="nofollow">Elsevier</A><A href="http://www.elsevier.com/solutions/sciencedirect" rel="nofollow">About ScienceDirect</A><A href="/science/activateaccess" rel="nofollow">Remote access</A><A href="/science?_ob=ShoppingCartURL&_method=display&_zone=TopNavBar&_origin=publicationurl&md5=f795ebb7043da9fdff66dbc72a1c68c8" rel="nofollow">Shopping cart</A><A href="https://service.elsevier.com/app/contact/supporthub/sciencedirect/" rel="nofollow">Contact and support</A><A href="https://www.elsevier.com/legal/elsevier-website-terms-and-conditions" rel="nofollow">Terms and conditions</A><A href="http://www.elsevier.com/legal/privacy-policy" rel="nofollow">Privacy policy</A>Cookies are used by this site. For more information, visit the <A href="https://www.elsevier.com/solutions/sciencedirect/support/cookies" rel="nofollow">cookies page</A>.Copyright &copy; 2017 Elsevier B.V. or its licensors or contributors. ScienceDirect &reg; is a registered trademark of Elsevier B.V.<A href="http://www.relx.com/" rel="nofollow">RELX Group</A>
+<!-- End: GPT -->
+<!-- Beginning Async AdSlot 1 for Ad unit els.sdgust/ISSN11257865 ### size: [[728,90]] -->
+<!-- Adslot's refresh function: googletag.pubads().refresh([gptadslots[1]]) -->
+<!-- End AdSlot 1 -->
+<!-- Beginning Async AdSlot 2 for Ad unit els.sdgust/ISSN11257865 ### size: [[160,600]] -->
+<!-- Adslot's refresh function: googletag.pubads().refresh([gptadslots[2]]) -->
+<!-- End AdSlot 2 -->
+ Download PDFs
+ <A href="/science?_ob=HelpURL&_file=DM_main.htm&_btn=Y&_zone=TopNavBar&_origin=journal">Help</A>
+ <A href="/science?_ob=HelpURL&_file=DM_newformat.htm&_btn=Y&_zone=TopNavBar&_origin=journal">Help</A>
+</BODY></HTML>

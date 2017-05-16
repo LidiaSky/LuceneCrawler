@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="Server">
+    <output-path>$PROJECT_DIR$/out/artifacts/Server</output-path>
+    <root id="root">
+      <element id="archive" name="RobotService.jar">
+        <element id="module-output" name="RobotService" />
+      </element>
+      <element id="library" level="project" name="codec" />
+      <element id="library" level="project" name="activation" />
+      <element id="library" level="project" name="antlr-runtime-3.0" />
+    </root>
+  </artifact>
+</component>

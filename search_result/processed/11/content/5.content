@@ -1,0 +1,117 @@
+<HTML>
+<!--
+<script>
+ var JDM=new Object;
+JDM.dac=new Object;
+JDM.pm=new Object;
+JDM.ep=new Object;
+JDM.pf = new Object;
+JDM.pf.dc = new Object;
+JDM.pf.dc.respObj = '';
+JDM.pf.dc.retry = 5;
+JDM.pf.dc.retryDelay = 300;
+JDM.pf.dc.retryFactor = 1.0;
+JDM.pf.crawler = false;
+JDM.pm.cid = '';
+JDM.pm.issn = '2213297X';
+JDM.pm.allowVIA = '';
+JDM.pm.contentType = '';
+JDM.pm.newStructure = false;
+JDM.ep.urlPrefix = "http://www.sciencedirect.com/science";
+</script> -->
+<META content="text/html; charset=UTF-8">
+<META content="IE=edge">
+<!-- Start: GPT Async -->
+<!-- TRANSKEY: 05/16/2017 14:27:40 EDT#2845_008#76425#95.30.38.0 -->
+<META name="robots" content="NOARCHIVE">
+<META name="robots" content="noodp">
+<META name="robots" content="noydir">
+<!--[if IE 7]>
+<link rel="stylesheet" Title="Default Styles" href="http://cdn.els-cdn.com/sd/css/css_gen_ie7_v01_1704R5.css" type="text/css">
+<![endif]-->
+<!--[if lte IE 6]>
+<link rel="stylesheet" Title="Default Styles" href="http://cdn.els-cdn.com/sd/css/css_gen_ie6_v01_1704R5.css" type="text/css">
+<![endif]-->
+<!--[if lt IE 9]>
+<link rel="stylesheet" Title="Default Styles" href="http://cdn.els-cdn.com/sd/css/css_gen_ielt9_1704R5.css" type="text/css">
+<![endif]-->
+<!--[if lt IE 7]>
+<script src="http://ie7-js.googlecode.com/svn/version/2.0(beta3)/IE7.js"
+ type="text/javascript">
+</script>
+<script src="http://ie7-js.googlecode.com/svn/version/2.0(beta3)/IE7-squish.js"
+ type="text/javascript">
+</script>
+<![endif]-->
+ <!-- if not logged in -->
+<META name="description" content="The online version of Journal of Co-operative Organization and Management at ScienceDirect.com, the world's leading platform for high quality peer-reviewed full-text journals.">
+<!-- static const char journaltmpl_sccsId[] = "@(#)journal.tmpl 3.1.2.1 11/18/99 17:52:55 - Retrieved: 12/15/99 12:27:24"; -->
+ <TITLE>Journal of Co-operative Organization and Management | Vol 5, Iss 1, Pgs A1-A2, 1-56, (May 2017) | ScienceDirect.com</TITLE>
+<BODY>
+<!-- Google Tag Manager -->
+<!-- End Google Tag Manager -->
+ <A href="#main_content">Skip to Main content</A>
+<!-- ************* For A/B testing FAST and SOLR Proxy ***************** -->
+<!-- *************End for A/B testing FAST and SOLR Proxy *****************-->
+ Please note that Internet Explorer version 8.x will not be supported as of January 1, 2016. Please refer to <A href="http://blog.sciencedirect.com/posts/have-you-heard-spread-the-word-about-upgrading-your-browser"> this blog post</A> for more information.
+ <A>Close</A>
+ <A href="/">ScienceDirect</A><A href="/science/journals">Journals</A><A href="/science/bookbshsrw">Books</A><A href="https://www.sciencedirect.com/user/register?returnURL=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Fjournal%2F2213297X%2F5%2F1">Register</A><A href="https://www.sciencedirect.com/user/login?returnURL=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Fjournal%2F2213297X%2F5%2F1">Sign in</A>Sign in using your ScienceDirect credentialsUsernamePasswordRemember me<A rel="nofollow" href="/science?_ob=ReminderURL&_method=display&md5=4a97631c25ac81c09ad2f961106e9da2">Forgotten username or password?</A>Sign in via your institution<A rel="nofollow" href="https://auth.elsevier.com/ShibAuth/institutionLogin?entityID=https%3A%2F%2Fidp.eduserv.org.uk%2Fopenathens&appReturnURL=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Fjournal%2F2213297X%2F5%2F1">OpenAthens</A><A rel="nofollow" href="/science/externallogin">Other institution</A><A href="/science?_ob=HelpURL&_file=jnl_bk_homepage.htm&_btn=Y">Help</A><A href="/science/journals">Journals</A><A href="/science/bookbshsrw">Books</A><A href="https://www.sciencedirect.com/user/register?returnURL=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Fjournal%2F2213297X%2F5%2F1">Register</A><A href="https://www.sciencedirect.com/user/login?returnURL=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Fjournal%2F2213297X%2F5%2F1">Sign in</A><A href="/science?_ob=HelpURL&_file=jnl_bk_homepage.htm&_btn=Y">Help</A><A href="#">close</A>Sign in using your ScienceDirect credentialsUsernamePasswordRemember me<A rel="nofollow" href="/science?_ob=ReminderURL&_method=display&md5=4a97631c25ac81c09ad2f961106e9da2">Forgotten username or password?</A>Sign in via your institution<A rel="nofollow" href="https://auth.elsevier.com/ShibAuth/institutionLogin?entityID=https%3A%2F%2Fidp.eduserv.org.uk%2Fopenathens&appReturnURL=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Fjournal%2F2213297X%2F5%2F1">OpenAthens</A><A rel="nofollow" href="/science/externallogin">Other institution</A>
+ <A></A>
+ <A href="http://www.sciencedirect.com/science/search">Advanced search</A>
+<!--header-->
+<A></A>
+ &nbsp;
+ <!-- Common to journal and refwork title and related information -->
+ Journal of Co-operative Organization and Management
+ Supports Open Access
+ <A href="http://www.elsevier.com/locate/issn/2213297X">About this Journal</A>
+ <A href="http://www.sciencedirect.com/science/journal/2213297X/5/1">Sample Issue Online</A>
+ <A href="http://ees.elsevier.com/issn/2213297X">Submit your Article</A>
+ <A href="/science?_ob=RSSURL&_method=setup&_cid=282895&md5=a3076901a35088dbda4a00fd18961620"> Get new article feed</A>
+ <A href="/science?_ob=RSSURL&_method=setup&oa=1&_cid=282895&md5=a3076901a35088dbda4a00fd18961620"> Get new Open Access article feed</A>
+ <A href="">
+ </A>
+ Your selection(s) could not be saved due to an internal error. Please try again.
+ Added to Favorites [<A href="/science?_ob=PublicationURL&addFavorite=2&_cid=282895&_pubType=J&_auth=y&md5=4a65ee7bb534968628310cb34360eba2">remove</A>]
+ <A href="/science?_ob=PublicationURL&addFavorite=2&_cid=282895&_pubType=J&_auth=y&md5=4a65ee7bb534968628310cb34360eba2">
+ Add to Favorites
+ </A>
+ <P>Copyright &copy; 2017 Elsevier Ltd. All rights reserved</P>
+ JavaScript is disabled on your browser. Please enable JavaScript to use all the features on this page.
+ Journal of Co-operative Organization and Management<BR>Volume 5, Issue 1, Pages A1-A2, 1-56 (May 2017)
+ &nbsp;
+ <A href="/science/journal/2213297X/4/2">&lt; Previous vol/iss</A>
+ No next vol/iss
+ <A href="/science/journal/2213297X/open-access"> Open Access articles</A><A></A><A href="/science/journal/2213297X/5">&nbsp;CloseVolumes 1 - 5 (2013 - 2017)</A>Volume 5, Issue 1 - selected<BR>pp. A1-A2, 1-56 (May 2017)&nbsp;Issue contains Open Access articles<A href="/science/journal/2213297X/4/2">Volume 4, Issue 2</A><BR>pp. A1-A2, 53-116 (December 2016)&nbsp;Not entitled to full text<A href="/science/journal/2213297X/4/1">Volume 4, Issue 1</A><BR>pp. A1-A2, 1-52 (June 2016)&nbsp;Not entitled to full text<A href="/science/journal/2213297X/3/2">Volume 3, Issue 2</A><BR>pp. 49-100 (December 2015)<BR>Co-operatives and co-operative behavior in the context of family business&nbsp;Issue contains Open Access articles<A href="/science/journal/2213297X/3/1">Volume 3, Issue 1</A><BR>pp. 1-48 (June 2015)<BR>ICA Global Research Conference 2014&nbsp;Not entitled to full text<A href="/science/journal/2213297X/2/2">Volume 2, Issue 2</A><BR>pp. 53-108 (December 2014)&nbsp;Not entitled to full text<A href="/science/journal/2213297X/2/1">Volume 2, Issue 1</A><BR>pp. 1-52 (June 2014)<BR>Special issue: ICA Global Research Conference 2013&nbsp;Not entitled to full text<A href="/science/journal/2213297X/1/2">Volume 1, Issue 2</A><BR>pp. 51-98 (December 2013)&nbsp;Not entitled to full text<A href="/science/journal/2213297X/1/1">Volume 1, Issue 1</A><BR>pp. 1-50 (September 2013)&nbsp;Issue contains Open Access articles
+ <!-- volumeIssueData -->
+ Download and Export 0 checked results&nbsp; <A href="javascript:;">Export citations</A> <A href="/science?_ob=HelpURL&_file=art_export.htm&_btn=Y&_zone=TopNavBar&_origin=journal">Help</A>Direct export &nbsp;&nbsp;Export file&nbsp;RIS (for EndNote, Reference Manager, ProCite)&nbsp;BibTeX&nbsp;Text&nbsp;RefWorks Direct ExportContent&nbsp;Citations Only&nbsp;Citations and Abstracts<BR><A href="#"> &nbsp; All access types &nbsp; </A><A href="/science/journal/2213297X/5/1"> All access types </A><A href="/science/journal/2213297X/5/1/open-access"> Open Access articles</A>Open Archive articles<A href="http://www.sciencedirect.com/science/article/pii/S2213297X17300435">Editorial</A><I>Page A1</I>Iro Jussila<A rel="nofollow" href="/science/article/pii/S2213297X17300435/pdfft?md5=dc3c4f62c55c19f836f8f0c5f74ea7ca&pid=1-s2.0-S2213297X17300435-main.pdf">&nbsp;PDF (86 K)</A>
+&nbsp;Entitled to full text<A href="http://www.sciencedirect.com/science/article/pii/S2213297X17300095">Enhancing board motivation for competitive performance of Thailand&rsquo;s co-operatives</A>Original Research Article<I>Pages 1-13</I>Kriengsak Chareonwongsak<A href="#">Abstract</A><A href="#">Close research highlights</A><A rel="nofollow" href="/science/article/pii/S2213297X17300095/pdfft?md5=02888cc2af0a6a5baa3a60c761104c28&pid=1-s2.0-S2213297X17300095-main.pdf">&nbsp;PDF (1137 K)</A>
+Highlights<P>&bull;</P><P>Board motivation affects co-operative performance.&bull;</P><P>Boards are motivated by self-interest, not altruism.&bull;</P><P>Effective Board motivations are both indirect benefits and future benefits.&bull;</P><P>CEO duality and government price intervention affect co-op&rsquo;s performance.</P>Open Access&nbsp;Open Access Article&nbsp;<A href="http://www.sciencedirect.com/science/article/pii/S2213297X17300253">The impact of agricultural co-operatives on women&rsquo;s empowerment: Evidence from Uganda</A>Original Research Article<I>Pages 14-27</I>Els Lecoutere<A href="#">Abstract</A><A href="#">Close research highlights</A><A rel="nofollow" href="/science/article/pii/S2213297X17300253/pdfft?md5=8904d1620608bf77bcdaf824467aaa14&pid=1-s2.0-S2213297X17300253-main.pdf">&nbsp;PDF (611 K)</A>
+Highlights<P>&bull;</P><P>Women&rsquo;s membership of an agricultural co-operative increased their households&rsquo; food and basic need security and wellbeing.&bull;</P><P>Women&rsquo;s agronomic knowledge and adoption of good agronomic practices improved through their co-operative membership.&bull;</P><P>Membership of an agricultural co-operative empowered women at the household, group and community level.&bull;</P><P>Co-operative membership did not change domestic and farm-related labour divisions.</P>&nbsp;Entitled to full text<A href="http://www.sciencedirect.com/science/article/pii/S2213297X17300289">Introducing a co-operative-specific business model: The poles of profit and community and their impact on organizational models of energy co-operatives</A>Original Research Article<I>Pages 28-38</I>Mathias Georg Dilger, Michael Konter, Kai-Ingo Voigt<A href="#">Abstract</A><A href="#">Close research highlights</A><A rel="nofollow" href="/science/article/pii/S2213297X17300289/pdfft?md5=8a470f63f98f6ad531ce92ae87a81a94&pid=1-s2.0-S2213297X17300289-main.pdf">&nbsp;PDF (1164 K)</A>
+Highlights<P>&bull;</P><P>Awareness for values and principles such as the member-orientation within co-operatives is shrinking.&bull;</P><P>Existing business model concepts are not appropriate to reflect the co-operative-specific characteristics.&bull;</P><P>A specific business model concept was derived for organizing energy co-operatives.&bull;</P><P>Energy co-operatives can be distinguished in three generic business model types.</P>&nbsp;Entitled to full text<A href="http://www.sciencedirect.com/science/article/pii/S2213297X17300307">Cooperative banks in need of transition: The influence of Basel III on the business model of German cooperative credit institutions</A>Original Research Article<I>Pages 39-47</I>Tanja Jovanović, Christian Arnold, Kai-Ingo Voigt<A href="#">Abstract</A><A href="#">Close research highlights</A><A rel="nofollow" href="/science/article/pii/S2213297X17300307/pdfft?md5=0b3cbf91e755138699ea0cd2f59adfd1&pid=1-s2.0-S2213297X17300307-main.pdf">&nbsp;PDF (2325 K)</A>
+Highlights<P>&bull;</P><P>Negative influences of the financial regulation, initiated in the context of Basel III, are expected in all fields of the business model.&bull;</P><P>The strongest impacts are visible in the fields of cost structure, revenue streams and key activities.&bull;</P><P>The regional-based business model of cooperative banks results in the dilemma of cost reduction and sustaining their local branches.&bull;</P><P>In the course of digitization, implementation of an omni-channel strategy could decrease costs and reach new potential customers.</P>&nbsp;Entitled to full text<A href="http://www.sciencedirect.com/science/article/pii/S2213297X17300344">Cooperatives, partnerships and the challenges of quality upgrading: A case study from Ethiopia</A>Original Research Article<I>Pages 48-55</I>Annie Royer, Jos Bijman, Gumataw Kifle Abebe<A href="#">Abstract</A><A href="#">Close research highlights</A><A rel="nofollow" href="/science/article/pii/S2213297X17300344/pdfft?md5=dba4b6922bbc8f07c0e7c1b63d01ea11&pid=1-s2.0-S2213297X17300344-main.pdf">&nbsp;PDF (325 K)</A>
+Highlights<P>&bull;</P><P>Agricultural product quality upgrading is a huge challenge in developing countries and this paper tackle this issue directly.&bull;</P><P>It provides insights into how such a partnership can help cooperative organizations enhance their internal governance, management skills, financial and non-financial resources.&bull;</P><P>High price is not the only driver for successful partnership, as predetermined prices are preferred by farmers.</P>&nbsp;Entitled to full text
+ <!-- Page Navigation -->
+ Articles <B>1 - 6</B>
+ <!-- Page Navigation -->
+ Articles <B>1 - 6</B>
+ <!-- end of issueList -->
+ <A href="/science/journal/2213297X/4/2">&lt; Previous vol/iss</A>
+ No next vol/iss
+ <!-- ECRED -->
+<!-- ECRED -->
+ <!-- width100% -->
+<!-- sdHeader -->
+<!-- <div id="sdpa"></div> -->
+ <A href="http://www.elsevier.com/" rel="nofollow">Elsevier</A><A href="http://www.elsevier.com/solutions/sciencedirect" rel="nofollow">About ScienceDirect</A><A href="/science/activateaccess" rel="nofollow">Remote access</A><A href="/science?_ob=ShoppingCartURL&_method=display&_zone=TopNavBar&_origin=publicationurl&md5=f795ebb7043da9fdff66dbc72a1c68c8" rel="nofollow">Shopping cart</A><A href="https://service.elsevier.com/app/contact/supporthub/sciencedirect/" rel="nofollow">Contact and support</A><A href="https://www.elsevier.com/legal/elsevier-website-terms-and-conditions" rel="nofollow">Terms and conditions</A><A href="http://www.elsevier.com/legal/privacy-policy" rel="nofollow">Privacy policy</A>Cookies are used by this site. For more information, visit the <A href="https://www.elsevier.com/solutions/sciencedirect/support/cookies" rel="nofollow">cookies page</A>.Copyright &copy; 2017 Elsevier B.V. or its licensors or contributors. ScienceDirect &reg; is a registered trademark of Elsevier B.V.<A href="http://www.relx.com/" rel="nofollow">RELX Group</A>
+<!-- End: GPT -->
+<!-- Beginning Async AdSlot 1 for Ad unit els.sdgust/ISSN2213297X ### size: [[728,90]] -->
+<!-- Adslot's refresh function: googletag.pubads().refresh([gptadslots[1]]) -->
+<!-- End AdSlot 1 -->
+<!-- Beginning Async AdSlot 2 for Ad unit els.sdgust/ISSN2213297X ### size: [[160,600]] -->
+<!-- Adslot's refresh function: googletag.pubads().refresh([gptadslots[2]]) -->
+<!-- End AdSlot 2 -->
+ Download PDFs
+ <A href="/science?_ob=HelpURL&_file=DM_main.htm&_btn=Y&_zone=TopNavBar&_origin=journal">Help</A>
+ <A href="/science?_ob=HelpURL&_file=DM_newformat.htm&_btn=Y&_zone=TopNavBar&_origin=journal">Help</A>
+</BODY></HTML>

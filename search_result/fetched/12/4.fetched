@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Science Direct</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width">
+<!--        <link rel="shortcut icon" type="image/x-icon" href="common/images/favicon.ico"> //-->
+	<link rel="apple-touch-icon" sizes="57x57" href="https://cdn.elsevier.io/verona/includes/favicons/apple-touch-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="https://cdn.elsevier.io/verona/includes/favicons/apple-touch-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="https://cdn.elsevier.io/verona/includes/favicons/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="https://cdn.elsevier.io/verona/includes/favicons/apple-touch-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="https://cdn.elsevier.io/verona/includes/favicons/apple-touch-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="https://cdn.elsevier.io/verona/includes/favicons/apple-touch-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="https://cdn.elsevier.io/verona/includes/favicons/apple-touch-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="https://cdn.elsevier.io/verona/includes/favicons/apple-touch-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="https://cdn.elsevier.io/verona/includes/favicons/apple-touch-icon-180x180.png">
+	<link rel="icon" type="image/png" href="https://cdn.elsevier.io/verona/includes/favicons/favicon-192x192.png" sizes="192x192">
+	<link rel="icon" type="image/png" href="https://cdn.elsevier.io/verona/includes/favicons/favicon-160x160.png" sizes="160x160">
+	<link rel="icon" type="image/png" href="https://cdn.elsevier.io/verona/includes/favicons/favicon-96x96.png" sizes="96x96">
+	<link rel="icon" type="image/png" href="https://cdn.elsevier.io/verona/includes/favicons/favicon-16x16.png" sizes="16x16">
+	<link rel="icon" type="image/png" href="https://cdn.elsevier.io/verona/includes/favicons/favicon-32x32.png" sizes="32x32">
+        <link rel="stylesheet" href="common/css/style.css" type="text/css"/>
+    </head>
+    <body>
+        <div class="layout">
+            <header>
+                <div class="container">
+                    <div class="logo">
+                        <a href="http://www.sciencedirect.com" target="_blank"><img src="common/images/logo.png" alt=""></a>
+                    </div>
+                    <nav>
+                        <ul>
+                            <li><a href="http://www.sciencedirect.com/science/journals" target="_blank">Journals</a></li>
+                            <li><a href="http://www.sciencedirect.com/science/bookbshsrw" target="_blank">books</a></li>
+                            <li><a href="http://www.sciencedirect.com/science?_ob=HelpURL&_file=home.htm&_btn=y" target="_blank"><img src="common/images/question.png" alt=""></a></li>
+                        </ul>
+                    </nav>
+                </div>
+            </header>
+            <section>
+                <div class="container">
+                    <div class="science-content">
+                        <h1>Enjoyed the ScienceDirect Top25 lists?</h1>
+                        <p>We now have some new ways for you to discover and explore top articles and see the impact of your own work.</p>
+                    </div>
+                    <div class="discover">
+                        <ul>
+                            <li>
+                                <h2>Discover top articles</h2>
+                                <p>Access Journal homepages to view the most recent and most popular articles in your discipline.</p>
+                                <a href="https://www.elsevier.com/journals/title/all?utm_source=sciencedirect&utm_medium=email&utm_campaign=ELSEVIER_JOURNALS_2016_SCIENCEDIRECT_TOP25" target="_blank"><span><img src="common/images/arrow-right.png" alt=""></span>View top articles by journal</a>
+                            </li>
+                            <li>
+                                <h2>See your author stats</h2>
+                                <p>Access your author stats to see how your articles are performing.</p>
+                                <a href="https://www.mendeley.com/stats/welcome?utm_source=sciencedirect&utm_medium=email&utm_campaign=STATS_2016_SCIENCEDIRECT_TOP25" target="_blank"><span><img src="common/images/arrow-right.png" alt=""></span>View personalized stats about your own work</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </section>
+            <footer>
+                <div class="container">
+                    <div class="footer-logo">
+                        <a href="https://www.elsevier.com" class="elsevier" target="_blank"><img src="common/images/elsevier.png" alt=""></a>
+                    </div>
+                    <div class="footer-links">
+                        <ul>
+                            <li><a href="https://www.elsevier.com/solutions/sciencedirect" target="_blank">About ScienceDirect</a></li>
+                            <li><a href="http://www.sciencedirect.com/science/contactus" target="_blank">Contact and support</a></li>
+                            <li><a href="https://www.elsevier.com/legal/elsevier-website-terms-and-conditions" target="_blank">Terms and conditions</a></li>
+                            <li><a href="https://www.elsevier.com/legal/privacy-policy" target="_blank">Privacy Policy</a></li>
+                        </ul>
+                        <p>Cookies are used by this site.For more information visit the <a href="https://www.elsevier.com/solutions/sciencedirect/support/cookies" target="_blank"> cookies page</a></p>
+                        <p>Copyright &copy; 2016 Elsevier B.V or its licensors or contributors. ScienceDirect is a registered trademark of Elsevier B.V.</p>
+                    </div>    
+                    <div class="relx-logo">    
+                        <a href="http://www.relx.com" class="relx" target="_blank"><img src="common/images/relx.png" alt=""></a>
+                    </div> 
+                </div>
+            </footer>
+        </div>
+    </body>
+</html>            

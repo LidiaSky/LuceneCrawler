@@ -1,0 +1,42 @@
+
+ ICT Express | Vol 3, Iss 1, Pgs 1-56, (March 2017) | ScienceDirect.com
+ Skip to Main content
+ Please note that Internet Explorer version 8.x will not be supported as of January 1, 2016. Please refer to this blog post for more information.
+ Close
+ ScienceDirectJournalsBooksRegisterSign inSign in using your ScienceDirect credentialsUsernamePasswordRemember meForgotten username or password?Sign in via your institutionOpenAthensOther institutionHelpJournalsBooksRegisterSign inHelpcloseSign in using your ScienceDirect credentialsUsernamePasswordRemember meForgotten username or password?Sign in via your institutionOpenAthensOther institution
+ Advanced search
+  
+ ICT Express
+ Open Access
+ About this Journal
+ Submit your Article
+ Get new article feed
+ Your selection(s) could not be saved due to an internal error. Please try again.
+ Added to Favorites [remove]
+ Add to Favorites
+ Copyright © 2017 The Korean Institute of Communications Information Sciences. Production and hosting by Elsevier B.V.
+ JavaScript is disabled on your browser. Please enable JavaScript to use all the features on this page.
+ ICT ExpressVolume 3, Issue 1, Pages 1-56 (March 2017)
+  
+ < Previous vol/iss
+ Next vol/iss >
+ Articles in Press CloseVolumes 1 - 3 (2015 - 2017)Volume 3, Issue 1 - selectedpp. 1-56 (March 2017)Volume 2, Issue 4pp. 145-204 (December 2016)Special Issue on Emerging Technologies for Medical DiagnosticsVolume 2, Issue 3pp. 91-144 (September 2016)Special Issue on ICT Convergence in the Internet of Things (IoT)Volume 2, Issue 2pp. 47-90 (June 2016)Volume 2, Issue 1pp. 1-46 (March 2016)Special Issue on Positioning Techniques and ApplicationsVolume 1, Issue 3pp. 97-142 (December 2015)Special Issue on Next Generation (5G/6G) Mobile CommunicationsVolume 1, Issue 2pp. 55-96 (September 2015)Volume 1, Issue 1pp. 1-54 (June 2015)
+ Download and Export 0 checked results  Export citations HelpDirect export   Export file RIS (for EndNote, Reference Manager, ProCite) BibTeX Text RefWorks Direct ExportContent Citations Only Citations and Abstracts   Open Access articles  All access types Open Access articlesOpen Archive articlesSpecial Section on ICT Convergence Technology3GPP SA2 architecture and functions for 5G mobile communication systemReview ArticlePages 1-8Junseok Kim, Dongmyoung Kim, Sunghyun ChoiAbstract PDF (372 K)
+Open Access Open Access Article An efficient beamforming design for multipair full-duplex relaying systemsOriginal Research ArticlePages 9-13Hyeon Min Kim, Van-Dinh Nguyen, Oh-Soon ShinAbstract PDF (305 K)
+Open Access Open Access Article A survey on LPWA technology: LoRa and NB-IoTReview ArticlePages 14-21Rashmi Sharan Sinha, Yiqiao Wei, Seung-Hoon HwangAbstract PDF (1710 K)
+Open Access Open Access Article Geographic information-based data delivery in vehicular networks: A surveyReview ArticlePages 22-26Sanghyun AhnAbstract PDF (176 K)
+Open Access Open Access Article Cooperative localization in 5G networks: A surveyReview ArticlePages 27-32Ping Zhang, Jian Lu, Yan Wang, Qiao WangAbstract PDF (285 K)
+Open Access Open Access Article Regular ArticlesMulti-flow management for mobile data offloadingOriginal Research ArticlePages 33-37Yeongjin Kim, Joohyun Lee, Jaeseong Jeong, Song ChongAbstract PDF (337 K)
+Open Access Open Access Article Joint assignment of frequency and polarization to minimize the chromatic numberOriginal Research ArticlePages 38-42Bon-Hong Koo, H. Birkan Yilmaz, Chan-Byoung Chae, Sung-Ho Park, Hwi-Sung Park, Jae-Hyun HamAbstract PDF (881 K)
+Open Access Open Access Article Multi-layer architecture for realization of network virtualization using MPLS technologyOriginal Research ArticlePages 43-47Ghasem Ahmadeyan Mazhin, Mozafar Bag-Mohammadi, Mehdi Ghasemi, Shabnam FeiziAbstract PDF (802 K)
+Open Access Open Access Article ISBORD: Internet Searching based on Resource DescriptionOriginal Research ArticlePages 48-51Zhiwei Yan, Sherali Zeadally, Guanggang GengAbstract PDF (316 K)
+Open Access Open Access Article Spectrum shaping for backscatter modulationOriginal Research ArticlePages 52-55Santosh NagarajAbstract PDF (287 K)
+Open Access Open Access Article 
+ Articles 1 - 10
+ Articles 1 - 10
+ < Previous vol/iss
+ Next vol/iss >
+ ElsevierAbout ScienceDirectRemote accessShopping cartContact and supportTerms and conditionsPrivacy policyCookies are used by this site. For more information, visit the cookies page.Copyright © 2017 Elsevier B.V. or its licensors or contributors. ScienceDirect ® is a registered trademark of Elsevier B.V.RELX Group
+ Download PDFs
+ Help
+ Help
